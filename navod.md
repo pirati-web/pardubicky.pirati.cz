@@ -1,12 +1,12 @@
-# Návod pro Pirátský web
+# Návod pro Pirátský web - Pardubicky kraj
 
-Zdrojové kódy webu: **https://github.com/pirati-web/pirati.cz**
+Zdrojové kódy webu: **https://github.com/pirati-web/pardubicky.pirati.cz**
 
 Web je staticky kompilovaný v době změny, čili v repozitáři je opravdu všechno.
 
 Správci webu: Ondřej Profant, Stanislav Štipl, Jakub Michálek, Vojta Pikal, Jan Loužek
 
-Správci obsahu: Alexandr Kamarýt, Pavel Králíček, Jan Loužek
+Správci obsahu: Zdenek Kubala
 
 ## 1. Markdown a yaml
 
@@ -69,9 +69,6 @@ Návrhy na změnu (pull request) se projeví až po schválení. Ale i pokud má
 
 ## Články
 
-Články (aktuality) je možno přidávat v grafickém rozhraní:  
-[**www.pirati.cz/admin**](https://www.pirati.cz/admin)
-Avšak potřebuje příslušná práva. Pro celostátní web je má MO.
 
 ### Tagy
 
@@ -80,27 +77,6 @@ Zvolit správný tag není jednoduché - musí být vystižný, ale zároveň do
 
 ## Lidé a další stránky
 
-Pro jednoduchou úpravu textu stačí tlačítko vpravo dole nad patičkou "Navrhni úpravu".
-
-![Animace znázorňující navržení úpravy](/assets/img/navod/uprava.gif)
-
-Vpravo dole je "Navrhni úpravu":
-![](/assets/img/navod/u1.png)
-Přihlásíme se:
-![](/assets/img/navod/u2.png)
-Klikneme na "Fork this repository and propose changes"
-![](/assets/img/navod/u3.png)
-Nyní můžeme soubor editovat:
-![](/assets/img/navod/u4.png)
-Můžeme si i zobrazit náhled s vyznačenými změnami:
-![](/assets/img/navod/u5.png)
-![](/assets/img/navod/u6.png)
-Napíšeme popis změn a klikneme na "Propose file change":
-![](/assets/img/navod/u7.png)
-Nyní vidíme souhrn změn:
-![](/assets/img/navod/u8.png)
-Vytvoříme nový pull request:
-![](/assets/img/navod/u9.png)
 
 ## Sociální sítě
 
