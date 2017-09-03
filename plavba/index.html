@@ -1,0 +1,88 @@
+---
+layout: default
+img: plavba/cover.png
+description: Pirátská plavba do sněmovny! Pujtujeme po pardubickém kraji za vámi.
+---
+
+{% comment %}
+Soubory s daty o eventech jsou:
+  _data/plavba.json
+  _data/roadtrip.json
+  _data/nafuklof.json
+Konvertor: http://www.csvjson.com/csv2json
+{% endcomment %}
+
+<div class="row">
+  <div class="large-12 colums">
+    <div class="o-section o-section--spaceBot">
+      <div class="o-section-inner">
+        <main class="o-section-block">
+          <article itemtype="http://schema.org/BlogPosting" class="c-BasicPage" itemscope="">
+            <link itemprop="mainEntityOfPage" href="http://insertshownpagelinkhere.com">
+            <h1 itemprop="headline" class="c-BasicPage__title"> Pirátská plavba do sněmovny - Pardubický kraj
+            </h1>
+          </article>
+          <!-- /Article -->
+        </main>
+      </div>
+    </div>
+  </div>
+  <div class="large-6 columns">
+    <img src="{{'assets/img/plavba/kampan_2.png' | relative_url}}" alt="loď" style="margin-bottom: 17px;">
+    <ul id="boattrip">
+      {% for event in site.data.plavba %}
+        <li data-day="{{event.den}}">{{event.den | date:"%d. %m."}}:
+          {{event.kdy}}
+          {% if event.url != ""%}<a href="{{event.url}}">{% endif %}<strong>{{event.co}}</strong>{% if event.url%}</a>{% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+
+    <h2>Pirátská loď <small>V Pardubickém kraji</small></h2>
+    <ul>
+      {% if site.data.nakuflod == null %}
+        <p>Zatím v jednání.</p>
+      {% else %}
+        {% for event in site.data.nafuklod %}
+        <li data-day="{{event.den}}">{{event.datum | date:"%d. %m."}}:
+          {{event.kdy}}
+          {% if event.url != ""%}<a href="{{event.url}}">{% endif %}<strong>{{event.mesto}}</strong>: {{event.misto}}{% if event.url%}</a>{% endif %}
+        </li>
+        {% endfor %}
+     {% endif %}	
+
+    </ul>
+  </div>
+  <div class="large-6 columns">
+    <img src="{{'assets/img/plavba/bus_1.png' | relative_url}}" alt="autobus" style="margin-bottom: 17px;">
+    <ul id="roadtrip">
+    {% for event in site.data.roadtrip %}
+      <li data-day="{{event.Den}}">{{event.den | date:"%d. %m."}}:
+        {{event.kdy}}
+        {% if event.co == "" %}
+        přesné místo plánujeme, bude doplněno v nejbližší době
+        {%else %}
+        {% if event.url != ""%}<a href="{{event.url}}">{% endif %}<strong>{{event.co}}</strong>{% if event.url%}</a>{% endif %}
+        {%endif%}
+      </li>
+    {% endfor %}
+    </ul>
+  </div>
+</div>
+
+<div class="row">
+  <div class="large-3 large-offset-4 colums">
+    <br>
+  </div>
+
+   
+  <div class="row">
+  <div class="large-8 large-offset-2 columns">
+    <div class="callout">
+    <p></p>
+      <h1 class="text-center" id="vzkazy"><a href="https://www.facebook.com/groups/PiratiPardubicko/">Sledujte naše akce na Facebooku!</a></h1> 
+      <p class="text-center">Plán celorepublikové kampaně <b>Pusťte nás na ně! </b><a href="https://www.pirati.cz/plavba/">Najdeš zde</a></p>
+    </div>
+  </div>
+</div>
+</div>
