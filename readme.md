@@ -1,6 +1,6 @@
 # pirati.cz
 
-[![Build Status](https://api.travis-ci.org/pirati-web/pirati.cz.svg?branch=gh-pages)](https://travis-ci.org/pirati-web/pirati.cz)
+[![Build Status](https://api.travis-ci.org/pirati-web/pardubicky.pirati.cz.svg?branch=gh-pages)](https://travis-ci.org/pirati-web/pardubicky.pirati.cz)
 
 ## Lokální spuštění
 
