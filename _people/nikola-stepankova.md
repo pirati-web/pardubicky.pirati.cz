@@ -4,8 +4,8 @@ name:     Nikola Štěpánková      		# běžně používáné jméno
 fullname: Nikola Štěpánková		# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - pak
-img: people/zdenek-kubala.jpg           # 165 x 220
-description: pirátka a členka sociální komise# kratký popis, max 160 znaků
+img: people/nikola-stepankova.jpg           # 165 x 220
+description: pirátka a členka sociální komise # kratký popis, max 160 znaků
 ordpak: 2
 mail:
 - nikola.stepankova@pirati.cz
