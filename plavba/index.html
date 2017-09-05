@@ -44,7 +44,7 @@ Konvertor: http://www.csvjson.com/csv2json
         <p>Zatím v jednání.</p>
       {% else %}
         {% for event in site.data.nafuklod %}
-        <li data-day="{{event.den}}">{{event.datum | date:"%d. %m."}}:
+        <li data-day="{{event.den}}">{{event.datum | date:"%d.%m.%Y"}}
           {{event.kdy}}
           {% if event.url != ""%}<a href="{{event.url}}">{% endif %}<strong>{{event.mesto}}</strong>: {{event.misto}}{% if event.url%}</a>{% endif %}
         </li>
@@ -57,7 +57,7 @@ Konvertor: http://www.csvjson.com/csv2json
     <img src="{{'assets/img/plavba/bus_1.png' | relative_url}}" alt="autobus" style="margin-bottom: 17px;">
     <ul id="roadtrip">
     {% for event in site.data.roadtrip %}
-      <li data-day="{{event.Den}}">{{event.den | date:"%d. %m."}}:
+      <li data-day="{{event.Den}}">{{event.den | date:"%d.%m.%Y"}}
         {{event.kdy}}
         {% if event.co == "" %}
         přesné místo plánujeme, bude doplněno v nejbližší době
