@@ -31,7 +31,7 @@ Konvertor: http://www.csvjson.com/csv2json
     <img src="{{'assets/img/plavba/kampan_2.png' | relative_url}}" alt="loď" style="margin-bottom: 17px;">
     <ul id="boattrip">
       {% for event in site.data.plavba %}
-        <li data-day="{{event.den}}">{{event.den | date:"%d. %m."}}:
+        <li data-day="{{event.den}}">{{event.den | date:"%d.%m.%Y"}}
           {{event.kdy}}
           {% if event.url != ""%}<a href="{{event.url}}">{% endif %}<strong>{{event.co}}</strong>{% if event.url%}</a>{% endif %}
         </li>
