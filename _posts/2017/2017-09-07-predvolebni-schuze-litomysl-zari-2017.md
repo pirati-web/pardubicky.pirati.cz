@@ -5,13 +5,10 @@ title: Předvolební schůze v Litomyšli
 date: 2017-09-07T10:44:00+02:00  
 tags: schůze
 author: Piráti Pardubického kraje
-image: assets/img/teams/pardubice.jpg
+image: assets/img/articles/2017/predvol_schuze_lit.jpg
 ---
 
-Chcete se dozvědět, co a jak chystáme do voleb ?
-
-Přijďte/přijeďte na schůzi krajského fóra 16.9.2017 do Litomyšle - restaurace U Medvěda od 18:00.
-
+Chcete se dozvědět, co a jak chystáme do voleb? Přijďte/přijeďte na schůzi krajského fóra **16.9.2017** do **Litomyšle** - restaurace U Medvěda od 18:00.
 Volby se kvapem blíží a tak si musíme domluvit předvolební program na posledních pět týdnů před volbami.
 
 Bude to znamenat ještě více práce, odříkání, ale hlavně ještě intenzivnější spolupráce. Budeme proto rádi, pokud najdete příští sobotu chvilku a přijdete nám říct, jak moc se chcete zapojit. Za každou hodinu dobrovolnické práce, kterou s námi uděláte, vám budou patřit velké díky!
