@@ -1,11 +1,11 @@
 ---
 layout: post
-category: CANKY
+category: CLANKY
 title: Předvolební schůze v Litomyšli
 date: 2017-09-07T10:44:00+02:00  
-tags: 
-autor: Piráti Pardubického kraje
-image: assets/img/articles/2016/chrudim.jpg
+tags: schůze
+author: Piráti Pardubického kraje
+image: assets/img/teams/pardubice.jpg
 ---
 
 Chcete se dozvědět, co a jak chystáme do voleb ?
