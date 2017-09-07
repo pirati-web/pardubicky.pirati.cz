@@ -3,8 +3,8 @@ layout: post
 categories: CLANKY
 title: Otevření Pirátského centra CPICE
 date: 2016-05-1T10:44:00+02:00
-tags: CPICE "pirátské centrum Chrudim"
-autor: Piráti Chrudim
+tags: CPICE 
+author: Piráti Chrudim
 image: assets/img/articles/2016/chrudim.jpg
 ---
 

@@ -1,10 +1,10 @@
 ---
 layout: post
-category: CANKY
+category: CLANKY
 title: Přímý přenos 11. zasedání zastupitelstva města Chrudim
 date: 2016-01-25T10:44:00+02:00  
-tags: streamovani piráti zastupitelstvo
-autor: Piráti Chrudim
+tags: zastupitelstvo 
+author: Piráti Chrudim
 image: assets/img/articles/2016/chrudim.jpg
 ---
 
