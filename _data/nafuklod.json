@@ -1,10 +1,14 @@
 [
   {
-    "datum": "2017-08-04",
-    "mesto": "Příbram",
-    "misto": "Hříměždice RepreStrage",
-    "url": ""
+    "datum": "2017-09-23",
+    "mesto": "Pardubice",
+    "misto": "Kasárna TGM",
+    "url": "https://www.facebook.com/events/118498385477693/"
   },
-
-
+  {
+    "datum": "2017-10-07",
+    "mesto": "Pardubice",
+    "misto": "",
+    "url": ""
+  }
 ]
