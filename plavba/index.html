@@ -38,17 +38,19 @@ Konvertor: http://www.csvjson.com/csv2json
 	{% endcapture %}
 	{% if dataDate contains "-" %}
           <li data-day="{{event.den}}"><strike>{{event.den | date:"%d.%m.%Y"}}
+          {{event.kdy}}</strike>
         {% else %}
           <li data-day="{{event.den}}">{{event.den | date:"%d.%m.%Y"}}
+          {{event.kdy}}
         {% endif %}
-          {{event.kdy}}</strike>
           {% if event.url != ""%}<a href="{{event.url}}">{% endif %}<strong>{{event.co}}</strong>{% if event.url%}</a>{% endif %}
         </li>
       {% endfor %}
+	  </a>
     </ul>
 
     <h2>Pirátská loď <small>V Pardubickém kraji</small></h2>
-    <ul>
+	<ul id="nafukboattrip">
       {% if site.data.nakuflod == null %}
         <p>Zatím v jednání.</p>
       {% else %}
