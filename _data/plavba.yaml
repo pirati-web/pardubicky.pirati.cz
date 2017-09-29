@@ -109,24 +109,44 @@
   url: ""
 
 - den: 2017-09-29
-  kdy: od 09:30
-  co: Králíky
-  url: ""
+  kdy: od 09:00
+  co: Choceň, náměstí + u Lídlu
+  url: "https://www.facebook.com/events/121152108530712/"
 
 - den: 2017-09-29
-  kdy: od 12:30
-  co: Jablonné nad Orlicí
-  url: ""
+  kdy: od 11:00
+  co: Žamberk, náměstí
+  url: "https://www.facebook.com/events/121152108530712/"
 
 - den: 2017-09-29
-  kdy: od (bude upřesněno)
-  co: Choceň
-  url: ""
+  kdy: od 13:00
+  co: Jablonné nad Orlicí, na náměstí
+  url: "https://www.facebook.com/events/121152108530712/"
 
-- den: 2017-09-30
-  kdy: od (bude upřesněno)
-  co: Heřmanův Městec
-  url: ""
+- den: 2017-09-29
+  kdy: od 15:00
+  co: Králíky, na náměstí
+  url: "https://www.facebook.com/events/121152108530712/"
+
+- den: 2017-10-05
+  kdy: od 09:00
+  co: Chvaletice, na náměstí
+  url: "https://www.facebook.com/events/2051748281724282/"
+
+- den: 2017-10-05
+  kdy: od 11:00
+  co: Lázně Bohdaneč, na náměstí
+  url: "https://www.facebook.com/events/2051748281724282/"
+
+- den: 2017-10-05
+  kdy: od 13:00
+  co: Sezemice, na náměstí
+  url: "https://www.facebook.com/events/2051748281724282/"
+
+- den: 2017-10-05
+  kdy: od 15:00
+  co: Dašice, na náměstí
+  url: "https://www.facebook.com/events/2051748281724282/"
 
 - den: 2017-10-06
   kdy: od (bude upřesněno)
