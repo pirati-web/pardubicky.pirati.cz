@@ -10,7 +10,8 @@ image: assets/img/articles/2017/stripky_z_kampane.jpg   #751x422 pixelu
 
 
 <div class="medium-12 large-12 columns">
-  Byla to dlouhá, místy vyčerpávající jízda, která stála za to. Zde Vám přinášíme postřehy a dojmy několika aktérů, kteří tu jízdu jeli s námi. <br> <br>
+  Byla to dlouhá, místy vyčerpávající jízda, která stála za to. Procestovali jsme celý kraj a zde Vám přinášíme postřehy a dojmy několika aktérů, kteří tu jízdu jeli s námi. <br> <br>
+
   <div class="o-media o-media--center">
    <div class="o-media__image o-media__image--lgspace">
    <img src="{{ 'pavel-stepanek.jpg' | prepend: '/assets/img/people/' | relative_url}}" alt="Pavel Štěpanek">
