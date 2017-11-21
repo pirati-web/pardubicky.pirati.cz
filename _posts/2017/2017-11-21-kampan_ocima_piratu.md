@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: Kampaň a volby očima pirátů
-date: 2017-21-08T08:29:00+01:00  
+date: 2017-11-21-08T08:29:00+01:00  
 tags: kampaň-volby2017
 author: Piráti Pardubického kraje
 image: assets/img/articles/2017/stripky_z_kampane.jpg   #751x422 pixelu
