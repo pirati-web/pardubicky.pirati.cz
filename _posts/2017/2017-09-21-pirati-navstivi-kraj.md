@@ -3,7 +3,7 @@ layout: post
 category: CLANKY
 title: Piráti navštíví do voleb přes 30 měst a obcí v Pardubickém kraji
 date: 2017-09-21T20:19:00+02:00  
-tags: kampaň volby
+tags: kampaň-volby2017
 author: Piráti Pardubického kraje
 image: assets/img/articles/2017/kampan_pce.png   #751x422 pixelu
 ---
