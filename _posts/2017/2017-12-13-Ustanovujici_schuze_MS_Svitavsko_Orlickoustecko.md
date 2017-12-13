@@ -5,7 +5,7 @@ title: Ustanovující schůze MS Svitavsko-Orlickoústecko
 date: 2017-12-13T12:54:00+01:00  
 tags: Svitavy Ústí-nad-Orlicí místní-sdružení
 author: Piráti Svitavsko-Orlickoústecko
-image: assets/img/articles/2017/svitavy-orlickoustecko.jpg
+image: assets/img/teams/svitavy-orlickoustecko.jpg #751x422
 ---
 
 S radostí dáváme na vědomí, že zakládáme nové místní sdružení v Pardubickém kraji.
