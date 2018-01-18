@@ -29,7 +29,7 @@ Informační kanály:
 * [Oficiální stránka KS Pardubického kraje][5]
 * [Facebooková stránka KS PK][6]
 
-[1]: (přidej odkaz)
+[1]: přidej odkaz
 [2]: přidej odkaz na FB událost
 [3]: přidej odkaz na Pirátksý kalendář
 [4]: Přidej odkaz na vlákno na fóru
