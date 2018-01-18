@@ -8,7 +8,7 @@ author: Piráti Pardubického kraje
 image: assets/img/miscellaneous/schuze-foto-pardubicky-kraj-pirati.jpg #751x422
 ---
 
-Dne *11.2.2018* od *18:00* se sejdeme v salónku pivovaru Faltus v [České Třebové](1) - adresa je Moravská 207, 560 02 Česká Třebová
+Dne *11.2.2018* od *18:00* se sejdeme v salónku pivovaru Faltus v [České Třebové][1] - adresa je Moravská 207, 560 02 Česká Třebová
 Akce je otevřená veřejnosti, přijďte se s námi pobavit na další krajské schůzi. 
 
 Budeme probírat následující:
