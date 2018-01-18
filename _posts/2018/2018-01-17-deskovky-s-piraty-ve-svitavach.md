@@ -20,6 +20,7 @@ Máte možnost se zeptat na cokoliv chcete, např.:
 * Bude příští prezident lepší než ten starý? 
 * Nebo cokoliv vás napadne.
 
+Více informací na [Facebookové události][0].  
 Těšíme se na Vás!
       
 ![PetrFrajvald]({{ "/assets/img/articles/2018/petr_frajvald-catan.jpg" | absolute_url }})Obr. Petr Frajvald (zdroj facebook.com)
@@ -27,12 +28,14 @@ Těšíme se na Vás!
 
 Informační kanály:
 ------------------
+* [FB Událost][0]
 * [Oficiální stránka KS Pardubického kraje][1]
 * [Piráti.cz][2]
 * [Internetové fórum pirátů Pardubického Kraje][3]
 * [Facebooková stránka KS PK][4]
 * [Youtube kanál KS Pardubice České Pirátské Strany][5]
 
+[0]: https://www.facebook.com/events/1651460834897338/
 [1]: https://pardubicky.pirati.cz/
 [2]: https://www.pirati.cz
 [3]: https://forum.pirati.cz/pardubicky-kraj-f85/
