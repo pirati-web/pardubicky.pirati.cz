@@ -10,7 +10,7 @@ image: assets/img/miscellaneous/vecer_otevreneho_softwearu_20801.jpg #751x422
 ---
 
 V úterý 30.01.2018 proběhl v Chrudimském pirátském centru v Radoušově ulici již druhý z 
-**Večerů&nbsp;Otevřeného&nbsp;Software**. Na místě si zájemci mohli nechat nainstalovat na donešený 
+**Večerů&nbsp;Otevřeného&nbsp;Softwaru**. Na místě si zájemci mohli nechat nainstalovat na donešený 
 notebook operační systém Linux, případně si nechat poradit od IT expertů s používáním. 
 Třešničkou na dortu pak byla ukázka využití LTE routeru v praxi. 
 
