@@ -22,7 +22,7 @@ za politické mandáty vracejí zpět občanům ČR v podobě služeb, akcí či
 během roku uskuteční i v dalších místech Pardubického kraje a měla by být i 
 rozšířena o další dovednosti jako je kryptování emailu apod.
 
-Pokud je přímo zájem z nějakého města o to, aby organizátoři v určitý termín přijeli, 
+Pokud je přímo zájem z vašeho města o to, aby organizátoři přijeli, 
 kontaktuje prosím hlavního garanta [Andreje Ramašeuskiho](mailto:andrej.ramaseuski@pirati.cz)
 
 Další informace lze nalézt:
