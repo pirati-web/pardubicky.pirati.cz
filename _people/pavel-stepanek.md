@@ -6,7 +6,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - pak
 - koordinatori
 img: people/pavel-stepanek.jpg   # 165 x 220
-description: Koordinátor dobrovolníků pro Pardubický kraj # kratký popis, max 160 znaků
+description: koordinátor krajského sdružení Pardubický kraj # kratký popis, max 160 znaků
 ordpak: 
 mail:
 - pavel.stepanek@pirati.cz
