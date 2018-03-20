@@ -1,11 +1,12 @@
 ---
-uid: adndrej.ramaseuski
+uid: andrej.ramaseuski
 name:     Andrej Ramašeuski      		# běžně používáné jméno
 fullname: Andrej Ramašeuski		# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - pak
+- rv
 img: people/andrej-ramaseuski.jpg           # 165 x 220
-description: pirát			# kratký popis, max 160 znaků
+description: zástupce RV za PKS Pardubický kraj			# kratký popis, max 160 znaků
 ordpak: 
 mail:
 - andrej.ramaseuski@pirati.cz

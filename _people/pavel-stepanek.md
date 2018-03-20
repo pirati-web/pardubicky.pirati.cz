@@ -4,10 +4,10 @@ name:     Pavel Štěpánek  	# běžně používáné jméno
 fullname: Pavel Štěpánek  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - pak
-- kppak
+- koordinatori
 img: people/pavel-stepanek.jpg   # 165 x 220
-description: předseda krajského sdružení Pardubického kraje           	# kratký popis, max 160 znaků
-ordpak: 1
+description: Koordinátor dobrovolníků pro Pardubický kraj # kratký popis, max 160 znaků
+ordpak: 
 mail:
 - pavel.stepanek@pirati.cz
 mob:			  

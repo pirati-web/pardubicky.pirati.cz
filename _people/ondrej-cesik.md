@@ -6,7 +6,7 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - pak
 - kppak
 img: people/ondrej-cesik.jpg           # 165 x 220
-description: zástupce RV za PKS Pardubický kraj # kratký popis, max 160 znaků
+description: 2. místopředseda KS Pardubický kraj  # kratký popis, max 160 znaků
 ordpak: 3
 mail:
 - ondrej.cesik@pirati.cz

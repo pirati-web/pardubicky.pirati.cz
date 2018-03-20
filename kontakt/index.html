@@ -120,11 +120,11 @@ img: miscellaneous/residence.png
           <div class="c-BasicPage">
             <div class="c-BasicPage-content">
               <h2>Kontakt pro média</h2>
-                {% assign team = site.people | where_exp:"item","item.uid contains 'pavel.stepanek'" %}
+                {% assign team = site.people | where_exp:"item","item.uid contains 'jiri.jansa'" %}
                 {% include people/list-2col.html param=team %}
               <br>
               <h2>Kontakt pro veřejnost</h2>
-                {% assign team = site.people | where_exp:"item","item.uid contains 'daniel.lebduska'" | sort:"ordkontakty" %}
+                {% assign team = site.people | where_exp:"item","item.uid contains 'pavel.stepanek'" | sort:"ordkontakty" %}
                 {% include people/list-2col.html param=team %}
             </div>
           </div>
