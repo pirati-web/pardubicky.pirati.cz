@@ -4,7 +4,7 @@ category: CLANKY
 title: Večer Otevřeného Software 
 date: 2018-01-30T17:00:00+01:00  
 tags: PiCe PaRo Linux
-author: Jiří Jansa
+author: Piráti Chrudim
 
 image: assets/img/miscellaneous/vecer_otevreneho_softwearu_20801.jpg #751x422
 ---
