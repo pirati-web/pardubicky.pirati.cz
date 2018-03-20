@@ -4,9 +4,8 @@ name:     Daniel Lebduška      		# běžně používáné jméno
 fullname: Bc. Daniel Lebduška		# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - pak
-- koordinatori
 img: people/daniel-lebduska.jpg           # 165 x 220
-description: Koordinátor dobrovolníků pro Pardubický kraj # kratký popis, max 160 znaků
+description: pirát # kratký popis, max 160 znaků
 ordpak: 
 mail:
 - daniel.lebduska@pirati.cz
