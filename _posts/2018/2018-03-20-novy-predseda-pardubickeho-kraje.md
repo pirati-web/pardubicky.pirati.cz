@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: Piráti v Pardubickem kraji si zvolili nového předsedu 
+title: Piráti v Pardubickém kraji si zvolili nového předsedu 
 date: 2018-03-20T10:10:00+01:00  
 tags: Pardubice PKS Volby 
 author: Piráti Pardubického kraje 
