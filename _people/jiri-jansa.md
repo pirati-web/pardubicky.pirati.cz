@@ -45,4 +45,3 @@ cestování po Skandinávii, orientační běh (již jen pasivně) či jízda
 na kolečkových lyžích. Posledních pár let se dal 
 i na poslech elektronické hudby - žánry dubstep nebo future garage. 
 
-**kontakt:** [jiri.jansa@centrum.cz](mailto:jiri.jansa@centrum.cz)

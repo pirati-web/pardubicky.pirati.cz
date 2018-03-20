@@ -1,10 +1,10 @@
 ---
 layout: post
 category: CLANKY
-title: Piráti si zvolili nového předsedu Pardubického kraje 
+title: Piráti v Pardubickem kraji si zvolili nového předsedu 
 date: 2018-03-20T10:10:00+01:00  
 tags: Pardubice PKS Volby 
-author: Andrej Ramašeuski
+author: Piráti Pardubického kraje 
 image: assets/img/miscellaneous/pivo-v-holicich.jpg #751x422
 
 ---
