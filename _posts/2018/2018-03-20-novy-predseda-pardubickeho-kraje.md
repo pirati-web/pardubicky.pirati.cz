@@ -44,5 +44,5 @@ hardware nebo vytváření menších propojených komunit pomocí moderních
 technologií. Rádi bychom i v našem kraji tuto vlnu co nejvíce podporovali," 
 
 uzavírá Jiří Jansa s tím, že krajská buňka pirátské strany 
-je připravena podporovat projekty v tomto duchu i z řad zcela apolitické veřejnosti.
+je připravena i nadále podporovat projekty v tomto duchu i z řad zcela apolitické veřejnosti.
 
