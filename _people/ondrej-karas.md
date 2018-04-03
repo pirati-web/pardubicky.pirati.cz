@@ -6,7 +6,6 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - pak
 img: people/ondrej-karas.jpg           # 165 x 220
 description: řadový člen KS Pardubický kraj # kratký popis, max 160 znaků
-ordpak: 2
 mail:
 - ondrej.karas@pirati.cz
 mob: 
@@ -17,7 +16,7 @@ profiles:
   twitter:
   linkedin: https://www.linkedin.com/in/ond%C5%99ej-karas-46304228/
 ---
-**Ondřej Karas** (* 24. července 1984 Pardubice) je u Pirátů členem od března 2018.
+**Ondřej Karas** (* 24. července 1984 Pardubice) je členem Pirátské strany od března 2018.
 
 Absolvoval Střední průmyslovou školu elektrotechnickou v Pardubicích, obor Elektronická a sdělovací zařízení. Pokračoval na Dopravní fakultě Univerzity Pardubice, obor Aplikovaná informatika. Po ročním studiu přešel na Fakultu elektrotechniky a informatiky, bakalářský obor Komunikační a mikroprocesorová technika a úspěšně zakončil magisterským oborem Komunikační a řídící technika (2011). Po třech letech se rozhodl rozšířit si obzory bakalářským studiem na Fakultě bezpečnostního inženýrství, obor Havarijní plánování a krizové řízení (VŠB; 2014 - dosud).
 
