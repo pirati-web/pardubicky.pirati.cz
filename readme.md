@@ -32,7 +32,6 @@ gem install rubygems-update
 gem install jekyll bundler
 bundle
 ```
-
 #### macOS
 
 ##### Instalace závislostí
@@ -59,13 +58,28 @@ bundle
 
 ### Docker
 
+#### Unix-based OS
+
 Otevřít terminal v adresáři webu a spustit:
 
 ```
 docker-compose up
 ```
 
-### Ostatní
+#### Windows
+
+Otevřete [PowerShell](https://365tipu.cz/2015/08/12/k-cemu-je-ve-windows-powershell-a-kde-ho-tam-najdu/) v adresáři webu a postupně zadejte následující příkazy:
+
+```
+$Env:COMPOSE_CONVERT_WINDOWS_PATHS=1
+docker-compose up
+```
+
+Web pak běží na [http://localhost:4000](http://localhost:4000/).
+
+**Poznámka:** Je pravděpodobné, že Windows po vás budou chtít heslo k PC.
+
+### Přímé spuštění
 
 Otevřít terminal v adresáři webu a spustit:
 
