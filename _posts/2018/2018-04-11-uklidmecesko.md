@@ -4,8 +4,8 @@ category: CLANKY
 title: Uklízíš? Zaplatíš! 
 date: 2018-04-10T10:10:00+01:00  
 tags: 
-    - Ukliďme Česko 
-    - Služby města Pardubic
+    - Ukliďme-Česko 
+    - Služby-města-Pardubic
 author: Piráti Pardubického kraje 
 image: assets/img/articles/2018/uklidmecesko2018pce.jpg #751x422
 
