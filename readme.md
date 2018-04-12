@@ -48,6 +48,7 @@ echo 'eval "$(rbenv init -)"' >> ~/.bashrc
 Znovu spustit Terminál. V repository adresáři pak spustit:
 
 ```
+rbenv install 2.3.0-dev
 rbenv local
 gem install rubygems-update
 gem install jekyll bundler
@@ -63,7 +64,6 @@ Otevřít terminal v adresáři webu a spustit:
 ```
 docker-compose up
 ```
-
 
 ### Ostatní
 
