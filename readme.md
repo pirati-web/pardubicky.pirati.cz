@@ -73,6 +73,8 @@ Otevřít terminal v adresáři webu a spustit:
 bundle exec jekyll serve
 ```
 
+Web pak běží na [http://localhost:4000](http://localhost:4000/).
+
 ## Struktura
 
 Samotné stránky jsou v markdownu nebo v html (složitější struktura, např. vícesloupců apod)
