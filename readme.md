@@ -2,11 +2,29 @@
 
 [![Build Status](https://api.travis-ci.org/pirati-web/pardubicky.pirati.cz.svg?branch=gh-pages)](https://travis-ci.org/pirati-web/pardubicky.pirati.cz)
 
-## Lokální spuštění
+## Instalace
 
-Instalacee na Fedora 25: `dnf install rubygem-jekyll npm`
+Existují dvě formy instalace, jednodušší je použití Docker engine, které funguje všude. Web lze spustit i přímo bez Dockeru, ale v tom případě je vyžadován Unix-based OS.
 
-Instalace ubuntu 16.04:
+### Varianta 1 - Docker
+
+Jediné co je potřeba nainstalovat je  Docker engine pro vaši platformu [na oficiálním webu](https://docs.docker.com/install/). Docker engine funguje na všech postatných platformách (Linux, macOS, Windows).
+
+### Varianta 2 - Přímé spuštění
+
+Vyžaduje Unix-based OS.
+
+#### Fedora 25
+
+##### Instalace závislostí
+
+```
+dnf install rubygem-jekyll
+```
+
+#### Ubuntu 16.04
+
+##### Instalace závislostí
 
 ```
 sudo apt-get install ruby2.3-dev gcc make libghc-zlib-dev libffi-dev
@@ -14,21 +32,62 @@ gem install rubygems-update
 gem install jekyll bundler
 bundle
 ```
+#### macOS
 
-**Společné**
+##### Instalace závislostí
 
 ```
-npm install
-bower install
-bundle install --path vendor/bundle --without test development
-gulp
+brew install rbenv
+rbenv init
+echo 'eval "$(rbenv init -)"' >> ~/.bashrc
 ```
 
-Repozitář můžeme naklonovat do jakékoliv složky (nemusí být ve `/var/www/`).
+##### Další postup
 
-`bundle exec jekyll serve`, což stránku zkompiluje, spustí a ještě je stránka přístupná skrz localhost: `http://127.0.0.1:4000`
+Znovu spustit Terminál. V repository adresáři pak spustit:
 
-Popřípadě můžeme spustit jen: `bundle exec jekyll build`, což do složky `_site` připraví kompletní web (ten můžeme otevřít z prohlíže pomocí klavesové zkratky `ctrl+o`).
+```
+rbenv install 2.3.0-dev
+rbenv local
+gem install rubygems-update
+gem install jekyll bundler
+bundle
+```
+
+## Spuštění
+
+### Docker
+
+#### Unix-based OS
+
+Otevřít terminal v adresáři webu a spustit:
+
+```
+docker-compose up
+```
+
+#### Windows
+
+Otevřete [PowerShell](https://365tipu.cz/2015/08/12/k-cemu-je-ve-windows-powershell-a-kde-ho-tam-najdu/) v adresáři webu a postupně zadejte následující příkazy:
+
+```
+$Env:COMPOSE_CONVERT_WINDOWS_PATHS=1
+docker-compose up
+```
+
+Web pak běží na [http://localhost:4000](http://localhost:4000/).
+
+**Poznámka:** Je pravděpodobné, že Windows po vás budou chtít heslo k PC.
+
+### Přímé spuštění
+
+Otevřít terminal v adresáři webu a spustit:
+
+```
+bundle exec jekyll serve
+```
+
+Web pak běží na [http://localhost:4000](http://localhost:4000/).
 
 ## Struktura
 

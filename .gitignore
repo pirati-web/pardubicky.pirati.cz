@@ -9,3 +9,6 @@ desktop.ini
 
 node_modules
 bower_components
+
+.bundle/
+vendor/
