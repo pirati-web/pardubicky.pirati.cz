@@ -1,6 +1,6 @@
 site:
   command: jekyll serve
-  image: jekyll/jekyll:latest
+  image: jekyll/jekyll:3.4.2
   volumes:
     - .:/srv/jekyll
     - ./vendor/bundle:/usr/local/bundle
