@@ -8,7 +8,7 @@ Existují dvě formy instalace, jednodušší je použití Docker engine, které
 
 ### Varianta 1 - Docker
 
-Jediné co je potřeba nainstalovat je  Docker engine pro vaši platformu [na oficiálním webu](https://docs.docker.com/install/). Docker engine funguje na všech postatných platformách (Linux, macOS, Windows).
+Jediné co je potřeba nainstalovat je  Docker engine pro vaši platformu [na oficiálním webu](https://docs.docker.com/install/). Docker engine funguje na všech podstatných platformách (Linux, macOS, Windows).
 
 ### Varianta 2 - Přímé spuštění
 
@@ -47,7 +47,7 @@ echo 'eval "$(rbenv init -)"' >> ~/.bashrc
 Znovu spustit Terminál. V repository adresáři pak spustit:
 
 ```
-rbenv install 2.3.0-dev
+rbenv install 2.4.1
 rbenv local
 gem install rubygems-update
 gem install jekyll bundler
