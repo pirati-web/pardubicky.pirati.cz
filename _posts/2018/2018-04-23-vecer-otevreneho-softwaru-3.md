@@ -8,7 +8,7 @@ author: Piráti Pardubického kraje
 
 image: assets/img/articles/2018/vos201804.jpg #751x422
 ---
-Ve čtvrtek 19. dubna se už po třetí v Pardubickém kraji 
+Ve čtvrtek 19. dubna se už potřetí v Pardubickém kraji 
 uskutečnil **Večer&nbsp;otevřeného&nbsp;software**. Tentokrát v Pardubicích 
 v kanceláři Pirátského poslance [Mikuláše Ferjenčíka][2]. Akci pořádá 
 Česká pirátská strana v rámci svých projektů participativního rozpočtování. 
