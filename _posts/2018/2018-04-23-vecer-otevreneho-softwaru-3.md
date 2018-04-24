@@ -62,10 +62,10 @@ Další informace lze nalézt:
 ---------------------
 * [Participativní rozpočet][1]
 * [Mikuláš Ferjenčík][2]
-* [Obecná veřejná licence GNU][4]
+* [Obecná veřejná licence GNU][3]
 
 [1]: https://wiki.pirati.cz/fo/rozpocty/participativni/start 
 [2]: https://www.pirati.cz/lide/mikulas-ferjencik/ 
-[4]: http://www.gnugpl.cz/
+[3]: http://www.gnugpl.cz/
 
 
