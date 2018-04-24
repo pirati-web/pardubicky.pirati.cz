@@ -4,7 +4,7 @@ category: CLANKY
 title: Večer Otevřeného Software 
 date: 2018-04-23T17:00:00+01:00  
 tags: PaRo Linux
-author: Piráti Chrudim
+author: Piráti Pardubického kraje
 
 image: assets/img/articles/2018/vos201804.jpg #751x422
 ---
