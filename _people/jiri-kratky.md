@@ -7,7 +7,7 @@ category:              	    # kategorie: rp, praha, vary, hradec, jmk, senat
 - svitavsko
 - mpsvitavsko
 img: people/jiri-kratky.jpg           # 165 x 220
-description: 1. místopředseda MS Svitavsko a zastupitelka města Svitavy # kratký popis, max 160 znaků
+description: Člen Pirátské strany, kandidát do senátu # kratký popis, max 160 znaků
 ordpak: 
 mail:
 - jiri.kratky@pirati.cz
