@@ -8,15 +8,12 @@ title: Volby 2018
 <ul>
   {% for place in places %}
     <li>
-      {% capture link %}
-        {% if place.type == 'external' %}
-          {{ place.link }}
-        {% else %}
-          {% assign page = site.volby2018 | where: "uid", place.uid | first %}
-          {{ page.url }}
-        {% endif %}
-      {% endcapture %}
-      <a href="{{ link }}" {% if place.type == 'external' %}target="_blank"{% endif %}>{{ place.locality }}</a>
+      {% if place.type == 'external' %}
+        <a href="{{ place.link }}" target="_blank">{{ place.locality }}</a>
+      {% else %}
+        {% assign page = site.volby2018 | where: "uid", place.uid | first %}
+        <a href="{% if page %}{{ page.url }}{% else %}/volby-2018/{% endif %}">{{ place.locality }}</a>
+      {% endif %}
     </li>
   {% endfor %}
 </ul>
