@@ -78,6 +78,9 @@
               <li {% if page.url contains 'aktuality' %} class="is-active"{% endif %}>
                 <a href="{{'/aktuality/' | relative_url }}">Aktuality</a>
               </li>
+              <li {% if page.url contains 'volby-2018' %} class="is-active"{% endif %}>
+                <a href="{{'/volby-2018/' | relative_url }}">Volby 2018</a>
+              </li>
               <li{% if page.url contains 'o-nas' or page.url contains 'lide' or page.url contains 'regiony'%} class="is-active"{% endif %}>
                 <a href="{{ '/o-nas/' | relative_url }}">O nás</a>
               </li>

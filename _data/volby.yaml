@@ -1,0 +1,30 @@
+- locality: Chrudim
+  type: external
+  link: https://chrudim.pirati.cz
+- locality: Pardubice
+  type: external
+  link: https://pardubice.pirati.cz
+- locality: Svitavsko
+  type: external
+  link: https://svitavsko.pirati.cz
+- locality: Česká Třebová
+  type: external
+  link: https://ceskatrebova.pirati.cz
+- locality: Moravská Třebová
+  type: external
+  link: https://ceskatrebova.pirati.cz
+- locality: Hlinsko
+  type: local
+  uid: hlinsko
+- locality: Heřmanův Městec
+  type: local
+  uid: hermanuv.mestec
+- locality: Rudoltice
+  type: local
+  uid: rudoltice
+- locality: Sezemice
+  type: local
+  uid: sezemice
+- locality: Červená Voda
+  type: local
+  uid: cervena.voda
