@@ -12,7 +12,11 @@ title: Volby 2018
         <a href="{{ place.link }}" target="_blank">{{ place.locality }}</a>
       {% else %}
         {% assign page = site.volby2018 | where: "uid", place.uid | first %}
-        <a href="{% if page %}{{ page.url }}{% else %}/volby-2018/{% endif %}">{{ place.locality }}</a>
+        {% if page %}
+          <a href="{{ page.url }}">{{ place.locality }}</a>
+        {% else %}
+          {{ place.locality }}
+        {% endif %}
       {% endif %}
     </li>
   {% endfor %}

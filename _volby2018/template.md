@@ -1,5 +1,5 @@
 ---
-uid: rudoltice
+uid: template
 title: Volby 2018 - Rudoltice
 candidates:
   - uid: zdenek.kubala
