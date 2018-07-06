@@ -1,0 +1,12 @@
+<div class="row o-section">
+  <div class="columns large-12">
+    <header class="c-page-header">
+      <h1 itemprop="headline" class="c-page-title">{{ include.headline }}</h1>
+    </header>
+  </div>
+  {% if include.content %}
+    <div class="columns large-12">
+      {{ include.content }}
+    </div>
+  {% endif %}
+</div>

@@ -53,6 +53,9 @@ collections:
   volby2018:
     output: true
     permalink: /volby-2018/:path/
+  # Sole purpose is to create candidate lists in separate files.
+  candidatelists:
+    output: false
 
 defaults:   # defaults values for collection scope
   -
