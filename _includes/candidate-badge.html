@@ -2,7 +2,7 @@
   <a class="c-program-candidate-badge__body" href="{{ include.candidatePage.url | relative_url }}">
       <div class="c-program-candidate-badge__avatar">
           <span class="c-program-candidate-badge__rank"><span>{{ include.rank }}.</span></span>
-          {% capture img %}{% if include.candidatePage.img %}{{ include.candidatePage.img }} {% else %}{{ 'assets/img/people/unknown-pirate.svg' | relative_url }}{% endif %}{% endcapture %}
+          {% capture img %}{% if include.candidatePage.img %}{{ include.candidatePage.img | prepend: "/assets/img/"}} {% else %}{{ 'assets/img/people/unknown-pirate.svg' | relative_url }}{% endif %}{% endcapture %}
           <img src="{{ img }}" alt="{{ include.candidate.fullname }}" class="c-program-candidate-badge__avatar-image">
       </div>
       <div class="c-program-candidate-badge__description">
