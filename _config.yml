@@ -43,7 +43,7 @@ collections:
     permalink: /lide/:path/
   program:
     output: true
-    permalink: /program/:path/
+    permalink: /volby-2018/program/:path/
   teams:
     output: true
     permalink: /pripoj-se/:title/
@@ -53,6 +53,9 @@ collections:
   volby2018:
     output: true
     permalink: /volby-2018/:path/
+  # Sole purpose is to create candidate lists in separate files.
+  candidatelists:
+    output: false
 
 defaults:   # defaults values for collection scope
   -
@@ -65,8 +68,10 @@ defaults:   # defaults values for collection scope
     scope:
       path: "_program"
     values:
-      layout: "page"
-      rbar: "program"
+      layout: "program-post"
+      rbar:
+         - garant
+         - program
   -
     scope:
       path: "_program/psp2017"
