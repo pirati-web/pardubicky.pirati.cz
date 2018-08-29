@@ -2,14 +2,14 @@
 layout: post
 category: CLANKY
 title: Krajská schůze v České Třebové
-date: 2018-01-17T22:59:00+01:00  
+date: 2018-01-17T22:59:00+01:00
 tags: schůze
 author: Piráti Pardubického kraje
-image: assets/img/miscellaneous/schuze-foto-pardubicky-kraj-pirati.jpg #751x422
+image: miscellaneous/schuze-foto-pardubicky-kraj-pirati.jpg #751x422
 ---
 
 Dne *11.2.2018* od *18:00* se sejdeme v salónku pivovaru Faltus v [České Třebové][1] - adresa je Moravská 207, 560 02 Česká Třebová
-Akce je otevřená veřejnosti, přijďte se s námi pobavit na další krajské schůzi. 
+Akce je otevřená veřejnosti, přijďte se s námi pobavit na další krajské schůzi.
 
 Budeme probírat následující:
 ----------------------------

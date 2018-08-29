@@ -1,15 +1,17 @@
 ---
 uid: daniel.lebduska
 name:     Daniel Lebduška      		# běžně používáné jméno
-fullname: Bc. Daniel Lebduška		# jméno s tituly etc.
+titles:
+  before: Bc.
+  after:
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - pak
 img: people/daniel-lebduska.jpg           # 165 x 220
 description: pirát # kratký popis, max 160 znaků
-ordpak: 
+ordpak:
 mail:
 - daniel.lebduska@pirati.cz
-mob: 
+mob:
 profiles:
   github:
   facebook: https://www.facebook.com/lebduska.daniel

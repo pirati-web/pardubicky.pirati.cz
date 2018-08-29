@@ -1,30 +1,50 @@
 - locality: Chrudim
   type: external
   link: https://chrudim.pirati.cz
+  programLink: https://chrudim.pirati.cz/volby-2018/
+  candidateListLink: https://chrudim.pirati.cz/volby-2018/kandidati.html
+  publish: true
 - locality: Pardubice
   type: external
   link: https://pardubice.pirati.cz
+  programLink: https://pardubice.pirati.cz/komunalni-volby-2018/
+  candidateListLink: https://pardubice.pirati.cz/komunalni-volby-2018/
+  publish: true
 - locality: Svitavsko
   type: external
   link: https://svitavsko.pirati.cz
+  programLink: https://svitavy.pirati.cz/volby-2018/
+  candidateListLink: https://svitavy.pirati.cz/volby-2018/kandidati.html
+  publish: true
 - locality: Česká Třebová
   type: external
   link: https://ceskatrebova.pirati.cz
+  programLink: https://ceskatrebova.pirati.cz/volby-2018/index.html
+  candidateListLink: https://ceskatrebova.pirati.cz/volby-2018/kandidati.html
+  publish: true
 - locality: Moravská Třebová
   type: external
   link: https://moravskatrebova.pirati.cz
+  programLink: https://moravskatrebova.pirati.cz/volby2018/
+  candidateListLink: https://moravskatrebova.pirati.cz/volby2018/
+  publish: true
 - locality: Hlinsko
   type: local
   uid: hlinsko
+  publish: false
 - locality: Heřmanův Městec
   type: local
   uid: hermanuv.mestec
+  publish: false
 - locality: Rudoltice
   type: local
   uid: rudoltice
+  publish: true
 - locality: Sezemice
   type: local
   uid: sezemice
+  publish: false
 - locality: Červená Voda
   type: local
   uid: cervena.voda
+  publish: false

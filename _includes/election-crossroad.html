@@ -1,0 +1,27 @@
+
+<section class="pk-election-crossroad row u-uniform-size-row">
+  {% for place in include.places %}
+    <div class="columns medium-6 large-4">
+      <article class="pk-election-crossroad__place">
+        <div class="c-tile c-tile--fill pk-election-crossroad__place-body">
+          <div class="c-tile__body">
+            <h2 class="t-h4">{{ place.locality }}</h2>
+
+            {% if place.type == 'external' %}
+              <a href="{{ place.link }}" class="c-emphasized-anchor" target="_blank" rel="noopener">Web</a>
+              <a href="{{ place.programLink }}" class="c-emphasized-anchor" target="_blank" rel="noopener">Program</a>
+              <a href="{{ place.candidateListLink }}" class="c-emphasized-anchor" target="_blank" rel="noopener">Kandidátka</a>
+            {% else %}
+              {% assign placePage = site.volby2018 | where: "uid", place.uid | first %}
+              {% if placePage %}
+                <a href="{{ placePage.url }}" class="c-emphasized-anchor">Program a kandidátka</a>
+              {% else %}
+                <p>Detaily o naší kandidatuře připravujeme.</p>
+              {% endif %}
+            {% endif %}
+          </div>
+        </div>
+      </article>
+    </div>
+  {% endfor %}
+</section>
