@@ -110,7 +110,7 @@ exclude:
   - Gemfile.lock
   - vendor
 
-permalink: /tiskove-zpravy/:title.html
+permalink: /tiskove-zpravy/:title/
 collections:
   people:
     output: true
