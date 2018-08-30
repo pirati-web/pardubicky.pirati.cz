@@ -8,24 +8,32 @@
           <div class="c-tile__body">
             <h2 class="t-h4">{{ place.locality }}</h2>
 
+            {% if place.note %}
+              <p>{{ place.note }}</p>
+            {% endif %}
+
             {% if place.type == 'external' %}
-              <div class="pk-election-crossroad__link">
-                <span class="fa fa-globe"></span> <a href="{{ place.link }}" class="c-emphasized-anchor" target="_blank" rel="noopener">Web</a>
-              </div>
-              <div class="pk-election-crossroad__link">
-                <span class="fa fa-book"></span> <a href="{{ place.programLink }}" class="c-emphasized-anchor" target="_blank" rel="noopener">Program</a>
-              </div>
-              <div class="pk-election-crossroad__link">
-                <span class="fa fa-users"></span> <a href="{{ place.candidateListLink }}" class="c-emphasized-anchor" target="_blank" rel="noopener">Kandidátka</a>
-              </div>
-            {% else %}
+              {% if place.link %}
+                <div class="pk-election-crossroad__link">
+                  <span class="fa fa-globe"></span> <a href="{{ place.link }}" class="c-emphasized-anchor" target="_blank" rel="noopener">Web</a>
+                </div>
+              {% endif %}
+              {% if place.programLink %}
+                <div class="pk-election-crossroad__link">
+                  <span class="fa fa-book"></span> <a href="{{ place.programLink }}" class="c-emphasized-anchor" target="_blank" rel="noopener">Program</a>
+                </div>
+              {% endif %}
+              {% if place.candidateListLink %}
+                <div class="pk-election-crossroad__link">
+                  <span class="fa fa-users"></span> <a href="{{ place.candidateListLink }}" class="c-emphasized-anchor" target="_blank" rel="noopener">Kandidátka</a>
+                </div>
+              {% endif %}
+            {% elsif place.type == 'local' %}
               {% assign placePage = site.volby2018 | where: "uid", place.uid | first %}
               {% if placePage %}
-              <div class="pk-election-crossroad__link">
-                <span class="fa fa-book"></span> <a href="{{ placePage.url }}" class="c-emphasized-anchor">Program a kandidátka</a>
-              </div>
-              {% else %}
-                <p>Detaily o naší kandidatuře připravujeme.</p>
+                <div class="pk-election-crossroad__link">
+                  <span class="fa fa-book"></span> <a href="{{ placePage.url }}" class="c-emphasized-anchor">Program a kandidátka</a>
+                </div>
               {% endif %}
             {% endif %}
           </div>
