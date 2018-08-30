@@ -58,3 +58,13 @@
   uid: cervena.voda
   publish: false
   coa: https://upload.wikimedia.org/wikipedia/commons/d/d4/Červená_Voda.svg
+- locality: Chrast
+  type: local
+  uid: chrast
+  publish: false
+  coa: https://upload.wikimedia.org/wikipedia/commons/e/e9/Znak_m%C4%9Bsta_Chrast.jpg
+- locality: Polička
+  type: local
+  uid: policka
+  publish: false
+  coa: https://upload.wikimedia.org/wikipedia/commons/c/cf/Poli%C4%8Dka_CoA_CZ.svg
