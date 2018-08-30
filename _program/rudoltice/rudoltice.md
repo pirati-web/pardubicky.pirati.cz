@@ -125,90 +125,46 @@ chodci počítalo už při plánování dopravní sítě a staveb.</dt>
 
 ## Zlepšíme život v Rudolticích
 
-<dl class="c-program-key-point-list">
-<dt>Investice</dt>
-<dd>
+### Investice
 
-- Podpoříme dokončení rozjetých projektů v obci, pokud budou mít veřejnou podporu od občanů.
+* Podpoříme dokončení rozjetých projektů v obci, pokud budou mít veřejnou podporu od občanů. Efektivně podpoříme bytový nájemní fond – opravami domů a prostranství, zrušením činnosti společnosti Mouřenín v obci a zrušením poplatku za správu obecních bytů.
+* Zlepšíme obecní infrastrukturu výstavbou a opravami cest, mostů, příkopů, chodníků, přechodů pro chodce a parkovacích míst, naučných stezek a cyklostezek.
+* Zavedeme finanční podporu infrastruktury pro výstavbu a rekonstrukci bytových potřeb občanů.
+* Zrevidujeme mapu vodovodního řádu, zavedeme nové hydranty.
+* Prosazujeme snížení ceny vodného, vrátíme správu vodovodu obci, budeme prosazovat výstavbu vlastního zdroje vody.
+* Chceme vybudovat centrální kanalizaci v obci, v nedostupných místech lokální čistírny odpadních vod.
+* Zrevidujeme cenovou mapu pozemků v obci, snížíme cenu pozemků.
+* Umožníme levně odkup nevyužívaných částí obecních pozemků občanům.</dd>
 
-Efektivně podpoříme bytový nájemní fond – opravami domů a prostranství,
+### Veřejný prostor
 
-zrušením činnosti společnosti Mouřenín v obci a zrušením poplatku za správu
+* Prosazujeme změnu územního plánu obce s lepším využitím pozemků pro občany.
+* Prosazujeme kácení dřevin, které by mohly ohrozit majetek nebo zdraví občanů.
+* Budeme udržovat kulturní a přírodní památky, které jsou bohatstvím obce, zpřístupňovat je veřejnosti a informovat o nich.
+* Jsme pro volné připojení k internetu ve veřejných budovách. Chceme též podporovat sdružení poskytující volný přístup k Internetu, kterých již dnes existuje mnoho.
+* Podporujeme plošné řešení připojení k internetu v obci.
 
-obecních bytů.
+### Úřad a něco navíc
 
-- Zlepšíme obecní infrastrukturu výstavbou a opravami cest, mostů, příkopů, chodníků, přechodů pro chodce a parkovacích míst, naučných stezek a cyklostezek.
-
-- Zavedeme finanční podporu infrastruktury pro výstavbu a rekonstrukci bytových potřeb občanů.
-
-- Zrevidujeme mapu vodovodního řádu, zavedeme nové hydranty.
-
-- Prosazujeme snížení ceny vodného, vrátíme správu vodovodu obci, budeme prosazovat výstavbu vlastního zdroje vody.
-
-- Chceme vybudovat centrální kanalizaci v obci, v nedostupných místech lokální čistírny odpadních vod.
-
-- Zrevidujeme cenovou mapu pozemků v obci, snížíme cenu pozemků.
-
-- Umožníme levně odkup nevyužívaných částí obecních pozemků občanům.</dd>
-
-<dt>Veřejný prostor</dt>
-<dd>
-
-- Prosazujeme změnu územního plánu obce s lepším využitím pozemků pro občany.
-
-- Prosazujeme kácení dřevin, které by mohly ohrozit majetek nebo zdraví občanů.
-
-- Budeme udržovat kulturní a přírodní památky, které jsou bohatstvím obce, zpřístupňovat je veřejnosti a informovat o nich.
-
-- Jsme pro volné připojení k internetu ve veřejných budovách. Chceme též podporovat sdružení poskytující volný přístup k Internetu, kterých již dnes existuje mnoho.
-
-- Podporujeme plošné řešení připojení k internetu v obci.</dd>
-
-<dt>Úřad a něco navíc</dt>
-<dd>
-
-- Zajistíme vzorové formuláře pro odstranění zbytečné byrokracie. Zajistíme, aby veškeré dokumenty nutné pro styk s úřadem byly dostupné a snadno dohledatelné na obecním webu v otevřených formátech, zpracovatelných zdarma dostupným softwarem.
-
-- Upřednostňujeme materiální podporu před finanční v oblasti kultury a sportu. Proto by se místa vhodná pro kulturní využití v centru obce neměla přeměňovat v komerční centra, ale měla by být v zásadách územního rozvoje vyhrazena právě pro kulturu a sport.
-
-- Zrevidujeme místní poplatky v co největší prospěch občanů.
-
-- Zavedeme otevřenou činnost obecní společnosti VISION Rudoltice s.r.o., jak obchodní, tak účetní.
-
-- Zavedeme efektivní uspořádání místností obecního úřadu.
-
-- Umožníme využití prostor sálu, přísálí, výčepu a tělocvičny v domě obecního úřadu pro všechny občany.
-
-- Změníme podmínky stanovené pro noční klid a pro veřejné akce ku prospěchu občanů.
-
-- Zlepšíme činnost městské policie v obci, aby více sloužila občanům.
-
-- Zavedeme architektonické soutěže jako standard. Chceme, aby budovy veřejných institucí měly také architektonickou kvalitu.
-
-- Budeme řešit problémy s nájemníky obecních bytů, pokud možno v co nejkratším termínu.
-
-- Zavedeme častější úklid v obecních domech, podle dohody i dvakrát týdně.
-
-- Budeme provádět častější kontroly obecních domů, včetně společných prostor a schodišť.
-
-- Budeme pokračovat s opravami obecních domů, včetně zateplování stropů v podkroví.
-
-- V lokalitě sídliště Zámeček chceme rozšířit dětské hřiště pro fotbal a opravit stávající hřiště, vysadit zeleň a namontovat zpět zpomalovací pruhy pro auta – retardéry.
-
-- Zavedeme pravidelné schůzky s důvěrníky bytových domů, nejen při řešení aktuálních problémů jednou za rok.
-
-- Škola včetně školky je základ života. Je jedním z nejdůležitějších míst obce. Usnadníme dětem dopravu do školy a chceme v naší obci zavést kvalitní školství s kvalifikovaným personálem, který má vztah k dětem. Chceme podporovat tradici školy jako centra kultury, neformálního setkávání a celoživotního vzdělávání. Chceme zabránit trendu rušení malých základních škol, což by vedlo k další zátěži pro rodiče a děti.
-
-- Budeme podporovat zájmové kroužky a kurzy dostupné každému, a to pro všechny věkové skupiny obyvatel.
-
-- Prosadíme zřízení sběrného dvora v obci, jako jediného místa pro ukládání odpadů, jako bio - odpad, stavební suť, apod.
-
-- Podpoříme projekty na zadržování dešťové vody v krajině, např. domácí nádrže či rezervoáry a následné použití vody na zalévání či splachování.
-
-- Otevřeme všechna jednání o projektech, které mají za cíl odstranit ekologickou zátěž. Velký důraz budeme klást na odbornost a celkový záměr projektu s využitím nejlepší dostupné technologie pro odstranění ekologické zátěže.
-
-- Budeme prosazovat rozumnou a střídmou urbanizaci obce, která nebude představovat zbytečnou zátěž pro životní prostředí, zejména ovzduší a krajinu. Prosazujeme, aby nové stavby kreativně využívaly opuštěné plochy a aby měla v obci před průmyslovými skladišti přednost moderní architektura a kultura. Rozhodovací a dozorčí činnost obce se musí soustředit hlavně na velké projekty. Lidé by měli mít možnost aktivně se zapojit do projednávání otázek týkajících se územního plánování, krajiny a životního prostředí a také vyvolat o těchto otázkách referendum.
-
-- Upravíme veřejné osvětlení tak, aby bylo šetrnější k životnímu prostředí. Naším cílem je úprava osvětlení tak, aby opravdu plnilo svůj účel. Špatně navržené osvětlení zvyšuje finanční náklady, protože zbytečně spotřebovává energii. Vedle toho může mít nadměrné osvětlení i špatný vliv na zdravý spánek obyvatel. Pokud se nám podaří zavést kvalitní a cílené osvětlení, třeba pak naše děti uvidí ta malá světélka, která se nazývají hvězdy.</dd>
-
-</dl>
+* Zajistíme vzorové formuláře pro odstranění zbytečné byrokracie. Zajistíme, aby veškeré dokumenty nutné pro styk s úřadem byly dostupné a snadno dohledatelné na obecním webu v otevřených formátech, zpracovatelných zdarma dostupným softwarem.
+* Upřednostňujeme materiální podporu před finanční v oblasti kultury a sportu. Proto by se místa vhodná pro kulturní využití v centru obce neměla přeměňovat v komerční centra, ale měla by být v zásadách územního rozvoje vyhrazena právě pro kulturu a sport.
+* Zrevidujeme místní poplatky v co největší prospěch občanů.
+* Zavedeme otevřenou činnost obecní společnosti VISION Rudoltice s.r.o., jak obchodní, tak účetní.
+* Zavedeme efektivní uspořádání místností obecního úřadu.
+* Umožníme využití prostor sálu, přísálí, výčepu a tělocvičny v domě obecního úřadu pro všechny občany.
+* Změníme podmínky stanovené pro noční klid a pro veřejné akce ku prospěchu občanů.
+* Zlepšíme činnost městské policie v obci, aby více sloužila občanům.
+* Zavedeme architektonické soutěže jako standard. Chceme, aby budovy veřejných institucí měly také architektonickou kvalitu.
+* Budeme řešit problémy s nájemníky obecních bytů, pokud možno v co nejkratším termínu.
+* Zavedeme častější úklid v obecních domech, podle dohody i dvakrát týdně.
+* Budeme provádět častější kontroly obecních domů, včetně společných prostor a schodišť.
+* Budeme pokračovat s opravami obecních domů, včetně zateplování stropů v podkroví.
+* V lokalitě sídliště Zámeček chceme rozšířit dětské hřiště pro fotbal a opravit stávající hřiště, vysadit zeleň a namontovat zpět zpomalovací pruhy pro auta – retardéry.
+* Zavedeme pravidelné schůzky s důvěrníky bytových domů, nejen při řešení aktuálních problémů jednou za rok.
+* Škola včetně školky je základ života. Je jedním z nejdůležitějších míst obce. Usnadníme dětem dopravu do školy a chceme v naší obci zavést kvalitní školství s kvalifikovaným personálem, který má vztah k dětem. Chceme podporovat tradici školy jako centra kultury, neformálního setkávání a celoživotního vzdělávání. Chceme zabránit trendu rušení malých základních škol, což by vedlo k další zátěži pro rodiče a děti.
+* Budeme podporovat zájmové kroužky a kurzy dostupné každému, a to pro všechny věkové skupiny obyvatel.
+* Prosadíme zřízení sběrného dvora v obci, jako jediného místa pro ukládání odpadů, jako bio - odpad, stavební suť, apod.
+* Podpoříme projekty na zadržování dešťové vody v krajině, např. domácí nádrže či rezervoáry a následné použití vody na zalévání či splachování.
+* Otevřeme všechna jednání o projektech, které mají za cíl odstranit ekologickou zátěž. Velký důraz budeme klást na odbornost a celkový záměr projektu s využitím nejlepší dostupné technologie pro odstranění ekologické zátěže.
+* Budeme prosazovat rozumnou a střídmou urbanizaci obce, která nebude představovat zbytečnou zátěž pro životní prostředí, zejména ovzduší a krajinu. Prosazujeme, aby nové stavby kreativně využívaly opuštěné plochy a aby měla v obci před průmyslovými skladišti přednost moderní architektura a kultura. Rozhodovací a dozorčí činnost obce se musí soustředit hlavně na velké projekty. Lidé by měli mít možnost aktivně se zapojit do projednávání otázek týkajících se územního plánování, krajiny a životního prostředí a také vyvolat o těchto otázkách referendum.
+* Upravíme veřejné osvětlení tak, aby bylo šetrnější k životnímu prostředí. Naším cílem je úprava osvětlení tak, aby opravdu plnilo svůj účel. Špatně navržené osvětlení zvyšuje finanční náklady, protože zbytečně spotřebovává energii. Vedle toho může mít nadměrné osvětlení i špatný vliv na zdravý spánek obyvatel. Pokud se nám podaří zavést kvalitní a cílené osvětlení, třeba pak naše děti uvidí ta malá světélka, která se nazývají hvězdy.
