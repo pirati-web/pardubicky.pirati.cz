@@ -12,6 +12,27 @@
   width: 100%;
 }
 
+.pk-election-crossroad__coa {
+  display: flex;
+  align-items: center;
+  width: 100px;
+  background: #fff;
+  padding: 1rem;
+  border: 2px $light-gray solid;
+}
+
+.pk-election-crossroad__link {
+  display: inline-block;
+
+  .fa {
+    color: $dark-gray;
+  }
+}
+
+.pk-election-crossroad__link + .pk-election-crossroad__link {
+  margin-left: 1rem;
+}
+
 .pce-hero {
   padding: 4rem 1rem;
   text-align: center;

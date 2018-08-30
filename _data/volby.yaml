@@ -1,50 +1,60 @@
-- locality: Chrudim
-  type: external
-  link: https://chrudim.pirati.cz
-  programLink: https://chrudim.pirati.cz/volby-2018/
-  candidateListLink: https://chrudim.pirati.cz/volby-2018/kandidati.html
-  publish: true
 - locality: Pardubice
   type: external
   link: https://pardubice.pirati.cz
   programLink: https://pardubice.pirati.cz/komunalni-volby-2018/
   candidateListLink: https://pardubice.pirati.cz/komunalni-volby-2018/
   publish: true
+  coa: https://upload.wikimedia.org/wikipedia/commons/0/0e/Pardubice_CoA_CZ.svg
+- locality: Chrudim
+  type: external
+  link: https://chrudim.pirati.cz
+  programLink: https://chrudim.pirati.cz/volby-2018/
+  candidateListLink: https://chrudim.pirati.cz/volby-2018/kandidati.html
+  publish: true
+  coa: https://upload.wikimedia.org/wikipedia/commons/7/7e/Chrudim_CoA_CZ.svg
 - locality: Svitavsko
   type: external
   link: https://svitavsko.pirati.cz
   programLink: https://svitavy.pirati.cz/volby-2018/
   candidateListLink: https://svitavy.pirati.cz/volby-2018/kandidati.html
   publish: true
+  coa: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Svitavy_znak_2.jpeg/394px-Svitavy_znak_2.jpeg
 - locality: Česká Třebová
   type: external
   link: https://ceskatrebova.pirati.cz
   programLink: https://ceskatrebova.pirati.cz/volby-2018/index.html
   candidateListLink: https://ceskatrebova.pirati.cz/volby-2018/kandidati.html
   publish: true
+  coa: https://upload.wikimedia.org/wikipedia/commons/2/20/%C4%8Cesk%C3%A1_T%C5%99ebov%C3%A1.svg
 - locality: Moravská Třebová
   type: external
   link: https://moravskatrebova.pirati.cz
   programLink: https://moravskatrebova.pirati.cz/volby2018/
   candidateListLink: https://moravskatrebova.pirati.cz/volby2018/
   publish: true
-- locality: Hlinsko
-  type: local
-  uid: hlinsko
-  publish: false
-- locality: Heřmanův Městec
-  type: local
-  uid: hermanuv.mestec
-  publish: false
+  coa: https://upload.wikimedia.org/wikipedia/commons/1/15/Moravsk%C3%A1_T%C5%99ebov%C3%A1_CoA_CZ.svg
 - locality: Rudoltice
   type: local
   uid: rudoltice
   publish: true
+  coa: https://upload.wikimedia.org/wikipedia/commons/7/76/Znak_obce_Rudoltice.gif
+- locality: Hlinsko
+  type: local
+  uid: hlinsko
+  publish: false
+  coa: https://upload.wikimedia.org/wikipedia/commons/9/95/Hlinsko_znak.gif
+- locality: Heřmanův Městec
+  type: local
+  uid: hermanuv.mestec
+  publish: false
+  coa: https://upload.wikimedia.org/wikipedia/commons/c/c0/Hermanuv_Mestec_CZ_CoA.gif
 - locality: Sezemice
   type: local
   uid: sezemice
   publish: false
+  coa: https://upload.wikimedia.org/wikipedia/commons/b/ba/Sezemice-znak-mesta.png
 - locality: Červená Voda
   type: local
   uid: cervena.voda
   publish: false
+  coa: https://upload.wikimedia.org/wikipedia/commons/d/d4/Červená_Voda.svg
