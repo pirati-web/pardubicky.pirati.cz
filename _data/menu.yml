@@ -5,6 +5,9 @@ top:
   - link: "wiki.pirati.cz"
     url:  "https://wiki.pirati.cz"
     icon: "fa fa-home"
+  - link: "Nalodění"
+    url:  "https://nalodeni.pirati.cz"
+    icon: "fa fa-user-plus"
   - link: "Pirátské listy"
     url:  "http://www.piratskelisty.cz"
     icon: "fa fa-newspaper-o"
@@ -36,6 +39,9 @@ bottom:
     links:
       - link: /kontakt/
         name: Dej nám vědět
+      - link: "https://nalodeni.pirati.cz"
+        name:  Nalodění
+    icon: "fa fa-user-plus"
   - class: small-12 medium-4
     title: Makáme
     links:
