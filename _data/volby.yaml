@@ -14,9 +14,9 @@
   coa: https://upload.wikimedia.org/wikipedia/commons/7/7e/Chrudim_CoA_CZ.svg
 - locality: Svitavsko
   type: external
-  link: https://svitavsko.pirati.cz
-  programLink: https://svitavy.pirati.cz/volby-2018/
-  candidateListLink: https://svitavy.pirati.cz/volby-2018/kandidati.html
+  link: https://www.piratisvitavy.cz/
+  programLink: https://www.piratisvitavy.cz/volebni-program/
+  candidateListLink: https://www.piratisvitavy.cz/kandidati/
   publish: true
   coa: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Svitavy_znak_2.jpeg/394px-Svitavy_znak_2.jpeg
 - locality: Česká Třebová
