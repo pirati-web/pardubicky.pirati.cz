@@ -15,7 +15,8 @@
 .pk-election-crossroad__coa {
   display: flex;
   align-items: center;
-  width: 100px;
+  max-width: 6rem;
+  min-width: 6rem;
   background: #fff;
   padding: 1rem;
   border: 2px $light-gray solid;
@@ -27,10 +28,18 @@
   .fa {
     color: $dark-gray;
   }
+
+  @include breakpoint(small down) {
+    display: block;
+  }
 }
 
 .pk-election-crossroad__link + .pk-election-crossroad__link {
   margin-left: 1rem;
+
+  @include breakpoint(small down) {
+   margin-left: 0;
+  }
 }
 
 .pce-hero {
