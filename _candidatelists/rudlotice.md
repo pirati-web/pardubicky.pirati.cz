@@ -46,34 +46,29 @@ tail: # zbytek kandidatky
       age: 25
       profession: architekt
       party: bez politické příslušnosti
-    - name: Jakub Loskot
-      age: 33
-      profession: operátor
-      party: bez politické příslušnosti
-
-    - name: Soňa Zadražilová
-      age: 58
-      profession: prodavačka
-      party: bez politické příslušnosti
-
     - name: Petr Beránek
       age: 43
       profession: operátor
       party: bez politické příslušnosti
-
+    - name: Jakub Loskot
+      age: 33
+      profession: operátor
+      party: bez politické příslušnosti
     - name: Lucie Sochorová
       age: 28
       profession: operátorka zákaznické linky
       party: bez politické příslušnosti
-
     - name: Martin Václavík
       age: 53
       profession: rybářský dělník
       party: bez politické příslušnosti
-
     - name: Zdeněk Stránský
       age: 34
       profession: řidič
+      party: bez politické příslušnosti
+    - name: Soňa Zadražilová
+      age: 58
+      profession: prodavačka
       party: bez politické příslušnosti
 ---
 

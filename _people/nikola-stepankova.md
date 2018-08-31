@@ -1,7 +1,6 @@
 ---
 uid: nikola.stepankova
 name:     Nikola Štěpánková      		# běžně používáné jméno
-fullname: Nikola Štěpánková		# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - pak
 img: people/nikola-stepankova.jpg           # 165 x 220
@@ -9,10 +8,10 @@ description: pirátka a členka sociální komise # kratký popis, max 160 znak�
 ordpak: 2
 mail:
 - nikola.stepankova@pirati.cz
-mob: 
+mob:
 profiles:
   github:
-  facebook: 
+  facebook:
   twitter:
   linkedin:
 ---

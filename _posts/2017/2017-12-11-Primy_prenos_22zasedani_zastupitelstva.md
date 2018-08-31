@@ -2,16 +2,16 @@
 layout: post
 category: CLANKY
 title: Přímý přenos 22. zasedání zastupitelstva města Chrudim
-date: 2017-12-11T14:44:00+01:00  
-tags: Chrudim zastupitelstvo 
+date: 2017-12-11T14:44:00+01:00
+tags: Chrudim zastupitelstvo
 author: Piráti Chrudim
-image: assets/img/articles/2016/chrudim.jpg
+image: articles/2016/chrudim.jpg
 ---
 
 Dne _11.12.2017_ od _16:00_ se uskuteční 22. zasedání zastupitelstva města Chrudim.
 Zasedání bylo svoláno v řádném termínu.
 Z časových důvodů jsme minulá zasedání nepřenášeli, ale toto nadcházející Vám přineseme prostřednictvím
-online přenosu. 
+online přenosu.
 
 Body jednání:
 -------------
@@ -36,7 +36,7 @@ Body jednání:
 19. Všeobecná rozprava
 
 Podklady pro jednaní zastupitelstva lze nalést na [na stránkách města Chrudim] [7].
-Stream ze zasedání bude zprostředkován pomocí kanálu na *youtube.com*. 
+Stream ze zasedání bude zprostředkován pomocí kanálu na *youtube.com*.
 
 <h3>Odkaz na přímý přenos:</h3>
 [server youtube.com] [6]
@@ -59,5 +59,5 @@ Informační kanály:
 [5]: https://www.facebook.com/CeskaPiratskaStranaChrudim?fref=ts
 [6]: https://www.youtube.com/watch?v=OI-x4uA4IBE
 [7]: http://www.chrudim-city.cz/eTED2/tedprgjed.aspx?id=3306
-[8]: https://www.youtube.com/channel/UC_DPWuE5dPRXl7blykCKmmg 
+[8]: https://www.youtube.com/channel/UC_DPWuE5dPRXl7blykCKmmg
 [9]: http://chrudim.eu/xxii%2Dradne%2Dzasedani%2Dzastupitelstva%2Dmesta%2Dchrudim/d-7898
