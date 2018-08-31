@@ -2,13 +2,13 @@
 layout: post
 category: CLANKY
 title: Glosa Libuše Vévodové ohledně českého školství
-date: 2017-09-17T17:00:00+02:00  
+date: 2017-09-17T17:00:00+02:00
 tags: školství
 author: Piráti Pardubického kraje
-image: assets/img/articles/2017/libuse_vevodova.png   #751x422 pixelu
+image: articles/2017/libuse_vevodova.png   #751x422 pixelu
 ---
 
-**Jak nahlížím na školství jako celek?**  
+**Jak nahlížím na školství jako celek?**
 Školství obecně je nyní přebujelý administrativní aparát ministerstva školství a jednotlivých školských odborů krajských úřadů. Všechna vzdělávací centra potřebují k obhájení své nepostradatelnosti nejnižší článek – pedagogy, učitele, vychovatele.
 
 Učitel tyto administrativní složky pro svou práci potřebuje minimálně. Učitelské povolání existuje již mnoho staletí, na rozdíl od výše jmenovaných organizací. Přiznejme si základní fakt: Máme **málo** učitelů ve školách a jejich platy patří k nejnižším v rámci OECD. Kdyby do škol jako učitelé nastoupili všichni pracovníci s pedagogickým vzděláním, kteří sedí v kancelářích, situace ve školách by se mírně zlepšila. Otázka je, zda pedagogiku studovali pro to, aby vzdělávali, nebo zastávali funkce administrativní charakteru.

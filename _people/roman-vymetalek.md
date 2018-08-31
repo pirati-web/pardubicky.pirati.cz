@@ -1,7 +1,6 @@
 ---
 uid: pepkos
 name: Roman Vymetálek # běžně používáné jméno
-fullname: Roman Vymetálek # jméno s tituly etc.
 category: # kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/roman-vymetalek.jpg # 165 x 220
 description: vedoucí výroby, registrovaný příznivec Pirátů # kratký popis, max 160 znaků

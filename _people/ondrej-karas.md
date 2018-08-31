@@ -1,18 +1,19 @@
 ---
 uid: ondrej.karas
 name:     Ondřej Karas      		# běžně používáné jméno
-fullname: Ing. Ondřej Karas		# jméno s tituly etc.
+titles:
+  before: Ing.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - pak
 img: people/ondrej-karas.jpg           # 165 x 220
 description: řadový člen KS Pardubický kraj # kratký popis, max 160 znaků
 mail:
 - ondrej.karas@pirati.cz
-mob: 
+mob:
 - 733 519 515
 profiles:
-  github: 
-  facebook: https://www.facebook.com/karri84 
+  github:
+  facebook: https://www.facebook.com/karri84
   twitter:
   linkedin: https://www.linkedin.com/in/ond%C5%99ej-karas-46304228/
 ---
@@ -24,4 +25,4 @@ Už v průběhu studií věnoval část svého času práci. Jako zaměstnanec n
 
 Veřejnému životu se aktivněji věnuje od roku 2012, kdy stál na straně zastánců pardubických obvodů. V roce 2014 kandidoval do obou zastupitelstev (obvod a město) za lokální uskupení (PPL). Od komunálních voleb 2014 je členem Komise pro rozvoj a dopravu obvodu Pardubice VI. Po zklamání z aktivit některých představitelů PPL stranu opustil a přidal se na pirátskou loď.
 
-Jeho hlavním hnacím motorem ve veřejném životě je snaha otevřít politiku veřejnosti a podpořit její zájem na rozhodování o společné budoucnosti. 
+Jeho hlavním hnacím motorem ve veřejném životě je snaha otevřít politiku veřejnosti a podpořit její zájem na rozhodování o společné budoucnosti.

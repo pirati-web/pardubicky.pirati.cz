@@ -1,13 +1,12 @@
 ---
 uid: mikulas.ferjencik
 name:     Mikuláš Ferjenčík  	# běžně používáné jméno
-fullname: Mikuláš Ferjenčík  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - mo-contact
 img: people/mikulas-ferjencik.jpg   # 165 x 220
 description: Zastupitel Pirátů v Zastupitelstvu hlavního města Prahy, vedoucí mediálního odboru Pirátů             	# kratký popis, max 160 znaků
-ordpak: 
+ordpak:
 mail:
 - mikulas.ferjencik@pirati.cz
 mob:			  +420 737 943 770
