@@ -2,7 +2,7 @@
 uid: roman.rybacek
 name: Roman Rybáček
 fullname: Roman Rybáček
-#img: people/roman-rybacek.jpg   
+img: people/roman-rybacek.jpg   
 description: Podnikatel, příznivec Pirátské strany
 mail:
  - rybacek23@seznam.cz

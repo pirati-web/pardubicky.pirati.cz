@@ -2,7 +2,7 @@
 uid: katerina.jirmaskova
 name:  Kateřina Jirmásková
 fullname: Mgr. Kateřina Jirmásková
-#img: people/katerina-jirmaskova.jpg   # 165 x 220
+img: people/katerina-jirmaskova.jpg   # 165 x 220
 description: podnikatelka, registrovaná příznivkyně Pirátské strany          	# kratký popis, max 160 znaků
 mail:
  - katerinajirmaskova@gmail.com

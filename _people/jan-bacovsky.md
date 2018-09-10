@@ -4,7 +4,7 @@ name:     Jan Bačovský 	# běžně používáné jméno
 fullname: Jan Bačovský 	# jméno s tituly etc.
 #category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 #- koordinatori
-#img: people/jan-bacovsky.jpg   # 165 x 220
+img: people/jan-bacovsky.jpg   # 165 x 220
 description: podnikatel, registrovaný příznivec Pirátské strany           	# kratký popis, max 160 znaků
 mail:
  - janbacovskyhlinsko@gmail.com

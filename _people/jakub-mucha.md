@@ -2,7 +2,7 @@
 uid: jakub.mucha
 name:     Jakub Mucha 	# běžně používáné jméno
 fullname: Jakub Mucha	# jméno s tituly etc.
-#img: people/jakub-mucha.jpg   # 165 x 220
+img: people/jakub-mucha.jpg   # 165 x 220
 description: podnikatel, registrovaný příznivec Pirátské strany           	# kratký popis, max 160 znaků
 mail:
  - mucha5057@gmail.com
