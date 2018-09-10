@@ -6,3 +6,5 @@
   campaigns:
     - title: Rudoltice   # individual campaigns within the group
       categoryUid: rudoltice
+    - title: Hlinsko   # individual campaigns within the group
+      categoryUid: hlinsko

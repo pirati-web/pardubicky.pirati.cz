@@ -47,10 +47,9 @@
   uid: rudoltice
   coa: https://upload.wikimedia.org/wikipedia/commons/7/76/Znak_obce_Rudoltice.gif
 - locality: Hlinsko
-  type: external
+  type: local
   uid: hlinsko
   coa: https://upload.wikimedia.org/wikipedia/commons/9/95/Hlinsko_znak.gif
-  note: Detaily o naší kandidatuře připravujeme.
 - locality: Heřmanův Městec
   type: external
   uid: hermanuv.mestec
