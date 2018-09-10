@@ -29,6 +29,8 @@ main:
       - link: /volby-2018/rudoltice/
         name: Rudoltice
         match: rudoltice
+      - link: /volby-2018/hlinsko/
+        name: Hlinsko
   - link: /kontakt/
     name: Kontakt
     match: kontakt
