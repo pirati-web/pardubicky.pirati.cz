@@ -54,15 +54,15 @@
   type: external
   uid: hermanuv.mestec
   coa: https://upload.wikimedia.org/wikipedia/commons/c/c0/Hermanuv_Mestec_CZ_CoA.gif
-  candidateListLink: https://volby.cz/pls/kv2018/kv21111?xjazyk=CZ&xid=1&xv=12&xdz=2&xnumnuts=5301&xobec=571385&xstrana=720
   link: https://www.facebook.com/piratihm/
+  candidateListLink: https://volby.cz/pls/kv2018/kv21111?xjazyk=CZ&xid=1&xv=12&xdz=2&xnumnuts=5301&xobec=571385&xstrana=720
 - locality: Červená Voda
   type: external
   uid: cervena.voda
   coa: https://upload.wikimedia.org/wikipedia/commons/d/d4/Červená_Voda.svg
   link: http://www.procervenouvodu.cz/
   programLink: http://www.procervenouvodu.cz/
-  candidateLink: http://www.procervenouvodu.cz/
+  candidateListLink: http://www.procervenouvodu.cz/
 - locality: Chrast
   type: external
   uid: chrast
