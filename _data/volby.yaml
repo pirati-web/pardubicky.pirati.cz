@@ -54,24 +54,31 @@
   type: external
   uid: hermanuv.mestec
   coa: https://upload.wikimedia.org/wikipedia/commons/c/c0/Hermanuv_Mestec_CZ_CoA.gif
-  note: Detaily o naší kandidatuře připravujeme.
+  candidateListLink: https://volby.cz/pls/kv2018/kv21111?xjazyk=CZ&xid=1&xv=12&xdz=2&xnumnuts=5301&xobec=571385&xstrana=720
+  link: https://www.facebook.com/piratihm/
 - locality: Červená Voda
   type: external
   uid: cervena.voda
   coa: https://upload.wikimedia.org/wikipedia/commons/d/d4/Červená_Voda.svg
-  note: Detaily o naší kandidatuře připravujeme.
+  link: http://www.procervenouvodu.cz/
+  programLink: http://www.procervenouvodu.cz/
+  candidateLink: http://www.procervenouvodu.cz/
 - locality: Chrast
   type: external
   uid: chrast
   coa: https://upload.wikimedia.org/wikipedia/commons/e/e9/Znak_m%C4%9Bsta_Chrast.jpg
-  note: Detaily o naší kandidatuře připravujeme.
+  link: https://www.facebook.com/ceskapiratskastranachrast/
+  candidateListLink: https://volby.cz/pls/kv2018/kv21111?xjazyk=CZ&xid=1&xv=12&xdz=2&xnumnuts=5301&xobec=571539&xstrana=720
 - locality: Polička
   type: external
   uid: policka
   coa: https://upload.wikimedia.org/wikipedia/commons/c/cf/Poli%C4%8Dka_CoA_CZ.svg
-  note: Detaily o naší kandidatuře připravujeme.
+  candidateList: https://volby.cz/pls/kv2018/kv21111?xjazyk=CZ&xid=1&xv=12&xdz=2&xnumnuts=5303&xobec=578576&xstrana=720
+  link: https://www.facebook.com/NEZAVISLIPiratiPolicka/
 - locality: Sezemice
   type: external
   uid: sezemice
   coa: https://upload.wikimedia.org/wikipedia/commons/b/ba/Sezemice-znak-mesta.png
-  note: Detaily o naší kandidatuře připravujeme.
+  link: https://www.facebook.com/groups/399403130522768/
+  candidateList: https://volby.cz/pls/kv2018/kv21111?xjazyk=CZ&xid=1&xv=12&xdz=2&xnumnuts=5302&xobec=575640&xstrana=901
+  note: Kandidujeme na společné kandidátce <b>NEZÁVISLÍ SEZEMIC A OBCÍ</b>
