@@ -215,10 +215,10 @@ trestné činnosti.
 - V rámci prevence budeme pracovat a usilovat zejména o činnosti, jako jsou kurzy sebeobrany
 pro ženy, přednášky pro seniory a zvyšování jejich bezpečnosti, dluhové poradenství, romský
 mentoring, cizinecký mentoring, prevence rizik v prostředí internetu.
--  Je též nutné zaměřit se na změnu, která v poslední době sužuje celou Evropu, což je migrace a
-obrovský příliv agenturních zaměstnanců. Město na tuto skutečnost musí reagovat a chtěli
-bychom usilovat o zřízení komise, jejíž prací bude připravit projekt, který bude tuto problematiku
-řešit a ochrání naše životní hodnoty, které jsme historicky zdědili po předcích.
-- Zřídíme veřejné městské diskuzní fórum, kde budou mít všichni občané Hlinska možnost,
+-  Je též nutné zaměřit se na problémové agenturní zaměstnávání a ubytovny. Město na tuto
+skutečnost musí reagovat. Budeme usilovat o zřízení komise, jejíž prací bude připravit projekt,
+který bude tuto problematiku řešit a ochrání naše životní hodnoty, které jsme historicky
+zdědili po předcích. Nesmí být porušovány zákony České republiky, hygiena, revize atd.
+Zřídíme veřejné městské diskuzní fórum, kde budou mít všichni občané Hlinska možnost
 vyjádřit se svobodně k tomuto tématu a navrhnout řešení.</dd>
 </dl>
