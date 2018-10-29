@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: Piráti zakotvili v deseti obcích Pardubického kraje
-date: 2018-10-28:00:00+01:00
+date: 2018-10-28T00:00+01:00
 tags:
     - Volby
 author: Piráti Pardubického kraje
