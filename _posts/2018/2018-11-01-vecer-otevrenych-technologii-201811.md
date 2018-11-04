@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: Večer Otevřených technologii
+title: Večer Otevřených Technologií
 date: 2018-11-01T23:00:00+01:00
 tags: PaRo Linux
 author: Piráti Pardubicka
