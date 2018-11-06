@@ -1,5 +1,5 @@
 ---
-uid: les.nunvar
+uid: ales.nunvar
 name:     Aleš Nunvář		# běžně používáné jméno
 fullname: Ing. Aleš Nunvář	# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
