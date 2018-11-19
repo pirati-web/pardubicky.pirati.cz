@@ -4,10 +4,9 @@ name:     Ondřej Češík      		# běžně používáné jméno
 titles:
   before: Bc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
-  - predsednictvo
-ord_predsednictvo: 3
+  - pak
 img: people/ondrej-cesik.jpg           # 165 x 220
-description: 2. místopředseda KS Pardubický kraj  # kratký popis, max 160 znaků
+description: pirát 
 mail:
 - ondrej.cesik@pirati.cz
 mob:

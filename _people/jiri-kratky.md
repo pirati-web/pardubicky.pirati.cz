@@ -5,8 +5,10 @@ category:              	    # kategorie: rp, praha, vary, hradec, jmk, senat
 - pak
 - svitavsko
 - mpsvitavsko
+- predsednictvo
+ord_predsednictvo: 2
 img: people/jiri-kratky.jpg           # 165 x 220
-description: Člen Pirátské strany, kandidát do senátu # kratký popis, max 160 znaků
+description: 2. místopředseda KS Pardubický kraj
 ordpak:
 mail:
 - jiri.kratky@pirati.cz

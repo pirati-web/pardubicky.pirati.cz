@@ -5,9 +5,12 @@ titles:
   before: Bc.
   after:
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
-- pak
+ - pak
+ - predsednictvo
+ - kontaktni_osoba
+ord_predsednictvo: 1
 img: people/daniel-lebduska.jpg           # 165 x 220
-description: pirát # kratký popis, max 160 znaků
+description: předseda krajského sdružení Pardubického kraje			
 ordpak:
 mail:
 - daniel.lebduska@pirati.cz
