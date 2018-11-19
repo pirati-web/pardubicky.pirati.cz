@@ -12,8 +12,7 @@ description: Příznivec Pirátské strany
 candidatedesc: sociální pracovník
 ordpak: 4
 ordkomunal2018: 4
-mail:
-- null
+mail: jaroslav.lainz@pirati.cz
 mob:
 profiles:
   github:

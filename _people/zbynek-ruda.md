@@ -10,8 +10,7 @@ description: příznivec Pirátské strany
 candidatedesc: Marketingový manažer
 ordpak: 2
 ordkomunal2018: 2
-mail:
-  - null
+mail: zbynek.ruda@pirati.cz
 mob: null
 profiles:
   github: null
