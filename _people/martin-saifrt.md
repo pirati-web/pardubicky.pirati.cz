@@ -5,9 +5,11 @@ fullname: Martin Saifrt
 category:
   - pak
   - kandidat-ceskatrebova-2018
+  - predsednictvo
 img: people/martin.saifrt.jpg
-description: člen Pirátské strany
+description: 4. místopředseda KS Pardubický kraj
 candidatedesc: komunitní  pracovník
+ord_predsednictvo: 4
 ordpak: 3
 ordkomunal2018: 3
 mail:

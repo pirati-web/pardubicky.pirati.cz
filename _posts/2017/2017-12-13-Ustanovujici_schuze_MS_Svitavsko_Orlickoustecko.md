@@ -3,8 +3,8 @@ layout: post
 category: CLANKY
 title: Ustanovující schůze MS Svitavsko-Orlickoústecko
 date: 2017-12-13T12:54:00+01:00
-tags: Svitavy Ústí-nad-Orlicí místní-sdružení
-author: Piráti Svitavsko-Orlickoústecko
+tags: Svitavy MS 
+author: Piráti Svitavsko
 image: teams/svitavy-orlickoustecko.jpg #751x422
 ---
 

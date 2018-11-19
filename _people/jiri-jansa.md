@@ -4,11 +4,9 @@ name:     Jiří Jansa      		# běžně používáné jméno
 titles:
   before: Mgr.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
-  - predsednictvo
-  - kontaktni_osoba
-ord_predsednictvo: 1
+    - pak
 img: people/jiri-jansa.jpg           # 165 x 220
-description: předseda krajského sdružení Pardubického kraje			# kratký popis, max 160 znaků
+description: pirát
 mail:
 - jiri.jansa@pirati.cz
 mob:

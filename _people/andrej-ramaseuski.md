@@ -5,11 +5,11 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - pak
 - rv
 img: people/andrej-ramaseuski.jpg           # 165 x 220
-description: zástupce RV za PKS Pardubický kraj			# kratký popis, max 160 znaků
+description: zástupce RV za KS Pardubický kraj
 ordpak:
 mail:
 - andrej.ramaseuski@pirati.cz
-mob:
+mob: 605234197
 profiles:
   github:
   facebook: https://www.facebook.com/b0rmann
