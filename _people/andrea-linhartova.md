@@ -6,7 +6,7 @@ category:
   - pak
   - predsednictvo
 img: people/andrea-linhartova.jpg
-description: 4. místopředsedkyně KS Pardubický kraj
+description: 3. místopředsedkyně KS Pardubický kraj
 ord_predsednictvo: 3
 mail:
   - andrea.linhartova@pirati.cz
