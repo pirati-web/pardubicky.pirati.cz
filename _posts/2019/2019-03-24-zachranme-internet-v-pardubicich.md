@@ -7,7 +7,7 @@ tags:
     - Pardubice
     - Internet 
 author: Piráti Pardubického kraje
-image: articles/2019/zastupitele_chrudim.jpg
+image: articles/2019/rakev.jpg
 ---
 *Pardubice, 25. března 2019* – **V sobotu 23. března proběhl celoevropský protest proti Směrnici EU o autorském právu. Tato směrnice ohrožuje svobodu internetu a zavádí omezení, která se budou dotýkat nás všech.**
 
