@@ -8,7 +8,7 @@ tags:
     - EU
     - Volby
 author: Piráti Pardubického kraje
-image: articles/2019/jj-cf.jpg
+image: articles/2019/3divan.png
 ---
 
 
