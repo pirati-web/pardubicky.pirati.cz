@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: Stáhni si Ivana Bartoše ve 3D a s ním i Pirátské listy pro Pardubický kraj
-date: 2019-05-07T22:00:00+01:00
+date: 2019-05-06T20:00:00+01:00
 tags: 
     - Pardubice
     - EU
