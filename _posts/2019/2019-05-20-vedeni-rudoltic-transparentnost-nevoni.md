@@ -1,3 +1,15 @@
+---
+layout: post
+category: CLANKY
+title: Vedení Rudoltic transparentnost nevoní
+date: 2019-05-20T08:00:00+0200
+tags: 
+    - Rudoltice
+    - transparence
+author: Piráti Pardubického kraje
+image: articles/2019/rudoltice.jpg
+---
+
 Pirátští zastupitelé v Rudolticích poukazují na pochybné tendence tamního vedení obce. Místním Pirátům fungujícím v opozici ve dvoučlenném složení Ing. Vilém Jílek a Mgr. Tomáš Kolomý, se nepozdává, že vládnoucí koalice má zájem před občany tutlat investiční záměry obce, brání veřejné diskuzi a svobodnému šíření informací.
 
 Piráti navíc uvádějí, že se v případě koalice SNK Obce bez korupce a SNK Naše Rudoltice jedná pouze o účelové rozdvojení zájmově spřízněné kliky, které mělo ve volbách zvýšit šance jejich kandidátů. Ve skutečnosti tato "koalice" působí spíše jako jednotné sdružení řízené starostou Mgr. Ivo Kolomým a jeho pravou rukou místostarostkou Jolanou Kobzovou.
