@@ -1,15 +1,3 @@
----
-layout: post
-category: CLANKY
-title: Vedení Rudoltic transparentnost nevoní
-date: 2019-05-20T08:00:00+0200
-tags: 
-    - Rudoltice
-    - transparence
-author: Piráti Pardubického kraje
-image: articles/2019/rudoltice.jpg
----
-
 Pirátští zastupitelé v Rudolticích poukazují na pochybné tendence tamního vedení obce. Místním Pirátům fungujícím v opozici ve dvoučlenném složení Ing. Vilém Jílek a Mgr. Tomáš Kolomý, se nepozdává, že vládnoucí koalice má zájem před občany tutlat investiční záměry obce, brání veřejné diskuzi a svobodnému šíření informací.
 
 Piráti navíc uvádějí, že se v případě koalice SNK Obce bez korupce a SNK Naše Rudoltice jedná pouze o účelové rozdvojení zájmově spřízněné kliky, které mělo ve volbách zvýšit šance jejich kandidátů. Ve skutečnosti tato "koalice" působí spíše jako jednotné sdružení řízené starostou Mgr. Ivo Kolomým a jeho pravou rukou místostarostkou Jolanou Kobzovou.
@@ -40,7 +28,7 @@ Do třetice mají rudoltičtí Piráti problém se zneužíváním pravomocí ve
 
 Příspěvek od Pirátů do zpravodaje č. 2, autor: Tomáš Kolomý, vyšel dne 5.3.2019
 
-Příspěvek od Pirátů do zpravodaje č. 3: autor Vilém Jílek a Jan Verner, vyšel dne 7.5.2019<br>
+Příspěvek od Pirátů do zpravodaje č. 3: autor Vilém Jílek a Jan Verner, vyšel dne 7.5.2019
 
 Příspěvky jsou k dispozici v PDF vydáních Rudoltického zpravodaje z března a května.
 
@@ -48,8 +36,8 @@ Příspěvky jsou k dispozici v PDF vydáních Rudoltického zpravodaje z březn
 
 **Dne 16.4.2019 za Piráty-Rudoltice podali redakční radě příspěvek, jeho uzávěrka byla dne 20.4.2019.**
 
-Název příspěvku: „Zveřejňování článků v Rudoltickém zpravodaji"<br>
-Redakční rada Rudoltického zpravodaje rozhodla, že námi (Piráti-Rudoltice) publikované články v minulých číslech zpravodaje jsou „Stranický tisk". Redakční radu tvoří místostarostka a zastupitelka za vládnoucí stranu. Podle jejich rozhodnutí budou uveřejňovat pouze názory konkrétních zastupitelů nebo občanů, tedy konkrétního autora. Toto rozhodnutí bylo oznámeno těsně před uzávěrkou březnového zpravodaje.<br>
+Název příspěvku: „Zveřejňování článků v Rudoltickém zpravodaji"
+Redakční rada Rudoltického zpravodaje rozhodla, že námi (Piráti-Rudoltice) publikované články v minulých číslech zpravodaje jsou „Stranický tisk". Redakční radu tvoří místostarostka a zastupitelka za vládnoucí stranu. Podle jejich rozhodnutí budou uveřejňovat pouze názory konkrétních zastupitelů nebo občanů, tedy konkrétního autora. Toto rozhodnutí bylo oznámeno těsně před uzávěrkou březnového zpravodaje.
 
 **Dne 3.5.2019 poslala autorům p. místostarostka a členka redakční rady p. Jolana Kobzová k nahlédnutí připravený text do zpravodaje č. 3. K tomu si přidala vlastní vyjádření.**
 
@@ -86,7 +74,7 @@ Po dlouhé diskuzi, ještě před vlastním hlasováním, s podporou přítomný
 Starostou b yl předložen nový návrh usnesení, který byl zastupitelstvem schválen.
 
 
-**VVERZE ČÍSLO 2:
+**VERZE ČÍSLO 2:
 Návrh usnesení č. ZO/5C/11/2/2019, který nám předložili jako druhou verzi ke schválení:**
 
 „Zastupitelstvo obce Rudoltice schvaluje v souladu se zákonem č. 128/2000 Sb., o obcích, podání Žádosti o podporu na realizaci projektu „Výstavba multifunkčního sportovního hřiště na 1. sídlišti v obci Rudoltice" na p. p. č. 1560/2 a 4138/2 v k. ú. Rudoltice u Lanškrouna v rámci vyhlášené Výzvy k podávání žádostí o poskytnutí dotace v roce 2019 z podprogramu Podpora obnovy a rozvoje venkova vyhlášené Ministerstvem pro místní rozvoj podávané v rámci dotačního titulu Podpora obnovy sportovní infrastruktury."
@@ -116,7 +104,7 @@ Tedy jiný dotační titul, než byl schválen zastupitelstvem.
 
 Dne 6. května 2019 se na veřejném zasedání zastupitelstva obce hlasovalo opět o již podané žádosti o finanční podporu od ministerstva pro místní rozvoj na realizaci projektu „Výstavba veřejného víceúčelového hřiště v obci Rudoltice (tedy hřiště na 1. sídlišti)".
 
-Podaná žádost o podporu ze dne 28.2.2019 byla schválena zastupitelstvem v následující podobě:
+**Podaná žádost o podporu ze dne 28.2.2019 byla schválena zastupitelstvem v následující podobě:**
 
 1. Místem výstavby akce jsou „Patokryje"místo „Rudoltice".
 
