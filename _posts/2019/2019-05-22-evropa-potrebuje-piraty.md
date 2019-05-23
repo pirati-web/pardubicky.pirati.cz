@@ -43,8 +43,8 @@ Chceme uspět a stát se důležitou silou hájící zájmy České republiky v 
 Pojďte to tedy hodit Pirátům, protože **EVROPA POTŘEBUJE PIRÁTY!**
 
 
-
-                                                                       Martin Saifrt
+<div style="text-align: right"> Martin Saifrt </div>
+                                                                      
 
 
 
