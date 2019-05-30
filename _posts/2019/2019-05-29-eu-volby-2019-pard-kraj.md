@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: Čeští Piráti přinesou vítr do bruselských vod
+title: V Pardubickém kraji Piráti posílili, je to signál pro krajské volby
 date: 2019-05-29T21:00:00+0200
 tags: 
     - evropska-unie
@@ -9,9 +9,6 @@ tags:
 author: Piráti Pardubického kraje
 image: articles/2019/kampan_bus_volby2019.jpg
 ---
-
-
-# V Pardubickém kraji Piráti posílili, je to signál pro krajské volby
 
 **Celkový zisk Pirátů ve volbách do Evropského parlamentu v Pardubickém kraji činí 14,00 %, přičemž  u České pirátské strany v celé ČR je to 13,95 %. Jedná se o znatelný nárůst oproti eurovolbám v roce 2014, kdy jsme získali 4,67 %,  a také vzhledem k výsledku sněmovních voleb v roce 2017, kdy nás volilo 10,51 % zúčastněných voličů. Tato čísla ukazují nárůst podpory Pirátské strany a pozitivní základ pro úspěch v krajských volbách 2020.**
 
