@@ -7,7 +7,7 @@ tags:
     - evropska-unie
     - volby
 author: Piráti Pardubického kraje
-image: articles/2019/evropa_potrebuje_piraty.jpg
+image: articles/2019/kampan_bus_volby2019.jpg
 ---
 
 
