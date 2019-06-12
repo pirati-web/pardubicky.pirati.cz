@@ -7,7 +7,7 @@ tags:
     - rozhovor
     - zastupitel
 author: Piráti Pardubického kraje
-image: articles/2019/dan1.png
+image: articles/2019/rozhovory/dlebduska/dan1.png
 ---
 
 **Středeční hlášení od kormidel. 
