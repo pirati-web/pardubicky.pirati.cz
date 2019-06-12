@@ -1,0 +1,127 @@
+---
+layout: post
+category: CLANKY
+title: Středeční hlášení od kormidel - Daniel Lebduška
+date: 2019-06-12T21:00:00+0200
+tags: 
+    - rozhovor
+    - zastupitel
+author: Piráti Pardubického kraje
+image: articles/2019/dan1.png
+---
+
+Středeční hlášení od kormidel. 
+Tak se jmenuje nový seriál rozhovorů s našimi zastupiteli v Pardubickém 
+kraji. Každou středu vám budeme přinášet zajímavé rozhovory s lidmi, 
+kteří pracují pro vaše města a jsou součástí Pirátské strany.
+
+
+Prvním pirátským zastupitelem, kterého
+ jsme vyzpovídali, je Daniel Lebduška. Dan je mimo jiné i předsedou 
+krajského sdružení a dlouhodobým členem Pirátů.
+
+
+
+Dane, představ se nám.
+
+
+Jsem otec tří dětí, i maželku mám. A 
+zrovna teď pro ně ve volných chvílích stavím vlastními silami na zahradě
+ bazén. Pracuji jako výkonný ředitel mezinárodní společnosti.  Abych 
+toho neměl málo, tak do toho ještě podnikám jako marketingový konzultant
+ a provozuji internetový obchod. No, a když si už udělám volno, tak si 
+jako fanoušek piva,  vařím pro sebe vlastní pivo. Je to můj velký 
+koníček, o kterém toho dokážu napovídat hodiny.
+
+
+Jak hodnotíš situaci ve světě?
+
+
+Je skvělý, že si můžeme užívat nejdelší 
+období míru, které kdy v Evropě v novodobých dějinách bylo. Byl bych 
+rád, kdyby se v tomhle nic zásadního neměnilo. Ale bohužel je na světě 
+mnoho vládců, kteří si myslí, že jejich názor je ten pravý a kolem toho 
+vzniká zbytečné tření. V poslední době můžeme vidět toto tření mezi 
+Čínou a Spojenými státy. Mezi těmito velmocemi probíhá obchodní válka, 
+která by se časem mohla rozrůst do rozsáhlejších konfliktů, a to nikdo z
+ nás nechce.
+
+
+Na druhou stranu zase vidím, že se 
+snižuje počet lidí, kteří žijí v extrémní chudobě.  Zlepšil se přístup k
+ pitné vodě a celkově, díky ekonomickému růstu, se lidé mají lépe.
+
+
+Jak vnímáš život v naší republice?
+
+
+Včera byla demonstrace na Václavském 
+náměstí v Praze, že? Samozřejmě, že vím o co jde. “A je to velký 
+špatný,” slovy jedné věštkyně. Spousta lidí tuto situaci nazývá 
+agrofertizací naší země. Bojím se, že tento proces je v pokročilé fázi. 
+Začalo to před několika lety s kontrolním hlášením ohledně DPH. Finanční
+ úřad tak získal přístup k veškerým vazbám, které daná firma měla a má. 
+Jen pro připomenutí: v té době byl současný premiér ministrem financí. 
+Pokud někdo chce najít firmu, které se úplně nedaří. Dostal úžasný 
+nástroj, jak si zjistí její finanční situaci a případně ji může i 
+převzít. Je špatně, když se tímto způsobem soukromá sféra protíná s 
+veřejnou správou.
+
+
+Abych nebyl úplně negativní, tak jako 
+pivař, musím říct, že v se v naší zemi v poslední době daří malému 
+pivovarnictví. Možná se to zdá jako malichernost, ale mám opravdu radost
+ z toho, že můžeme ochutnat různá piva. Jak jsem ti na začátku říkal, 
+sám pivo vařím.  Co si budeme povídat, tento lahodný mok patří k naší 
+kultuře a je určitě dobré toto odvětví podporovat.
+
+
+{% asset 'articles/2019/dan3pivo.jpg' magick:resize='751x422^' 
+magick:gravity='center' magick:crop='751x422+0+0' alt='Daniel Lebduska' 
+%}
+
+
+Jak se změnil Tvůj život poté, co jsi se stal zastupitelem města Chrudim?
+
+
+Abych řekl pravdu, tak jsem žádnou 
+zásadní změnu nepocítil. Nevím jestli to má někdo jinak, ale až na 
+několik hejtů v místních médiích, které nese těžce především moje žena, 
+nic výrazného nepociťuju. Chodím dál s kamarády na badminton, chodím do 
+práce a funguji stejně. Na druhou stranu mi ale přibyla spousta starostí
+ a pročítání materiálů do zastupitelstva. Jsem členem finančního výboru a
+ někdy je těch informací opravdu hodně. Čtení těchto dokumentů mi zabírá
+ hodně času, ale vnímám to pozitivně. Tohle jsem vždycky chtěl! Být u 
+toho rozhodování a díky přístupu k infomacím,  můžu aktivně pomáhat, aby
+ město Chrudim bylo ještě lepší.
+
+
+Jako podnikatel vnímám, že podpora 
+podnikání je důležitá. Chrudim je druhé největší město Pardubického 
+kraje.  Vidím mnoho lidí, kteří mají dobré nápady a mohli by být 
+přínosem pro Chrudim. Oni ale raději odcházejí do sousedních Pardubic. 
+Tohle je podle mě špatně a byl bych rád, kdybychom s tím v brzké době 
+něco udělali.
+
+
+{% asset 'articles/2019/dan2.jpg' magick:resize='751x422^' 
+magick:gravity='center' magick:crop='751x422+0+0' alt='Daniel Lebduska' 
+%}
+
+
+Co by si vzkázal našim voličům a sympatizantům?
+
+
+Má smysl Piráty volit. Je skvělý, že s 
+námi přichází nová generace politiků, kteří na radnice přinášejí nové 
+nápady a inspiraci. Je to tak správné, protože mnoho zastupitelů, kteří 
+jsou v samosprávě přes dvacet let se, podle mě, nechali zavalit 
+úřednickým šimlem.  Nedokáží v některých  případech adekvátně reagovat 
+na dnešní dobu, na druhou stranu to kompenzují svými letitými 
+zkušenostmi, které jsou nesporné.
+
+
+{% asset 'articles/2019/dan5.jpg' magick:resize='751x422^' 
+magick:gravity='center' magick:crop='751x422+0+0' alt='Daniel Lebduska' 
+%}
+
