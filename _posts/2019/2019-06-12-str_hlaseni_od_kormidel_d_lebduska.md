@@ -10,15 +10,15 @@ author: Piráti Pardubického kraje
 image: articles/2019/dan1.png
 ---
 
-Středeční hlášení od kormidel. 
+**Středeční hlášení od kormidel. 
 Tak se jmenuje nový seriál rozhovorů s našimi zastupiteli v Pardubickém 
 kraji. Každou středu vám budeme přinášet zajímavé rozhovory s lidmi, 
-kteří pracují pro vaše města a jsou součástí Pirátské strany.
+kteří pracují pro vaše města a jsou součástí Pirátské strany.**
 
 
-Prvním pirátským zastupitelem, kterého
+*Prvním pirátským zastupitelem, kterého
  jsme vyzpovídali, je Daniel Lebduška. Dan je mimo jiné i předsedou 
-krajského sdružení a dlouhodobým členem Pirátů.
+krajského sdružení a dlouhodobým členem Pirátů.*
 
 
 
@@ -34,7 +34,7 @@ jako fanoušek piva,  vařím pro sebe vlastní pivo. Je to můj velký
 koníček, o kterém toho dokážu napovídat hodiny.
 
 
-Jak hodnotíš situaci ve světě?
+**Jak hodnotíš situaci ve světě?**
 
 
 Je skvělý, že si můžeme užívat nejdelší 
@@ -52,7 +52,7 @@ snižuje počet lidí, kteří žijí v extrémní chudobě.  Zlepšil se přís
  pitné vodě a celkově, díky ekonomickému růstu, se lidé mají lépe.
 
 
-Jak vnímáš život v naší republice?
+**Jak vnímáš život v naší republice?**
 
 
 Včera byla demonstrace na Václavském 
@@ -76,12 +76,12 @@ sám pivo vařím.  Co si budeme povídat, tento lahodný mok patří k naší
 kultuře a je určitě dobré toto odvětví podporovat.
 
 
-{% asset 'articles/2019/dan3pivo.jpg' magick:resize='751x422^' 
+{% asset 'articles/2019/rozhovory/dlebduska/dan3pivo.jpg' magick:resize='751x422^' 
 magick:gravity='center' magick:crop='751x422+0+0' alt='Daniel Lebduska' 
 %}
 
 
-Jak se změnil Tvůj život poté, co jsi se stal zastupitelem města Chrudim?
+**Jak se změnil Tvůj život poté, co jsi se stal zastupitelem města Chrudim?**
 
 
 Abych řekl pravdu, tak jsem žádnou 
@@ -104,12 +104,12 @@ Tohle je podle mě špatně a byl bych rád, kdybychom s tím v brzké době
 něco udělali.
 
 
-{% asset 'articles/2019/dan2.jpg' magick:resize='751x422^' 
+{% asset 'articles/2019/rozhovory/dlebduska/dan2.jpg' magick:resize='751x422^' 
 magick:gravity='center' magick:crop='751x422+0+0' alt='Daniel Lebduska' 
 %}
 
 
-Co by si vzkázal našim voličům a sympatizantům?
+**Co by si vzkázal našim voličům a sympatizantům?**
 
 
 Má smysl Piráty volit. Je skvělý, že s 
@@ -121,7 +121,7 @@ na dnešní dobu, na druhou stranu to kompenzují svými letitými
 zkušenostmi, které jsou nesporné.
 
 
-{% asset 'articles/2019/dan5.jpg' magick:resize='751x422^' 
+{% asset 'articles/2019/rozhovory/dlebduska/dan5.jpg' magick:resize='751x422^' 
 magick:gravity='center' magick:crop='751x422+0+0' alt='Daniel Lebduska' 
 %}
 
