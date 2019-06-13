@@ -25,13 +25,13 @@ krajského sdružení a dlouhodobým členem Pirátů.*
 Dane, představ se nám.
 
 
-Jsem otec tří dětí, i maželku mám. A 
+Starám se o tři děti, i manželku mám. A 
 zrovna teď pro ně ve volných chvílích stavím vlastními silami na zahradě
  bazén. Pracuji jako výkonný ředitel mezinárodní společnosti.  Abych 
 toho neměl málo, tak do toho ještě podnikám jako marketingový konzultant
  a provozuji internetový obchod. No, a když si už udělám volno, tak si 
-jako fanoušek piva,  vařím pro sebe vlastní pivo. Je to můj velký 
-koníček, o kterém toho dokážu napovídat hodiny.
+jako fanoušek piva, vařím pro sebe vlastní pivo. Je to můj velký 
+koníček, o kterém dokážu povídat hodiny.
 
 
 **Jak hodnotíš situaci ve světě?**
@@ -47,9 +47,9 @@ která by se časem mohla rozrůst do rozsáhlejších konfliktů, a to nikdo z
  nás nechce.
 
 
-Na druhou stranu zase vidím, že se 
+Na druhou stranu zase vidím, že se ve světě
 snižuje počet lidí, kteří žijí v extrémní chudobě.  Zlepšil se přístup k
- pitné vodě a celkově, díky ekonomickému růstu, se lidé mají lépe.
+ pitné vodě a celkově, díky globálnímu ekonomickému růstu, se snad lidé mají lépe.
 
 
 **Jak vnímáš život v naší republice?**
@@ -62,10 +62,9 @@ agrofertizací naší země. Bojím se, že tento proces je v pokročilé fázi.
 Začalo to před několika lety s kontrolním hlášením ohledně DPH. Finanční
  úřad tak získal přístup k veškerým vazbám, které daná firma měla a má. 
 Jen pro připomenutí: v té době byl současný premiér ministrem financí. 
-Pokud někdo chce najít firmu, které se úplně nedaří. Dostal úžasný 
-nástroj, jak si zjistí její finanční situaci a případně ji může i 
-převzít. Je špatně, když se tímto způsobem soukromá sféra protíná s 
-veřejnou správou.
+Ministerstvo financí tak získalo nástroj, jak si zjistit finanční situaci 
+všech firem - můžeme polemizovat o to, zda už tady nenastal střet zájmů. Je 
+špatně, když se tímto způsobem soukromá sféra protíná s veřejnou správou.
 
 
 Abych nebyl úplně negativní, tak jako 
@@ -96,12 +95,12 @@ toho rozhodování a díky přístupu k infomacím,  můžu aktivně pomáhat, a
  město Chrudim bylo ještě lepší.
 
 
-Jako podnikatel vnímám, že podpora 
+Jako drobný podnikatel vnímám, že podpora 
 podnikání je důležitá. Chrudim je druhé největší město Pardubického 
 kraje.  Vidím mnoho lidí, kteří mají dobré nápady a mohli by být 
-přínosem pro Chrudim. Oni ale raději odcházejí do sousedních Pardubic. 
-Tohle je podle mě špatně a byl bych rád, kdybychom s tím v brzké době 
-něco udělali.
+přínosem pro Chrudim. Oni ale raději odcházejí do sousedních Pardubic, 
+nebo úplně pryč z našeho kraje. Tohle je podle mě špatně a byl bych rád, 
+kdybychom s tím v brzké době něco udělali.
 
 
 {% asset 'articles/2019/rozhovory/dlebduska/dan2.jpg' magick:resize='751x422^' 
@@ -117,7 +116,7 @@ námi přichází nová generace politiků, kteří na radnice přinášejí nov
 nápady a inspiraci. Je to tak správné, protože mnoho zastupitelů, kteří 
 jsou v samosprávě přes dvacet let se, podle mě, nechali zavalit 
 úřednickým šimlem.  Nedokáží v některých  případech adekvátně reagovat 
-na dnešní dobu, na druhou stranu to kompenzují svými letitými 
+na výzvy 21. století, na druhou stranu to kompenzují svými letitými 
 zkušenostmi, které jsou nesporné.
 
 
