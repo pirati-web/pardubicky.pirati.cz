@@ -6,7 +6,7 @@ date: 2019-06-14T21:00:00+0200
 tags: 
     - den-krve
 author: Piráti Pardubického kraje
-image: articles/2019/sv_Den_darcu_krve.png
+image: articles/2019/sv_den_darcu_krve.png
 ---
 
 
