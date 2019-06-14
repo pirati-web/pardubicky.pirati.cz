@@ -6,7 +6,7 @@ date: 2019-06-14T21:00:00+0200
 tags: 
     - den-krve
 author: Piráti Pardubického kraje
-image: articles/2019/rozhovory/dlebduska/dan1.png
+image: articles/2019/sv_Den_darcu_krve.png
 ---
 
 
@@ -20,8 +20,7 @@ Zeptali jsme se některých z nich.
 
 Krev a krevní plazma jsou v lékařství nenahraditelné nejenom pro přímé transfúze, ale i pro výrobu léků pro pacienty s poruchami imunity či krevní srážlivosti. Skutečně tak darování zachraňuje či zlepšuje životy lidí, kteří měli menší štěstí na zdraví než já. A znáte přísloví: Kdo zachrání lidský život, jakoby zachránil celý svět. Proto mám  za sebou 70 odběrů a dál budu chodit pravidelně darovat.
 
-(FOTO fm.png)
-{% asset 'articles/2019/lide/fm.png' magick:resize='751x422^' 
+{% asset 'articles/lide/fm.png' magick:resize='751x422^' 
 magick:gravity='center' magick:crop='751x422+0+0' alt='Filip Mezera' 
 %}
 
@@ -35,8 +34,7 @@ Několikrát jsem byl darovat i společně se svou ženou Nikolou.
 
 Darovat krev jsem začala ještě před prvním porodem, tedy před rokem 2012. Šla jsem do toho především proto, že mám krevní skupinu 0+ , a tak je moje krev přijatelná pro většinu lidí. Zvažovala jsem i dárcovství krevní plazmy, ale k tomu potřebují sparing partnera- třeba se odhodlám společně s manželem Pavlem. S tím jsem absolvovala i poslední 3 darování krve. Z dárcovství mám nejen dobrý pocit, ale zároveň to prospívá mému tělu po fyzické stránce. Chci darovat i nadále. Má to smysl.
 
-(FOTO pAn.png)
-{% asset 'articles/2019/lide/nap.png' magick:resize='751x422^' 
+{% asset 'articles/lide/pAn.png' magick:resize='751x422^' 
 magick:gravity='center' magick:crop='751x422+0+0' alt='Nikola a Pavel Stepankovi' 
 %}
 
@@ -44,7 +42,7 @@ magick:gravity='center' magick:crop='751x422+0+0' alt='Nikola a Pavel Stepankovi
 
 Pravidelně daruji krev asi od roku 2012 a mám za sebou 16 odběrů. Jsem rád, že i moje krev může někomu pomoci například po autonehodě nebo operaci. Zároveň vnímám jako pozitivní i to, že jsem díky krevním testům a lékařské kontrole před odběrem pravidelně v obraze, jak jsem na tom se svým zdravím. S odběry chci pokračovat i nadále.
 
-{% asset 'articles/2019/lide/an.png' magick:resize='751x422^' 
+{% asset 'articles/lide/an.png' magick:resize='751x422^' 
 magick:gravity='center' magick:crop='751x422+0+0' alt='Ales Nunvar' 
 %}
 
