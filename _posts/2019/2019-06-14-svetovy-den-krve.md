@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: Světový den krve
-date: 2019-06-14T21:00:00+0200
+date: 2019-06-14T01:00:00+0200
 tags: 
     - den-krve
 author: Piráti Pardubického kraje
