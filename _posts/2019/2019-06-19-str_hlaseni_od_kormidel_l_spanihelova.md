@@ -23,7 +23,6 @@ V současné době jsem na mateřské dovolené, která mi bude končit v dubnu 
 
 Poté jsem potkala svého muže a odstěhovala se do Pardubic, kde jsem dodnes. Kromě výchovy svých dětí se v Pardubicích aktivně zapojuji do občanského a společenského dění. Jsem také náruživou čtenářkou a návštěvnicí výstav – mým favoritem je znovuobjevený Josef Váchal. Ráda také sbírám houby a miluji práci na zahradě.
 
-FOTO lenka2.jpg
 {% asset 'articles/2019/rozhovory/lspanihelova/lenka2.jpg' magick:resize='751x422^' 
 magick:gravity='center' magick:crop='751x422+0+0' alt='Lenka Spanihelova' 
 %}
@@ -45,7 +44,6 @@ Další změnou, kterou opravdu vnímám, je to, že už nejsem jen ta máma, kt
 
 Jako zastupitelka a občanka Pardubic mám od mnoha lidí zpětnou vazbu, že jako piráti jsme do pardubické politiky přinesli nový svěží vítr, který tu byl potřeba. Mnoho lidí je překvapeno z toho, že jsme opravdu transparentní a máme veřejné schůze, na kterých dáváme prostor občanům přijít a říct svůj názor.
 
-FOTO lenka3.jpg
 {% asset 'articles/2019/rozhovory/lspanihelova/lenka3.jpg' magick:resize='751x422^' 
 magick:gravity='center' magick:crop='751x422+0+0' alt='Lenka Spanihelova' 
 %}
@@ -53,8 +51,6 @@ magick:gravity='center' magick:crop='751x422+0+0' alt='Lenka Spanihelova'
 **Co bys vzkázala našim voličům a občanům?**
 
 Přeji si, aby se nám dařilo naslouchat veřejnosti, to záleží hlavně na lidech samotných. Je potřeba, aby nám občané svůj názor dali vědět a nerezignovali na to, že to nemá smysl. Smysl to má.  Pokud se  ale věci nedozvíme, tak je změnit nedokážeme. Buďme aktivní a neztrácejme naději, protože aktivní občanská společnost je důležitou součástí demokracie, a ta funguje hlavně díky diskuzi a vzájemnému naslouchání.
-
-FOTO lenka4.jpg
 
 {% asset 'articles/2019/rozhovory/lspanihelova/lenka4.jpg' magick:resize='751x422^' 
 magick:gravity='center' magick:crop='751x422+0+0' alt='Lenka Spanihelova' 
