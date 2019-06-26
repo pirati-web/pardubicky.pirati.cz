@@ -7,7 +7,7 @@ tags:
     - rozhovor
     - zastupitel
 author: Piráti Pardubického kraje
-image: articles/2019/rozhovory/vfadrny/vojta1.jpg
+image: articles/2019/rozhovory/vfadrny/vojta1.png
 ---
 
 **Středeční hlášení od kormidel.  Je tu další díl seriálu rozhovorů s našimi zastupiteli v Pardubickém kraji. Každou středu Vám přinášíme zajímavé rozhovory s Piráty pracujícími pro naše města.**
