@@ -8,8 +8,7 @@ tags:
 author: Piráti Pardubického kraje
 image: articles/2019/sv_den_darcu_krve.png
 ---
-
-
+[zde](/sadasdsad)
 
 **Pátek 14.6. je Světovým dnem dárců krve. Je čas připomenout si každého z těch, kterým stojí za to jednou za čas udělat dobrou věc: Pomoci zachránit život jiným lidem.**
 
