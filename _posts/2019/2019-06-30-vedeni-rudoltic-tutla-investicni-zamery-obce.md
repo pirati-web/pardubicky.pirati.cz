@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: Vedení Rudoltic tutlá investiční záměry obce 
+title: Vedení Rudoltic tají investiční záměry obce 
 date: 2019-06-30T22:00:00+01:00
 tags: 
     - Rudoltice
