@@ -17,7 +17,7 @@ image: articles/2019/rozhovory/anunvar/anunvar1.jpg
 Vzděláním jsem strojní inženýr, původní profesí konstruktér, který se po letech praxe přeorientoval na projektový management. Rád cestuji a měl jsem to štěstí, že jsem mohl pobývat v zahraničí jak studijně, tak pracovně. Koníčků mám víc, ale za všechny zmíním jógu, která mi už léta zlepšuje život. I proto vedu kurzy jógy a meditací pro veřejnost. Také provozuji psychoterapii, která mě velmi baví a studuji ji. Jsem ženatý a s rodinou a psem si spokojeně žijeme v malém domku v Chrudimi. 
 
 {% asset 'articles/2019/rozhovory/anunvar/anunvar2.jpg' magick:resize='751x422^' 
-magick:gravity='center' magick:crop='751x422+0+0' alt='Aleš Nunvář'}
+magick:gravity='center' magick:crop='751x422+0+0' alt='Aleš Nunvář' %}
 
 **Jak vnímáš život v naší republice?**
 
@@ -25,7 +25,7 @@ Pozitivně. Z globálního pohledu máme velké štěstí, kde jsme narodili. Ž
 Ekonomicky a politicky máme štěstí též. Oceňuji to o to víc, že si čas před sametovou revolucí, byť očima dítěte, pamatuji. To ale neznamená, že si neuvědomuji složitost období, kterým jako stát aktuálně procházíme. Na jedné straně vidíme prezidenta, který nedodržuje ústavu, na straně druhé trestně stíhaného premiéra. To jsou věci, se kterými zásadně nesouhlasím. Ale já vidím i pozitivní aspekty současné společnosti. Je to zejména vzestup občanské společnosti a obroda politiky jako takové, a to hlavně mezi mladšími lidmi. Vždyť rozmach Pirátů je toho nejlepším důkazem.
 
 {% asset 'articles/2019/rozhovory/anunvar/anunvar3.jpg' magick:resize='751x422^' 
-magick:gravity='center' magick:crop='751x422+0+0' alt='Aleš Nunvář'}
+magick:gravity='center' magick:crop='751x422+0+0' alt='Aleš Nunvář' %}
 
 **Jak se změnil Tvůj život poté, co jsi se stal místostarostou Chrudimi?**
 
@@ -33,7 +33,7 @@ No hodně. Již z mých minulých zaměstnání jsem byl na pracovní vytížen
 Jsem samozřejmě nadšený z toho, co se nám v Chrudimi povedlo. Vděčíme za to jak Pirátům na celostátní úrovni, tak i nasazení přímo zde ve městě. Z nejbližších kolegů musím zmínit především Pavla Štěpánka. Máme možnost spoustu věcí pozitivně ovlivnit, změnit či nastartovat. Osobně bojuji především s vlastním perfekcionismem, protože všechno nelze změnit hned. Musím se učit trpělivosti i brát ohled na vlastní síly.
 
 {% asset 'articles/2019/rozhovory/anunvar/anunvar4.jpg' magick:resize='751x422^' 
-magick:gravity='center' magick:crop='751x422+0+0' alt='Aleš Nunvář'}
+magick:gravity='center' magick:crop='751x422+0+0' alt='Aleš Nunvář' %}
 
 **Jak se Ti žije v Chrudimi?**
 
@@ -46,4 +46,4 @@ Především děkuji občanům za důvěru a podporu v tom, že změna v Chrudim
 Protože my jsme ta generace, která může přispět k pozitivní změně. A jak se říká, my jsme Ti, na které jsme čekali. A samo se to neudělá. Kontaktujte nás a domluvíme se, jak můžete být platní i vy. Kontakt na mě je *ales.nunvar@pirati.cz* a mobil *608 530 251*. Díky a ahoj!
 
 {% asset 'articles/2019/rozhovory/anunvar/anunvar5.jpg' magick:resize='751x422^' 
-magick:gravity='center' magick:crop='751x422+0+0' alt='Aleš Nunvář'}
+magick:gravity='center' magick:crop='751x422+0+0' alt='Aleš Nunvář'%}
