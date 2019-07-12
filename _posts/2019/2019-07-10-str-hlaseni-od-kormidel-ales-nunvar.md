@@ -26,6 +26,7 @@ Ekonomicky a politicky máme štěstí též. Oceňuji to o to víc, že si čas
 
 {% asset 'articles/2019/rozhovory/anunvar/anunvar3.jpg' magick:resize='751x422^' 
 magick:gravity='center' magick:crop='751x422+0+0' alt='Aleš Nunvář' %}
+*Autor fotografie Šimon Skála*
 
 **Jak se změnil Tvůj život poté, co jsi se stal místostarostou Chrudimi?**
 
