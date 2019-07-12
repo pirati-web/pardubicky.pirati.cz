@@ -17,7 +17,7 @@ image: articles/2019/rozhovory/anunvar/anunvar1.jpg
 Vzděláním jsem strojní inženýr, původní profesí konstruktér, který se po letech praxe přeorientoval na projektový management. Rád cestuji a měl jsem to štěstí, že jsem mohl pobývat v zahraničí jak studijně, tak pracovně. Koníčků mám víc, ale za všechny zmíním jógu, která mi už léta zlepšuje život. I proto vedu kurzy jógy a meditací pro veřejnost. Také provozuji psychoterapii, která mě velmi baví a studuji ji. Jsem ženatý a s rodinou a psem si spokojeně žijeme v malém domku v Chrudimi. 
 
 {% asset 'articles/2019/rozhovory/anunvar/anunvar2.jpg' magick:resize='751x422^' 
-magick:gravity='center' magick:crop='751x422+0+0' alt='Aleš Nunvář%}
+magick:gravity='center' magick:crop='751x422+0+0' alt='autor fotografie Šimon Skála%}
 
 **Jak vnímáš život v naší republice?**
 
