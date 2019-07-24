@@ -4,8 +4,8 @@ category: CLANKY
 title: Piráti v Pardubickém kraji hledají koordinátora
 date: 2019-07-24T14:00:00+0200
 tags: 
-    - vyberove rizeni
-    - koordinator kraje
+    - vyberove-rizeni
+    - koordinator-kraje
 author: Piráti Pardubického kraje
 image: plavba/lod_2.png
 ---
