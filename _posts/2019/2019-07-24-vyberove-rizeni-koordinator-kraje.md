@@ -28,4 +28,4 @@ možnost seberealizace a zapojení vlastní kreativity
 neomezený telefonní tarif s internetem
 vhodné i pro studenty
 
-**Bližší informace naleznete a možnost přihlášení naleznete** [zde](http://www.lmcg2.com/pd/1398334254/?rps=202&fbclid=IwAR3_W1mpHPTMZy25z5iys9WXx5HAOyTvbn6I120YIwz27r16E02o9AyBXbc)
+**Bližší informace naleznete a možnost přihlášení naleznete** [zde](http://www.lmcg2.com/pd/1398334254)
