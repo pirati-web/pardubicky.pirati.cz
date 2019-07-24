@@ -28,6 +28,7 @@ Možná tak i fungujeme, ale proč to tak je, nevím. 90% usnesení schvalujeme 
 
 {% asset 'articles/2019/rozhovory/lvevodova/lvevodova3.jpg' magick:resize='751x422^' 
 magick:gravity='center' magick:crop='751x422+0+0' alt='Líba Vévodová'%}
+
 **Jak vnímáš potenciál Pirátů do krajských voleb napřesrok? S čím byste chtěli voliče nadále oslovovat?**
 
 Zatím se potenciál Pirátů vyvíjí z mého pohledu velice dobře. Pokud se stále budeme držet pirátských zásad (býti slušným, vstřícným, pracovitým …), máme velkou šanci ve volbách výrazně uspět. Jak se oslovují voliči? Není to jen o tom být vidět, jde především o to, aby byla vidět naše práce pro občana. No, a pak tu práci umět prodat. A to se nám, bohužel, ještě stále příliš nedaří. Možná nás brzdí zbytečná skromnost.
