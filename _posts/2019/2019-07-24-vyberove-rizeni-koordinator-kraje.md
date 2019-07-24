@@ -14,10 +14,13 @@ Koordinátor je hlavně manažer. Ne ten nudný manažer z korporátu, ale člov
 Hledáme organizačně schopného člověka, který fandí pirátské politice. Odměnou ti bude super tým plný lidí, kterým nejde o vlastní prospěch a upřímně se snaží tuhle republiku udělat lepším místem pro život. A soudě podle vzrůstající podpory Pirátů se jim to daří. A ty můžeš být u toho!
 
 **Nabízíme:**
+
 smlouvu na dobu neurčitou
 práci na cca 20 - 40 hodin týdně
 odměnu:
-a) 12 000 Kč měsíčně na IČO + odměna dle kvality a náročnosti splněných úkolů až do výše 5 000 Kč při 20 hodinách týdně 
+
+a) 12 000 Kč měsíčně na IČO + odměna dle kvality a náročnosti splněných úkolů až do výše 5 000 Kč při 20 hodinách týdně
+
 b) 25 000 Kč měsíčně na IČO + odměna dle kvality a náročnosti splněných úkolů až do výše 5 000 Kč při 40 hodinách týdně 
 
 práci v nejlepší politické straně na české scéně
