@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: Líba Vévodová: Piráty brzdí zbytečná skromnost
+title: Líba Vévodová - Piráty brzdí zbytečná skromnost
 date: 2019-07-24T14:00:00+0200
 tags: 
     - rozhovor
