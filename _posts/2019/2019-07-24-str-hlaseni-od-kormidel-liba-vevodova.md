@@ -38,6 +38,7 @@ Zatím se potenciál Pirátů vyvíjí z mého pohledu velice dobře. Pokud se s
 Nevím, jestli smutek nad stavem České republiky se může vydávat za názor. Lid chtěl, lid má. Podpora, kterou dostali oba pánové ve volbách, je neuvěřitelná. Stejně jako jejich politická cesta. Opírat své setrvávání ve funkcích o podporu komunistů, o občany, které si kupuji za státní peníze, o voliče, kteří fandí hrubosti a urážkám,  je podle mého názoru projev obrovské malosti. Překvapuje mě, že volič ANO pomluví souseda, že ukradl cihly na dům, a pak jde hodit volební hlas někomu, kdo zneužívá systém ve velkém.
 
 **Co bys chtěla vzkázat závěrem, na co jsme se nezeptali?**
+
 Aby nikdo z nás nezapomněl, že svobodné volby nejsou samozřejmost, ale výsada demokracie.
 
 {% asset 'articles/2019/rozhovory/lvevodova/lvevodova4.jpg' magick:resize='751x422^' 
