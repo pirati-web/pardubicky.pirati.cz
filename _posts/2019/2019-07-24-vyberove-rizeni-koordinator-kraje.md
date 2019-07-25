@@ -10,6 +10,7 @@ author: Piráti Pardubického kraje
 image: plavba/lod_2.png
 ---
 **Souzníš s pirátskou politikou a baví tě práce s lidmi? Pak hledáme právě tebe. Piráti v Pardubickém kraji totiž potřebují nového krajského koordinátora.**
+
 Koordinátor je hlavně manažer. Ne ten nudný manažer z korporátu, ale člověk plný kreativity a nápadů, jehož role je klíčová pro další růst Pirátů v Pardubickém kraji. Budeš pracovat s dobrovolníky, organizovat akce po celém kraji, pomáhat s volební kampaní a vytipovávat další příležitosti jak Piráty posunout vpřed.
 Hledáme organizačně schopného člověka, který fandí pirátské politice. Odměnou ti bude super tým plný lidí, kterým nejde o vlastní prospěch a upřímně se snaží tuhle republiku udělat lepším místem pro život. A soudě podle vzrůstající podpory Pirátů se jim to daří. A ty můžeš být u toho!
 
