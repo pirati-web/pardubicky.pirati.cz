@@ -47,7 +47,7 @@ calendar:
   # and start the app with the env var `GOOGLE_CALENDAR_APIKEY=[myapikey] bundle exec jekyll serve`.
   # For deployment, contact website administrator to set you env variable.
   title: Krajský kalendář
-  id: kddvdvu3adcjef2kro4j6mm838@group.calendar.google.com
+  id: 7r673rlh255oforhv3oeb2l0g0@group.calendar.google.com
   page: https://calendar.google.com/calendar/embed?showTitle=0&showNav=0&showDate=0&showPrint=0&showTabs=0&showCalendars=0&showTz=0&mode=AGENDA&height=500&wkst=2&hl=cs&bgcolor=%23FFFFFF&src=kddvdvu3adcjef2kro4j6mm838%40group.calendar.google.com&color=%232952A3&ctz=Europe%2FPrague
 
 facebook:
