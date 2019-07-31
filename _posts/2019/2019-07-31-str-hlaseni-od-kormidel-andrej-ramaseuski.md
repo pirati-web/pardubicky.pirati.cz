@@ -45,6 +45,7 @@ Farmářství je pro mě možnost odpočinku od mentalní práce a udělat něco
 magick:gravity='center' magick:crop='751x422+0+0' alt='Andrej Ramašeuski'%}
 
 **Je něco, na co bys chtěl odpovědět a nezeptali jsme se?** 
+
 Očekával jsem dotazy o mé učasti v komunální politice. Tak o tom něco málo řeknu. Práce s prosazovaním pirátského programu na venkově je srovnatelná s propagací veganství v komunitě kanibalů. Transparentnost je tady zařazena někam mezi dětskou pornografii a exhibicionismus. Zájem o digitalizaci končí tím, že zápisy ze zasedání zastupitelstva se píší do sešitu ručně, následně komplikovaně upravují, ale nezveřejňují.
 
 Když jsem na zastupitelstvu navrhoval omezení rozsahu rozpočtových změn provaděných starostou, tak hlavním protiargumentem bývalé starostky bylo: „Rozumí tady někdo, co po nás p. Ramašeuski chce? Proč bychom na sebe šili boudu?“. Největší chybou, kterou udělalo současné vedení obce ve vztahu ke mně, bylo pověření mě na jednom ze zasedání zastupitelstva funkcí ověřovatele zápisu. Zřejmě nečekali, že ho opravdu ověřím a porovnám s audiozáznamem. Od té doby nejsem považovaný za konstruktivní opozici.Zatím jediná věc, která se mi podařila v zastupitelstvu, bylo zrušení uvolněné pozice starosty – obec okamžitě ušetřila půl milionu korun ročně. A myslíte, že někdo tomu pirátskému rozvraceči, který sebral paní v předdůchodovém věku trafiku, za to poděkoval? :)
