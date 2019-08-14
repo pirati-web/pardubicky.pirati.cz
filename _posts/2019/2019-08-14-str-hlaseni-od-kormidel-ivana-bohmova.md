@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: Ivana Böhmová: Piráti jsou kriticky myslící lidé s odhodláním jít do politiky bez postranních zájmů
+title: Ivana Böhmová - Piráti jsou kriticky myslící lidé s odhodláním jít do politiky bez postranních zájmů
 date: 2019-08-14T14:00:00+0200
 tags: 
     - rozhovor
