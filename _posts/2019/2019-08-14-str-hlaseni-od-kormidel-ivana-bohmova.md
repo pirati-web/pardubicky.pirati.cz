@@ -44,7 +44,7 @@ Mojí výhodou je, že mám velkou oporu v rodině a děti už jsou ve věku, kd
 Pirátské centrum ParduPiCe bude středobodem dění v celém kraji - otevřený prostor pro práci, setkávání, přednášky, workshopy… Plánů máme spoustu a moc se na ně těšíme. Kromě coworkingové kanceláře, která bude fungovat trvale, se zde budou konat veškerá setkání členů. Už teď je na místě v provozu kancelář poslance Mikuláše Ferjenčíka, bude to tedy i spojovací bod s celostátní úrovní politiky. Plánujeme také přednášky na aktuální témata jako zerowaste, udržitelná móda, technologie, vzdělávání... Mezi Piráty je spousta členů, kteří mají cenné zkušenosti. I proto bude naše centrum prostorem, kde si zkušenosti můžeme předávat, a to nejen mezi námi piráty, ale i pro zájemce z řad veřejnosti. Chceme se s lidmi potkávat a být s nimi v kontaktu, díky ParduPiCe to bude zase o něco snadnější.
 
 {% asset 'articles/2019/rozhovory/ibohmova/ibohmova4.jpg' magick:resize='751x422^' 
-magick:gravity='center' magick:crop='751x422+0-200' alt='Ivana Bohmova'%}
+magick:gravity='center' magick:crop='751x422+0-150' alt='Ivana Bohmova'%}
 
 
 **Kde vidíš budoucnost Pirátů v Pardubicích, cítíš podporu od občanů?**
