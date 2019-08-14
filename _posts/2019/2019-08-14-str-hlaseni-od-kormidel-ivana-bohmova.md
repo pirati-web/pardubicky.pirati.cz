@@ -56,4 +56,4 @@ Podporu cítím z mnoha různých stran. Zdá se mi, že jsou Piráti stále mé
 Je pravda, že poslední rok moc času na koníčky nezbylo. Ale doháním to dost teď o prázdninách. Snažím se co nejvíc číst a hrát na hudební nástroje. Dřív jsem hrávala s kapelou na bicí, teď si zahraju jen občas pro radost. Taky mě baví tanec, od září plánuju obnovit svoji účast na kurzech současného tance, chce to jistou dávku time managementu, ale snad to vyjde.
 
 {% asset 'articles/2019/rozhovory/ibohmova/ibohmova5.jpg' magick:resize='751x422^' 
-magick:gravity='center' magick:crop='751x422+0+0' alt='Ivana Bohmova'%}
+magick:gravity='center' magick:crop='751x422+0-200' alt='Ivana Bohmova'%}
