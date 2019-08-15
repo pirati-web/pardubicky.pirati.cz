@@ -57,3 +57,11 @@ Je pravda, že poslední rok moc času na koníčky nezbylo. Ale doháním to do
 
 {% asset 'articles/2019/rozhovory/ibohmova/ibohmova5.jpg' magick:resize='751x422^' 
 magick:gravity='center' magick:crop='751x422+0+0' alt='Ivana Bohmova'%}
+
+K tématu:
+------------------
+* [Profil Ivany Böhmové][1]
+* [Dostupné bydlení i vzdělávání, to jsou témata pardubických pirátek][2]
+
+[1]: https://pardubicky.pirati.cz/lide/ivana-bohmova/
+[2]: https://pardubice.pirati.cz/tiskove-zpravy/dostupne-bydleni-i-vzdelavani-to-jsou-temata-pardubickych-piratek/
