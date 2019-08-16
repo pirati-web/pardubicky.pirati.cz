@@ -74,3 +74,5 @@ uzavírá Zdeněk Kubala.
 
 {% asset 'articles/2019/chrudim_lidi.jpg' magick:resize='751x422^' 
 magick:gravity='center' magick:crop='751x422+0+0' alt='Hromadne foto piratu v Chrudimi'%}
+
+*foto, zdroj facebook - Kodl CR a Piráti-Chrudim*
