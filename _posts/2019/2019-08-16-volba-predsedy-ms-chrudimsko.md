@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: Buďme důrazní, kritičtí a stůjme si za pirátskými hodnotami, říká nový šéf MS Chrudimsko Kubala
-date: 2019-08-16T14:00:00+0200
+date: 2019-08-16T10:00:00+0200
 tags: 
     - rozhovor
     - ms
