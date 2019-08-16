@@ -14,7 +14,7 @@ image: articles/2019/zkubala_ibartos.jpg
 ---
 
 **Ve vedení MS Chrudimsko došlo k personální změně, když byl namísto odstoupivšího předsedy Pavla Štěpánka 
-do čela místního sdružení dovolen IT expert se zaměřením na Linux Zdeněk Kubala. Ten je s dosavadní prací Pirátů 
+do čela místního sdružení dovolen IT expert se zaměřením na Linux [Zdeněk Kubala](https://chrudim.pirati.cz/lide/zdenek-kubala/). Ten je s dosavadní prací Pirátů 
 na Chrudimsku spokojen, ale také vidí prostor pro zlepšení. V následujícím článku přinášíme některé z jeho ambicí 
 a vizí, s nimiž do funkce přichází.**
 
