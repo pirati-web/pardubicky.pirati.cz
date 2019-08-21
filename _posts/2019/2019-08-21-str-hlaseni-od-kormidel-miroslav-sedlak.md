@@ -10,7 +10,7 @@ author: Piráti Pardubického kraje
 image: articles/2019/rozhovory/msedlak/msedlak1.png
 ---
 
-** Je Svitavákem téměř šedesát let a vstupem do komunální politiky se rozhodl měnit věci kolem sebe k lepšímu. Nejprve v rámci sdružení Naše Svitavy a následně i spojením sil se svitavskými Piráty. Nadšený sportovec a hokejový rozhodčí uznává pravidla fair play nejen na hřišti, ale také v politice, která podle něj trpí ztrátou slušnosti, lhostejností i absencí obyčejného selského rozumu.**
+**Je Svitavákem téměř šedesát let a vstupem do komunální politiky se rozhodl měnit věci kolem sebe k lepšímu. Nejprve v rámci sdružení Naše Svitavy a následně i spojením sil se svitavskými Piráty. Nadšený sportovec a hokejový rozhodčí uznává pravidla fair play nejen na hřišti, ale také v politice, která podle něj trpí ztrátou slušnosti, lhostejností i absencí obyčejného selského rozumu.**
 
 **Jak se cítíš po devíti letech v komunální politice? Vidíš v okolnostech veřejného působení za ta léta nějakou změnu?**
 
@@ -27,6 +27,7 @@ Jak jsem uvedl, mé priority jsou dlouhodobé a vyplývají z potřeb a očekáv
 Dostupné bydlení, především pro mladé rodiny, které hodlají dlouhodobě ve Svitavách žít, by mělo být nejen v gesci developerů, ale také města, které má v rukou potřebné nástroje a vlastní dokonce i vhodné pozemky. Ceny nemovitostí stále rostou a pro většinu mladých se stávají nedostupnými. Zatím se snažíme v této věci na vedení města apelovat, uvidíme jak vedení zareaguje.
 
 Jako člen dopravní komise se spolu s kolegy snažím docílit spuštění městské dopravy. V těchto týdnech dokončují odborníci první návrhy možných způsobů jejího zavedení. Byl bych velmi rád, kdyby se příští rok na jaře podařilo rozjet zkušební provoz. Zejména našim seniorům, kteří ji douhodobě žádají, by to nepochybně udělalo velkou radost. Snížení poplatků se zatím přes koalici nedaří prosadit, ač si myslím, že úleva pro občany ve vyšším věku dává smysl a byla by rozpočtově zvládnutelná. 
+
 K Rosničce jen tolik: Veřejnost loni byla svědky tragédie na tomto rybníku spojené s úhynem 10 tun ryb. O příčinách nechci spekulovat, nedostatečné plnění povinností vlastníka a jistý odklon od rekreačního využití v posledních letech mohly k vysokým teplotám a nulovému přítoku přidat také svůj díl. Na základě odborného posudku byla sjednána revitalizace rybníka odbornou firmou. Letos jsou klimatické podmínky o něco málo příznivější a s využitím přírodních prvků se prozatím daří stav napravovat. Kvalita vody je taková, jakou málokdo z pamětníků pamatuje. Zde bych rád vyzdvihl práci pana Vostřela, který si právě revitalizaci vzal za svůj “životní” úkol. Držíme mu všichni pěsti. K lepšímu vyžití přispěla nová půjčovna lodiček, ale dalo by se udělat ještě pár zlepšení, zejména v okolí pláže. Alespoň část z mých priorit se tak postupně plní a to je dobře. Rád podpořím další investice do revitalizace Rosničky místo megalomanského projektu rekonstrukce krytého bazénu s dlouhodobou zátěží pro město v řádu čtvrt milardy korun.
 
 {% asset 'articles/2019/rozhovory/msedlak/msedlak3.jpg' magick:resize='751x422^' 
