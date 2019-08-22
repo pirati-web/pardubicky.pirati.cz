@@ -54,7 +54,7 @@ Malí podnikatelé neměli a nikdy nebudou mít na růžích ustláno. Budou zpr
 Sport mě provází celým životem a to mě vždy vedlo k fair play ve sportu ale i v životnímu stylu. Dodnes jsem činný v ledním hokeji, jako rozhodčí jsem dosud odpískal více než dva a půl tisíce utkání v různých ligách. Jezdil jsem hodně na kole a s ním poznal celou okolní část Evropy. Před dvěma lety jsem ovšem propadl golfu. Nesmírně mně obohacuje a je to sport, který má své tradice, kulturu, slušnost a skvěle fungující společenské klima. Je to prostě sport gentlemanů a už dávno ne jenom snobů. Od získání způsobilosti ke hře loni v dubnu jsem si vylepšil svůj handicap z 54 na 24,2, což je snad docela slušný “zářez”. Rád bych se v příštím roce ještě trochu posunul. Nedávám si malé cíle, ale s tímto jsem už teď spokojen. Navíc vždy při hře a pohybu na hřišti naprosto skvěle relaxuji a to je rovněž velmi naplňující faktor. Zkrátka snažím se žít naplno, občas nafotím pár snímků v přírodě na cestách. Furt se něco děje.
 
 {% asset 'articles/2019/rozhovory/msedlak/msedlak4.jpg' magick:resize='751x422^' 
-magick:gravity='center' magick:crop='751x422+0-200' alt='Miroslav Sedlák'%}
+magick:gravity='center' magick:crop='751x422+0+200' alt='Miroslav Sedlák'%}
 
 K tématu:
 ------------------
