@@ -39,7 +39,7 @@ Tady se bohužel zatím zrealizovat nic nepodařilo. Ještě v minulém období
 
 To asi není otázka jen pro mě. Myslím, že se nám podařilo i po komunálních volbách „neusnout“ a dál tu myšlenku propagace Pirátů nést i do okolí. Naše schůze se konaly v různých místech okresu a určitě nám pomohlo, že se aktivně zapojil Mikuláš Fejrenčík a dodal tím i atraktivitu akci, kde je možno vidět poslance živého poslance  😊 .
 Hlavně i spolupráce členů a jejich aktivní zapojení do kampaně bylo vidět. Například Jarda Lainz roznesl tolik Pirátských listů, že se při roznosu musel snad potkat i sám se sebou  😊.I akce na Letohradské pouti s Jiřím Jansou se povedla. Tolik dětí s pirátskými balonky na jednom místě se asi hned tak neuvidí. Jen to příště chce kompresor, někteří nafukovači už časem byli hodně blízko k infarktu..
-  
+
 **Jsi aktivním příznivcem orientálních bojových umění. Jak v současnosti vypadá tvá průprava bojovníka, co fyzička a jakým způsobem můžeš zkušenosti z této oblasti zúročit v politice?**
 
 Jak jistě víš, filozofie bojových umění je o tom, že je to cesta. Už jsem na této cestě dost dlouho. Fyzička i vzhled teď možná spíše cestuje ke stylu Kung-fu panda, 😊 ale stále se snažím občas ještě protáhnout a udržovat tělo ve stavu, kdy mě poslouchá. Aktivně už nezávodím, to nechám mladším. Určité zkušenosti zúročit mohu. 
