@@ -9,7 +9,7 @@ tags:
 author: Piráti Pardubického kraje
 image: articles/2019/rozhovory/jduchacek/jduchacek1.png
 ---
-**Coby rodák z České Třebové je rád, že pro své město může pracovat i z pozice zastupitele. Není to vždy lehké a z opozičních lavic to může být ještě těžší. Byl by proto rád, kdyby se dařilo pro mladé zajistit podmínky k životu tak, aby nemuseli město opouštět. Jenže to je běh na dlouhou trať a je k tomu potřeba společná dobrá vůle všech místních politiků.**
+**Coby rodák z České Třebové je rád, že pro své město může pracovat i z pozice zastupitele. Není to vždy lehké a z opozičních lavic to může být ještě těžší. Byl by proto rád, kdyby se dařilo pro mladé zajistit podmínky k životu tak, aby nemusely město opouštět. Jenže to je běh na dlouhou trať a je k tomu potřeba společná dobrá vůle všech místních politiků.**
 
 **Do zastupitelstva v České Třebové jsi kandidoval s určitými představami. Občané ti dali důvěru, jaká je tedy realita oproti původním vizím? Daří se pirátské opozici prosazovat transparentní radnici? Jak jste na tom s participativním rozpočtováním?**
 
