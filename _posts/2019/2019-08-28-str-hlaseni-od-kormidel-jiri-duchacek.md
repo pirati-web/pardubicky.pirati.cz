@@ -21,7 +21,7 @@ Co se týká transparence, tak na tom usilovně pracujeme  a to i z opoziční
 Určitě propagovat naše nově vzniklé MS. Připravit více akcí, kde se můžou s námi občané potkat. Aby transparentnost a věci, které máme v plánu, měly i zpětnou vazbu. Přeci jen se lidé více rozpovídají na akci jako je „Pivo se zastupitelem” nebo „Vyosení“,  než na oficiální besedě s názvem „Co na participativním rozpočtu chcete změnit vy“.
 Taky změnit i standardní pohled na Piráty, který je bohužel lidem vtloukán médii. Když mi při roznosu Pirátských listů paní na ulici řekne: „ Od mladých komunistů si nic nevezmu“. Tak mě to sice polichotí, že ještě vypadám mladě, ale nemá cenu jí něco vymlouvat. Větám o „zhulených smažkách“ se v mém případě mohu jen pousmát. Proto je potřeba pro občany spíš něco udělat, a i když to není jednoduché ukázat, že chceme dělat něco pro ně a ne pro sebe.
 
-{% asset 'articles/2019/rozhovory/jduchacek/jduchacek3.jpg' magick:resize='751x422^' 
+{% asset 'articles/2019/rozhovory/jduchacek/jduchacek3.jpeg' magick:resize='751x422^' 
 magick:gravity='center' magick:crop='751x422+0+0' alt='Jiří Ducháček'%}
 
 **Aktivně jsi se v dávné minulosti podílel na budování Městské policie ve městě. Jak jsi s jejím fungováním v dnešní době spokojen? Vidíš nějakou podporu pro Piráty mezi členy bezpečnostních složek? Víš o někom, kdo by podle tebe mohl a byl ochoten odborně přispět v projektu pirátských KETů?**
@@ -45,7 +45,7 @@ Hlavně i spolupráce členů a jejich aktivní zapojení do kampaně bylo vidě
 Jak jistě víš, filozofie bojových umění je o tom, že je to cesta. Už jsem na této cestě dost dlouho. Fyzička i vzhled teď možná spíše cestuje ke stylu Kung-fu panda, 😊 ale stále se snažím občas ještě protáhnout a udržovat tělo ve stavu, kdy mě poslouchá. Aktivně už nezávodím, to nechám mladším. Určité zkušenosti zúročit mohu. 
 Léta jsem vedl a trénoval  oddíl a postupně jsem viděl, jak rosteme a získáváme i ocenění na soutěžích. A i tam nic nebylo zadarmo. Bez práce s náborem by trénování lidí, nebylo nic. Ano, je potřeba trenér a cíl, ale bez dalších trenérů a hlavně členů nejde nic budovat. A co mi asi bojová umění dala nejvíc? Vnitřní klid, neřešit věci  impulzivně ve vzteku. Ono není umění se poprat, umění je konfliktu se vyhnout bez boje. To není ostuda. A hlavně nevzdat to, jít pořád dál. Protože kde je vůle, je i cesta…..
 
-{% asset 'articles/2019/rozhovory/jduchacek/jduchacek4.jpg' magick:resize='751x422^' 
+{% asset 'articles/2019/rozhovory/jduchacek/jduchacek4.jpeg' magick:resize='751x422^' 
 magick:gravity='center' magick:crop='751x422+0+0' alt='Jiří Ducháček'%}
 
 **Máme léto. Kdo tě zná, tak ví, že k tobě patří horské kolo a jsi turistický srdcař. Kdepak už jsi letos byl, co můžeš lidem z regionu doporučit, a kam se ještě chystáš. Co houby, rostou? :)**
@@ -53,5 +53,5 @@ magick:gravity='center' magick:crop='751x422+0+0' alt='Jiří Ducháček'%}
 No tak letos jsem tomu kolu moc nedal, ale mohu určitě doporučit krásné okolí České Třebové . Je tady spousta krásných lesních cest a i pár dobrých kopečků. To by mohl potvrdit i Jaroslav Kulhavý , který pochází z Hylvát u Ústí nad Orlicí. Dalším tipem jsou nedaleké Toulovcovy maštale, kousek za Litomyšlí. Je to takový malý kousek „Českého ráje“, tady nedaleko od nás. Doporučuji výlet nejen na kole, ale i pěsky. Je tam krásně. 
 Co se týká hub, rostou, ale nějak se přede mnou schovávají :-)
 
-{% asset 'articles/2019/rozhovory/jduchacek/jduchacek6.jpg' magick:resize='751x422^' 
+{% asset 'articles/2019/rozhovory/jduchacek/jduchacek6.jpeg' magick:resize='751x422^' 
 magick:gravity='center' magick:crop='751x422+0+0' alt='Jiří Ducháček'%}
