@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: Jiří Ducháček - Chci, aby naše děti měli chuť žít tam, kde se narodili
+title: Jiří Ducháček - Chci, aby naše děti měly chuť žít tam, kde se narodili
 date: 2019-08-28T14:00:00+0200
 tags: 
     - rozhovor
