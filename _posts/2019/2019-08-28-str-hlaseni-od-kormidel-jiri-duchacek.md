@@ -14,7 +14,7 @@ image: articles/2019/rozhovory/jduchacek/jduchacek1.png
 **Do zastupitelstva v České Třebové jsi kandidoval s určitými představami. Občané ti dali důvěru, jaká je tedy realita oproti původním vizím? Daří se pirátské opozici prosazovat transparentní radnici? Jak jste na tom s participativním rozpočtováním?**
 
 I přesto, že jsme v opozici, a já nemám rád toto škatulkování, jsem do toho šel s vizí, že nám jde hlavně o město. A o to posunout ho tak, aby bylo pro obyvatele atraktivnější, modernější. Aby naše děti měly chuť zůstat tam, kde se narodily, a ne odejít hned po škole radši pryč. Proto se snažíme spolupracovat se všemi bez rozdílu, zda je to koalice nebo opozice. Spíš je naším cílem posouvat věci dál a zlepšit je. Nechceme jen kritizovat a bourat to dobré, co se udělalo, jen proto, že jsme s tím nezačali my. 
-Co se týká transparence, tak na tom usilovně pracujeme  a to i z opozičních pozic.  Po dohodě došlo k zřízení elektronického hlasovacího zařízení. Shodli jsme se i na možném provedení „rozklikávacího rozpočtu“ a  další věci se postupně snažíme pomalu posouvat kupředu.
+Co se týká transparence, tak na tom usilovně pracujeme, a to i z opozičních pozic.  Po dohodě došlo k zřízení elektronického hlasovacího zařízení. Shodli jsme se i na možném provedení „rozklikávacího rozpočtu“ a  další věci se postupně snažíme pomalu posouvat kupředu.
 
 **Jaké vidíš pro Piráty největší výzvy ve městě do budoucna a jaký bys předpověděl jejich vývoj?**
 
@@ -37,7 +37,7 @@ Tady se bohužel zatím zrealizovat nic nepodařilo. Ještě v minulém období
 
 **Při pohledu na interaktivní mapy volebních výsledků po eurovolbách jsou výsledky Pirátů na Českotřebovsku, potažmo Ústeckoorlicku, imponující. Co stojí za volebními úspěchy v tolika malých obcích, čím se nám daří občany oslovovat?**
 
-To asi není otázka jen pro mě. Myslím, že se nám podařilo i po komunálních volbách „neusnout“ a dál tu myšlenku propagace Pirátů nést i do okolí. Naše schůze se konaly v různých místech okresu a určitě nám pomohlo, že se aktivně zapojil Mikuláš Fejrenčík a dodal tím i atraktivitu akci, kde je možno vidět poslance živého poslance  😊 .
+To asi není otázka jen pro mě. Myslím, že se nám podařilo i po komunálních volbách „neusnout“ a dál tu myšlenku propagace Pirátů nést i do okolí. Naše schůze se konaly v různých místech okresu a určitě nám pomohlo, že se aktivně zapojil Mikuláš Fejrenčík a dodal tím i atraktivitu akci, kde je možno vidět živého poslance  😊 .
 Hlavně i spolupráce členů a jejich aktivní zapojení do kampaně bylo vidět. Například Jarda Lainz roznesl tolik Pirátských listů, že se při roznosu musel snad potkat i sám se sebou  😊.I akce na Letohradské pouti s Jiřím Jansou se povedla. Tolik dětí s pirátskými balonky na jednom místě se asi hned tak neuvidí. Jen to příště chce kompresor, někteří nafukovači už časem byli hodně blízko k infarktu..
 
 **Jsi aktivním příznivcem orientálních bojových umění. Jak v současnosti vypadá tvá průprava bojovníka, co fyzička a jakým způsobem můžeš zkušenosti z této oblasti zúročit v politice?**
