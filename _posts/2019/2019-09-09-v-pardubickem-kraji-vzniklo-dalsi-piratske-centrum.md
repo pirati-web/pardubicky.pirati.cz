@@ -6,7 +6,7 @@ date: 2019-09-09T14:00:00+0200
 tags: 
     - tiskova zprava
     - piratske centrum
-    -ParduPiCe
+    - ParduPiCe
 author: Piráti Pardubického kraje
 image: articles/2019/pircentrum.png
 ---
