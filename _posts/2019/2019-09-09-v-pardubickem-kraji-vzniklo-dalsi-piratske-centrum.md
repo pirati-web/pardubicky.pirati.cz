@@ -10,6 +10,7 @@ tags:
 author: Piráti Pardubického kraje
 image: articles/2019/pircentrum.png
 ---
+ 
 *Pardubice, 9. září 2019* -  **Piráti Pardubického kraje v září otevřou pirátské centrum s názvem ParduPiCe. To se nachází v Pardubicích nedaleko obchodního domu AFI. V rámci slavnostního otevření proběhne tisková konference, kterou plánujeme na čtvrtek 19. 9. ve 13:00.**
 
 V Pardubicích vzniká další z mnoha pirátských center, které nabídne sdílený prostor, nejen pro členy a sympatizanty Pirátské strany v Pardubickém kraji, ale i pro občany, kteří mohou prostor navštívit v rámci zajímavých přednášek, kurzů a dalších aktivit.
