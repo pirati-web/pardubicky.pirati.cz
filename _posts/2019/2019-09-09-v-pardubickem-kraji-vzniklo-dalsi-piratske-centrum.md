@@ -3,9 +3,9 @@ layout: post
 category: CLANKY
 title: V Pardubickém kraji vzniklo další pirátské centrum, které ponese název ParduPiCe
 date: 2019-09-09T14:00:00+0200
-tags: 
-    - tiskova zprava
-    - piratske centrum
+tags:
+    - tiskova-zprava
+    - piratske-centrum
     - ParduPiCe
 author: Piráti Pardubického kraje
 image: articles/2019/pircentrum.png
