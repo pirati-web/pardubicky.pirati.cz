@@ -32,7 +32,7 @@ Působím na menším městě, kde se všichni zastupitelé velmi dobře znají.
 
 To už vyplývá z mé předchozí odpovědi. U Pirátů je super, že nejsou závislí na penězích nějakého „hodného strýčka“. Je to strana vzniklá odspodu, která sice dělá chyby, ale má mechanismy, aby je neopakovala. Co je potřeba, tak právě bourat zbývající bariéry mezi členy strany a našimi sympatizanty či jen aktivními lidmi. Musíme komunikovat se svým okolím a pomáhat lidem, aby se mohli spolupodílet na věcech, které je zajímají. Politika, jak ji vnímám já, není věda, ale zájem o věci okolo nás. Pokud se o ně budeme zajímat, tak nemám strach ani o naši zem, ani o Českou pirátskou stranu.
 
-{% asset 'articles/2019/rozhovory/fmezera/fmezera3	.jpg' magick:resize='751x422^' 
+{% asset 'articles/2019/rozhovory/fmezera/fmezera3.jpg' magick:resize='751x422^' 
 magick:gravity='center' magick:crop='751x422+0+0' alt='Filip Mezera'%}
 
 **Jsi aktivní dárce krve. Co Tě k tomu přivedlo a proč by se mělo k dárcovství přidat více lidí? Přemýšlel jsi nad tím, že někde mezi námi pravděpodobně chodí lidé s tvou krví v žilách?**
