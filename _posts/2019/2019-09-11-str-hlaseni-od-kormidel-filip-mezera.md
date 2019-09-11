@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: Filip Mezera - Po volbách došlo u nás všech k mírnému vystřízlivění
+title: Filip Mezera -  Piráti nejsou závislí na penězích “hodného strýčka” a mají mechanismy, aby neopakovali své chyby
 date: 2019-09-11T14:00:00+0200
 tags: 
     - rozhovor
@@ -9,8 +9,7 @@ tags:
 author: Piráti Pardubického kraje
 image: articles/2019/rozhovory/fmezera/fmezera1.png
 ---
-
-
+**Je zastupitelem a šéfem kontrolního výboru ve východočeských Sezemicích. Při výčtu jeho aktivit si leckdo může pomyslet cosi o renesančním člověku. Věnuje se totiž informatice, internetu, marketingu, historii i literatuře, sportu a vzdělávání mládeže či dospělých. K tomu všemu stíhá péči o rodinu, aniž by zanedbával své aktivity mezi Piráty na Pardubicku, nebo třeba jako konzultant pirátských poslanců v oblastech obrany státu a finančního sektoru. A vlastně to ještě není všechno. Seznamte se prosím s Filipem Mezerou.**
 
 **Úvodem se nelze nezeptat - vzděláním jsi na jednu stranu odborníkem v oboru Systémové inženýrství a informatika, ale zároveň máš vystudovaná Historicko-literární studia. Jak jde v Tvém případě propojovat svět binárních kódů a čísel dohromady s humanitně a kulturně orientovanou faktografií?**
 
