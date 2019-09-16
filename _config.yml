@@ -50,6 +50,12 @@ calendar:
   id: 7r673rlh255oforhv3oeb2l0g0@group.calendar.google.com
   page: https://calendar.google.com/calendar/embed?showTitle=0&showNav=0&showDate=0&showPrint=0&showTabs=0&showCalendars=0&showTz=0&mode=AGENDA&height=500&wkst=2&hl=cs&bgcolor=%23FFFFFF&src=kddvdvu3adcjef2kro4j6mm838%40group.calendar.google.com&color=%232952A3&ctz=Europe%2FPrague
 
+pardupice:
+  mapLink: https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10250.279531989467!2d15.770466!3d50.0381549!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd4d03352a17e038b!2zUGFyZHVQaUNlIOKAkyBQYXJkdWJpY2vDqSBQaXLDoXRza8OpIGNlbnRydW0!5e0!3m2!1scs!2scz!4v1568565921492!5m2!1scs!2scz
+  calendar:
+    id: m7dv5mncp7gqghttde26k8i524@group.calendar.google.com
+    page: https://calendar.google.com/calendar/embed?src=m7dv5mncp7gqghttde26k8i524%40group.calendar.google.com&ctz=Europe%2FPrague
+
 facebook:
   loadSDK: true
   #vyplně adresu vaší stranky, funguje pouze na stránky nikoliv skupiny

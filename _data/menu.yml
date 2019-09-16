@@ -19,6 +19,9 @@ main:
   - link: /lide/
     name: Lidé
     match: lide
+  # - link: /pardubicke-piratske-centrum-pardupice/
+  #   name: ParduPiCe
+  #   match: pardubicke-piratske-centrum-pardupice
   - link: /volby-2018/
     name: Volby 2018
     match: volby-2018

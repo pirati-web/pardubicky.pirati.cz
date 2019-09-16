@@ -83,3 +83,17 @@
       margin: 0 1rem;
   }
 }
+
+.pice-media-strip {
+  display: none;
+
+  .pice-media-strip-item {
+
+  }
+
+  @include breakpoint(medium up) {
+    display: flex;
+    max-width: 100%;
+    overflow: hidden;
+  }
+}
