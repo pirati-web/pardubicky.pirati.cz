@@ -87,13 +87,10 @@
 .pice-media-strip {
   display: none;
 
-  .pice-media-strip-item {
-
-  }
-
   @include breakpoint(medium up) {
     display: flex;
-    max-width: 100%;
+    max-width: 2400px;
+    margin: auto;
     overflow: hidden;
   }
 }
