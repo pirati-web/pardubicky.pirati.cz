@@ -1,14 +1,14 @@
 ---
 layout: post
 category: CLANKY
-title: Piráti Pardubického kraje grilovali kandidáty do krajských voleb 
+title: Piráti z Pardubického kraje vybírají aspiranty na čelo kandidátky do krajských voleb 
 date: 2019-09-17T14:00:00+0200
 tags: 
     - ParduPiCe
     - Krajské-volby-2019
    
 author: Piráti Pardubického kraje
-image: articles/2019/uklid/uvod.jpg
+image: articles/2019/kf/kfuvod.png
 ---
 
 **V sobotu 28. 9. se v Pardubickém pirátském centru konalo krajské fórum, na kterém se představili lídři a aspiranti na čelo kandidátky v krajských volbách. Kromě prezentace možných kandidátů,  předsednictvo krajského sdružení seznámilo členy s programovými body a harmonogramem kampaně do krajských voleb.**
