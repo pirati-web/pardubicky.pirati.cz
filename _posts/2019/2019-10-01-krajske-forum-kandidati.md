@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: Piráti z Pardubického kraje vybírají aspiranty na čelo kandidátky do krajských voleb 
-date: 2019-10-01T00:04:00+0200
+date: 2019-10-01T04:00:00+0200
 tags: 
     - ParduPiCe
     - Krajské-volby-2019
@@ -17,7 +17,7 @@ Schůze probíhala v nově otevřeném pirátském centru, které bylo trefně p
 Do Pardubic se sjeli Piráti z célého kraje. Seznámili jsme se s aktivitami   místních sdružení, která jsou rozdělena podle bývalých okresů (Pardubicko, Chrudimsko, Svitavsko a Orlickoústecko). 
 Jelikož v obcích a městech kraje napříč krajem máme přes 27 městských zastupitelů a ti s námi sdílí své zkušenosti z vedení města, bylo jednání velmi přínosné a vzájemně obohacující.
 
-Na fóru se oficiálně představili čtyři kandidáti na lídra kandidátky: Daniel Lebduška, Filip Mezera,  Jiří Ducháček a Vladek Vácha. Každý z nich si připravil krátké představení své osoby, pracovních zkušeností a vizí, kterých by jako krajský zastupitel či hejtman chtěl dosáhnout. Jednotlivé proslovy kandidátů  na lídra můžete naleznout [zde na pirátském fóru](https://forum.pirati.cz/viewtopic.php?f=414&t=48832).
+Na fóru se oficiálně představili čtyři kandidáti na lídra kandidátky: **Daniel Lebduška, Filip Mezera,  Jiří Ducháček a Vladek Vácha.** Každý z nich si připravil krátké představení své osoby, pracovních zkušeností a vizí, kterých by jako krajský zastupitel či hejtman chtěl dosáhnout. Jednotlivé proslovy kandidátů  na lídra můžete naleznout [zde na pirátském fóru](https://forum.pirati.cz/viewtopic.php?f=414&t=48832).
 
 Kromě lídrů se rovněž představili uchazeči, kteří mají zájem o pozice na čele kandidátní listiny, což je od prvního do desátého místa. Mezi těmito kandidáty se objevila jména jako, **pardubická zastupitelka Lenka Španihelová, farmář  Andrej Ramašeuski, obchodní zástupce Matěj Drajer, pedagog Jiří Hruška, student David Marhold, síťař Matěj Karas, pojišťovací agentka Andrea Linhartová a svitavská zastupitelka Líba Vévodová**
 
