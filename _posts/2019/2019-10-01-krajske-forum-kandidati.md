@@ -19,7 +19,7 @@ Jelikož v obcích a městech napříč krajem máme přes 27 městských zastup
 
 Na fóru se oficiálně představili čtyři kandidáti na lídra kandidátky: **Daniel Lebduška, Filip Mezera, Jiří Ducháček a Vladek Vácha.** Každý z nich si připravil krátké představení své osoby, pracovních zkušeností a vizí, kterých by jako krajský zastupitel či hejtman chtěl dosáhnout. Jednotlivé proslovy kandidátů  na lídra můžete naleznout [zde na pirátském fóru](https://forum.pirati.cz/viewtopic.php?f=414&t=48832).
 
-Kromě lídrů se rovněž představili uchazeči, kteří mají zájem o pozice na čele kandidátní listiny, což je od prvního do desátého místa. Mezi těmito kandidáty se objevila jména jako, **pardubická zastupitelka Lenka Španihelová, farmář  Andrej Ramašeuski, obchodní zástupce Matěj Drajer, pedagog Jiří Hruška, student David Marhold, síťař Matěj Karas, odborný referent ZP Andrea Linhartová a svitavská zastupitelka Líba Vévodová**
+Kromě lídrů se rovněž představili uchazeči, kteří mají zájem o pozice na čele kandidátní listiny, což je od prvního do desátého místa. Mezi těmito kandidáty se objevila jména jako, **pardubická zastupitelka Lenka Španihelová, farmář  Andrej Ramašeuski, obchodní zástupce Matěj Drajer, pedagog Jiří Hruška, student David Marhold, síťař Matěj Karas, odborný referent ZP Andrea Linhartová, speciální pedagog Jaroslav Lainz a svitavská zastupitelka Líba Vévodová**
 
 O konečném pořadí kandidátů rozhodne internetové hlasování členské základny Pirátů Pardubického kraje. Tyto výsledky budou známy přibližně *10. listopadu.* 
 
