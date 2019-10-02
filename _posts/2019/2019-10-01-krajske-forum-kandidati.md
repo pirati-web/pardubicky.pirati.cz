@@ -23,4 +23,4 @@ Kromě lídrů, se rovněž představili aspiranti uchazeči, kteří mají záj
 
 O konečném pořadí kandidátů rozhodne internetové hlasování členské základny pirátů Pardubického kraje, tyto výsledky budou známy přibližně *10. listopadu.*
 
-{% asset 'articles/2019/uklidcesko2019/uklidzari3.jpg' magick:resize='751x422^' magick:gravity='center' magick:crop='751x422+0+0' alt='Uklidme Cesko 2019'%}
+{% asset 'articles/2019/kf/kf1.png' magick:resize='751x422^' magick:gravity='center' magick:crop='751x422+0+0' alt='Uklidme Cesko 2019'%}
