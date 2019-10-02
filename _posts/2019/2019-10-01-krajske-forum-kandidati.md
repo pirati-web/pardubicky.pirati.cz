@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: Piráti z Pardubického kraje vybírají aspiranty na čelo kandidátky do krajských voleb 
-date: 2019-10-10T00:00:00+0200
+date: 2019-10-01T00:00:00+0200
 tags: 
     - ParduPiCe
     - Krajské-volby-2019
