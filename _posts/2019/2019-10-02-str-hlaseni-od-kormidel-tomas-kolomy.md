@@ -42,7 +42,7 @@ Jsem rád, že za necelý rok našeho fungování v zastupitelstvu, se lidé za�
 
 Byl bych rád, kdyby naše Rudoltice byly pěknou, účelně vybavenou, hospodárnou obcí, ve které je zároveň radost bydlet.
 
-{% asset 'articles/2019/rozhovory/tkolomy/tkolomy2.png' magick:resize='751x422^' 
+{% asset 'articles/2019/rozhovory/tkolomy/tkolomy2.jpg' magick:resize='751x422^' 
 magick:gravity='center' magick:crop='751x422+0+0' alt='Tomáš Kolomý'%}
 
 **V minulosti jste se vymezili proti způsobu vedení obce. Také jsme se bavili, že existují paralely politických nešvarů na místní i celostátní úrovni. Čím česká politická scéna od nejnižší až k nejvyšší úrovni trpí?**
