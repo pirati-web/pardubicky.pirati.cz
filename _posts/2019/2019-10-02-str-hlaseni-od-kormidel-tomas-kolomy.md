@@ -26,7 +26,7 @@ Systém zadávání zakázek včetně pomyslných žádostí o dotace od vedení
 
 **Aktuálně sbíráte podpisy v petici ke stavbě dětského hřiště…**
 
-Petici včetně podpisového archu jsme řádně podali na obecní úřad. Já se teď trochu směju, neboť jak to projednalo naše vedení obce, je vážně absurdní. O petici jednali dva orgány obce. Rada obce se usnesla, že berou obsah petice na vědomí. Zastupitelstvo však nepřijalo žádné usnesení, neboť se všichni zastupitelé za rádoby koalici zdrželi hlasování. Na druhou stranu jsem rád, že na jednání zastupitelstva bylo hodně lidí, kteří viděli jejich postoj k věci a jak si váží vyjádřeného názoru.
+Petici včetně podpisového archu jsme řádně podali na obecní úřad. Já se teď trochu směju, neboť jak to projednalo naše vedení obce, je vážně absurdní. O petici jednaly dva orgány obce. Rada obce se usnesla, že bere obsah petice na vědomí. Zastupitelstvo však nepřijalo žádné usnesení, neboť se všichni zastupitelé za rádoby koalici zdrželi hlasování. Na druhou stranu jsem rád, že na jednání zastupitelstva bylo hodně lidí, kteří viděli jejich postoj k věci a jak si váží vyjádřeného názoru.
 
 **Jako právník se zaměřením na majetkové právo se určitě nenudíš. Jaké výhody ti vzdělání přináší v zastupitelské práci? Máš pocit, že tví kolegové v Rudolticích proto občas na rady Pirátů dají?**
 
