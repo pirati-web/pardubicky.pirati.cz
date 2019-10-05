@@ -7,7 +7,7 @@ tags:
     - rozhovor
     - zastupitel
 author: Piráti Pardubického kraje
-image: articles/2019/rozhovory/msedlak/msedlak1.png
+image: articles/2019/rozhovory/misedlak/misedlak1.png
 ---
 
 **Je Svitavákem téměř šedesát let a vstupem do komunální politiky se rozhodl měnit věci kolem sebe k lepšímu. Nejprve v rámci sdružení Naše Svitavy a následně i spojením sil se svitavskými Piráty. Nadšený sportovec a hokejový rozhodčí uznává pravidla fair play nejen na hřišti, ale také v politice, která podle něj trpí ztrátou slušnosti, lhostejností i absencí obyčejného selského rozumu.**
@@ -18,7 +18,7 @@ Do politiky jsem se nikdy nechtěl příliš zapojovat, i když musím přiznat,
 Od té doby se dost změnilo díky mé otevřenosti i našemu společnému tlaku na větší transparentnost v rozhodování města. Mimo jiné už pár let můžeme sledovat jednání zastupitelstva přímým přenosem. Dosáhli jsme toho, že dnes jsou dokonce už uchovávány také záznamy z jednání. Jsem přesvědčen o tom, že i dnes mám svůj okruh voličů, kteří za mnou přicházejí s podněty a problémy. Každý už ví, že můj pohled je dlouhodobě konzistentní a své priority neměním.
 
 
-{% asset 'articles/2019/rozhovory/msedlak/msedlak2.jpg' magick:resize='751x422^' 
+{% asset 'articles/2019/rozhovory/misedlak/misedlak2.jpg' magick:resize='751x422^' 
 magick:gravity='center' magick:crop='751x422+0+0' alt='Miroslav Sedlák'%}
 
 **Když jsi před rokem kandidoval do svitavského zastupitelstva, figurovaly mezi Tvými prioritami poměrně ambiciózní úkoly. Mimo jiné zavedení veřejné dopravy, výstavba dostupného bydlení, snížení poplatků za odvoz odpadu pro důchodce nebo navrácení rekreačního využití Rosničky. Jak jde realizace těchto cílů?**
@@ -30,7 +30,7 @@ Jako člen dopravní komise se spolu s kolegy snažím docílit spuštění měs
 
 K Rosničce jen tolik: Veřejnost loni byla svědky tragédie na tomto rybníku spojené s úhynem 10 tun ryb. O příčinách nechci spekulovat, nedostatečné plnění povinností vlastníka a jistý odklon od rekreačního využití v posledních letech mohly k vysokým teplotám a nulovému přítoku přidat také svůj díl. Na základě odborného posudku byla sjednána revitalizace rybníka odbornou firmou. Letos jsou klimatické podmínky o něco málo příznivější a s využitím přírodních prvků se prozatím daří stav napravovat. Kvalita vody je taková, jakou málokdo z pamětníků pamatuje. Zde bych rád vyzdvihl práci pana Vostřela, který si právě revitalizaci vzal za svůj “životní” úkol. Držíme mu všichni pěsti. K lepšímu vyžití přispěla nová půjčovna lodiček, ale dalo by se udělat ještě pár zlepšení, zejména v okolí pláže. Alespoň část z mých priorit se tak postupně plní a to je dobře. Rád podpořím další investice do revitalizace Rosničky místo megalomanského projektu rekonstrukce krytého bazénu s dlouhodobou zátěží pro město v řádu čtvrt milardy korun.
 
-{% asset 'articles/2019/rozhovory/msedlak/msedlak3.jpg' magick:resize='751x422^' 
+{% asset 'articles/2019/rozhovory/misedlak/misedlak3.jpg' magick:resize='751x422^' 
 magick:gravity='center' magick:crop='751x422+0-200' alt='Miroslav Sedlák'%}
 
 **Piráti a nezávislí mají ve Svitavách solidní podporu obyvatelstva, na radnici už je to slabší. Stávající nomenklatura se dopouští řady kroků, které vzbuzují otázky - v poslední době například dotační machinace při výstavbě šaten u sportovního šapitó na stadionu nebo problematické vykácení jasanové aleje. Jak bys charakterizoval situaci ve vedení města?**
@@ -53,7 +53,7 @@ Malí podnikatelé neměli a nikdy nebudou mít na růžích ustláno. Budou zpr
 
 Sport mě provází celým životem a to mě vždy vedlo k fair play ve sportu ale i v životnímu stylu. Dodnes jsem činný v ledním hokeji, jako rozhodčí jsem dosud odpískal více než dva a půl tisíce utkání v různých ligách. Jezdil jsem hodně na kole a s ním poznal celou okolní část Evropy. Před dvěma lety jsem ovšem propadl golfu. Nesmírně mně obohacuje a je to sport, který má své tradice, kulturu, slušnost a skvěle fungující společenské klima. Je to prostě sport gentlemanů a už dávno ne jenom snobů. Od získání způsobilosti ke hře loni v dubnu jsem si vylepšil svůj handicap z 54 na 24,2, což je snad docela slušný “zářez”. Rád bych se v příštím roce ještě trochu posunul. Nedávám si malé cíle, ale s tímto jsem už teď spokojen. Navíc vždy při hře a pohybu na hřišti naprosto skvěle relaxuji a to je rovněž velmi naplňující faktor. Zkrátka snažím se žít naplno, občas nafotím pár snímků v přírodě na cestách. Furt se něco děje.
 
-{% asset 'articles/2019/rozhovory/msedlak/msedlak4.jpg' magick:resize='751x422^' 
+{% asset 'articles/2019/rozhovory/misedlak/misedlak4.jpg' magick:resize='751x422^' 
 magick:gravity='center' magick:crop='751x422+0-200' alt='Miroslav Sedlák'%}
 
 K tématu:
