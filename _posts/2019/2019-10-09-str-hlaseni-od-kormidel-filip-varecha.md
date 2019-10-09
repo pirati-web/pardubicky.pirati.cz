@@ -28,7 +28,7 @@ Rezignoval jsem po střízlivém uvážení svých časových možností. Již d
 Pro mě je nejtěžší hlavně na nic nezapomenout. V jednu chvíli pracujete paralelně na velkém počtu projektů, úkoly se na vás valí z mnoha stran a je vcelku jednoduché se v tom utopit a někde něco opomenout. Člověk se musí naučit pracovat s prioritami a smířit se s tím, že stíhat vše nelze. Což zrovna pro moji osobu není jednoduchá věc.
 
 {% asset 'articles/2019/rozhovory/fvarecha/fvarecha2.jpg' magick:resize='751x422^' 
-magick:gravity='center' magick:crop='751x422+0+0' alt='Filip Vařecha'%}
+magick:gravity='north' magick:crop='751x422+0+0' alt='Filip Vařecha'%}
 
 **Jak hodnotíš působení Pirátů na Pardubicku? Kde máme rezervy a jak ty osobně vnímáš pirátské ambice do budoucna? Chceme oslovit nové tváře ke vstupu do strany, jak bys nové zájemce motivoval? :)**
 
