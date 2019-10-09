@@ -10,7 +10,7 @@ author: Piráti Pardubického kraje
 image: articles/2019/rozhovory/fvarecha/fvarecha1.png
 ---
 
-**Je softwarovým vývojářem a specialistou na projekty tzv. chytrých měst. Působí jako zastupitel a předseda kontrolního výboru za Piráty na městském obvodu Pardubice V., kde také pracuje v komisi pro strategii a právě smart city. Je nadšencem do programování, ale baví ho i jóga, hudba a pozor - pěstuje chilli. Přečtěte si rozhovor s pardubickým Pirátem Filipem Vařechou.**
+**Je softwarovým vývojářem a specialistou na moderní přístupy k projektovému řízení. Působí jako zastupitel a předseda kontrolního výboru za Piráty na městském obvodu Pardubice V., pracuje také v Komisi pro strategii a smart city Rady města Pardubic. Je nadšencem do programování, ale baví ho i jóga, hudba a pozor - pěstuje chilli. Přečtěte si rozhovor s pardubickým Pirátem Filipem Vařechou.**
 
 
 **Jako vývojář jsi se s Olgou Richterovou nedávno podílel na celkem převratném webu o možnosti sociálních dávek občanům socialnisystem.cz. Jaká byla tvá role a jak jsi s výsledkem spokojen? Dokonce i MPSV podobný nástroj vydalo až po Pirátech. Můžeš oba systémy porovnat?**
