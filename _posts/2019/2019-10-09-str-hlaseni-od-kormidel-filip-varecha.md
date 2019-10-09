@@ -43,7 +43,7 @@ Důrazem na kvalitní vzdělávání, to musí být priorita číslo jedna. Do t
 {% asset 'articles/2019/rozhovory/fvarecha/fvarecha3.jpg' magick:resize='751x422^' 
 magick:gravity='north' alt='Filip Vařecha'%}
 
-**Blíží se 30. výročí sametové revoluce. Měly by být letos oslavy v něčem jiné? Jak moc je podle tebe česká společnost rozdělená?**
+**Blíží se 30. výročí Sametové revoluce. Měly by být letos oslavy v něčem jiné? Jak moc je podle tebe česká společnost rozdělená?**
 
 Řekl bych, že česká společnost je rozdělována uměle a hlavně cíleně. Třecí plochy, i když tu jsou, nejsou tak zásadní, jak se nám někteří politici snaží vnutit. Hezky to podle mě ilustruje i nedávný sociologický průzkum Českého rozhlasu. Dnešní svět sociálních sítí bohužel lidi uzavírá do bublin, které to rozdělení hodně prohlubují. Proto bychom měli začít každý sám u sebe a nebát se vystoupit z komfortní zóny vlastní bubliny a třeba cíleně mluvit i s lidmi s radikálně odlišným názorem. Často pak zjistíte, že to vlastně není zase tak hrozné a minimálně vám to pomůže pochopit, proč některé věci vidí jinak.
 
