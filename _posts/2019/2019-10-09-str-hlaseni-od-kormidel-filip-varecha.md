@@ -41,7 +41,7 @@ Z mých předchozích odpovědí to asi moc motivačně nevypadá, nové zájemc
 Důrazem na kvalitní vzdělávání, to musí být priorita číslo jedna. Do té doby nezbývá než jít příkladem, o což se snažíme.
 
 {% asset 'articles/2019/rozhovory/fvarecha/fvarecha3.jpg' magick:resize='751x422^' 
-magick:gravity='north' magick:crop='751x422+0+0' alt='Filip Vařecha'%}
+magick:gravity='north' alt='Filip Vařecha'%}
 
 **Blíží se 30. výročí sametové revoluce. Měly by být letos oslavy v něčem jiné? Jak moc je podle tebe česká společnost rozdělená?**
 
