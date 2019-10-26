@@ -7,7 +7,7 @@ category:
   - kandidat-ceskatrebova-2018
   - predsednictvo
 img: people/martin.saifrt.jpg
-description: 4. místopředseda KS Pardubický kraj
+description: 3. místopředseda KS Pardubický kraj
 candidatedesc: komunitní  pracovník
 ord_predsednictvo: 4
 ordpak: 3

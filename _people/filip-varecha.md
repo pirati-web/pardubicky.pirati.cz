@@ -7,9 +7,6 @@ titles:
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clenove
 - radnice
-- predsednictvo
-ord_predsednictvo: 2
-ordPce: 10
 img: people/filip-varecha.jpg           # 165 x 220
 description: 1. místopředseda KS Pardubický kraj
 profession: vývojář webových aplikací
