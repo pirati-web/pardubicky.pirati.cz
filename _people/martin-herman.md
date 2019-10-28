@@ -5,13 +5,15 @@ fullname:  Martin Herman
 category:
   - pak
   - kandidat-ceskatrebova-2018
+  - mistni_predsedove
+ord_mistni_predsedove: 2
 img: people/martin-herman.jpg
-description: člen Pirátské strany
+description: Předseda MS Českotřebovsko
 candidatedesc: seřizovač lisu
 ordpak: 7
 ordkomunal2018: 7
 mail:
-  - Martin.Herman@pirati.cz
+  - martin.herman@pirati.cz
 mob: null
 profiles:
   github: null
