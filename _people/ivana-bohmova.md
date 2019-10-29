@@ -5,11 +5,13 @@ titles:
   before: Bc. et Bc.
   after:
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
-- clenove
-- radnice
+  - clenove
+  - radnice
+  - mistni_predsedove
+ord_mistni_predsedove: 1
 ordPce: 3
 img: people/ivana-bohmova.jpg           # 165 x 220
-description: členka KS Pardubický kraj # kratký popis, max 160 znaků
+description: Předsedkyně MS Pardubicko	# kratký popis, max 160 znaků
 mail: ivana.bohmova@pirati.cz
 profiles:
   github:
