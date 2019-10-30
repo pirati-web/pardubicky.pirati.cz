@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: Piráti v Pardubického kraji vzdali hold 101. výročí založení Československé republiky 
+title: Piráti v Pardubickém kraji vzdali hold 101. výročí založení Československé republiky 
 date: 2019-10-30T04:00:00+0200
 tags: 
     - Krajské-volby-2019
