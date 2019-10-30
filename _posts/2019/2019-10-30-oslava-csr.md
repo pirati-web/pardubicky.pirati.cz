@@ -30,7 +30,7 @@ Poslední z přítomných, kteří aktivně odevzdali hold, byl **Filip Mezera**
 
  {% asset 'articles/2019/csr/filip.jpg' magick:resize='751x422^' magick:gravity='center' magick:crop='751x422+0+0' alt='ČSR 2019'%}
 
-V Chrudimi se vzpomínkového ceremoniálu zúčastnili pirátští místostarostové **Aleš Nunvář a Pavel Štěpánek**, dále zastupitel Daniel Lebduška, předseda místního sdružení Chrudimsko Zdeněk Kubala a členka Nikola Štěpánková, .  
+V Chrudimi se vzpomínkového ceremoniálu zúčastnili pirátští místostarostové **Aleš Nunvář a Pavel Štěpánek** se svou ženou, pirátkou Nikolou Štěpánkovou.
 > *„101. let je věk, který by u člověka vyvolával pocity údivu a respektu. Je to vlastně jedna a půl generace. Na republiku je to ale relativní mládí. Za tu dobu se udály věci pozitivní i negativní. Velkou chybou bylo Československo rozdělit. Věřím, že nás v budoucnosti čekají dobré časy a naše země se opět navrátí k váženosti jakou měla za vlády Tomáše G. Masaryka.“*, uzavírá místostarosta Chrudimi Pavel Štěpánek
 
 {% asset 'articles/2019/csr/chrudim.jpg' magick:resize='751x422^' magick:gravity='center' magick:crop='751x422+0-150' alt='Chrudim ČSR 2019'%}
