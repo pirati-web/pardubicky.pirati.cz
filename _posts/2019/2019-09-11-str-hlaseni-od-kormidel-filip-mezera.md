@@ -66,3 +66,26 @@ Než jsem se před sedmnácti lety přestěhoval do Sezemic, tak jsem bydlel v J
 
 {% asset 'articles/2019/rozhovory/fmezera/fmezera5.jpg' magick:resize='751x422^' 
 magick:gravity='center' magick:crop='751x422+0+0' alt='Filip Mezera'%}
+
+K tématu:
+------------------
+* [Profil Filipa Mezery][1]
+
+**Další rozhovory z cyklu Středeční hlášení od kormidel:**
+
+[Daniel Lebduška][11], [Lenka Španihelová][12], [Vojtěch Fadrný][13], [Zbyněk Ruda][14], [Aleš Nunvář][15], [Ondřej Karas][16], [Líba Vévodová][17], [Andrej Ramašeuski][18], [Pavel Štěpánek][19], [Ivana Böhmová][20], [Miroslav Sedlák][21], [Jiří Ducháček][22], [Roman Rybáček][23]
+
+[1]: https://wiki.pirati.cz/lide/filip_mezera
+[11]: https://pardubicky.pirati.cz/tiskove-zpravy/str_hlaseni_od_kormidel_d_lebduska/
+[12]: https://pardubicky.pirati.cz/tiskove-zpravy/str_hlaseni_od_kormidel_l_spanihelova/
+[13]: https://pardubicky.pirati.cz/tiskove-zpravy/str_hlaseni_od_kormidel_vojta_fadrny/
+[14]: https://pardubicky.pirati.cz/tiskove-zpravy/str_hlaseni_od_kormidel_zbynek_ruda/
+[15]: https://pardubicky.pirati.cz/tiskove-zpravy/str-hlaseni-od-kormidel-ales-nunvar/
+[16]: https://pardubicky.pirati.cz/tiskove-zpravy/str-hlaseni-od-kormidel-ondrej-karas/
+[17]: https://pardubicky.pirati.cz/tiskove-zpravy/str-hlaseni-od-kormidel-liba-vevodova/
+[18]: https://pardubicky.pirati.cz/tiskove-zpravy/str-hlaseni-od-kormidel-andrej-ramaseuski/
+[19]: https://pardubicky.pirati.cz/tiskove-zpravy/str-hlaseni-od-kormidel-pavel-stepanek/
+[20]: https://pardubicky.pirati.cz/tiskove-zpravy/str-hlaseni-od-kormidel-ivana-bohmova/
+[21]: https://pardubicky.pirati.cz/tiskove-zpravy/str-hlaseni-od-kormidel-miroslav-sedlak/
+[22]: https://pardubicky.pirati.cz/tiskove-zpravy/str-hlaseni-od-kormidel-jiri-duchacek/
+[23]: https://pardubicky.pirati.cz/tiskove-zpravy/str-hlaseni-od-kormidel-roman-rybacek/
