@@ -72,3 +72,28 @@ Díky volebním archům 2018 se lidi u nás na obci dozvěděli, že jsem Tomá�
 Jednou mě spolužák na gymplu omlouval z TV, že pro nemoc nebudu cvičit, a řekl vyučujícímu: „Josef Kolomý nebude cvičit.” Tělocvikář málem omdlel smíchem, a nemohl to pochopit.
 
 Tak to bylo asi tak. Nevědomky jsem si dětskou hrou asi v pěti letech vysloužil přezdívku Pepan, v rodinném kruhu. Pak to šlo prý rychle, sousedi, spolužáci,…. . Takže rodiče, sourozenci, prarodiče, tchán s tchýní, moje žena a děti, kamarádi, spolupracovníci, pro všechny jsem Pepan. I já už to mám v sobě tak nějak zažitý.
+
+K tématu:
+------------------
+
+
+**Další rozhovory z cyklu Středeční hlášení od kormidel:**
+
+[Daniel Lebduška][11], [Lenka Španihelová][12], [Vojtěch Fadrný][13], [Zbyněk Ruda][14], [Aleš Nunvář][15], [Ondřej Karas][16], [Líba Vévodová][17], [Andrej Ramašeuski][18], [Pavel Štěpánek][19], [Ivana Böhmová][20], [Miroslav Sedlák][21], [Jiří Ducháček][22], [Roman Rybáček][23], [Filip Mezera][24], [Martin Sedlák][25]
+
+
+[11]: https://pardubicky.pirati.cz/tiskove-zpravy/str_hlaseni_od_kormidel_d_lebduska/
+[12]: https://pardubicky.pirati.cz/tiskove-zpravy/str_hlaseni_od_kormidel_l_spanihelova/
+[13]: https://pardubicky.pirati.cz/tiskove-zpravy/str_hlaseni_od_kormidel_vojta_fadrny/
+[14]: https://pardubicky.pirati.cz/tiskove-zpravy/str_hlaseni_od_kormidel_zbynek_ruda/
+[15]: https://pardubicky.pirati.cz/tiskove-zpravy/str-hlaseni-od-kormidel-ales-nunvar/
+[16]: https://pardubicky.pirati.cz/tiskove-zpravy/str-hlaseni-od-kormidel-ondrej-karas/
+[17]: https://pardubicky.pirati.cz/tiskove-zpravy/str-hlaseni-od-kormidel-liba-vevodova/
+[18]: https://pardubicky.pirati.cz/tiskove-zpravy/str-hlaseni-od-kormidel-andrej-ramaseuski/
+[19]: https://pardubicky.pirati.cz/tiskove-zpravy/str-hlaseni-od-kormidel-pavel-stepanek/
+[20]: https://pardubicky.pirati.cz/tiskove-zpravy/str-hlaseni-od-kormidel-ivana-bohmova/
+[21]: https://pardubicky.pirati.cz/tiskove-zpravy/str-hlaseni-od-kormidel-miroslav-sedlak/
+[22]: https://pardubicky.pirati.cz/tiskove-zpravy/str-hlaseni-od-kormidel-jiri-duchacek/
+[23]: https://pardubicky.pirati.cz/tiskove-zpravy/str-hlaseni-od-kormidel-roman-rybacek/
+[24]: https://pardubicky.pirati.cz/tiskove-zpravy/str-hlaseni-od-kormidel-martin-sedlak/
+
