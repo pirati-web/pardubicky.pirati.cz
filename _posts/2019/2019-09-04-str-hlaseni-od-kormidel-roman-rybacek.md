@@ -49,3 +49,26 @@ Hezká otázka na konec. K přírodě mám blízko, velmi si jí vážím a sna�
 Teď k českému zemědělství. Vůbec mě netěší, všude obrovské lány polí a luk, minimum lesíků, remízků, rybníků, tůní, potoků, orba přes vrstevnice, stovky různých postřiků a herbicidů… Dnešní model je do budoucna neudržitelný, a hlavně pro přírodu likvidační. Musíme si uvědomit, že nejen díky svým rodičům zde můžeme žít, ale také proto, že nám to příroda umožnila, proto bychom se k ní měli také chovat jako k mamince, s úctou, respektem a pomáhat jí. Vždyť dnes nic nevyroste bez postřiku, proč? Protože chybí přirození predátoři škůdců. Proč chybí predátoři? Protože nemáme remízky, lesíky, rybníky… a stále dokola… zkrátka když se opravdu zamyslíme, proč něco v přírodě nefunguje, tak ve většině případů dojdeme k závěru, že za tím stojíme my lidé. Závěrem bych chtěl všechny vyzvat, aby se zamysleli nad tím, co mohou pro přírodu udělat, aby jí pomáhali a chovali se k ní zodpovědně. Najde se jistě mnoho těch, kteří si řeknou, proč bych to dělal, a často díky své sebestřednosti najdou velmi málo důvodů, někdy žádné. Já jsem však těmto lidem už výše přeci jeden důvod poradil, který myslím nelze rozporovat. A sice díky komu jsme na světě: díky mamince, té naší lidské, a té původní a mocné – přírodě.
 
 _Děkuji za rozhovor a Všem přeji mnoho sil, životní energie, vůle a optimismu. Ostatní se díky tomu dostaví samo.
+
+K tématu:
+------------------
+* [Profil Romana Rybáčka][1]
+
+**Další rozhovory z cyklu Středeční hlášení od kormidel:**
+
+[Daniel Lebduška][11], [Lenka Španihelová][12], [Vojtěch Fadrný][13], [Zbyněk Ruda][14], [Aleš Nunvář][15], [Ondřej Karas][16], [Líba Vévodová][17], [Andrej Ramašeuski][18], [Pavel Štěpánek][19], [Ivana Böhmová][20], [Miroslav Sedlák][21], [Jiří Ducháček][22]
+
+[1]: https://wiki.pirati.cz/lide/roman_rybacek/
+
+[11]: https://pardubicky.pirati.cz/tiskove-zpravy/str_hlaseni_od_kormidel_d_lebduska/
+[12]: https://pardubicky.pirati.cz/tiskove-zpravy/str_hlaseni_od_kormidel_l_spanihelova/
+[13]: https://pardubicky.pirati.cz/tiskove-zpravy/str_hlaseni_od_kormidel_vojta_fadrny/
+[14]: https://pardubicky.pirati.cz/tiskove-zpravy/str_hlaseni_od_kormidel_zbynek_ruda/
+[15]: https://pardubicky.pirati.cz/tiskove-zpravy/str-hlaseni-od-kormidel-ales-nunvar/
+[16]: https://pardubicky.pirati.cz/tiskove-zpravy/str-hlaseni-od-kormidel-ondrej-karas/
+[17]: https://pardubicky.pirati.cz/tiskove-zpravy/str-hlaseni-od-kormidel-liba-vevodova/
+[18]: https://pardubicky.pirati.cz/tiskove-zpravy/str-hlaseni-od-kormidel-andrej-ramaseuski/
+[19]: https://pardubicky.pirati.cz/tiskove-zpravy/str-hlaseni-od-kormidel-pavel-stepanek/
+[20]: https://pardubicky.pirati.cz/tiskove-zpravy/str-hlaseni-od-kormidel-ivana-bohmova/
+[21]: https://pardubicky.pirati.cz/tiskove-zpravy/str-hlaseni-od-kormidel-miroslav-sedlak/
+[22]: https://pardubicky.pirati.cz/tiskove-zpravy/str-hlaseni-od-kormidel-jiri-duchacek/
