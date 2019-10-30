@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: Jitka Bidlová - Architektka, která svou pílí mění veřejný prostor města Polička
-date: 2019-10-30T00:00:00+0200
+date: 2019-10-30T18:00:00+0200
 tags: 
     - rozhovor
     - zastupitel
