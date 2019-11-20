@@ -15,7 +15,7 @@ image: articles/2019/devitka.png
 Lídrem pirátské kandidátky je předseda Krajského sdružení a zastupitel Chrudimi **Daniel Lebduška**.
 Vystudoval Karlovu Univerzitu a od roku 2013 působí na různých pozicích v marketingu. V současnosti je výkonným ředitelem společnosti IPC Team - a zabývá se především online marketingem.
 
-{% asset 'people/jbidlova3.jpg' magick:resize='751x422^' 
+{% asset 'articles/2019/dan-velky.jpg' magick:resize='751x422^' 
 magick:gravity='north' alt='Jitka Bidlová'%}
 
 Dvojkou na kandidátce se stal **Filip Mezera**, který pracuje jako datový analytik v oblasti financí a je zastupitelem v Sezemicích, kde trénuje mládež fotbal. Na třetím místě piráti zvolili IT specialistu, zastupitele obce Radhošť a soukromého zemědělce **Andreje Ramašeuského**. Čtyřkou pirátské kandidátky je svitavská zastupitelka a učitelka **Líba Vévodová**. První pětku uzavírá IT specialista a českotřebovský zastupitel **Jiří Ducháček**, který má v gesci dopravu a bezpečnost.
