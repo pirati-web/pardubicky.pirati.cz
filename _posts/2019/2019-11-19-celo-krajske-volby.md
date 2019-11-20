@@ -26,7 +26,7 @@ magick:gravity='north' alt='Andrej Ramašeuski'%}{% asset 'people/libuse-vevodov
 magick:gravity='north' alt='Líba Vévodová'%}{% asset 'people/jiri.duchacek.jpg' magick:resize='165x220^' 
 magick:gravity='north' alt='Jiří Ducháček'%}
 
-Další v pořadí je pardubická zastupitelka věnující se sociální oblasti a kultuře **Lenka Španihelová**. Další ženou je **Andrea Linhartová**, jež se věnuje problematice zdravotnictví. Následuje **Jaroslav Lainz**, speciální pedagog věnující se žákům s výchovnými problémy a intervenčním programům ve školách. Devítičlenné čelo pirátské kandidátky uzavírá **Matěj Karas**, odborník v oblasti koordinace sociálních služeb a meziresortní spolupráce.
+Následující v pořadí je pardubická zastupitelka věnující se sociální oblasti a kultuře **Lenka Španihelová**. Další ženou je **Andrea Linhartová**, jež se věnuje problematice zdravotnictví. Následuje **Jaroslav Lainz**, speciální pedagog věnující se žákům s výchovnými problémy a intervenčním programům ve školách. Devítičlenné čelo pirátské kandidátky uzavírá **Matěj Karas**, odborník v oblasti koordinace sociálních služeb a meziresortní spolupráce.
 
 První devítce kandidátů do krajských voleb již vyjádřil svou podporu pirátský poslanec **Mikuláš Ferjenčík**.
 >„Mám radost, že si členové Pirátů na kandidátku zvolili různorodé osobnosti ze všech okresů Pardubického kraje a těším se na volební kampaň, do které se osobně zapojím stejně jako v komunálních volbách.“
