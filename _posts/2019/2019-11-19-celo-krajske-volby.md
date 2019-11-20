@@ -23,7 +23,7 @@ Dvojkou na kandidátce se stal **Filip Mezera**, který pracuje jako datový ana
 {% asset 'people/filip-mezera.jpg' magick:resize='165x220^' 
 magick:gravity='north' alt='Filip Mezera'%} {% asset 'people/andrej-ramaseuski.jpg' magick:resize='165x220^' 
 magick:gravity='north' alt='Andrej Ramašeuski'%}{% asset 'people/libuse-vevodova.jpg' magick:resize='165x220^' 
-magick:gravity='north' alt='Líba Vévodová'%}{% asset 'people/jiri-duchacek.jpg' magick:resize='165x220^' 
+magick:gravity='north' alt='Líba Vévodová'%}{% asset 'people/jiri.duchacek.jpg' magick:resize='165x220^' 
 magick:gravity='north' alt='Jiří Ducháček'%}
 
 Další v pořadí je pardubická zastupitelka věnující se sociální oblasti a kultuře **Lenka Španihelová**. Další ženou je **Andrea Linhartová**, jež se věnuje problematice zdravotnictví. Následuje **Jaroslav Lainz**, speciální pedagog věnující se žákům s výchovnými problémy a intervenčním programům ve školách. Devítičlenné čelo pirátské kandidátky uzavírá **Matěj Karas**, odborník v oblasti koordinace sociálních služeb a meziresortní spolupráce.
