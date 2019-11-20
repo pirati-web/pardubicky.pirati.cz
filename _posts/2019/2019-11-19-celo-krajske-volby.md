@@ -7,7 +7,7 @@ tags:
     - Krajské-volby-2019
     - tiskova-zprava
 author: Piráti Pardubického kraje
-image: articles/2019/devitka.png
+image: articles/2019/devitka.jpg
 ---
 
 **V druhém listopadovém týdnu si Piráti v Pardubickém kraji zvolili čelo své kandidátní listiny do krajských voleb. Volba probíhala tradičně prostřednictvím internetového hlasování a do obsáhlé rozpravy na pirátském fóru se zapojila většina členů. Ti si vybrali devítku osobností, které se v příštím roce budou snažit oslovit voliče a získat co nejvyšší počet mandátů v krajském zastupitelstvu.**
