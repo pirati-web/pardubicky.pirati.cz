@@ -15,9 +15,16 @@ image: articles/2019/devitka.png
 Lídrem pirátské kandidátky je předseda Krajského sdružení a zastupitel Chrudimi **Daniel Lebduška**.
 Vystudoval Karlovu Univerzitu a od roku 2013 působí na různých pozicích v marketingu. V současnosti je výkonným ředitelem společnosti IPC Team - a zabývá se především online marketingem.
 
+{% asset 'people/jbidlova3.jpg' magick:resize='751x422^' 
+magick:gravity='north' alt='Jitka Bidlová'%}
 
 Dvojkou na kandidátce se stal **Filip Mezera**, který pracuje jako datový analytik v oblasti financí a je zastupitelem v Sezemicích, kde trénuje mládež fotbal. Na třetím místě piráti zvolili IT specialistu, zastupitele obce Radhošť a soukromého zemědělce **Andreje Ramašeuského**. Čtyřkou pirátské kandidátky je svitavská zastupitelka a učitelka **Líba Vévodová**. První pětku uzavírá IT specialista a českotřebovský zastupitel **Jiří Ducháček**, který má v gesci dopravu a bezpečnost.
 
+{% asset 'people/filip-mezera.jpg' magick:resize='165x220^' 
+magick:gravity='north' alt='Filip Mezera'%} {% asset 'people/andrej-ramaseuski.jpg' magick:resize='165x220^' 
+magick:gravity='north' alt='Andrej Ramašeuski'%}{% asset 'people/libuse-vevodova.jpg' magick:resize='165x220^' 
+magick:gravity='north' alt='Líba Vévodová'%}{% asset 'people/jiri-duchacek.jpg' magick:resize='165x220^' 
+magick:gravity='north' alt='Jiří Ducháček'%}
 
 Další v pořadí je pardubická zastupitelka věnující se sociální oblasti a kultuře **Lenka Španihelová**. Další ženou je **Andrea Linhartová**, jež se věnuje problematice zdravotnictví. Následuje **Jaroslav Lainz**, speciální pedagog věnující se žákům s výchovnými problémy a intervenčním programům ve školách. Devítičlenné čelo pirátské kandidátky uzavírá **Matěj Karas**, odborník v oblasti koordinace sociálních služeb a meziresortní spolupráce.
 
