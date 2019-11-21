@@ -7,7 +7,7 @@ tags:
     - rozhovor
     - zastupitel
 author: Piráti Pardubického kraje
-image: articles/2019/rozhovory/vjirsa/vjirsa.png
+image: articles/2019/rozhovory/vjirsa/vjirsa1.png
 ---
 **Vojtěch Jirsa,  jeden ze zakladatelů sdružení Město na kole. Aktivista, který inicioval vznik cykloobousměrek v Pardubicích. Chatař, jenž ve volném čase rád chodí na houby, je v současnosti pirátským zastupitelem a stále přichází s projekty zlepšujícími dopravní situaci v největším městě Pardubického kraje.**
 
