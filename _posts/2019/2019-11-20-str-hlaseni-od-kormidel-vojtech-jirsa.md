@@ -33,12 +33,14 @@ magick:gravity='north' alt='Vojtěch Jirsa'%}
  
  
 Povedly se například již zmíněné cykloobousměrky. Dnes jsou již cykloobousměrky samozřejmostí. V naprosté většině jednosměrných ulic neexistuje důvod, proč by cyklisté neměli mít možnost jezdit i v protisměru. Když se s nimi začínalo, byla kolem nich nekonečná diskuze o bezpečnosti atd. Dnes, po bezmála jedné dekádě od jejich zavedení, už máme statistiky nehodovosti, které ukazují, že nebezpečné nejsou a většina lidí jejich zřizování podporuje. Což je myslím dost zásadní změna. To samé platí o cyklopruzích. Možná je to moje naivní představa, ale myslím si, že i díky nám začali lidé více vnímat cyklistickou dopravu jako důležitou součást dobře fungujícího města, ale to je těžko měřitelné. Město na kole nebylo pouze o cyklistické dopravě, hodně jsme se věnovali také územnímu plánování a kvalitě veřejných prostranství. Vydávali jsme ke konkrétním kauzám tiskové zprávy, lobbovali jsme, organizovali eventy, komunikovali přes sociální sítě. Já doufám, že jsme obyvatele Pardubic, alespoň malinko názorově obohatili. 
+
  
 **Funguje tento spolek i v dnešní době?**
 
 
 Spolek stále funguje, ale není již tolik aktivní. Část z nás se profesionalizovala a věnuje se problematice dál. Například Jakub Kutílek je dopravní projektant a je se mnou v Pirátském zastupitelském klubu. Jednou ze zakládajících členek byla Ivana Böhmová, která je dnes rovněž Pirátskou zastupitelkou a předsedkyní místního sdružení. Jinými slovy Město na kole stále žije zejména skrze své členy, kteří prosazují podporu rozvoje cyklistické dopravy často více "napřímo".
  
+ 
 **V roce 2018 ses stal zastupitelem města Pardubic a také zastupitelem městského obvodu Pardubice I - střed, jako piráti jste v opozici. Co tě přesvědčilo ke kandidatuře v komunálních volbách?**
  
  
