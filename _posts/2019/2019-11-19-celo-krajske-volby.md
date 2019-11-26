@@ -16,7 +16,7 @@ Lídrem pirátské kandidátky je předseda Krajského sdružení a zastupitel C
 Vystudoval Karlovu Univerzitu a od roku 2013 působí na různých pozicích v marketingu. V současnosti je výkonným ředitelem společnosti IPC Team - a zabývá se především online marketingem.
 
 
-Dvojkou na kandidátce se stal **Filip Mezera**, který pracuje jako datový analytik v oblasti financí a je zastupitelem v Sezemicích, kde trénuje mládež fotbal. Na třetím místě piráti zvolili IT specialistu, zastupitele obce Radhošť a soukromého zemědělce **Andreje Ramašeuského**. Čtyřkou pirátské kandidátky je svitavská zastupitelka a učitelka **Líba Vévodová**. První pětku uzavírá IT specialista a českotřebovský zastupitel **Jiří Ducháček**, který má v gesci dopravu a bezpečnost.
+Dvojkou na kandidátce se stal **Filip Mezera**, který pracuje jako datový analytik v oblasti financí a je zastupitelem v Sezemicích, kde trénuje mládež fotbal. Na třetím místě piráti zvolili systémového administrátora, zastupitele obce Radhošť a drobného chovatele **Andreje Ramašeuského**. Čtyřkou pirátské kandidátky je svitavská zastupitelka a učitelka **Líba Vévodová**. První pětku uzavírá IT specialista a českotřebovský zastupitel **Jiří Ducháček**, který má v gesci dopravu a bezpečnost.
 
 
 Následující v pořadí je pardubická zastupitelka věnující se sociální oblasti a kultuře **Lenka Španihelová**. Další ženou je **Andrea Linhartová**, jež se věnuje problematice zdravotnictví. Následuje **Jaroslav Lainz**, speciální pedagog věnující se žákům s výchovnými problémy a intervenčním programům ve školách. Devítičlenné čelo pirátské kandidátky uzavírá **Matěj Karas**, odborník v oblasti koordinace sociálních služeb a meziresortní spolupráce.
