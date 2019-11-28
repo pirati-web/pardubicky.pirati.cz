@@ -33,12 +33,12 @@ magick:gravity='north' alt='Pardubičtí Piráti'%}
 ## Zápolení Pirátů se zastupitelskými “kovboji”
 
 
-Hlavní odpovědnost za vedení města nese koalice, vedená v současnosti hnutím ANO. Piráti mají v opozici za úkol vedení kontrolovat a upozorňovat, když dělá, co nemá. V omezené míře je také možné z opozice přicházet s vlastními návrhy. *„Za zcela zásadní se ukazuje schopnost spolupráce a naslouchání, pořád věřím, že to jde i bez bojů a ostrých loktů,”* popisuje pirátská zastupitelka **Lenka Španihelová**. 
+Hlavní odpovědnost za vedení města nese koalice, vedená v současnosti hnutím ANO. Piráti mají v opozici za úkol vedení kontrolovat a upozorňovat, když dělá, co nemá. V omezené míře je také možné z opozice přicházet s vlastními návrhy. *„Jako zcela zásadní se ukazuje schopnost spolupráce a naslouchání, pořád věřím, že to jde i bez bojů a ostrých loktů,”* popisuje pirátská zastupitelka **Lenka Španihelová**. 
 Po nástupu do politiky začala také více vnímat práci úředníků. 
 *„Dříve jsem vnímala především konkrétní výstupy zastupitelstva. Teď vidím, že za výstupy politiků stojí velká a mravenčí práce úředníků.”* Zároveň však podotýká, že veřejnost je do rozhodování zapojovaná mnohem méně, než čekala.
 
 
- S tím souhlasí i její kolegyně z velkého zastupitelka, Pirátka **Ivana Böhmová**: *„Zvenku fungování města vypadá neproniknutelně a nedivím se lidem, kteří mají pocit, že sami nic nezmůžou. Přitom existuje spousta možností, jak se k veřejným věcem vyjadřovat, nebo je ovlivnit.”* Jako efektivní způsob občanům doporučuje kontaktovat “své” zastupitele. Takovou cestu obvykle využívá překvapivě málo lidí. Zapojování občanů tvoří jeden z pilířů pirátské politiky. V pracovní skupině pro strategii a Smart city úspěšně pohled města posouvá Pirát **Vařecha**.
+ S tím souhlasí i její kolegyně z velkého zastupitelstva, Pirátka **Ivana Böhmová**: *„Zvenku fungování města vypadá neproniknutelně a nedivím se lidem, kteří mají pocit, že sami nic nezmůžou. Přitom existuje spousta možností, jak se k veřejným věcem vyjadřovat, nebo je ovlivnit.”* Jako efektivní způsob občanům doporučuje kontaktovat “své” zastupitele. Takovou cestu obvykle využívá překvapivě málo lidí. Zapojování občanů tvoří jeden z pilířů pirátské politiky. V pracovní skupině pro strategii a Smart city úspěšně pohled města posouvá Pirát **Vařecha**.
  
  
 Vedení města vnímá po zkušenosti “zevnitř” kritičtěji i **Vojtěch Jirsa**. *„Udivuje mě, s jakou lehkostí se rozhoduje o veřejných prostředcích stylem milion sem, milion tam,” popisuje.“* Jsem z firmy zvyklý všechno dobře rozmyslet, zpracovat analýzu, vyčíslit, uchopit, rozmyslet, posoudit varianty. *„V zastupitelstvu je však často situace jiná. Jen zřídka se zvažují priority na základě nějakých objektivních kritérií nebo se zjišťují potřeby veřejnosti.“* 
