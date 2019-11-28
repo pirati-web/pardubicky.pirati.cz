@@ -16,8 +16,8 @@ image: articles/2019/plclanky/pardubice/parclan1.jpg
 Důvěra voličů změnila osud několika aktivním občanům, kteří se v pirátských barvách stali zastupiteli krajského města, městských obvodů i okolních obcí. V povolebním vyjednávání nakonec zamířili do opozice, i z ní se ale už rok dokážou podílet na chodu města a na rozhodnutích, které ovlivňují život lidí v devadesátitisícových Pardubicích i blízkém okolí.
 
 
-Asi největší zápřah představuje zastupitelstvo města. *„Mám-li srovnat městské a obvodní zastupitelstvo, jedná se o úplně jinou práci,”* srovnává **Ondřej Karas**, zastupitel města i šestého obvodu. “Velké” zastupitelstvo se schází každý měsíc mimo července a srpna, kdy mají zastupitelé prázdniny. Na programu mívá třicet bodů, jednání začíná ve tři odpoledne a končí po šesti až sedmi hodinách.
-Jít si to jen odsedět by mi svědomí nedovolilo
+Asi největší zápřah představuje zastupitelstvo města. *„Mám-li srovnat městské a obvodní zastupitelstvo, jedná se o úplně jinou práci,”* srovnává **Ondřej Karas**, zastupitel města i šestého obvodu. *„Velké zastupitelstvo se schází každý měsíc mimo července a srpna, kdy mají zastupitelé prázdniny. Na programu mívá třicet bodů, jednání začíná ve tři odpoledne a končí po šesti až sedmi hodinách.
+Jít si to jen odsedět by mi svědomí nedovolilo.“*
 
 
 Pro primátora a jeho náměstky představuje tato práce hlavní obživu, po volbách se stávají „uvolněnými“ zastupiteli. To znamená, že je zaměstnavatel musí pro službu obci uvolnit a držet jim pozici po dobu jejich čtyřletého funkčního období. Všichni ostatní členové zastupitelstva (v Pardubicích je jich 39) jsou “neuvolnění”. Vedle zastupitelování mají svá běžná zaměstnání. Odměna pro ně je spíš symbolická. *„Myslím, že sečteno podtrženo mi politika zabere tak 50 hodin za měsíc. Celkem dostanu od města měsíčně 5 500 Kč,”* odhaduje **Vojtěch Jirsa**. 
