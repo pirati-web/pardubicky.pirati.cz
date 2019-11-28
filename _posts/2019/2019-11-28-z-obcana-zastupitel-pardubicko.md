@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: Z občana zastupitelem. Co čeká člověka, který uspěje ve volbách?
-date: 2019-11-28T18:00:00+0200
+date: 2019-11-28T10:00:00+0200
 tags: 
     - Pardubice
     - zastupitel
