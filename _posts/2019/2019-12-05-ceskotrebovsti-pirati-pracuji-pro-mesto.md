@@ -4,7 +4,7 @@ category: CLANKY
 title: Českotřebovští piráti pracují pro město
 date: 2019-12-05T10:00:00+0200
 tags: 
-    - Česká Třebová
+    - Ceska-Trebova
     - zastupitel
 author: Piráti Pardubického kraje
 image: articles/2019/plclanky/ctrebova/ctrebova.png
