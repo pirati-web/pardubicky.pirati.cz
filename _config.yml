@@ -53,8 +53,8 @@ calendar:
 pardupice:
   mapLink: https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10250.279531989467!2d15.770466!3d50.0381549!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd4d03352a17e038b!2zUGFyZHVQaUNlIOKAkyBQYXJkdWJpY2vDqSBQaXLDoXRza8OpIGNlbnRydW0!5e0!3m2!1scs!2scz!4v1568565921492!5m2!1scs!2scz
   calendar:
-    id: m7dv5mncp7gqghttde26k8i524@group.calendar.google.com
-    page: https://calendar.google.com/calendar/embed?src=m7dv5mncp7gqghttde26k8i524%40group.calendar.google.com&ctz=Europe%2FPrague
+    id: t60uj67580oudjh04tuh5icl8o@group.calendar.google.com
+    page: https://calendar.google.com/calendar/embed?src=t60uj67580oudjh04tuh5icl8o%40group.calendar.google.com&ctz=Europe%2FPrague
 
 facebook:
   loadSDK: true
