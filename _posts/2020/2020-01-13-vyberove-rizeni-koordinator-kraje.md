@@ -66,7 +66,7 @@ Uchazeč zašle požadované dokumenty do 22.1.2020**
 
 
 Podmínkou zařazení do výběrového řízení je zaslání strukturovaného životopisu a motivačního dopisu obsahujícího vizi působení na dané pozici. Dále uchazeč zašle plán konkrétní akce, která by mohla být součástí kampaně do krajských voleb. Životopis a motivační dopis vítěze výběrového řízení mohou být zveřejněny i bez předchozího souhlasu.
-Přihlásit se můžete prostřednitvím tohoto formuláře: **http://www.lmcg2.com/pd/1442227421/?rps=202**
+Přihlásit se můžete prostřednitvím **[tohoto formuláře](http://www.lmcg2.com/pd/1442227421/?rps=202)**
 
 
 **Termín nástupu: únor/březen 2020 (dle možností uchazeče)**
