@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: Pirátský rok 2019 v Pardubickém kraji - část 1. 
-date: 2020-01-22T10:00:00+01:00
+date: 2020-01-21T10:00:00+01:00
 tags: 
     - Pardubice
     - Sezemice
@@ -33,7 +33,7 @@ Z opozice se však v loňském roce podařilo prosadit i mnoho konstruktivních 
 
 V Chrudimi pirátští zastupitelé v čele s místostarosty Pavlem Štěpánkem a Alešem Nunvářem zakončili první rok na radnici. Tento rok byl především o sbírání zkušeností, poznávání úřadu a jednotlivých procesů, avšak to neznamená, že by na radnici nepracovali, naopak.
 
-  {% asset 'articles/2019/zastupitele_chrudim.jpg ' magick:resize='751x422^' 
+  {% asset 'articles/2019/zastupitele_chrudim.jpg' magick:resize='751x422^' 
 magick:gravity='north' alt='chrudimští Piráti'%}
  
 
