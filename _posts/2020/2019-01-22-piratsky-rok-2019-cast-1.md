@@ -20,11 +20,11 @@ Nejvíc o sobě vloni pardubičtí Piráti dali vědět, když se řešilo, zda 
   {% asset 'articles/2019/plclanky/pardubice/parclan1.jpg' magick:resize='751x422^' 
 magick:gravity='north' alt='Pardubičtí Piráti'%}
 
-V listopadu rozhodla těsná většina zastupitelů, že se Pardubice pustí do stavby nového fotbalového stadionu. Na ten si má město vzít rekordní úvěr - téměř půl miliardy. Rozhodnutí jít do mimořádně špatně připraveného projektu s riskantním plánem financování Piráti od začátku odmítali. Když projekt vedení prosadilo, Piráti spolu se širokou skupinou ostatních opozičních stran i občanů spustili iniciativu [Nechci stadion na dluh]([https://nechcistadionnadluh.cz/](https://nechcistadionnadluh.cz/)), která žádá, aby otázku rozhodli občané v referendu.
+V listopadu rozhodla těsná většina zastupitelů, že se Pardubice pustí do stavby nového fotbalového stadionu. Na ten si má město vzít rekordní úvěr - téměř půl miliardy. Rozhodnutí jít do mimořádně špatně připraveného projektu s riskantním plánem financování Piráti od začátku odmítali. Když projekt vedení prosadilo, Piráti spolu se širokou skupinou ostatních opozičních stran i občanů spustili iniciativu [Nechci stadion na dluh]([https://nechcistadionnadluh.cz/], která žádá, aby otázku rozhodli občané v referendu.
 
   
 
-Z opozice se však v loňském roce podařilo prosadit i mnoho konstruktivních kroků. Občané na velkém zastupitelstvu můžou se svým podnětem díky Pirátům přijít v pevný čas (18:00) a nemusí čekat, kdy se na ně dostane řada. Na pátém městském obvodě začali Piráti vysílat živé videopřenosy zastupitelstva. Tamtéž se také podařilo prosadit plán na budování [veřejných grilovišť]([https://pardubice.pirati.cz/griloviste](https://pardubice.pirati.cz/griloviste)).
+Z opozice se však v loňském roce podařilo prosadit i mnoho konstruktivních kroků. Občané na velkém zastupitelstvu můžou se svým podnětem díky Pirátům přijít v pevný čas (18:00) a nemusí čekat, kdy se na ně dostane řada. Na pátém městském obvodě začali Piráti vysílat živé videopřenosy zastupitelstva. Tamtéž se také podařilo prosadit plán na budování [veřejných grilovišť](https://pardubice.pirati.cz/griloviste).
 
 - [Více se dozvíte na **webu** pardubických Pirátů](https://pardubice.pirati.cz/)
 - [Nebo na **Facebooku** pardubických Pirátů](https://www.facebook.com/PiratiPardubice)
