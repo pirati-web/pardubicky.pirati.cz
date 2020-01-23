@@ -6,15 +6,17 @@ category:
   - pak
   - kandidat-ceskatrebova-2018
   - predsednictvo
+  - kontaktni_osoba
 img: people/martin.saifrt.jpg
 description: 3. místopředseda KS Pardubický kraj
-candidatedesc: komunitní  pracovník
+candidatedesc: komunitní pracovník
 ord_predsednictvo: 4
 ordpak: 3
 ordkomunal2018: 3
 mail:
   - martin.saifrt@pirati.cz
-mob: null
+mob:
+  - 778 439 559
 profiles:
   github: null
   facebook: null
