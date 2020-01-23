@@ -5,6 +5,13 @@ keywords: kontakt, adresa, telefon, mail, facebook, kde najdu, kde jsou
 # Pokud nechcete, aby se zobrazovalo kontaktní místo, můžete odkomentovat následující řádek:
 # noresidence: yes
 contentSize: even
+contactPersons:
+  - id: daniel.lebduska
+    position: Předseda krajského sdružení
+  - id: martin.saifrt
+    position: Kontakt pro novináře
+  - id: david.marhold
+    position: Kontakt pro dobrovolníky
 ---
 
 <div class="o-section-header o-section-header--indented">
