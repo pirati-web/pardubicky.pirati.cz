@@ -4,7 +4,7 @@ category: CLANKY
 title: Pirátský rok 2019 v Pardubickém kraji - část 2. 
 date: 2020-01-22T10:00:00+01:00
 tags: 
-    - Česká Třebová
+    - Ceska-Trebova
     - Svitavy
     - Rudoltice
     - zastupitel
