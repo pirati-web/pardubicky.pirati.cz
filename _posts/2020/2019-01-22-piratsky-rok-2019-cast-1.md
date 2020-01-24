@@ -15,7 +15,7 @@ image: articles/2020/2019_cast1.png
 
 ## PARDUBICE
 
-Nejvíc o sobě vloni pardubičtí Piráti dali vědět, když se řešilo, zda by kraj měl udělit výjimku z emisních limitů elektrárně Chvaletice. Piráti zmobilizovali veřejnost, důrazně proti emisním výjimkám vystupovali, jednání na zastupitelstvo přijeli podpořit i dva pirátští poslanci. I díky tomu nakonec zastupitelstvo rozhodlo s udělením výjimky vyjádřit nesouhlas. Pro srovnání: v létě o stanovisku k tomuto tématu jednala rada města znovu - tentokrát už ale na mimořádném jednání, bez účasti veřejnosti. Bez veřejného tlaku se už proti výjimce nepostavila. Být aktivní opozicí má smysl.
+Nejvíc o sobě vloni pardubičtí Piráti dali vědět, když se řešilo, zda by kraj měl udělit výjimku z emisních limitů elektrárně Chvaletice. Piráti mobilizovali veřejnost, důrazně proti emisním výjimkám vystupovali, jednání na zastupitelstvo přijeli podpořit i dva pirátští poslanci. I díky tomu nakonec zastupitelstvo rozhodlo s udělením výjimky vyjádřit nesouhlas. Pro srovnání: v létě o stanovisku k tomuto tématu jednala rada města znovu - tentokrát už ale na mimořádném jednání, bez účasti veřejnosti. Bez veřejného tlaku se už proti výjimce nepostavila. Být aktivní opozicí má smysl.
 
   {% asset 'articles/2019/plclanky/pardubice/parclan1.jpg' magick:resize='751x422^' 
 magick:gravity='north' alt='Pardubičtí Piráti'%}
