@@ -1,4 +1,4 @@
-----
+---
 layout: post
 category: CLANKY
 title: Piráti v Pardubickém kraji se zapojili do akce Suchej únor
