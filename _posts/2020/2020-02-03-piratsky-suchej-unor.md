@@ -1,4 +1,4 @@
----
+----
 layout: post
 category: CLANKY
 title: Piráti v Pardubickém kraji se zapojili do akce Suchej únor
@@ -93,19 +93,19 @@ Já díky "nepití" alkoholu mám stále čistou hlavu a jistě se to pozitivně
 magick:gravity='north' alt='Vladek Vácha'%}
 
 
-## Zdenek Kubala
+## Zdeněk Kubala
 
 **Co je pro tebe alkohol, jak ho vnímáš osobně a celospolečensky?**
 
-Alkohol je pro me zbozi, ktere ovlivnuje mysleni a uvolnuje zabrany - pozitivni i negativni. Alkohol navozuje chvilkovy stav, ktery nekdy povzbudi, jindy otupi nebo jen uvolni ci pomuze zapomenout a i proto je obliben ve spolecnosti.
+Alkohol je pro mě zboži, které ovlivňuje myšlení a uvolňuje zábrany - pozitivní i negativní. Alkohol navozuje chvilkový stav, který někdy povzbudí, jindy otupí nebo jen uvolní či pomůže zapomenout a i proto je oblíben ve společnosti.
 
 **Proč jsi se rozhodl, že nebudeš tento měsíc pít alkohol?**
 
-Rozhodil jsem se pred rokem, ze vyzkousim suchy unor,ale mesic se mi zdal malo, tak sem si dal rok. Tento suchy unor je vlastne muj druhy. :)
+Rozhodl jsem se před rokem, že vyzkoušim Suchej únor, ale měsíc se mi zdál málo, tak jsem si dal rok. Tento Suchej únor je vlastně můj druhý. :)
 
 **Co očekáváš od své měsíční abstinence?**
 
-Testuji svou vuli a bez alkoholu se lepe kontroluji.
+Testuji svou vůli a bez alkoholu se lépe kontroluji.
 
 {% asset 'articles/2020/kubala.jpg' magick:resize='751x422^' 
 magick:gravity='north' alt='Zdeněk Kubala'%}
