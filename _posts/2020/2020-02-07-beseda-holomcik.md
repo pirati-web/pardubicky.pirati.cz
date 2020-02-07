@@ -27,7 +27,7 @@ V průběhu besedy se se svými podněty a dotazy zapojovali návštěvníci, me
 magick:gravity='north' alt='beseda'%}
 
 
-Příjemnou atmosféru při diskuzi podpořilo občerstvení, jenž na akci poskytl [pardubický sociální podnik Café Robinson](https://www.facebook.com/pg/cafe.robinson/), který zaměstnává lidi s duševním postižením.
+Příjemnou atmosféru při diskuzi podpořilo občerstvení, jenž na akci poskytl [pardubický sociální podnik Café Robinson](https://www.facebook.com/pg/cafe.robinson/), který zaměstnává lidi se zkušenostmi s duševním onemocněním.
 
 
 
