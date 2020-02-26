@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: Nevíte co dělají vaši zastupitelé na radnici? My vám to otevřeně řekneme
-date: 2020-02-26T10:00:00+01:00
+date: 2020-02-26T07:00:00+01:00
 tags: 
     - Chrudim
     - Svitavy
