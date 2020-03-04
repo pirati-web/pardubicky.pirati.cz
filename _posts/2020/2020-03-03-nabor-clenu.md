@@ -41,7 +41,7 @@ A protože Piráti jsou důkazem toho, že to jde dělat i jinak.
  
 **Politiku děláme pro vás, dělejte ji s námi!**
 
-### **Zde nám dejte o sobě vědět -  [VYPLŇTE FORMULÁŘ](https://forms.gle/L92Dtb1hkcEpdHxH8)**
+### **Zde nám dejte o sobě vědět -  [VYPLŇTE FORMULÁŘ](https://forms.gle/3kRpLdNHNnztMDKdA)**
 
 Děkujeme  
 Za Piráty v Pardubickém kraji  
