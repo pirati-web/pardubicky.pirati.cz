@@ -11,7 +11,7 @@ image: articles/2020/dobro.png
 
 **Zdravím všechny příznivce a přátele Pirátů v Pardubickém kraji!**
 
-**Od našeho krajského sdružení jsem dostal důvěru a vést naši kandidátku v tažení na Krajský úřad a jako lídr pro nadcházející volby vám chci poděkovat za veškerou přízeň, pomoc a podporu, kterou jste nám doposud věnovali.   Stejně jako ve volbách rozhoduje každý hlas, tak v přípravě na ně rozhoduje každý dobrovolník. Potřebujeme každé ruce, nohy a mozky, které mají dobrou vůli, chtějí něco změnit a podílet se na zlepšení životních podmínek obyvatel v Pardubickém kraji.**
+**Od našeho krajského sdružení jsem dostal důvěru vést naši kandidátku v tažení na Krajský úřad. Jako lídr pro nadcházející volby vám chci poděkovat za veškerou přízeň, pomoc a podporu, kterou jste nám doposud věnovali. Stejně jako ve volbách rozhoduje každý hlas, tak v přípravě na ně rozhoduje každý dobrovolník. Potřebujeme každé ruce, nohy a mozky, které mají dobrou vůli, chtějí něco změnit a podílet se na zlepšení životních podmínek obyvatel v Pardubickém kraji.**
 
 Vytrvale jako strana rosteme a sílíme, nicméně je s tím spojen i narůstající objem práce, kterou musíme odvádět. Blížící se krajské volby jsou právě teď dalším cílem na cestě za kultivovanou a rozvinutou společností 21. století. Uskuteční se v říjnu tohoto roku a Piráti, jako nejsilnější opoziční strana, budou slyšet. A čím víc nás bude, tím lépe to zvládneme.
 
