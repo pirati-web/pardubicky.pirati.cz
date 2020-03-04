@@ -15,7 +15,7 @@ image: articles/2020/dobro.png
 
 Vytrvale jako strana rosteme a sílíme, nicméně je s tím spojen i narůstající objem práce, kterou musíme odvádět. Blížící se krajské volby jsou právě teď dalším cílem na cestě za kultivovanou a rozvinutou společností 21. století. Uskuteční se v říjnu tohoto roku a Piráti, jako nejsilnější opoziční strana, budou slyšet. A čím víc nás bude, tím lépe to zvládneme.
 
-Stejně jako ve volbách rozhoduje každý hlas, tak v přípravě na ně rozhoduje každý dobrovolník. Potřebujeme každé ruce, nohy a mozky, které mají dobrou vůli, chtějí něco změnit a podílet se na zlepšení životních podmínek obyvatel v jižních Čechách.
+Stejně jako ve volbách rozhoduje každý hlas, tak v přípravě na ně rozhoduje každý dobrovolník. Potřebujeme každé ruce, nohy a mozky, které mají dobrou vůli, chtějí něco změnit a podílet se na zlepšení životních podmínek obyvatel v Pardubickém kraji.
 
 **Možností, jak se zapojit, je celá řada, můžete například:**
 
