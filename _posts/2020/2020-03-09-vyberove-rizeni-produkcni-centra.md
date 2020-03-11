@@ -42,7 +42,7 @@ image: articles/2020/produkcni.png
 
 ## Nabízíme:
     
--   práce na DPP/IČO,
+-   práce na DPP,
     
 -   odměna 150,-/h (předpoklad 2 hodiny, 3 krát v týdnu) maximální hodinová odměna je 4050,- měsíčně
     
@@ -69,7 +69,10 @@ image: articles/2020/produkcni.png
 -   smysl pro humor.
     
 
-Pro zařazení do výběrového řízení zašlete do 19. března na mail
+Podmínkou zařazení do výběrového řízení je zaslání strukturovaného životopisu a motivačního dopisu obsahujícího vizi působení na dané pozici. Životopis a motivační dopis vítěze výběrového řízení mohou být zveřejněny i bez předchozího souhlasu.
+Pro zařazení do výběrového řízení zašlete potřebnou dokumentaci na mail: jana.kolarikova@pirati.cz, do předmětu uveďte: "produkční ParduPice"
+
+**Přihlášku do výběrového řízení lze podat do 25.3.2020**
 
 ## Hodnotící kritéria:
     
