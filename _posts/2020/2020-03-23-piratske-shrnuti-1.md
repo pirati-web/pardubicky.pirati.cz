@@ -8,19 +8,9 @@ tags:
 author: Piráti Pardubického kraje
 image: articles/2020/ps/ps1.png
 ---
-**O půlnoci z neděle na pondělí 16. 3. začalo platit nařízení vlády, které zakazuje volný pohyb osob na území celé České republiky, s výjimkou cest do zaměstnání a k výkonu podnikatelské činnosti, cest nezbytně nutných k obstarání základních životních potřeb, např. nákupu potravin, léků, pohonných hmot, hygienického zboží, poštovních a bankovních služeb, cest do zdravotnických zařízení a za rodinou nebo blízkými osobami.**
+**Přinášíme vám první shrnutí našich PIRÁTSKÝCH SDÍLENÍ z minulého týdne, kdy jsme vás začali informovat ohledně nemoci COVID-19. Tyto informace si můžete od pondělí do pátku ve 20:00 přečíst na naší Facebookové krajské stránce. Mnoho z nás začalo nezištně pomáhat lidem ve svém okolí a řešit situaci, se kterou nikdo nepočítal. Za zmínku stojí aktivity našich členů, jako je Vladek Vácha, který věnoval obrovské množství leteckého plátna na výrobu roušek. Libuše Vévodová se snaží aktivizovat učitelé a žáky aby si nastavili lepší systém domácího vzdělávání. Mnoho z nás začalo šít roušky a zdarma je rozdávají ve svém okolí. I 3D tiskárna v pirátském centru pod kontrolou Filipa Vařechy je plně vytížena a tiskne potřebné součástky.**
 
-  
-
-Tuto situaci si nikdo z nás nedokázal představit, a to ani v nejčernějších snech. Vždyť naše společnost dlouhodobě ekonomicky vzrůstala a měli jsme všechno, na co jsme jen pomysleli. Najednou nám byl ze dne na den omezen přístup do obchodních domů, kadeřnictví, kosmetických salonů, prodejen s oblečením, botami, nebo hračkáren.
-  
-
-Mezi některými lidmi tak propukla panika a někteří vzali obchody útokem, vykoupili mouku, těstoviny, maso a další potraviny, které považujeme za nutné k přežití. Prodavačky jedou na 200%, obchody hlásí tržby jako o Vánocích a Velikonocích dohromady, frustrace, strach a nejistota pomalu nahlodává mysl každému z nás.
-
-  
-Ve středu nám vláda sdělila, že každý z nás bude muset nosit ochranu nosu a úst a to pomocí šály, šátků, roušek a ústěnek. V této chvíli začala největší solidární akce obyčejných lidí. Každý kdo měl zdravé ruce a šicí stroj, začal šít roušky, ústenky a zdarma je skrz skupiny spontánně vzniklé na Facebooku a rozdávat je těm, kdo je potřebují.
-
-  
+    
 
 # PIRÁTSKÉ SDÍLENÍ
 
@@ -47,14 +37,14 @@ magick:gravity='north' alt='Vladek Vácha'%}
 
   
 
-Někteří z nás k šicím strojům usedli poprvé a i přes těžké začátky jsou schopni ušít i desítku roušek. Konkrétně jde o Honzu Bednáře z Pardubic, Jirku Krátkého ze Svitav a další, kteří nezištně pomáhají lidem ve svém okolí.
+Někteří z nás k šicím strojům usedli poprvé a i přes těžké začátky jsou schopni ušít i desítku roušek. Konkrétně jde o **Honzu Bednáře** z Pardubic, **Jirku Krátkého** ze Svitav a další, kteří nezištně pomáhají lidem ve svém okolí.
 
  {% asset 'articles/2020/ps/ps3.png' magick:resize='751x422^' 
 magick:gravity='north' alt='Bedy'%}
 
   
 
-Při šití roušek pomáhá i naše 3D tiskárna, která v Pardubickém centru ParduPiCe tiskne za pomocí Filipa Vařechy zakladače šikmého proužku pro snazší šití roušek.
+Při šití roušek pomáhá i naše 3D tiskárna, která v Pardubickém centru ParduPiCe tiskne za pomocí **Filipa Vařechy** zakladače šikmého proužku pro snazší šití roušek.
 
  {% asset 'articles/2020/ps/ps4.png' magick:resize='751x422^' 
 magick:gravity='north' alt='3D tiskarna'%}
@@ -92,6 +82,15 @@ Naše členka **Libuše Vévodová**, která učí na svitavském gymnáziu, vyz
 # COVID-19 DATA
 
 Náš pirátský zastupitel **Filip Mezera** ze Sezemic, který pracuje dlouhodobě jako finanční analytik, se aktivně zapojil do facebookové skupiny **COVID-19 DATA**. Díky této skupině vznikla speciální linka 1212, která pomáhá odpovídat lidem na různé dotazy, které se týkají situace kolem koronaviru. Dále se podílí na vývoji trekovací aplikace, která pomůže vystopovat, s kým se potencionální přenašeč setkal. Filip se také podílí na našem denním hlášení, které znáte jako PIRÁTSKÉ SDÍLENÍ.
+
+#
+Tuto situaci si nikdo z nás nedokázal představit, a to ani v nejčernějších snech. Vždyť naše společnost dlouhodobě ekonomicky vzrůstala a měli jsme všechno, na co jsme jen pomysleli. Najednou nám byl ze dne na den omezen přístup do obchodních domů, kadeřnictví, kosmetických salonů, prodejen s oblečením, botami, nebo hračkáren.
+  
+
+Mezi některými lidmi tak propukla panika a někteří vzali obchody útokem, vykoupili mouku, těstoviny, maso a další potraviny, které považujeme za nutné k přežití. Prodavačky jedou na 200%, obchody hlásí tržby jako o Vánocích a Velikonocích dohromady, frustrace, strach a nejistota pomalu nahlodává mysl každému z nás.
+
+  
+Ve středu nám vláda sdělila, že každý z nás bude muset nosit ochranu nosu a úst a to pomocí šály, šátků, roušek a ústěnek. V této chvíli začala největší solidární akce obyčejných lidí. Každý kdo měl zdravé ruce a šicí stroj, začal šít roušky, ústenky a zdarma je skrz skupiny spontánně vzniklé na Facebooku a rozdávat je těm, kdo je potřebují.
 
   
   
