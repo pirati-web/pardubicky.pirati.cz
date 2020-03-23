@@ -42,21 +42,21 @@ Ochrany nosu a úst je v naší zemi nedostatek a mnozí z nás se rozhodli pomo
 
 Díky Vladkovi v různých chráněných dílnách a institucích ušili tisíce roušek, které jsou v dnešní době nutné k vycházení a běžnému fungování na veřejnosti.
 
- {% asset 'articles/2020/ps/ps2' magick:resize='751x422^' 
+ {% asset 'articles/2020/ps/ps2.png' magick:resize='751x422^' 
 magick:gravity='north' alt='Vladek Vácha'%}
 
   
 
 Někteří z nás k šicím strojům usedli poprvé a i přes těžké začátky jsou schopni ušít i desítku roušek. Konkrétně jde o Honzu Bednáře z Pardubic, Jirku Krátkého ze Svitav a další, kteří nezištně pomáhají lidem ve svém okolí.
 
- {% asset 'articles/2020/ps/ps3' magick:resize='751x422^' 
+ {% asset 'articles/2020/ps/ps3.png' magick:resize='751x422^' 
 magick:gravity='north' alt='Bedy'%}
 
   
 
 Při šití roušek pomáhá i naše 3D tiskárna, která v Pardubickém centru ParduPiCe tiskne za pomocí Filipa Vařechy zakladače šikmého proužku pro snazší šití roušek.
 
- {% asset 'articles/2020/ps/ps4' magick:resize='751x422^' 
+ {% asset 'articles/2020/ps/ps4.png' magick:resize='751x422^' 
 magick:gravity='north' alt='3D tiskarna'%}
 
   
