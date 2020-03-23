@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: PIRÁTSKÉ SHRNUTÍ - 1. týden 
-date: 2020-02-26T07:00:00+01:00
+date: 2020-03-22T07:00:00+01:00
 tags: 
     - koronavirus
 author: Piráti Pardubického kraje
