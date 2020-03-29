@@ -6,7 +6,7 @@ date: 2020-03-29T07:00:00+01:00
 tags: 
     - koronavirus
 author: Piráti Pardubického kraje
-image: articles/2020/ps/ps1.png
+image: articles/2020/ps/ps2.png
 ---
 **Přinášíme vám shrnutí PIRÁTSKÉHO SDÍLENÍ, které ve kterém Vás každý pracovní den informujeme o dění kolem epidemie koronaviru COVID-19. V tomto shrnutí se dozvíte o aktivitách našich členů a členek, kteří se aktivně zapojují a pomáhají svou nezištnou prací těm, kteří naší pomoc potřebují.**
 
