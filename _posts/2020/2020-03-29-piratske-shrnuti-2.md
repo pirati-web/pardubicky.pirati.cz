@@ -8,7 +8,7 @@ tags:
 author: Piráti Pardubického kraje
 image: articles/2020/ps/ps2.png
 ---
-**Přinášíme vám shrnutí PIRÁTSKÉHO SDÍLENÍ, které ve kterém Vás každý pracovní den informujeme o dění kolem epidemie koronaviru COVID-19. V tomto shrnutí se dozvíte o aktivitách našich členů a členek, kteří se aktivně zapojují a pomáhají svou nezištnou prací těm, kteří naší pomoc potřebují.**
+**Přinášíme vám shrnutí PIRÁTSKÉHO SDÍLENÍ, ve kterém Vás každý pracovní den informujeme o dění kolem epidemie koronaviru COVID-19. V tomto shrnutí se dozvíte o aktivitách našich členů a členek, kteří se aktivně zapojují a pomáhají svou nezištnou prací těm, kteří naší pomoc potřebují.**
 
   
 
