@@ -57,6 +57,9 @@ I příští týden Vám budeme přinášet naše PIRÁTSKÉ SDÍLENÍ, ve kter�
 
 Věříme, že tuto situaci zvládneme a brzy se vrátíme k normálnímu životu, kdy se budeme moci přímo setkávat. Situace se vyvíjí každý den, jsme si jisti, že tato situace se v dalších měsících začne zlepšovat. Nemoc je jedna věc, po této pandemii nás však bude čekat obnova chodu naší ekonomiky a celé společnosti, ale - SPOLEČNĚ TO ZVLÁDNEME!
 
+###[PIRÁTSKÉ SDÍLENÍ - 1. týden][1]
+
+
 # Shrnutí pirátského sdílení za minulý týden:
 
 > **PIRÁTSKÉ SDÍLENÍ - 26.3.2020**
@@ -385,3 +388,5 @@ Věříme, že tuto situaci zvládneme a brzy se vrátíme k normálnímu život
 > já jsem Korona“.
 > 
 > [https://www.mvcr.cz/clanek/jak-mluvit-s-detmi-o-koronaviru-nabizime-reseni.aspx](https://www.mvcr.cz/clanek/jak-mluvit-s-detmi-o-koronaviru-nabizime-reseni.aspx)
+
+[1]: https://pardubicky.pirati.cz/tiskove-zpravy/piratske-shrnuti-1/
