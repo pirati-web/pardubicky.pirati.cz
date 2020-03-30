@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: PIRÁTSKÉ SHRNUTÍ - 1. týden 
+title: PIRÁTSKÉ SDÍLENÍ - 1. týden 
 date: 2020-03-22T07:00:00+01:00
 tags: 
     - koronavirus
