@@ -6,7 +6,7 @@ date: 2020-04-05T07:00:00+01:00
 tags: 
     - koronavirus
 author: Piráti Pardubického kraje
-image: articles/2020/ps/ps3.png
+image: articles/2020/ps/ps3/ps3.png
 ---
 
 
@@ -29,13 +29,13 @@ Naši členové se i nadále snaží svou měrou pomoci mnoha institucím a zdra
 Ti z nás, kteří mají tu možnost, přidali ruku k dílu a pomáhají s výrobou ochranných štítů, které potřebují především pracovníci ve zdravotnictví. **Filip Vařecha, Andrej Ramašeuski a Jirka Jansa** se s nadšením pro věc pustili do produkce těchto štítů. **Filip Vařecha** tiskne obličejové redukce, **Andrej** každý den řeže plexiskla a **Jirka Jansa** vše kompletuje a rozváží lékařům v *chrudimském a pardubickém okrese*. 
  
  
- {% asset 'articles/2020/ps3/ps3andrej1.png' magick:resize='751x422^' 
+ {% asset 'articles/2020/ps/ps3/ps3andrej1.png' magick:resize='751x422^' 
   magick:gravity='north' alt='Štíty'%} 
 
 
 Pokud jste lékaři, zdravotníci či organizace, která ke své činnosti potřebuje tyto ochranné štíty, pak kontaktujte našeho člena **Jiřího Jansu** na emailu: **[jiri.jansa@pirati.cz](mailto:jiri.jansa@pirati.cz)**, nebo na telefonním čísle **608951177**, který Vám po domluvě může přivést naše ochranné štíty.
  
- {% asset 'articles/2020/ps3/ps3andrej2.png' magick:resize='751x422^' 
+ {% asset 'articles/2020/ps/ps3/ps3andrej2.png' magick:resize='751x422^' 
   magick:gravity='north' alt='Štíty'%} 
 
 # Věnujte svůj počítač studentům
@@ -54,7 +54,7 @@ Náš člen **Vladek Vácha** v minulých týdnech věnoval velké množství ce
 > dětem od Mironetu.
 
   
-   {% asset 'articles/2020/ps3/ps3vladek.png' magick:resize='751x422^' 
+   {% asset 'articles/2020/ps/ps3/ps3vladek.png' magick:resize='751x422^' 
   magick:gravity='north' alt='Vladek Vácha'%} 
   
 
@@ -65,7 +65,7 @@ Náš člen **Vladek Vácha** v minulých týdnech věnoval velké množství ce
 Naše pirátská zastupitelka **[Libuše Vévodová](https://www.facebook.com/viba.levodova)** ze Svitav je gymnaziální profesorkou matematiky. Podobně jako řada kolegů po celé republice nechce jen přihlížet krizové situaci ve školství a rozhodla se dalším pedagogům adresovat výzvu a jednat. V současnosti vede několik skupin žáků, které virtuálně vyučuje matematiku pomocí programu ZOOM a může se tak své práci i nadále věnovat naplno.
 
 
-{% asset 'articles/2020/ps3/ps3liba.png' magick:resize='751x422^' 
+{% asset 'articles/2020/ps/ps3/ps3liba.png' magick:resize='751x422^' 
   magick:gravity='north' alt='Štíty'%} 
 
 
