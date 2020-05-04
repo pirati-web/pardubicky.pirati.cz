@@ -22,18 +22,21 @@ main:
   - link: /pardubicke-piratske-centrum-pardupice/
     name: ParduPiCe
     match: pardubicke-piratske-centrum-pardupice
-  - link: /volby-2018/
-    name: Volby 2018
-    match: volby-2018
-    submenu:
-      - link: /volby-2018/
-        name: Krajský rozcestník
-        match: volby-2018
-      - link: /volby-2018/rudoltice/
-        name: Rudoltice
-        match: rudoltice
-      - link: /volby-2018/hlinsko/
-        name: Hlinsko
+  - link: /piratsky-zachranny-kruh/
+    name: Záchranný kruh
+    match: piratsky-zachranny-kruh
+  # - link: /volby-2018/
+  #   name: Volby 2018
+  #   match: volby-2018
+  #   submenu:
+  #     - link: /volby-2018/
+  #       name: Krajský rozcestník
+  #       match: volby-2018
+  #     - link: /volby-2018/rudoltice/
+  #       name: Rudoltice
+  #       match: rudoltice
+  #     - link: /volby-2018/hlinsko/
+  #       name: Hlinsko
   - link: /kontakt/
     name: Kontakt
     match: kontakt
