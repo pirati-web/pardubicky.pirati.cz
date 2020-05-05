@@ -9,7 +9,7 @@ tags:
 author: Piráti Pardubického kraje
 image: articles/2020/pzk.png
 ---
-*Pardubice, 5. května 2020* -  **Piráti v Pardubickém kraji přichystali projekt finanční pomoci, který pojmenovali PIRÁTSKÝ ZÁCHRANNÝ KRUH. Na projekt vyčlenili 200 tisíc korun z rozpočtu, který byl původně určen do kampaně na krajské volby. Pirátský záchranný kruh má za cíl pomoci lidem, kteří se kvůli koronavirové epidemii dostali do finanční nouze.**
+*Pardubice, 5. května 2020* - **Piráti v Pardubickém kraji přichystali projekt finanční pomoci, který pojmenovali PIRÁTSKÝ ZÁCHRANNÝ KRUH. Na projekt vyčlenili 200 tisíc korun z rozpočtu, který byl původně určen do kampaně na krajské volby. Pirátský záchranný kruh má za cíl pomoci lidem, kteří se kvůli koronavirové epidemii dostali do finanční nouze.**
 
  Tyto prostředky Piráti použijí na pomoc s ekonomickými dopady krize. Drobné dary (do 5000 Kč) budou poskytovány přímo na základě darovací smlouvy. Větší dary se budou vybírat prostřednictvím peer-to-peer sbírky pro vybrané konkrétní osoby, podnikatele nebo organizace na darcovské platformě **[znesnaze21.cz](znesnaze21.cz)** a Piráti k této vybrané částce přidají jednou tolik, kolik se vybere.
 
@@ -50,3 +50,5 @@ Různé hospodářské odhady hovoří o propadu ekonomiky až o deset procent. 
 > objemu prostředků, které uvolní,“
 
 doplňuje **lídr Pirátů do krajských voleb Daniel Lebduška.**
+
+## **[VÍCE INFORMACÍ O PROJEKTU NALEZNETE NA ZDE ](pardubicky.pirati.cz/pomahame)**
