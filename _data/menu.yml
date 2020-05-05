@@ -22,9 +22,9 @@ main:
   - link: /pardubicke-piratske-centrum-pardupice/
     name: ParduPiCe
     match: pardubicke-piratske-centrum-pardupice
-  - link: /piratsky-zachranny-kruh/
+  - link: /pomahame/
     name: Záchranný kruh
-    match: piratsky-zachranny-kruh
+    match: pomahame
   # - link: /volby-2018/
   #   name: Volby 2018
   #   match: volby-2018
@@ -57,6 +57,8 @@ bottom:
         name: Lidé
       - link: /pardubicke-piratske-centrum-pardupice/
         name: ParduPiCe
+      - link: /pomahame/
+        name: Záchranný kruh
       - link: /volby-2018/
         name: Volby
       - link: /aktuality/
