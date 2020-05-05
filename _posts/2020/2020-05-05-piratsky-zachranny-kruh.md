@@ -11,10 +11,10 @@ image: articles/2020/pzk.png
 ---
 *Pardubice, 5. května 2020* - **Piráti v Pardubickém kraji přichystali projekt finanční pomoci, který pojmenovali PIRÁTSKÝ ZÁCHRANNÝ KRUH. Na projekt vyčlenili 200 tisíc korun z rozpočtu, který byl původně určen do kampaně na krajské volby. Pirátský záchranný kruh má za cíl pomoci lidem, kteří se kvůli koronavirové epidemii dostali do finanční nouze.**
 
- Tyto prostředky Piráti použijí na pomoc s ekonomickými dopady krize. Drobné dary (do 5000 Kč) budou poskytovány přímo na základě darovací smlouvy. Větší dary se budou vybírat prostřednictvím peer-to-peer sbírky pro vybrané konkrétní osoby, podnikatele nebo organizace na darcovské platformě **[znesnaze21.cz](znesnaze21.cz)** a Piráti k této vybrané částce přidají jednou tolik, kolik se vybere.
+ Tyto prostředky Piráti použijí na pomoc s ekonomickými dopady krize. Drobné dary (do 5000 Kč) budou poskytovány přímo na základě darovací smlouvy. Větší dary se budou vybírat prostřednictvím peer-to-peer sbírky pro vybrané konkrétní osoby, podnikatele nebo organizace na darcovské platformě **[znesnaze21.cz](http://znesnaze21.cz)** a Piráti k této vybrané částce přidají jednou tolik, kolik se vybere.
 
 
-Do Pirátského záchranného kruhu se budou moci přihlásit lidé pomocí webové stránky **[pardubicky.pirati.cz/pomahame](pardubicky.pirati.cz/pomahame)**, kde lidé naleznou pravidla, popis celého projektu a potřebné formuláře. 
+Do Pirátského záchranného kruhu se budou moci přihlásit lidé pomocí webové stránky **[pardubicky.pirati.cz/pomahame](http://pardubicky.pirati.cz/pomahame)**, kde lidé naleznou pravidla, popis celého projektu a potřebné formuláře. 
 
 Pomoc je určena pro **jednotlivce, rodiny, drobné podnikatele a pro pomáhající organizace, které pomáhají v dnešní nelehké době**. Žádosti bude posuzovat organizační výbor, který bude zároveň hlasovat o podpoře na základě jasných kritérií, která naleznete na webové stránce.
 
@@ -51,4 +51,4 @@ Různé hospodářské odhady hovoří o propadu ekonomiky až o deset procent. 
 
 doplňuje **lídr Pirátů do krajských voleb Daniel Lebduška.**
 
-## **[VÍCE INFORMACÍ O PROJEKTU NALEZNETE NA ZDE ](pardubicky.pirati.cz/pomahame)**
+## **[VÍCE INFORMACÍ O PROJEKTU NALEZNETE NA ZDE ](http://pardubicky.pirati.cz/pomahame)**
