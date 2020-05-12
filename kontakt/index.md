@@ -12,6 +12,8 @@ contactPersons:
     position: Kontakt pro novináře
   - id: david.marhold
     position: Kontakt pro dobrovolníky
+  - id: ivana.mrkvickova
+    position: Kontakt pro krajské volby 2020
 ---
 
 <div class="o-section-header o-section-header--indented">
