@@ -10,6 +10,7 @@ email: pardubickykraj@pirati.cz
 description: Prosazujeme fungující moderní politiku založenou na využití technologií 21. století pro otevřenou demokratickou společnost.
 # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
 keywords: pardubický, kraj, pardubice, piráti, česká pirátská strana, svoboda, demokracie, název města, zkratka města, místní združení,
+url: "https://pardubicky.pirati.cz" # the base hostname & protocol for your site
 
 administrator:
   email: pardubicko@pirati.cz
@@ -69,9 +70,6 @@ twitter:
 
 instagram:
   profilePage: https://www.instagram.com/pirati.cz/
-
-gplus:
-  profilePage: https://plus.google.com/u/0/+piratskastrana
 
 flicker:
   profilePage: https://www.flickr.com/photos/pirati/
