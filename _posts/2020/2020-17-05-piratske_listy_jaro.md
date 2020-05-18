@@ -11,6 +11,8 @@ image: articles/2020/PL.png
 ---
 **Připravili jsme pro Vás Pirátské listy, které Vás seznámí s aktivitami a prací pirátských členek, členů, zastupitelek a zastupitelů. Pirátské listy se od 18. května začnou distribuovat online a od půlky června budou k dispozici v kavárnách, hospůdkách, restauracích, obchodech a dalších spřátelených podnicích. Poté budou listy rozneseny pirátskými dobrovolníky do schránek  občanům v Pardubickém kraji.**
 
+**ISSUU**
+ <iframe allowfullscreen allow="fullscreen" style="border:none;width:100%;height:1080px;" src="//e.issuu.com/embed.html?d=pl_pardubicke_krajske_volby_2020_web_final_4&hideIssuuLogo=true&showOtherPublicationsAsSuggestions=true&u=pirati-pardubicky-kraj"></iframe> 
 
 **PDF PROHLÍŽEČ**
 <object data="https://a.pirati.cz/pak/pl/pl_pak_2020_1.pdf"
@@ -19,6 +21,3 @@ image: articles/2020/PL.png
         height='1080px'>
 <p>This browser does not support inline PDFs. Please download the PDF to view it: <a href="https://a.pirati.cz/pak/pl/pl_pak_2020_1.pdf">Download PDF</a></p>
 </object>
-
-**ISSUU**
-<iframe allowfullscreen allow="fullscreen" style="border:none;width:100%;height:600px;" src="//e.issuu.com/embed.html?d=pl_pardubicke_krajske_volby_2020_web_final_4&u=pirati-pardubicky-kraj"></iframe>
