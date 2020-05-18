@@ -14,10 +14,5 @@ image: articles/2020/PL.png
 **ISSUU**
  <iframe allowfullscreen allow="fullscreen" style="border:none;width:100%;height:1080px;" src="//e.issuu.com/embed.html?d=pl_pardubicke_krajske_volby_2020_web_final_4&hideIssuuLogo=true&showOtherPublicationsAsSuggestions=true&u=pirati-pardubicky-kraj"></iframe> 
 
-**PDF PROHLÍŽEČ**
-<object data="https://a.pirati.cz/pak/pl/pl_pak_2020_1.pdf"
-        type='application/pdf'
-        width='100%'
-        height='1080px'>
-<p>This browser does not support inline PDFs. Please download the PDF to view it: <a href="https://a.pirati.cz/pak/pl/pl_pak_2020_1.pdf">Download PDF</a></p>
-</object>
+# [PIRÁTSKÉ LISTY KE STAŽENÍ V PDF](https://a.pirati.cz/pak/pl/pl_pak_2020_1.pdf)
+
