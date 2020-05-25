@@ -51,4 +51,5 @@ Různé hospodářské odhady hovoří o propadu ekonomiky až o deset procent. 
 
 doplňuje **lídr Pirátů do krajských voleb Daniel Lebduška.**
 
+
 ## **[VÍCE INFORMACÍ O PROJEKTU NALEZNETE NA ZDE ](http://pardubicky.pirati.cz/pomahame)**
