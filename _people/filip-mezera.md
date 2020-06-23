@@ -8,7 +8,7 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clenove
 - predsednictvo
 ord_predsednictvo: 5
-img: people/filip-mezera.jpg           # 165 x 220
+img: people/filip-mezera-2020.jpg          
 description: 4. místopředseda KS Pardubický kraj
 profession: datový analytik
 mail:

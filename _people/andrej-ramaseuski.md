@@ -1,11 +1,11 @@
 ---
 uid: andrej.ramaseuski
-name:     Andrej Ramašeuski      		# běžně používáné jméno
+name:     Andrej Ramašeuski
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - pak
 - rv
-img: people/andrej-ramaseuski.jpg           # 165 x 220
-description: zástupce RV za KS Pardubický kraj
+img: people/andrej-ramaseuski-2020.jpg 
+description: Člen Republikového výboru
 ordpak:
 mail:
 - andrej.ramaseuski@pirati.cz
