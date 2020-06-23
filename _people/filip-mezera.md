@@ -2,7 +2,7 @@
 uid: filip.mezera
 name:     Filip Mezera      		# běžně používáné jméno
 titles:
-  before: Ing. et Bc.
+  before: Ing. 
   after: Ph.D.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clenove

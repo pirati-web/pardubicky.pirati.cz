@@ -69,7 +69,7 @@ head:
       party: Piráti
 tail:
     -
-#uid: vladek.vacha
+uid:  vladek.vacha
       position: 10
       name: Vladek Vácha
 #      age: 0

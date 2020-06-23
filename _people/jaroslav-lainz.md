@@ -7,7 +7,7 @@ categories:
 uid: jaroslav.lainz
 name: Jaroslav Lainz
 fullname: Mgr.Jaroslav Lainz
-img: people/jaroslav.lainz.jpg
+img: people/jaroslav.lainz-2020.jpg
 description: Příznivec Pirátské strany
 candidatedesc: sociální pracovník
 ordpak: 4
