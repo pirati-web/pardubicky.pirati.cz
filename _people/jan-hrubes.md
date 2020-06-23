@@ -2,7 +2,7 @@
 uid: jan.hrubes
 name: Jan Hrubeš      		# běžně používáné jméno
 titles:
-  before: Bc.
+  before: Ing.
   after: DiS
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clenove

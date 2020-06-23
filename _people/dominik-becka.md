@@ -2,7 +2,7 @@
 uid: dominik.becka
 name: Dominik Bečka
 titles:
-  before: Bc.
+  before: Ing.
   after:
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clenove
