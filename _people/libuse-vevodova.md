@@ -6,7 +6,7 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
   - clenove
   - mistni_predsedove
 ord_mistni_predsedove: 4
-img: people/libuse-vevodova.jpg           # 165 x 220
+img: people/libuse-vevodova-2020.jpg
 description: Předsedkyně MS Svitavsko a zastupitelka města Svitavy # kratký popis, max 160 znaků
 ordpak: 
 mail:
