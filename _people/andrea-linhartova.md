@@ -5,7 +5,7 @@ fullname:  Andrea Linhartová
 category:
   - pak
   - predsednictvo
-img: people/andrea-linhartova.jpg
+img: people/andrea-linhartova-2020.jpg
 description: 2. místopředsedkyně KS Pardubický kraj
 ord_predsednictvo: 3
 mail:
