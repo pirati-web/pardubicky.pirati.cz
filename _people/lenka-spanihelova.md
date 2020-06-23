@@ -7,7 +7,7 @@ titles:
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clenove
 ordPce: 9
-img: people/lenka-spanihelova.jpg           # 165 x 220
+img: people/lenka-spanihelova-2020.jpg           # 165 x 220
 description: členka KS Pardubický kraj # kratký popis, max 160 znaků
 profession: sociální pedagožka
 mail: lenka.spanihelova@pirati.cz
