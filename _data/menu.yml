@@ -25,7 +25,7 @@ main:
 #  - link: /pomahame/
 #    name: Záchranný kruh
 #    match: pomahame
-  - link: /volby-2018/
+  - link: /volby-2020/
     name: Krajské volby
     match: volby-2020
   # - link: /volby-2018/
