@@ -21,7 +21,7 @@ head:
     - uid: andrej.ramaseuski
       position: 3
       name: Andrej Ramašeuski
-      age: 50
+#      age: 50
       profession: systémový administrátor, zastupitel
       city: Radhošť
       party: Piráti
