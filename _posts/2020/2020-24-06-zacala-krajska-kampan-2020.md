@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: Piráti pochodovali na kraj, cíl je jasný - získat krajské mandáty.
-date: 2020-05-17T07:00:00+01:00
+date: 2020-06-24T07:00:00+01:00
 tags: 
     - piratske-listy
     - Krajske-volby-2020
