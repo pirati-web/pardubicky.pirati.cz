@@ -32,7 +32,7 @@ Mezi nejdůležitější témata programu, se kterým Piráti v Pardubickém kra
 Zahájení kampaně podpořil svou přítomností také pirátský poslanec **Mikuláš Ferjenčík.**
 
 
-{% asset 'articles/2020/kampan20/zahajenikampan1.jpg' magick:resize='751x422^' magick:gravity='north' alt='chrudimští Piráti'%}
+{% asset 'articles/2020/kampan20/zahajenikampan2.jpg' magick:resize='751x422^' magick:gravity='north' alt='chrudimští Piráti'%}
 
 
 ### Tímto začíná kampaň pro volby do krajského zastupitelstva, během které budou Piráti ve městech a obcích Pardubického kraje rozdávat lidem Pirátské listy a prezentovat své cíle pro kraj.
