@@ -18,7 +18,9 @@ Piráti odstartovali oficiální kampaň formou průvodu, v němž bylo několik
 {% asset 'articles/2020/kampan20/zahajenikampan1.jpg' magick:resize='751x422^' magick:gravity='north' alt='chrudimští Piráti'%}
 
 
-Zde lídr Pirátů **Daniel Lebduška** seznámil veřejnost s obsahem kampaně, ve které chtějí Piráti **navštívit většinu ze 451 obcí a měst kraje**. Poté představil prvních devět členů kandidátky: **Filipa Mezeru, Andreje Ramašeuského, Libuši Vévodovou, Jiřího Ducháčka, Lenku Španihelovou,Andreu Linhartovou, Jaroslava Lainze a Matěje Karase.**
+Zde lídr Pirátů **Daniel Lebduška** seznámil veřejnost s obsahem kampaně, ve které chtějí Piráti **navštívit většinu ze 451 obcí a měst kraje**. Poté představil prvních devět členů kandidátky: *Filipa Mezeru, Andreje Ramašeuského, Libuši Vévodovou, Jiřího Ducháčka, Lenku Španihelovou,Andreu Linhartovou, Jaroslava Lainze a Matěje Karase.*
+
+### [Úplnou kandidátku můžete nalézt zde.](https://pardubicky.pirati.cz/volby-2020/)
 
 > „Ptal jsem se snad všech lidí v mém okolí a málokdo si dokázal vybavit, co kraj řeší a jak nám zlepšuje život.To chceme změnit. Máme zmapovány problémy ve zdravotnictví, dopravě, ochraně životního prostředí a víme, jak je řešit. Nebudeme brát argument: "že něco nejde." Prioritou pro nás bude řešení problémů jak lidí z té nejmenší vesnice, tak i toho největšího města. Při správě kraje se zasadíme o to, aby krajský úřad opět občanům dával smysl, pomáhal jim a měl jasnou vizi pro 21. století, pro budoucnost.
 Protože budoucnost je třeba řešit teď!“,
