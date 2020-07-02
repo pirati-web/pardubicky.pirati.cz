@@ -22,11 +22,19 @@ profiles:
   linkedin: https://www.linkedin.com/in/bc-daniel-lebdu%C5%A1ka-36303692/
 ---
 
-Daniel Lebduška (30. září 1989, Chrudim). Daniel vyrůstal v Chrudimi a studoval v Praze. Nyní opět žije v Chrudimi.
+Daniel Lebduška (* 30. září 1989 Chrudim) vyrůstal v Chrudimi a vystudoval v Praze na Karlově Univerzitě. Nyní opět žije s rodinou v Chrudimi. 
 
-Po absolvování bakalářského studia na Univerzitě Karlově od roku 2013 působí v marketingu na různých pozicích - nyní jako výkonný ředitel ve společnosti IPC Team - zabývá se především online marketingem (RTB, PPC, SEO, UX), vývojem webových stránek a okrajově i offline marketingem. Zároveň pomáhá s marketingem dalším firmám ve volném čase jako freelancer. 
+Je lídrem Pirátů do Zastupitelstva Pardubického kraje, zastupitel města Chrudim, výkonný ředitel firmy IPC Team, krajský předseda Pirátů Pardubického kraje, marketér
 
-Mezi Piráty vstoupil v lednu 2017, během parlamentní kampaně v roce 2017 byl krajským volebním koordinátorem a koordinátorem dobrovolníků pro Pardubický kraj. Od konce roku 2018 je předsedou krajského sdružení Pirátů v Pardubickém kraji.
+Politický postoj:
 
-Ve volném čase rád vaří pivo (jen pro svou spotřebu), tráví čas s rodinou a čte fantasy knížky.
+“Největší problém české politiky je v tom, že to není politika, ale jakási absurdní tragikomedie, která svou délkou většinu obecenstva unudila a odešli domů. Nějak stále věřím tomu, že republika je od “res publica” a tak by neměl zůstávat v platnosti princip, který si mnoho lidí uchovává a nevědomky předává dál svým dětem - myslím tím princip “nerušit, vládneme.” Tento princip, které je zde od komunismu zakořeněný, nechci, díky. Lidé by se měli o politiku aktivně zajímat, aby dál neprocházeli levárny.”
+
+V komunální politice se zaměřuje na problematiku privatizace městských vodárenských společností, hospodářskému rozvoji, možné digitalizaci a zatraktivnění veřejných institucí šírší veřejnosti.
+
+Na krajské a celorepublikové úrovni se zajímá o hospodářský rozvoj, cestovní ruch, investice a finance.
+
+Do strany vstoupil v lednu 2017 a během úspěšné sněmovní kampaně byl volebním koordinátorem a koordinátorem dobrovolníků pro Pardubický kraj.
+
+Ve volném čase rád vaří pivo, tráví čas s rodinou, čte fantasy knížky a sleduje na hokej.
 
