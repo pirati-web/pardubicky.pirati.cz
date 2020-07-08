@@ -10,6 +10,7 @@ leader:
     profession: výkonný ředitel firmy, zastupitel
     city: Chrudim
     party: Piráti
+    partyImg: brand/logo.svg
 head:
     - uid: filip.mezera
       position: 2
@@ -18,6 +19,7 @@ head:
       profession: datový analytik, zastupitel
       city: Sezemice
       party: Piráti
+      partyImg: brand/logo.svg
     - uid: andrej.ramaseuski
       position: 3
       name: Andrej Ramašeuski
@@ -25,6 +27,7 @@ head:
       profession: systémový administrátor, zastupitel
       city: Radhošť
       party: Piráti
+      partyImg: brand/logo.svg
     - uid: libuse.vevodova
       position: 4
       name: Mgr. Libuše Vévodová
@@ -32,6 +35,7 @@ head:
       profession: středoškolská učitelka, zastupitelka
       city: Svitavy
       party: Piráti
+      partyImg: brand/logo.svg
     - uid: jiri.duchacek
       position: 5
       name: Jiří Ducháček
@@ -39,6 +43,7 @@ head:
       profession: IT manager, zastupitel
       city: Česká Třebová
       party: Piráti
+      partyImg: brand/logo.svg
     - uid: lenka.spanihelova
       position: 6
       name: Mgr. Lenka Španihelová
@@ -46,6 +51,7 @@ head:
       profession: sociální pracovnice
       city: Vápenný Podol
       party: Piráti
+      partyImg: brand/logo.svg
     - uid: andrea.linhartova
       position: 7
       name: Andrea Linhartová
@@ -53,6 +59,7 @@ head:
       profession: metodik
       city: Chrast
       party: Piráti
+      partyImg: brand/logo.svg
     - uid: jaroslav.lainz
       position: 8
       name: Mgr. Jaroslav Lainz, DiS.
@@ -60,6 +67,7 @@ head:
       profession: speciální pedagog
       city: Česká Třebová
       party: Piráti
+      partyImg: brand/logo.svg
     - position: 9
       uid: matej.karas
       name: Mgr. Matěj Karas
@@ -67,6 +75,7 @@ head:
       profession: projektový pracovník MPSV
       city: Pardubice
       party: Piráti
+      partyImg: brand/logo.svg
 tail:
     - uid: vladek.vacha
       position: 10
@@ -75,6 +84,7 @@ tail:
       profession: technolog, konstruktér, provozovatel soukromého muzea
       city: Mistrovice
       party: Piráti
+      partyImg: brand/logo.svg
     - uid: david.marhold
       position: 11
       name: Bc. David Marhold
@@ -82,6 +92,7 @@ tail:
       profession: student historie a práv, OSVČ
       city: Svitavy
       party: Piráti
+      partyImg: brand/logo.svg
     - uid: jiri.kratky
       position: 12
       name: Jiří Krátký
@@ -89,6 +100,7 @@ tail:
       profession: kapitán plachetnice
       city: Svitavy
       party: Piráti
+      partyImg: brand/logo.svg
     -
 #uid: lucie.prochazkova
       position: 13
@@ -104,6 +116,7 @@ tail:
       profession: manažer řízení rizik, zastupitel
       city: Pardubice
       party: Piráti
+      partyImg: brand/logo.svg
     - uid: martin.saifrt
       position: 15
       name: Martin Saifrt
@@ -111,6 +124,7 @@ tail:
       profession: pracovník v soc. službách
       city: Česká Třebová
       party: Piráti
+      partyImg: brand/logo.svg
     - uid: ondrej.karas
       position: 16
       name: Ing. Ondřej Karas
@@ -118,6 +132,7 @@ tail:
       profession: vývojář, zastupitel
       city: Pardubice
       party: Piráti
+      partyImg: brand/logo.svg
     - uid: ales.nunvar
       position: 17
       name: Ing. Aleš Nunvář
@@ -125,6 +140,7 @@ tail:
       profession: místostarosta
       city: Chrudim
       party: Piráti
+      partyImg: brand/logo.svg
     - uid: jiri.jansa
       position: 18
       name: Mgr. Jiří Jansa
@@ -132,6 +148,7 @@ tail:
       profession: Pojistný matematik
       city: Pardubice
       party: Piráti
+      partyImg: brand/logo.svg
     - uid: ondrej.cesik
       position: 19
       name: Bc. Ondřej Češík
@@ -139,6 +156,7 @@ tail:
       profession: programátor
       city: Slatiňany
       party: Piráti
+      partyImg: brand/logo.svg
     - uid: marcel.palatas
       position: 20
       name: Mgr. Marcel Palatáš
@@ -146,6 +164,7 @@ tail:
       profession: státní úředník na MV
       city: Pardubice
       party: Piráti
+      partyImg: brand/logo.svg
     -
 #uid: sara.zavrelova
       position: 21
@@ -154,6 +173,7 @@ tail:
       profession:
       city: Heřmanův Městec
       party: Piráti
+      partyImg: brand/logo.svg
     - uid: zdenek.kubala
       position: 22
       name: Zdeněk Kubala
@@ -161,6 +181,7 @@ tail:
       profession: IT specialista
       city: Chrudim
       party: Piráti
+      partyImg: brand/logo.svg
     -
 #uid: emanuel.zdarsky
       position: 23
@@ -185,6 +206,7 @@ tail:
       profession: skladník
       city: Letohrad
       party: Piráti
+      partyImg: brand/logo.svg
     -
 #uid: martin.sedlak
       position: 26
@@ -193,6 +215,7 @@ tail:
       profession: OSVČ, radní
       city: Moravská Třebová
       party: Piráti
+      partyImg: brand/logo.svg
     - uid: martin.herman
       position: 27
       name: Martin Herman
@@ -200,6 +223,7 @@ tail:
       profession: seřizovač lisu
       city: Česká Třebová
       party: Piráti
+      partyImg: brand/logo.svg
     - uid: jan.bednar
       position: 28
       name: Jan Bednář
@@ -207,6 +231,7 @@ tail:
       profession: student
       city: Pardubice
       party: Piráti
+      partyImg: brand/logo.svg
     -
 #uid: oldrich.vodehnal
       position: 29
@@ -222,6 +247,7 @@ tail:
       profession: programátor
       city: Lanškroun
       party: Piráti
+      partyImg: brand/logo.svg
     -
 # uid: martin.vit
       position: 31
@@ -230,6 +256,7 @@ tail:
       profession: učitel na ZUŠ, překladatel, hudebník
       city: Vyžice
       party: Piráti
+      partyImg: brand/logo.svg
     -
 # uid: jiri.kohoutek
       position: 32
@@ -245,6 +272,7 @@ tail:
       profession: zastupitel
       city: Česká Třebová
       party: Piráti
+      partyImg: brand/logo.svg
     -
 #uid: jaroslav.klimes
       position: 34
@@ -277,6 +305,7 @@ tail:
       profession: podnikatel, právník
       city: Rudoltice
       party: Piráti
+      partyImg: brand/logo.svg
     -
 # uid: odrej.hapala
       position: 38
@@ -293,6 +322,7 @@ tail:
       profession: farmář
       city: Chrast
       party: Piráti
+      partyImg: brand/logo.svg
     - uid: anna.vavreckova
       position: 40
       name: Anna Vavřečková
@@ -300,6 +330,7 @@ tail:
       profession: programátorka
       city: Pardubice
       party: Piráti
+      partyImg: brand/logo.svg
     -
 # uid: tomas.grosskopf
       position: 41
@@ -308,6 +339,7 @@ tail:
       profession: učitel ZŠ
       city: Výprachtice
       party: Piráti
+      partyImg: brand/logo.svg
     -
 # uid: josef.horak
       position: 42
@@ -323,6 +355,7 @@ tail:
       profession: programátor, zastupitel
       city: Pardubice
       party: Piráti
+      partyImg: brand/logo.svg
     - uid: karsten.sachs
       position: 44
       name: Karsten Sachs
@@ -330,6 +363,7 @@ tail:
       profession: manažer v dopravní firmě
       city: Moravská Třebová
       party: Piráti
+      partyImg: brand/logo.svg
     -
 # uid: karel.macek
       position: 45
@@ -338,6 +372,7 @@ tail:
       profession: gastronomický pracovník, promotér
       city: Svitavy
       party: Piráti
+      partyImg: brand/logo.svg
     - uid: jan.hrubes
       position: 46
       name: Ing. Jan Hrubeš, DiS.
@@ -345,6 +380,7 @@ tail:
       profession: doktorand, zastupitel
       city: Pardubice
       party: Piráti
+      partyImg: brand/logo.svg
     -
 #uid: jitka.bidlova
       position: 47
@@ -353,6 +389,7 @@ tail:
       profession: zastupitelka
       city: Polička
       party: Piráti
+      partyImg: brand/logo.svg
     - uid: ivana.bohmova
       position: 48
       name: Bc. et Bc. Ivana Böhmová
@@ -360,6 +397,7 @@ tail:
       profession: pedagožka, zastupitelka
       city: Pardubice
       party: Piráti
+      partyImg: brand/logo.svg
     - uid: pavel.stepanek
       position: 49
       name: Pavel Štěpánek
@@ -367,6 +405,7 @@ tail:
       profession: místostarosta
       city: Chrudim
       party: Piráti
+      partyImg: brand/logo.svg
     -
 #uid: stanislav.klat
       position: 50
@@ -375,6 +414,7 @@ tail:
       profession: student politologie a enviromentalistiky
       city: Nové Hrady
       party: Piráti
+      partyImg: brand/logo.svg
 ---
 
 ## Bezpečnost (garant Jiří Ducháček)

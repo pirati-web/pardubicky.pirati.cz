@@ -175,3 +175,5 @@ assets:
     - assets/video
     - assets/img
     - _sass
+
+styleguide_base_url: 'http://localhost:3000/'
