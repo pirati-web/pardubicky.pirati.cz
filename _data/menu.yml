@@ -17,7 +17,7 @@ main:
     name: Lidé
     match: lide
   - link: /pardubicke-piratske-centrum-pardupice/
-    name: ParduPiCe
+    name: Pirátské centrum
     match: pardubicke-piratske-centrum-pardupice
 #  - link: /pomahame/
 #    name: Záchranný kruh
