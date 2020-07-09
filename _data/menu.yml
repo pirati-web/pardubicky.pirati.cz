@@ -1,16 +1,13 @@
 top:
   - link: "pirati.cz"
     url:  "https://www.pirati.cz"
-    icon: "fa fa-home"
-  - link: "wiki.pirati.cz"
-    url:  "https://wiki.pirati.cz"
-    icon: "fa fa-home"
-  - link: "Nalodění"
-    url:  "https://nalodeni.pirati.cz"
-    icon: "fa fa-user-plus"
+    icon: "ico--home"
+  - link: "piratskyobchod.cz"
+    url:  "https://piratskyobchod.cz"
+    icon: "ico--cart"
   - link: "Pirátské listy"
     url:  "http://www.piratskelisty.cz"
-    icon: "fa fa-newspaper-o"
+    icon: "ico--newspaper"
 
 main:
   - link: /aktuality/
@@ -63,7 +60,7 @@ bottom:
       - link: /pomahame/
         name: Záchranný kruh
       - link: /volby-2018/
-        name: Volby
+        name: Volby 2018
       - link: /aktuality/
         name: Aktuality
   - class: small-12 medium-4
@@ -75,3 +72,15 @@ bottom:
         name: Registr smluv
       - link: https://wiki.pirati.cz/fo/otevrene_ucetnictvi
         name: Otevřené účetnictví
+
+
+# Display transparency section in the footer?
+transparencySection: false
+
+contact:
+  - id: david.marhold
+    position: Koordinátor
+  - id: ivana.mrkvickova
+    position: Koordinátorka, volební manažerka
+  - id: martin.saifrt
+    position: Kontakt pro novináře

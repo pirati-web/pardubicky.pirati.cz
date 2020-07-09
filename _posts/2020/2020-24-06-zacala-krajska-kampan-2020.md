@@ -3,11 +3,12 @@ layout: post
 category: CLANKY
 title: Piráti pochodovali na kraj, cíl je jasný - získat krajské mandáty.
 date: 2020-06-24T07:00:00+01:00
-tags: 
+tags:
     - piratske-listy
     - Krajske-volby-2020
 author: Piráti Pardubického kraje
 image: articles/2020/kampan20/zahajenikampan.jpg
+important: true
 ---
 
 **Ve středu 24. června odstartovala kampaň Pirátů v Pardubickém kraji. Zahájili ji pochodem z pirátského centra ParduPiCe a došli před Krajský úřad. Zde lídr Daniel Lebduška představil jednotlivé kandidáty, program a harmonogram kampaně.**

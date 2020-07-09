@@ -106,7 +106,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-environment-variables
 paginate_path: "/aktuality/:num/"
-paginate: 11
+paginate: 12
 
 exclude:
   - readme.md
@@ -176,4 +176,4 @@ assets:
     - assets/img
     - _sass
 
-styleguide_base_url: 'http://localhost:3000/'
+styleguide_base_url: 'https://styleguide.pir-test.eu/latest/'
