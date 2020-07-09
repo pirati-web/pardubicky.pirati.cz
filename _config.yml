@@ -139,8 +139,7 @@ defaults:   # defaults values for collection scope
     values:
       layout: "person"
       rbar:
-        - foto
-        - personContact
+        - profile
         - people
   -
     scope:

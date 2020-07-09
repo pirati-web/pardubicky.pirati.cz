@@ -8,7 +8,7 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clenove
 - radnice
 img: people/filip-varecha.jpg           # 165 x 220
-description: 1. místopředseda KS Pardubický kraj
+description: člen KS Pardubický kraj
 profession: vývojář webových aplikací
 mail:
 - filip.varecha@pirati.cz
