@@ -8,13 +8,10 @@ openingHoursSEO: Mo-Fr 9:00-17:00
 heroHeadline: Zbrusu nové krajské pirátské centrum!
 heroDescription: V Pardubicích jsme otevřeli nové pirátské centrum pod zkratkou ParduPiCe.
 img: pardupice/1.jpg
-address: >
+address: |
   Pardubické pirátské centrum
-
   Budova T-STRING
-
   Masarykovo náměstí 1484
-
   530 02 Pardubice I
 addressNote: Vstup do pirátského centra naleznete z boku budovy T-STRING naproti „AFI paláci“, vedle kadeřnictví. Vchod je v prostoru vjezdu na parkoviště ve vnitrobloku.
 contactPersons:

@@ -6,7 +6,7 @@ leader:
     uid: tomas.kolomy
     age: 43
     profession: právník
-    party: Piráti
+    partyUid: pirati
     description: Otevřenost a participace # zobrazuje se v komunalni-volby
 
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
@@ -14,62 +14,62 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
       age: 38
       profession: vedoucí výroby
       # description:
-      party: bez politické příslušnosti
+      partyUid: bezpp
     - uid: jenda.verner
       profession: technolog
       # description: zdravotní a sociální problematika
-      party: bez politické příslušnosti
+      partyUid: bezpp
 tail: # zbytek kandidatky
 # jedinná povinná položka je name zbytek můžete vynechat
 # věk se uvádí k poslednímu dni voleb
     - name: Luboš Ščuška
       age: 37
       profession: řidič
-      party: bez politické příslušnosti
+      partyUid: bezpp
     - name: Ing. Vilém Jílek
       age: 50
       profession: vedoucí výroby
-      party: bez politické příslušnosti
+      partyUid: bezpp
     - name: Tomáš Chromec
       age: 30
       profession: technik specialista
-      party: bez politické příslušnosti
+      partyUid: bezpp
     - name: David Svojanovský
       age: 35
       profession: frézař
-      party: bez politické příslušnosti
+      partyUid: bezpp
     - name: Luboš Orság
       age: 28
       profession: kontrolor kvality
-      party: bez politické příslušnosti
+      partyUid: bezpp
     - name: Ing.arch. Petr Rejnuš
       age: 25
       profession: architekt
-      party: bez politické příslušnosti
+      partyUid: bezpp
     - name: Petr Beránek
       age: 43
       profession: operátor
-      party: bez politické příslušnosti
+      partyUid: bezpp
     - name: Jakub Loskot
       age: 33
       profession: operátor
-      party: bez politické příslušnosti
+      partyUid: bezpp
     - name: Lucie Sochorová
       age: 28
       profession: operátorka zákaznické linky
-      party: bez politické příslušnosti
+      partyUid: bezpp
     - name: Martin Václavík
       age: 53
       profession: rybářský dělník
-      party: bez politické příslušnosti
+      partyUid: bezpp
     - name: Zdeněk Stránský
       age: 34
       profession: řidič
-      party: bez politické příslušnosti
+      partyUid: bezpp
     - name: Soňa Zadražilová
       age: 58
       profession: prodavačka
-      party: bez politické příslušnosti
+      partyUid: bezpp
 ---
 
 

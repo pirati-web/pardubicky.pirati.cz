@@ -13,25 +13,25 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
   - uid: mistni.predseda
     profession: knihovník
     description: expert na skoky
-    party: bez politické příslušnosti
+    partyUid: pirati
   - uid: jakub.pirat
     profession: knihovník
   - uid: aktivni.priznivec
     age: 63
     profession: zametač
     description: expert přes dětská hřiště
-    party: Evropani.cz
+    partyUid: pirati
 tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
       # věk se uvádí k poslednímu dni voleb
   - name: Mudr. Místní Dkotor
     age: 49
     profession: obvodní lékař
-    party: bez politické příslušnosti
+    partyUid: pirati
   - name: Tomáš Šťoural
     age: 19
     profession: student
-    party: Piráti
+    partyUid: pirati
 note: # poznámka pod kanidátku
     Primárky stále běží. Zbytek kandidátky zveřejníme, jakmile doběhnou.
 ---

@@ -2,13 +2,14 @@
 uid: filip.mezera
 name:     Filip Mezera      		# běžně používáné jméno
 titles:
-  before: Ing. 
+  before: Ing.
   after: Ph.D.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clenove
 - predsednictvo
 ord_predsednictvo: 5
-img: people/filip-mezera-2020.jpg          
+img: people/filip-mezera-2020.jpg
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: 4. místopředseda KS Pardubický kraj
 profession: datový analytik
 mail:

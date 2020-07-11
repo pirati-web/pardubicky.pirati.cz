@@ -6,6 +6,7 @@ category:
   - pak
   - kandidat-ceskatrebova-2018
 img: people/jiri.duchacek-2020.jpg
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: člen Pirátské strany
 candidatedesc: IT manager
 ordpak: 1
