@@ -6,8 +6,8 @@ leader:
     uid: daniel.lebduska
     position: 1
     name: Bc. Daniel Lebduška
-#    age: 0
-    profession: výkonný ředitel firmy, zastupitel
+#    age: 31
+    profession: ředitel firmy, zastupitel, domácí sládek
     city: Chrudim
     party: Piráti
 head:
@@ -135,7 +135,7 @@ tail:
     - uid: ondrej.cesik
       position: 19
       name: Bc. Ondřej Češík
-#      age: 0
+#      age: 35
       profession: programátor
       city: Slatiňany
       party: Piráti
@@ -212,7 +212,7 @@ tail:
       position: 29
       name: Oldřich Vodehnal
 #      age: 0
-      profession:
+      profession: lesní adjunkt
       city:
       party: BEZPP
     - uid: zdenek.brejsa
@@ -226,7 +226,7 @@ tail:
 # uid: martin.vit
       position: 31
       name: Mgr. Martin Vít
-#     age: 0
+#     age: 49
       profession: učitel na ZUŠ, překladatel, hudebník
       city: Vyžice
       party: Piráti
@@ -234,8 +234,8 @@ tail:
 # uid: jiri.kohoutek
       position: 32
       name: Jiří Kohoutek
-#      age: 0
-      profession:
+#      age: 30
+      profession: pracovník technické podpory
       city:
       party: BEZPP
     - uid: zbynek.ruda
@@ -250,15 +250,15 @@ tail:
       position: 34
       name: Jaroslav Klimeš
 #      age: 0
-      profession: OSVČ
+      profession: OSVČ v gastonomii, provozní
       city: Jedlová u Poličky
-      party: BEZPP
+      party: Piráti
     -
 #uid: richard.pavlik
       position: 35
       name: Richard Pavlík
 #      age: 0
-      profession:
+      profession: poradce v oblasti životního prostředí, důchodce
       city: Hlinsko
       party: BEZPP
     -
@@ -278,7 +278,7 @@ tail:
       city: Rudoltice
       party: Piráti
     -
-# uid: odrej.hapala
+# uid: ondrej.hapala
       position: 38
       name: Bc. Ondřej Hapala
 #      age: 0
