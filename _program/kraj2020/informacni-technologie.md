@@ -10,8 +10,8 @@ garant: andrej.ramaseuski
 #  [ text, který se zobrazí na přehledu programových bodů ]
 #intro: [ text, který se zobrazí jako úvodní odstavec na detailu programového bodu ]
 ---
-## K řešení akutních problémů a dlouhodobého zaostávání v oblasti digitalizace zřídíme samostatný výbor pro digitalizaci a kybernetickou bezpečnost.
-
+## Výbor pro digitalizaci a kybernetickou bezpečnost
+K řešení akutních problémů a dlouhodobého zaostávání v oblasti digitalizace zřídíme samostatný výbor pro digitalizaci a kybernetickou bezpečnost.
 Náplní jeho práce bude revize a modernizace informační infrastruktury kraje. Budeme preferovat otevřené technologie a svobodný software, zbavíme se předražených IT zakázek a proprietárních uzamčení (vendor lock-in), vylepšíme komunikaci mezi krajskými subjekty na základě otevřených formátů a protokolů. 
 
 ## Zpřísníme požadavky na zabezpečeni informačních systémů zdravotních zařízeni kraje a zajistíme pravidelné školeni personálu a odpovídající kontrolní činnost.
