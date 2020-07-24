@@ -8,3 +8,17 @@
       categoryUid: rudoltice
     - title: Hlinsko   # individual campaigns within the group
       categoryUid: hlinsko
+- groupUid: volby-2020  # identifier of the group, to be used in program point
+  title: Volby 2020     # title of the campaign group
+  campaigns:
+    - title: Kraj   # individual campaigns within the group
+      categoryUid: kraj2020
+  subLinks:
+    - title: Financování kampaně
+      icon: ico--calculator
+      classes: bg-black text-white
+      href: https://wiki.pirati.cz/ft/start
+    - title: Sledujte nás na Facebooku
+      icon: ico--facebook
+      classes: bg-brands-facebook text-white
+      href: https://www.facebook.com/pirati.pardubicko/

@@ -9,8 +9,9 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
  - predsednictvo
  - kontaktni_osoba
 ord_predsednictvo: 1
-img: people/daniel-lebduska-2020.jpg   
-description: předseda krajského sdružení Pardubického kraje			
+img: people/daniel-lebduska-2020.jpg
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
+description: předseda krajského sdružení Pardubického kraje
 ordpak:
 mail:
 - daniel.lebduska@pirati.cz
@@ -22,7 +23,7 @@ profiles:
   linkedin: https://www.linkedin.com/in/bc-daniel-lebdu%C5%A1ka-36303692/
 ---
 
-Daniel Lebduška (* 30. září 1989 Chrudim) vyrůstal v Chrudimi a vystudoval v Praze na Karlově Univerzitě. Nyní opět žije s rodinou v Chrudimi. 
+Daniel Lebduška (* 30. září 1989 Chrudim) vyrůstal v Chrudimi a vystudoval v Praze na Karlově Univerzitě. Nyní opět žije s rodinou v Chrudimi.
 
 Je lídrem Pirátů do Zastupitelstva Pardubického kraje, zastupitel města Chrudim, výkonný ředitel firmy IPC Team, krajský předseda Pirátů Pardubického kraje, marketér
 

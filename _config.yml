@@ -22,10 +22,12 @@ organization:
   email: pardubickykraj@pirati.cz
   phone: +420 770 113 647
   address: |
-    Radoušova 14,
-    537 01 Chrudim
-  residenceImg: miscellaneous/cpice.jpg
-  mapLink: https://mapy.cz/zakladni?base=ophoto&q=Radou%C5%A1ova%2014,%20Chrudim
+    Pardubické pirátské centrum
+    Budova T-STRING
+    Masarykovo náměstí 1484
+    530 02 Pardubice I
+  residenceImg: pardupice/6.jpg
+  mapLink: https://goo.gl/maps/nn9n5ZXHtGujt7hQA
   redmineLink: https://redmine.pirati.cz/projects/pardubicky-kraj
   dataBoxId: b2i4r6j
   transparentAccount: 2100048174/2010
@@ -106,7 +108,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-environment-variables
 paginate_path: "/aktuality/:num/"
-paginate: 11
+paginate: 12
 
 exclude:
   - readme.md
@@ -139,8 +141,7 @@ defaults:   # defaults values for collection scope
     values:
       layout: "person"
       rbar:
-        - foto
-        - personContact
+        - profile
         - people
   -
     scope:
@@ -175,3 +176,5 @@ assets:
     - assets/video
     - assets/img
     - _sass
+
+styleguide_base_url: 'https://styleguide.pir-test.eu/latest/'

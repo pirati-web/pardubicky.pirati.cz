@@ -6,6 +6,7 @@ category:
   - pak
   - predsednictvo
 img: people/andrea-linhartova-2020.jpg
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: 2. místopředsedkyně KS Pardubický kraj
 ord_predsednictvo: 3
 mail:

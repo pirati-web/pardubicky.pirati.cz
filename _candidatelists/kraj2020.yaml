@@ -9,7 +9,7 @@ leader:
 #    age: 0
     profession: výkonný ředitel firmy, zastupitel
     city: Chrudim
-    party: Piráti
+    partyUid: pirati
 head:
     - uid: filip.mezera
       position: 2
@@ -17,56 +17,56 @@ head:
 #      age: 0
       profession: datový analytik, zastupitel
       city: Sezemice
-      party: Piráti
+      partyUid: pirati
     - uid: andrej.ramaseuski
       position: 3
       name: Andrej Ramašeuski
 #      age: 50
       profession: systémový administrátor, zastupitel
       city: Radhošť
-      party: Piráti
+      partyUid: pirati
     - uid: libuse.vevodova
       position: 4
       name: Mgr. Libuše Vévodová
 #      age: 0
       profession: středoškolská učitelka, zastupitelka
       city: Svitavy
-      party: Piráti
+      partyUid: pirati
     - uid: jiri.duchacek
       position: 5
       name: Jiří Ducháček
 #      age: 0
       profession: IT manager, zastupitel
       city: Česká Třebová
-      party: Piráti
+      partyUid: pirati
     - uid: lenka.spanihelova
       position: 6
       name: Mgr. Lenka Španihelová
 #      age: 0
       profession: sociální pracovnice
       city: Vápenný Podol
-      party: Piráti
+      partyUid: pirati
     - uid: andrea.linhartova
       position: 7
       name: Andrea Linhartová
 #      age: 0
       profession: metodik
       city: Chrast
-      party: Piráti
+      partyUid: pirati
     - uid: jaroslav.lainz
       position: 8
       name: Mgr. Jaroslav Lainz, DiS.
 #      age: 0
       profession: speciální pedagog
       city: Česká Třebová
-      party: Piráti
+      partyUid: pirati
     - position: 9
       uid: matej.karas
       name: Mgr. Matěj Karas
 #      age: 0
       profession: projektový pracovník MPSV
       city: Pardubice
-      party: Piráti
+      partyUid: pirati
 tail:
     - uid: vladek.vacha
       position: 10
@@ -74,21 +74,21 @@ tail:
 #      age: 0
       profession: technolog, konstruktér, provozovatel soukromého muzea
       city: Mistrovice
-      party: Piráti
+      partyUid: pirati
     - uid: david.marhold
       position: 11
       name: Bc. David Marhold
 #      age: 0
       profession: student historie a práv, OSVČ
       city: Svitavy
-      party: Piráti
+      partyUid: pirati
     - uid: jiri.kratky
       position: 12
       name: Jiří Krátký
 #      age: 0
       profession: kapitán plachetnice
       city: Svitavy
-      party: Piráti
+      partyUid: pirati
     -
 #uid: lucie.prochazkova
       position: 13
@@ -96,56 +96,56 @@ tail:
 #      age: 0
       profession: právnička, asistentka poslance
       city: Pardubice
-      party: BEZPP
+      partyUid: bezpp
     - uid: dominik.becka
       position: 14
       name: Ing. Dominik Bečka
 #      age: 0
       profession: manažer řízení rizik, zastupitel
       city: Pardubice
-      party: Piráti
+      partyUid: pirati
     - uid: martin.saifrt
       position: 15
       name: Martin Saifrt
 #      age: 0
       profession: pracovník v soc. službách
       city: Česká Třebová
-      party: Piráti
+      partyUid: pirati
     - uid: ondrej.karas
       position: 16
       name: Ing. Ondřej Karas
 #      age: 0
       profession: vývojář, zastupitel
       city: Pardubice
-      party: Piráti
+      partyUid: pirati
     - uid: ales.nunvar
       position: 17
       name: Ing. Aleš Nunvář
 #      age: 0
       profession: místostarosta
       city: Chrudim
-      party: Piráti
+      partyUid: pirati
     - uid: jiri.jansa
       position: 18
       name: Mgr. Jiří Jansa
 #      age: 0
       profession: Pojistný matematik
       city: Pardubice
-      party: Piráti
+      partyUid: pirati
     - uid: ondrej.cesik
       position: 19
       name: Bc. Ondřej Češík
 #      age: 0
       profession: programátor
       city: Slatiňany
-      party: Piráti
+      partyUid: pirati
     - uid: marcel.palatas
       position: 20
       name: Mgr. Marcel Palatáš
 #      age: 0
       profession: státní úředník na MV
       city: Pardubice
-      party: Piráti
+      partyUid: pirati
     -
 #uid: sara.zavrelova
       position: 21
@@ -153,14 +153,14 @@ tail:
 #      age: 0
       profession:
       city: Heřmanův Městec
-      party: Piráti
+      partyUid: pirati
     - uid: zdenek.kubala
       position: 22
       name: Zdeněk Kubala
 #      age: 0
       profession: IT specialista
       city: Chrudim
-      party: Piráti
+      partyUid: pirati
     -
 #uid: emanuel.zdarsky
       position: 23
@@ -168,7 +168,7 @@ tail:
 #      age: 0
       profession: VŠ pedagog
       city:
-      party: BEZPP
+      partyUid: bezpp
     -
 #uid: jiri.hruska
       position: 24
@@ -176,7 +176,7 @@ tail:
 #      age: 0
       profession: OSVČ - lektor
       city: Němčice
-      party: BEZPP
+      partyUid: bezpp
     -
 #uid: jan.moravec
       position: 25
@@ -184,7 +184,7 @@ tail:
 #      age: 0
       profession: skladník
       city: Letohrad
-      party: Piráti
+      partyUid: pirati
     -
 #uid: martin.sedlak
       position: 26
@@ -192,21 +192,21 @@ tail:
 #      age: 0
       profession: OSVČ, radní
       city: Moravská Třebová
-      party: Piráti
+      partyUid: pirati
     - uid: martin.herman
       position: 27
       name: Martin Herman
 #      age: 0
       profession: seřizovač lisu
       city: Česká Třebová
-      party: Piráti
+      partyUid: pirati
     - uid: jan.bednar
       position: 28
       name: Jan Bednář
 #      age: 0
       profession: student
       city: Pardubice
-      party: Piráti
+      partyUid: pirati
     -
 #uid: oldrich.vodehnal
       position: 29
@@ -214,14 +214,14 @@ tail:
 #      age: 0
       profession:
       city:
-      party: BEZPP
+      partyUid: bezpp
     - uid: zdenek.brejsa
       position: 30
       name: Zdeněk Brejša
 #      age: 0
       profession: programátor
       city: Lanškroun
-      party: Piráti
+      partyUid: pirati
     -
 # uid: martin.vit
       position: 31
@@ -229,7 +229,7 @@ tail:
 #     age: 0
       profession: učitel na ZUŠ, překladatel, hudebník
       city: Vyžice
-      party: Piráti
+      partyUid: pirati
     -
 # uid: jiri.kohoutek
       position: 32
@@ -237,14 +237,14 @@ tail:
 #      age: 0
       profession:
       city:
-      party: BEZPP
+      partyUid: bezpp
     - uid: zbynek.ruda
       position: 33
       name: Zbyněk Ruda
 #      age: 0
       profession: zastupitel
       city: Česká Třebová
-      party: Piráti
+      partyUid: pirati
     -
 #uid: jaroslav.klimes
       position: 34
@@ -252,7 +252,7 @@ tail:
 #      age: 0
       profession: OSVČ
       city: Jedlová u Poličky
-      party: BEZPP
+      partyUid: bezpp
     -
 #uid: richard.pavlik
       position: 35
@@ -260,7 +260,7 @@ tail:
 #      age: 0
       profession:
       city: Hlinsko
-      party: BEZPP
+      partyUid: bezpp
     -
 #uid: vit.horenovsky
       position: 36
@@ -268,7 +268,7 @@ tail:
 #      age: 0
       profession:
       city:
-      party: BEZPP
+      partyUid: bezpp
     -
 # uid: tomas.kolomny
       position: 37
@@ -276,7 +276,7 @@ tail:
 #      age: 0
       profession: podnikatel, právník
       city: Rudoltice
-      party: Piráti
+      partyUid: pirati
     -
 # uid: odrej.hapala
       position: 38
@@ -284,7 +284,7 @@ tail:
 #      age: 0
       profession: student, zastupitel
       city: Svitavy
-      party: BEZPP
+      partyUid: bezpp
     -
 # uid: roman.sahula
       position: 39
@@ -292,14 +292,15 @@ tail:
 #      age: 0
       profession: farmář
       city: Chrast
-      party: Piráti
+      partyUid: pirati
+
     - uid: anna.vavreckova
       position: 40
       name: Anna Vavřečková
 #      age: 0
       profession: programátorka
       city: Pardubice
-      party: Piráti
+      partyUid: pirati
     -
 # uid: tomas.grosskopf
       position: 41
@@ -307,7 +308,7 @@ tail:
 #      age: 0
       profession: učitel ZŠ
       city: Výprachtice
-      party: Piráti
+      partyUid: pirati
     -
 # uid: josef.horak
       position: 42
@@ -315,21 +316,22 @@ tail:
 #      age: 0
       profession: systémový specialista, místostarosta
       city: Lány u Dašic
-      party: BEZPP
+      partyUid: bezpp
     - uid: filip.varecha
       position: 43
       name: Ing. Filip Vařecha
 #      age: 0
       profession: programátor, zastupitel
       city: Pardubice
-      party: Piráti
+      partyUid: pirati
+
     - uid: karsten.sachs
       position: 44
       name: Karsten Sachs
 #      age: 0
       profession: manažer v dopravní firmě
       city: Moravská Třebová
-      party: Piráti
+      partyUid: pirati
     -
 # uid: karel.macek
       position: 45
@@ -337,14 +339,14 @@ tail:
 #      age: 0
       profession: gastronomický pracovník, promotér
       city: Svitavy
-      party: Piráti
+      partyUid: pirati
     - uid: jan.hrubes
       position: 46
       name: Ing. Jan Hrubeš, DiS.
 #      age: 0
       profession: doktorand, zastupitel
       city: Pardubice
-      party: Piráti
+      partyUid: pirati
     -
 #uid: jitka.bidlova
       position: 47
@@ -352,21 +354,21 @@ tail:
 #      age: 0
       profession: zastupitelka
       city: Polička
-      party: Piráti
+      partyUid: pirati
     - uid: ivana.bohmova
       position: 48
       name: Bc. et Bc. Ivana Böhmová
 #      age: 0
       profession: pedagožka, zastupitelka
       city: Pardubice
-      party: Piráti
+      partyUid: pirati
     - uid: pavel.stepanek
       position: 49
       name: Pavel Štěpánek
 #      age: 0
       profession: místostarosta
       city: Chrudim
-      party: Piráti
+      partyUid: pirati
     -
 #uid: stanislav.klat
       position: 50
@@ -374,7 +376,8 @@ tail:
 #      age: 0
       profession: student politologie a enviromentalistiky
       city: Nové Hrady
-      party: Piráti
+      partyUid: pirati
+
 ---
 
 ## Bezpečnost (garant Jiří Ducháček)
