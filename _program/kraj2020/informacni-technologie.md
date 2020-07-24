@@ -16,9 +16,10 @@ Náplní jeho práce bude revize a modernizace informační infrastruktury kraje
 
 ## Zpřísníme požadavky na zabezpečeni informačních systémů
 Zpřísníme požadavky na zabezpečeni informačních systémů zdravotních zařízeni kraje a zajistíme pravidelné školeni personálu a odpovídající kontrolní činnost. Zabezpečeni informačních systémů nemocnic je v zanedbaném stavu, protože menší nemocnice se nepovažují za objekty kritické infrastruktury dle Zákona 181/2014 Sb. Výsledkem je zranitelnost hackerskými útoky, jejichž výsledkem může být nejenom únik vysoce citlivé zdravotní dokumentace, ale i přímé ohrožení životů pacientů.
-## Zpřístupníme data, jako jsou mapové a další podklady k dotačním titulům, pasportizaci silniční sítě a jiné technické infrastruktuře kraje, všem zájemcům.
 
-Týká se to například mapy dotačních titulů se zvýrazněnými případy dobré praxe; investičních plánů kraje
-## Pomůžeme menším obcím s plněním informační povinností vyplývající ze zákonem stanovených požadavků na přístupné webové stránky.
+## Zpřístupníme data
+Zpřístupníme data, jako jsou mapové a další podklady k dotačním titulům, pasportizaci silniční sítě a jiné technické infrastruktuře kraje, všem zájemcům. Týká se to například mapy dotačních titulů se zvýrazněnými případy dobré praxe; investičních plánů kraje
 
+## Pomůžeme menším obcím
+Pomůžeme menším obcím s plněním informační povinností vyplývající ze zákonem stanovených požadavků na přístupné webové stránky.
 Jedna se o povinnosti stanovené směrnici Evropského parlamentu a Rady (EU) 2016/2102 ze dne 26. října 2016 o přístupnosti internetových stránek a mobilních aplikací subjektů veřejného sektoru. (směrnici Evropského parlamentu a Rady (EU) 2016/2102 ze dne 26. října 2016 o přístupnosti internetových stránek a mobilních aplikací subjektů veřejného sektoru. (99/2019 Sb.)
