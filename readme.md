@@ -31,7 +31,7 @@
 
 ## Úvod
 
-Pirátská strana má své weby pro veřejnost statické a umístěné na vlastním serveru.
+Pirátská strana má své weby pro veřejnost statické a umístěné na vlastním serveru!
 
 Samotné texty a data jsou umístěné v GIT repozitářích jako je tento. Repozitář je taková
 chytrá složka souborů. Chytrá je v tom, že si pamatuje veškerou historii umožňuje více
