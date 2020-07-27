@@ -2,71 +2,81 @@
 title: Kandidátka do zastupitelstva Pardubického kraje
 uid: kraj2020
 # number: 13
+
 leader:
     uid: daniel.lebduska
     position: 1
     name: Bc. Daniel Lebduška
-#    age: 0
-    profession: výkonný ředitel firmy, zastupitel
+    age: 31
+    profession: výkonný ředitel společnosti, zastupitel města Chrudim, domácí sládek
     city: Chrudim
     partyUid: pirati
+
 head:
     - uid: filip.mezera
       position: 2
       name: Ing. Filip Mezera, Ph.D.
-#      age: 0
-      profession: datový analytik, zastupitel
+      age: 38
+      profession: datový analytik, zastupitel města Sezemice, trenér fotbalové přípravky
       city: Sezemice
       partyUid: pirati
+
     - uid: andrej.ramaseuski
       position: 3
       name: Andrej Ramašeuski
-#      age: 50
-      profession: systémový administrátor, zastupitel
+      age: 50
+      profession: systémový administrátor, zastupitel obce Radhošť, drobný chovatel
       city: Radhošť
       partyUid: pirati
+
     - uid: libuse.vevodova
       position: 4
       name: Mgr. Libuše Vévodová
-#      age: 0
-      profession: středoškolská učitelka, zastupitelka
+      age: 63
+      profession: středoškolská učitelka matematiky, zastupitelka města Svitavy
       city: Svitavy
       partyUid: pirati
+
     - uid: jiri.duchacek
       position: 5
       name: Jiří Ducháček
-#      age: 0
-      profession: IT manager, zastupitel
+      age: 51
+      profession: IT manager, zastupitel města Česká Třebová
       city: Česká Třebová
       partyUid: pirati
+
     - uid: lenka.spanihelova
       position: 6
       name: Mgr. Lenka Španihelová
-#      age: 0
-      profession: sociální pracovnice
+      age: 36
+      profession: sociální pracovnice v chráněné dílně
       city: Vápenný Podol
       partyUid: pirati
+
     - uid: andrea.linhartova
       position: 7
       name: Andrea Linhartová
-#      age: 0
-      profession: metodik
+      age: 44
+      profession: metodička zdravotní pojišťovny
       city: Chrast
       partyUid: pirati
+
     - uid: jaroslav.lainz
       position: 8
       name: Mgr. Jaroslav Lainz, DiS.
-#      age: 0
-      profession: speciální pedagog
+      age: 43
+      profession: speciální pedagog věnující se žákům s výchovnými problémy a intervenčním programům ve školách
       city: Česká Třebová
       partyUid: pirati
+
     - position: 9
       uid: matej.karas
       name: Mgr. Matěj Karas
-#      age: 0
-      profession: projektový pracovník MPSV
+      age: 31
+      profession: projektový pracovník na Ministerstvu práce a sociálních věcí se zaměřením na sociálně-právní ochranu dětí
       city: Pardubice
       partyUid: pirati
+
 tail:
     - uid: vladek.vacha
       position: 10
@@ -254,10 +264,10 @@ tail:
       city: Jedlová u Poličky
       partyUid: bezpp
     -
-#uid: richard.pavlik
+uid: richard.pavlik
       position: 35
       name: Richard Pavlík
-#      age: 0
+      age: 67
       profession:
       city: Hlinsko
       partyUid: bezpp
