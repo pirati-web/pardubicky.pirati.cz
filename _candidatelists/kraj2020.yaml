@@ -81,104 +81,118 @@ tail:
     - uid: vladek.vacha
       position: 10
       name: Vladek Vácha
-#      age: 0
-      profession: technolog, konstruktér, provozovatel soukromého muzea
+      age: 40
+      profession: technolog,  provozovatel soukromého muzea
       city: Mistrovice
       partyUid: pirati
+
     - uid: david.marhold
       position: 11
       name: Bc. David Marhold
-#      age: 0
-      profession: student historie a práv, OSVČ
+      age: 23
+      profession: student práv, historie a germanistiky, koordinátor dobrovolníků
       city: Svitavy
       partyUid: pirati
+
     - uid: jiri.kratky
       position: 12
       name: Jiří Krátký
-#      age: 0
-      profession: kapitán plachetnice
+      age: 65
+      profession: penzista, kapitán plachetnice
       city: Svitavy
       partyUid: pirati
+
     -
 #uid: lucie.prochazkova
       position: 13
       name: JUDr. Lucie Procházková, Ph.D.
-#      age: 0
-      profession: právnička, asistentka poslance
+      age: 35
+      profession: právnička, VŠ pedagožka, asistentka poslance
       city: Pardubice
-      partyUid: bezpp
+      partyUid: BEZPP
+
     - uid: dominik.becka
       position: 14
       name: Ing. Dominik Bečka
-#      age: 0
-      profession: manažer řízení rizik, zastupitel
+      age: 29
+      profession: manažer řízení rizik, zastupitel MO Pardubice I
       city: Pardubice
       partyUid: pirati
+
     - uid: martin.saifrt
       position: 15
       name: Martin Saifrt
-#      age: 0
-      profession: pracovník v soc. službách
+      age: 35
+      profession: pracovník v sociálních službách, moderátor v rádiu
       city: Česká Třebová
       partyUid: pirati
+
     - uid: ondrej.karas
       position: 16
       name: Ing. Ondřej Karas
-#      age: 0
-      profession: vývojář, zastupitel
+      age: 36
+      profession: vývojář v oblasti automatizace pro zemědělské a lesnické stroje, zastupitel města Pardubice
       city: Pardubice
       partyUid: pirati
+
     - uid: ales.nunvar
       position: 17
       name: Ing. Aleš Nunvář
-#      age: 0
-      profession: místostarosta
+      age: 41
+      profession: místostarosta města Chrudim, jogín
       city: Chrudim
       partyUid: pirati
+
     - uid: jiri.jansa
       position: 18
       name: Mgr. Jiří Jansa
-#      age: 0
+      age: 35
       profession: Pojistný matematik
       city: Pardubice
       partyUid: pirati
+
     - uid: ondrej.cesik
       position: 19
       name: Bc. Ondřej Češík
-#      age: 0
-      profession: programátor
+      age: 35
+      profession: programátor automatizovaných výrobních linek
       city: Slatiňany
       partyUid: pirati
+
     - uid: marcel.palatas
       position: 20
       name: Mgr. Marcel Palatáš
-#      age: 0
-      profession: státní úředník na MV
+      age: 33
+      profession: vrchní ministerský rada na Ministerstvu vnitra
       city: Pardubice
       partyUid: pirati
+
     -
 #uid: sara.zavrelova
       position: 21
       name: Sára Zavřelová
-#      age: 0
-      profession:
+      age: 28
+      profession: operátorka klientské linky, včelařka
       city: Heřmanův Městec
       partyUid: pirati
+
     - uid: zdenek.kubala
       position: 22
       name: Zdeněk Kubala
-#      age: 0
-      profession: IT specialista
+      age: 34
+      profession: softwarový inženýr
       city: Chrudim
       partyUid: pirati
+
     -
 #uid: emanuel.zdarsky
       position: 23
       name: RNDr. Emanuel Žďárský, CSc.
-#      age: 0
-      profession: VŠ pedagog
-      city:
-      partyUid: bezpp
+      age: 63
+      profession: genetik, VŠ pedagog, ředitel neziskového spolku
+      city: Hošťalovice
+      partyUid: BEZPP
+
     -
 #uid: jiri.hruska
       position: 24
