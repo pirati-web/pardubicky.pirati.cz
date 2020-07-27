@@ -197,10 +197,11 @@ tail:
 #uid: jiri.hruska
       position: 24
       name: Mgr. Jiří Hruška
-#      age: 0
-      profession: OSVČ - lektor
+      age: 57
+      profession: OSVČ v pozici lektor, konzultant, mentor a facilitátor v oblasti dalšího
       city: Němčice
       partyUid: bezpp
+
     -
 #uid: jan.moravec
       position: 25
@@ -277,14 +278,14 @@ tail:
       profession: OSVČ
       city: Jedlová u Poličky
       partyUid: bezpp
-    -
-uid: richard.pavlik
+
+    - uid: richard.pavlik
       position: 35
       name: Richard Pavlík
       age: 67
       profession:
       city: Hlinsko
-      partyUid: bezpp
+      partyUid: BEZPP
     -
 #uid: vit.horenovsky
       position: 36
