@@ -206,124 +206,137 @@ tail:
 #uid: jan.moravec
       position: 25
       name: Jan Moravec
-#      age: 0
-      profession: skladník
+      age: 37
+      profession: dělník
       city: Letohrad
       partyUid: pirati
+
     -
 #uid: martin.sedlak
       position: 26
       name: Ing. Martin Sedlák
-#      age: 0
-      profession: OSVČ, radní
+      age: 42
+      profession: OSVČ, radní města Moravská Třebová, organizátor festivalů
       city: Moravská Třebová
       partyUid: pirati
+
     - uid: martin.herman
       position: 27
       name: Martin Herman
-#      age: 0
+      age: 38
       profession: seřizovač lisu
       city: Česká Třebová
       partyUid: pirati
+
     - uid: jan.bednar
       position: 28
       name: Jan Bednář
-#      age: 0
-      profession: student
+      age: 27
+      profession: grafický designér
       city: Pardubice
       partyUid: pirati
+
     -
 #uid: oldrich.vodehnal
       position: 29
       name: Oldřich Vodehnal
-#      age: 0
-      profession:
-      city:
-      partyUid: bezpp
+      age: 33
+      profession: lesní adjunkt, ošetřovatel dravých ptáků
+      city: Městečko Trnávka
+      partyUid: BEZPP
+
     - uid: zdenek.brejsa
       position: 30
       name: Zdeněk Brejša
-#      age: 0
+      age: 48
       profession: programátor
       city: Lanškroun
       partyUid: pirati
+
     -
 # uid: martin.vit
       position: 31
       name: Mgr. Martin Vít
-#     age: 0
+      age: 49
       profession: učitel na ZUŠ, překladatel, hudebník
       city: Vyžice
       partyUid: pirati
+
     -
 # uid: jiri.kohoutek
       position: 32
       name: Jiří Kohoutek
-#      age: 0
-      profession:
-      city:
-      partyUid: bezpp
+      age: 30
+      profession: pracovník technické podpory
+      city: Jedousov
+      partyUid: BEZPP
+
     - uid: zbynek.ruda
       position: 33
       name: Zbyněk Ruda
-#      age: 0
-      profession: zastupitel
+      age: 38
+      profession: obchodní zástupce, zastupitel města Česká Třebová
       city: Česká Třebová
-      partyUid: pirati
+      partyUid: BEZPP
+
     -
 #uid: jaroslav.klimes
       position: 34
       name: Jaroslav Klimeš
-#      age: 0
-      profession: OSVČ
+      age: 59
+      profession: OSVČ v gastronomii a hotelnictví
       city: Jedlová u Poličky
-      partyUid: bezpp
+      partyUid: pirati
 
     - uid: richard.pavlik
       position: 35
       name: Richard Pavlík
-      age: 67
-      profession:
+      age: 66
+      profession: poradce v oblasti životního prostředí, penzista
       city: Hlinsko
       partyUid: BEZPP
+
     -
 #uid: vit.horenovsky
       position: 36
       name: Vít Hořenovský
-#      age: 0
-      profession:
-      city:
-      partyUid: bezpp
+      age: 26
+      profession: producent hudebního klubu, OSVČ
+      city: Dašice
+      partyUid: BEZPP
+
     -
 # uid: tomas.kolomny
       position: 37
       name: Mgr. Tomáš Kolomý
-#      age: 0
-      profession: podnikatel, právník
+      age: 45
+      profession: právník, zastupitel obce Rudoltice
       city: Rudoltice
       partyUid: pirati
+
     -
 # uid: odrej.hapala
       position: 38
       name: Bc. Ondřej Hapala
-#      age: 0
-      profession: student, zastupitel
+      age: 26
+      profession: student, zastupitel města Svitavy
       city: Svitavy
-      partyUid: bezpp
+      partyUid: BEZPP
+
     -
 # uid: roman.sahula
       position: 39
       name: Roman Sahula
-#      age: 0
-      profession: farmář
+      age: 45
+      profession: administrativně technický pracovník, farmář
       city: Chrast
       partyUid: pirati
 
     - uid: anna.vavreckova
       position: 40
       name: Anna Vavřečková
-#      age: 0
-      profession: programátorka
+      age: 29
+      profession: knihkupkyně, programátorka
       city: Pardubice
       partyUid: pirati
     -
@@ -404,18 +417,3 @@ tail:
       partyUid: pirati
 
 ---
-
-## Bezpečnost (garant Jiří Ducháček)
-#### 1. Podporujeme integrovaný záchranný systém kraje
-Jeho jednotlivé složky s cílem zabezpečit dostatečný rozsah a dostupnost všech jeho součástí
-#### 2. Budeme nadále podporovat jednotky sborů dobrovolných hasičů v kraji
-Budeme prosazovat zařazení obecní policie mezi základní složky Integrovaného záchranného systému
-#### 3. Podpoříme rozvoj připravenosti kraje na krizové situace včetně živelných událostí
-#### 4. Budeme pracovat na zajištění finančních prostředků v rozpočtu kraje na řešení mimořádných potřeb v případě ekologických či přírodních katastrof
-#### 5. Bezpečnost budeme řešit v průniku s dopravou
-Budeme nadále realizovat souvislé opravy povrchu významných ucelených úseků silnic a odstraňovat nebezpečná místa na silnicích v majetku kraje s cílem zvýšit bezpečnost provozu na těchto silnicích
-#### 6. Využijeme moderní technologie v krizovém řízení pro spojení hasičů, dobrovolníků a k informování občanů
-#### 7. Podpoříme Policii v efektivním využití analytických nástrojů
-Především k mapování a analýze kriminality v Pardubickém kraji na základě anonymizovaných makrodat.
-#### 8. Zasadíme se o bezpečnost ve školách
-Budeme podporovat boj proti šikaně s využitím školních psychologů a další odborné pomoci, bezpečnostní opatření proti hrozbám z vnějšího prostředí (zabezpečení vstupů, čipové zámky a pod.)
