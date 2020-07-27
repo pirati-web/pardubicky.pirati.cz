@@ -13,7 +13,7 @@ mail:
 mob: 605234197
 profiles:
   github:
-  facebook: https://www.facebook.com/b0rmann
+  facebook: https://www.facebook.com/andrej.ramaszeuski
   twitter:
   linkedin: https://www.linkedin.com/in/ramaszeuski/
 ---
