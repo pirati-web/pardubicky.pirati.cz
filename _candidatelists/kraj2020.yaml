@@ -109,7 +109,7 @@ tail:
       age: 35
       profession: právnička, VŠ pedagožka, asistentka poslance
       city: Pardubice
-      partyUid: BEZPP
+      partyUid: bezpp
 
     - uid: dominik.becka
       position: 14
@@ -191,7 +191,7 @@ tail:
       age: 63
       profession: genetik, VŠ pedagog, ředitel neziskového spolku
       city: Hošťalovice
-      partyUid: BEZPP
+      partyUid: bezpp
 
     -
 #uid: jiri.hruska
@@ -243,7 +243,7 @@ tail:
       age: 33
       profession: lesní adjunkt, ošetřovatel dravých ptáků
       city: Městečko Trnávka
-      partyUid: BEZPP
+      partyUid: bezpp
 
     - uid: zdenek.brejsa
       position: 30
@@ -269,7 +269,7 @@ tail:
       age: 30
       profession: pracovník technické podpory
       city: Jedousov
-      partyUid: BEZPP
+      partyUid: bezpp
 
     - uid: zbynek.ruda
       position: 33
@@ -277,7 +277,7 @@ tail:
       age: 38
       profession: obchodní zástupce, zastupitel města Česká Třebová
       city: Česká Třebová
-      partyUid: BEZPP
+      partyUid: bezpp
 
     -
 #uid: jaroslav.klimes
@@ -294,7 +294,7 @@ tail:
       age: 66
       profession: poradce v oblasti životního prostředí, penzista
       city: Hlinsko
-      partyUid: BEZPP
+      partyUid: bezpp
 
     -
 #uid: vit.horenovsky
@@ -303,7 +303,7 @@ tail:
       age: 26
       profession: producent hudebního klubu, OSVČ
       city: Dašice
-      partyUid: BEZPP
+      partyUid: bezpp
 
     -
 # uid: tomas.kolomny
@@ -321,7 +321,7 @@ tail:
       age: 26
       profession: student, zastupitel města Svitavy
       city: Svitavy
-      partyUid: BEZPP
+      partyUid: bezpp
 
     -
 # uid: roman.sahula
@@ -343,77 +343,83 @@ tail:
 # uid: tomas.grosskopf
       position: 41
       name: Mgr. Tomáš Grosskopf
-#      age: 0
-      profession: učitel ZŠ
+      age: 38
+      profession: učitel na ZŠ, moderátor v radiu
       city: Výprachtice
       partyUid: pirati
     -
 # uid: josef.horak
       position: 42
       name: Josef Horák
-#      age: 0
-      profession: systémový specialista, místostarosta
+      age: 42
+      profession: systémový specialista, místostarosta obce Lány u Dašic, dobrovolný hasič
       city: Lány u Dašic
       partyUid: bezpp
+
     - uid: filip.varecha
       position: 43
       name: Ing. Filip Vařecha
-#      age: 0
-      profession: programátor, zastupitel
+      age: 34
+      profession: vývojář, zastupitel MO Pardubice V
       city: Pardubice
       partyUid: pirati
 
     - uid: karsten.sachs
       position: 44
       name: Karsten Sachs
-#      age: 0
-      profession: manažer v dopravní firmě
+      age: 39
+      profession: prokurista v dopravní společnosti
       city: Moravská Třebová
       partyUid: pirati
+
     -
 # uid: karel.macek
       position: 45
       name: Karel Macek
-#      age: 0
-      profession: gastronomický pracovník, promotér
+      age: 39
+      profession: kuchař, promotér
       city: Svitavy
       partyUid: pirati
+
     - uid: jan.hrubes
       position: 46
       name: Ing. Jan Hrubeš, DiS.
-#      age: 0
-      profession: doktorand, zastupitel
+      age: 25
+      profession: doktorand, hudebník, zastupitel města Pardubice
       city: Pardubice
       partyUid: pirati
+
     -
 #uid: jitka.bidlova
       position: 47
       name: Ing. arch. Jitka Bidlová, Ph.D.
-#      age: 0
-      profession: zastupitelka
+      age: 42
+      profession: architektka, zastupitelka města Polička
       city: Polička
       partyUid: pirati
+
     - uid: ivana.bohmova
       position: 48
       name: Bc. et Bc. Ivana Böhmová
-#      age: 0
-      profession: pedagožka, zastupitelka
+      age: 33
+      profession: pedagožka, zastupitelka města Pardubice
       city: Pardubice
       partyUid: pirati
+
     - uid: pavel.stepanek
       position: 49
       name: Pavel Štěpánek
-#      age: 0
-      profession: místostarosta
+      age: 35
+      profession: OSVČ, volební manažer, místostarosta města Chrudim
       city: Chrudim
       partyUid: pirati
+
     -
 #uid: stanislav.klat
       position: 50
       name: Stanislav Klát
-#      age: 0
-      profession: student politologie a enviromentalistiky
+      age: 24
+      profession: student, environmentalista
       city: Nové Hrady
       partyUid: pirati
 
----
