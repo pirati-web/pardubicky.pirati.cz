@@ -16,11 +16,10 @@ profiles:
   twitter: null
 published: true
 ---
-Andrea Linhartová Andrea Linhartová se narodila 18. března 1976,
-pochází z Chrasti a zde i v současnosti žije. Vystudovala gymnázium.
-Po studiu odjela na rok do Irska. Po návratu pracovala rok v Praze
-a po té opět odjela tentokrát do Nizozemí. Zde 6 let žila a pracovala,
-původně ve firmě organizující mezinárodní kongresy, po té pro
-mezinárodní společnost, která rozprodávala PC hardware a software.
-Posledních 12 let je opět v Čechách. Několik měsíců učila angličtinu,
-po té pracovala v mezinárodní firmě.
+Ivana se narodila 3.5.1989 v Hlinsku.
+
+Má desetiletou praxi v korporátní sféře, kde získala spoustu zkušeností v oblasti komunikace, personalistiky, koučinku i vedení týmu.
+
+O politiku se zajímá dlouhodobě. Nejprve se zapojovala pomocí správy FB skupin zaměřených na politiku, následně jako dobrovolník a organizátor místních protestů Milionu Chvilek pro Demokracii.
+
+Ve volném čase se věnuje sebevzdělávání, abstraktní malbě a učí se hrát na ukulele.
