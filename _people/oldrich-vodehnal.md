@@ -3,7 +3,7 @@ uid: oldrich.vodehnal
 name:     Oldřich Vodehnal	
 category:                 
 - pak
-img: people/oldrich-vodehnal-2020.jpg           # 165 x 220
+img: people/oldrich.vodehnal-2020.jpg           # 165 x 220
 description: 
 ---
 Ahoj, jmenuji se Oldřich Vodehnal, narodil jsem se v Moravské Třebové 29.9.1987, 
