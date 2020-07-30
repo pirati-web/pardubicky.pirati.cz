@@ -102,8 +102,7 @@ tail:
       city: Svitavy
       partyUid: pirati
 
-    -
-#uid: lucie.prochazkova
+    - uid: lucie.prochazkova
       position: 13
       name: JUDr. Lucie Procházková, Ph.D.
       age: 35
@@ -236,8 +235,7 @@ tail:
       city: Pardubice
       partyUid: pirati
 
-    -
-#uid: oldrich.vodehnal
+    - uid: oldrich.vodehnal
       position: 29
       name: Oldřich Vodehnal
       age: 33
