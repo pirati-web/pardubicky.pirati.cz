@@ -166,8 +166,7 @@ tail:
       city: Pardubice
       partyUid: pirati
 
-    -
-#uid: sara.zavrelova
+    - uid: sara.zavrelova
       position: 21
       name: Sára Zavřelová
       age: 28
