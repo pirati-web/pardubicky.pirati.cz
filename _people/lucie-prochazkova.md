@@ -6,7 +6,7 @@ titles:
     after: Ph.D.
 category:
   - kontaktni_osoba
-img: people/lucie-prochazkova.jpg
+img: people/lucie-prochazkova-2020.jpg
 description: asistentka poslance Mikuláše Ferjenčíka 
 mail:
   - lucie.prochazkova@pirati.cz
