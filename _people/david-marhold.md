@@ -5,7 +5,7 @@ name: David Marhold
 fullname: David Marhold
 category:
   - kontaktni_osoba
-img: people/david-marhold.jpg
+img: people/david-marhold-2020.jpg
 description: krajský koordinátor
 candidatedesc:
 mail:
