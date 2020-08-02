@@ -8,6 +8,7 @@ category:
   - predsednictvo
   - kontaktni_osoba
 img: people/martin.saifrt.jpg
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: Vedoucí krajského mediálního odboru, 3. místopředseda KS Pardubický kraj
 candidatedesc: komunitní pracovník
 ord_predsednictvo: 4

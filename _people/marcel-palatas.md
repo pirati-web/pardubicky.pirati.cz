@@ -8,6 +8,7 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clenove
 ordPce: 8
 img: people/marcel-palatas.jpg           # 165 x 220
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: člen KS Pardubický kraj # kratký popis, max 160 znaků
 mail:
 - marcel.palatas@pirati.cz

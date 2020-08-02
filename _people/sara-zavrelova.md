@@ -2,6 +2,7 @@
 uid: sara.zavrelova
 name: Sára Zavřelová  
 img: people/sara.zavrelova-2019.jpg
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: Členem komise pro životní prostředí v Heřmanově Městci
 mail:
   - sara.zavrel@pirati.cz

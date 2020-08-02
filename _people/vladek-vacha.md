@@ -4,6 +4,7 @@ name:     Vladek Vácha
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - pak
 img: people/vladek-vacha-2020.jpg
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: člen Pirátské strany
 mail:
 - v.vacha@tiscali.cz

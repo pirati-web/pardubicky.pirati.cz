@@ -7,6 +7,7 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 ord_mistni_predsedove: 3
 ord_predsednictvo: 0
 img: people/zdenek-kubala.jpg           # 165 x 220
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: Předseda MS Chrudimsko, zástupce vedoucího technického odboru	# kratký popis, max 160 znaků
 mail:
 - zdenek.kubala@pirati.cz

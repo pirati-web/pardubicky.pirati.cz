@@ -6,6 +6,7 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - pak
 - kandidat-chrudim-2018
 img: people/ales-nunvar.jpg           # 165 x 220
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: člen Pirátské strany
 candidatedesc: Projektový manažer 
 ordpak: 

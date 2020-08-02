@@ -7,6 +7,7 @@ titles:
 category:
   - kontaktni_osoba
 img: people/lucie.prochazkova-2020.jpg
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: asistentka poslance Mikuláše Ferjenčíka 
 mail:
   - lucie.prochazkova@pirati.cz

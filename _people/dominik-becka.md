@@ -9,6 +9,7 @@ category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 - radnice
 ordPce: 1
 img: people/dominik-becka.jpg
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: člen KS Pardubický kraj # kratký popis, max 160 znaků
 profession: risk manažer
 profiles:
