@@ -1,7 +1,7 @@
 ---
 uid: martin.sedlak
 title: Ing.
-name: Martin Sedláj
+name: Martin Sedlák
 category:
 - clenove
 img: people/martin-sedlak-2018.jpg
