@@ -6,7 +6,7 @@ titles:
   after: CSc. 
 #category:    
 #- clenove
-img: people/emanue-zdarsky-2020.jpg
+img: people/emanuel-zdarsky-2020.jpg
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: klinický DNA genetik
 ---
