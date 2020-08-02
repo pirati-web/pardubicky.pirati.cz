@@ -8,6 +8,7 @@ category:
   - mistni_predsedove
 ord_mistni_predsedove: 2
 img: people/martin-herman.jpg
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: Předseda MS Českotřebovsko
 candidatedesc: seřizovač lisu
 ordpak: 7

@@ -1,8 +1,8 @@
 ---
 uid: david.marhold
-title: Bc.
+titles: 
+    before: Bc.
 name: David Marhold
-fullname: David Marhold
 category:
   - kontaktni_osoba
 img: people/david-marhold-2020.jpg
