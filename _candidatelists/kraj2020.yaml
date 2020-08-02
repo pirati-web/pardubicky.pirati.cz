@@ -198,8 +198,7 @@ tail:
       city: Němčice
       partyUid: bezpp
 
-    -
-#uid: jan.moravec
+    - uid: jan.moravec
       position: 25
       name: Jan Moravec
       age: 37
@@ -207,8 +206,7 @@ tail:
       city: Letohrad
       partyUid: pirati
 
-    -
-#uid: martin.sedlak
+    - uid: martin.sedlak
       position: 26
       name: Ing. Martin Sedlák
       age: 42
