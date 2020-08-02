@@ -182,8 +182,7 @@ tail:
       city: Chrudim
       partyUid: pirati
 
-    -
-#uid: emanuel.zdarsky
+    - uid: emanuel.zdarsky
       position: 23
       name: RNDr. Emanuel Žďárský, CSc.
       age: 63
@@ -191,8 +190,7 @@ tail:
       city: Hošťalovice
       partyUid: bezpp
 
-    -
-#uid: jiri.hruska
+    - uid: jiri.hruska
       position: 24
       name: Mgr. Jiří Hruška
       age: 57

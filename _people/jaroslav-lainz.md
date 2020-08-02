@@ -1,5 +1,6 @@
 ---
-title: Jaroslav Lainz
+titles: 
+    before: Mgr.
 published: true
 categories:
 - pak
@@ -21,9 +22,7 @@ profiles:
   twitter:
   flickr:
 ---
+Pracuji jako speciální pedagog a věnuji se dětem s poruchami chování a ohroženým dětem. Tématem školství bych se proto rád zabýval i na úrovni kraje. Kraj může s řadou věcí pomoci, a to i na neformální úrovni, kdy může pomoci propojovat pomáhající organizace a státní orgány napříč resorty v jednotlivých obcích a koordinovat vybudování funkční sítě pomoci rodinám a dětem, které to potřebují.
 
-Mgr. Jaroslav Lainz
+Mým hlavním osobním tématem a důvodem, proč kandiduji za Piráty, je transparence. Je to vlastně jednoduché. Veškeré informace z kraje, kromě těch kde to omezuje zákon, musí být veřejné. Politik musí hrát otevřenou hru. Naslouchat lidem. Jejich hlasy přetavit do konkrétních věcí. O chystaných záměrech a rozhodnutích informovat občany s dostatečným předstihem tak, aby lidé měli čas se k věci vyjádřit. Občané mají právo se ptát, jak a proč byly, jsou a budou utráceny peníze v jejich kraji. To dosud není zvykem současného vedení kraje. A to chci pomoci změnit. To, že “to tak bylo vždycky”, pro mě není dostatečným argumentem. Chci, aby kraj hrál s občany otevřenou hru s odkrytými kartami. Věřím, že Vy, voliči, nám je dobře rozdáte.
 
-
-Pracuji jako vychovatel v dětském domově. Za svůj život jsem se několikrát setkal s tématy komunální politiky, a to z nejrůznějších úhlů pohledu. Mým hlavním osobním tématem a důvodem, proč kandiduji za Piráty, je transparence. Je to vlastně jednoduché. Veškeré informace z radnice, kromě těch kde to omezuje zákon, musí být veřejné. Politik musí hrát otevřenou hru. Naslouchat lidem. Jejich hlasy přetavit do konkrétních věcí. O chystaných záměrech a rozhodnutích města informovat občany s dostatečným předstihem tak, aby lidé měli čas se k věci vyjádřit. Občané mají právo se ptát, jak a proč byly, jsou a budou utráceny peníze v jejich městě.
-To dosud není zvykem současné radnice. A to chci pomoci změnit. To, že "to tak bylo vždycky", pro mě není dostatečným argumentem. Chci, aby město hrálo s občany otevřenou hru s odkrytými kartami. Věřím, že Vy, voliči, nám je dobře rozdáte.
