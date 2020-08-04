@@ -11,7 +11,7 @@ important: true
 ---
 
 
-**Piráti Pardubického kraje odevzdali skrze lídra Daniela Lebdušky v pátek 24. července kandidátní listinu na krajském úřadě v Pardubicích.**
+**Piráti Pardubického kraje odevzdali v pátek 24. července kandidátní listinu na krajském úřadě v Pardubicích.**
 
 Kandidátní listina Pirátů v Pardubickém kraji je nabitá kvalitními lidmi, kteří jsou mnohdy špičkami ve svých oborech. Krajské volby se uskuteční **2. a 3. října** a věříme, že získáme tolik krajských mandátů, díky kterým prosadíme náš program. Naše heslo pro tyto volby je:
 
