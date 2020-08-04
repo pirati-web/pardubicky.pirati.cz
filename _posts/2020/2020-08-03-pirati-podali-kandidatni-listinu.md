@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: Piráti pochodovali na kraj, cíl je jasný - získat krajské mandáty.
+title: Piráti v Pardubickém kraji podali kandidátní listinu do krajských voleb
 date: 2020-08-03T07:00:00+01:00
 tags:
     - Krajske-volby-2020
