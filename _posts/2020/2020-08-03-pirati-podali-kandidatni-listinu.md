@@ -11,14 +11,11 @@ important: true
 ---
 
 
-**Piráti Pardubického kraje odevzdali v pátek 24. července kandidátní listinu na krajském úřadě v Pardubicích.**
+**Piráti Pardubického kraje odevzdali skrze svou zmocněnkyni v pátek 24. července kandidátní listinu na krajském úřadě v Pardubicích.**
 
-Kandidátní listina Pirátů v Pardubickém kraji je nabitá kvalitními lidmi, kteří jsou mnohdy špičkami ve svých oborech. Krajské volby se uskuteční **2. a 3. října** a věříme, že získáme tolik krajských mandátů, díky kterým prosadíme náš program. Naše heslo pro tyto volby je:
+Lídrem pirátské kandidátky je předseda krajského sdružení Pirátů a zastupitel Chrudimi **Daniel Lebduška**. Vystudoval Karlovu Univerzitu a dlouhodobě se věnuje marketingu. V současnosti je výkonným ředitelem společnosti IPC Team. Je ženatý a vychovává tři děti.
 
-# **BUDOUCNOST ŘEŠÍME TEĎ** 🏴 
-
-
-Lídrem pirátské kandidátky je předseda Krajského sdružení a zastupitel Chrudimi **Daniel Lebduška**. Vystudoval Karlovu Univerzitu a od roku 2013 působí na různých pozicích v marketingu. V současnosti je výkonným ředitelem společnosti IPC Team - a zabývá se především online marketingem.
+"Kandidátní listina Pirátů v Pardubickém kraji je nabitá kvalitními lidmi, kteří mají prokazatelné zkušenosti ve svých oborech. Věříme, že získáme tolik krajských mandátů, abychom se stali jednou z hlavních politických sil v krajské politice a díky tomu mohli plně prosadit náš program. V procentuálním přepočtu míříme na 22% ze všech odevzdaných hlasů. Naše volební heslo pro tyto volby je: **"BUDOUCNOST ŘEŠÍME TEĎ"**, říká lídr Lebduška.
 
 Dvojkou na kandidátce se stal **Filip Mezera**, který pracuje jako datový analytik v oblasti financí a je zastupitelem v Sezemicích, kde trénuje mládež fotbal. Na třetím místě piráti zvolili systémového administrátora, zastupitele obce Radhošť a drobného chovatele **Andreje Ramašeuského**. Čtyřkou pirátské kandidátky je svitavská zastupitelka a učitelka **Líba Vévodová**. První pětku uzavírá IT správce systémů, auditor a českotřebovský zastupitel **Jiří Ducháček**, který má v gesci dopravu a bezpečnost.
 
