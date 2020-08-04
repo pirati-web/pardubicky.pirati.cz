@@ -1,7 +1,7 @@
 ---
 campaignCategoryUid: kraj2020
 campaignGroupUid: volby-2020
-uid: doprava 
+uid: skolstvi 
 order: 6
 title: Školství
 garant: libuse.vevodova 

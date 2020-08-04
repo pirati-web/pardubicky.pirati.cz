@@ -1,7 +1,7 @@
 ---
 campaignCategoryUid: kraj2020
 campaignGroupUid: volby-2020
-uid: doprava 
+uid: finance-a-investice 
 order: 4
 title: Finance a investice
 garant: daniel.lebduska 
