@@ -18,11 +18,4 @@ profiles:
   twitter: null
 published: true
 ---
-Andrea Linhartová Andrea Linhartová se narodila 18. března 1976,
-pochází z Chrasti a zde i v současnosti žije. Vystudovala gymnázium.
-Po studiu odjela na rok do Irska. Po návratu pracovala rok v Praze
-a po té opět odjela tentokrát do Nizozemí. Zde 6 let žila a pracovala,
-původně ve firmě organizující mezinárodní kongresy, po té pro
-mezinárodní společnost, která rozprodávala PC hardware a software.
-Posledních 12 let je opět v Čechách. Několik měsíců učila angličtinu,
-po té pracovala v mezinárodní firmě.
+Andrea Linhartová se narodila 18. března 1976, pochází z Chrasti a zde i v současnosti žije. Vystudovala gymnázium. Po studiu odjela na rok do Irska. Po návratu pracovala rok v Praze a poté opět odjela, tentokrát do Nizozemí. Zde 6 let žila a pracovala, původně ve firmě organizující mezinárodní kongresy, poté pro mezinárodní společnost, která rozprodávala PC hardware a software. Posledních 12 let je opět v Čechách. Několik měsíců učila angličtinu a pracovala v mezinárodní firmě.

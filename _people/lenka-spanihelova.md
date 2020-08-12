@@ -18,10 +18,9 @@ profiles:
   twitter:
   linkedin:
 ---
+**Lenka Španihelová** (19. dubna 1984) pochází z Valašského Meziříčí a od roku 2014 žije v Pardubicích.
 
-**Lenka Španihelová** (*19. dubna 1984) pochází z Valašského Meziříčí a od roku 2014 žije v Pardubicích.
-
-Vystudovala Střední průmyslovou školu mlékárenskou v Kroměříži obor analýza potravin. Vysokou školu vystudovala v Praze, bakalářský obor sociální a pastorační práce na Evangelické teologické fakultě Univerzity Karlovy, magisterský obor sociální pedagogika na Filozofické fakultě Univerzity Karlovy. Během studia se věnovala práci se seniory v České Alzheimerovské společnosti, práci s lidmi s duševním onemocněním ve společnosti Vida a práci s ohroženou mládeží v organizaci Barevný svět dětí.
+Vystudovala Střední průmyslovou školu mlékárenskou v Kroměříži, obor Analýza potravin. Vysokou školu vystudovala v Praze, bakalářský obor Sociální a pastorační práce na Evangelické teologické fakultě Univerzity Karlovy, magisterský obor Sociální pedagogika na Filozofické fakultě Univerzity Karlovy. Během studia se věnovala práci se seniory v České Alzheimerovské společnosti, práci s lidmi s duševním onemocněním ve společnosti Vida a práci s ohroženou mládeží v organizaci Barevný svět dětí.
 
 Po ukončení studia nastoupila jako ředitelka nově vzniklé grafické sociální firmy Maturus, o.p.s., která zaměstnává osoby se zdravotním postižením a úzce spolupracuje s Jedličkovým ústavem a školami.
 

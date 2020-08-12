@@ -21,7 +21,6 @@ profiles:
   twitter:
   linkedin:
 ---
-
 **Filip Mezera** je zastupitelem Sezemic za kandidátku Nezávislí Sezemic a obcí a členem Pirátů Pardubicko. V Sezemicích působí také v kontrolním výboru.
 
 Vystudoval dva obory na Univerzitě Pardubice – Systémové inženýrství a informatika a Historicko-literární studia. Nyní je datovým analytikem v oblasti financí. Věnuje se především obchodní oblasti a oblasti řízení vztahů se zákazníky. Působil taktéž jako projektový manažer a školitel. Kromě běžných reportingových požadavků řešených pomocí SQL, vytváří a programuje taktéž dashboardy, popř. složitější analytické pohledy, při nichž využívá znalostí programování a výpočetní inteligence (neuronové sítě, případové usuzování, hrubé množiny a další).
