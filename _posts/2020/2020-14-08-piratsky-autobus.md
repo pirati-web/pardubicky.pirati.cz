@@ -30,9 +30,9 @@ Poslední výjezd autobusu budoucnosti v Pardubickém kraji bude **23. a 24. zá
 
 Každý den až do dne konání krajských a senátních voleb mohou občané dorazit na zastávky autobusu a debatovat s představiteli Pirátské strany. Těchto setkání se zúčastní jak jednotliví poslanci, krajští či senátní kandidáti, tak i předseda strany Ivan Bartoš.
 
-{% asset 'articles/2020/bus/kolo.jpg' magick:resize='751x422^' 
-  magick:gravity='north' alt='tiskarna'%} 
+ {% asset 'articles/2020/bus/kolo.jpg' magick:resize='751x422^' 
+  magick:gravity='north' alt='kolo'%} 
   
 
  {% asset 'articles/2020/bus/vr.jpg' magick:resize='751x422^' 
-  magick:gravity='north' alt='tiskarna'%} 
+  magick:gravity='north' alt='virtuální realita'%} 
