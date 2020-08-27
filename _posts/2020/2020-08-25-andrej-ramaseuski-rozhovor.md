@@ -72,7 +72,7 @@ magick:gravity='north' alt='2005'%}
 
 Bydlel jsem několik let v pardubickém integračním bytě, který měl 12 m². Protože mám rád společnost, pořádal jsem u sebe množství setkání s lidmi. Zde jsem potkal svou nynější ženu. Byt už byl pro nás velmi malý a začali jsme hledat něco většího, kde bych mohl mít i zahradu. A tak jsme narazili na krásný statek u Vysokého Mýta. Ten jsme koupili a začali jej opravovat, což budeme (jen tak mimochodem) dělat možná až do konce svých životů. Zde vychovávám s manželkou naše děti, založil jsem si menší farmu zvířat a užívám si krásného prostředí, které bych v Pardubicích neměl.
 
-{% asset 'articles/2020/andrej/2016.jpg' magick:resize='751x422^' 
+{% asset 'articles/2020/andrej/2016.png' magick:resize='751x422^' 
 magick:gravity='north' alt='2016'%}
 
 **Proč jsi se opět začal zajímat o politiku?**
