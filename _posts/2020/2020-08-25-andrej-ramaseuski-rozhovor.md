@@ -103,10 +103,6 @@ V tuto chvíli nevíme, jak ten přechod bude vypadat. Nikdo netuší, jak budou
 
 V posledních dnech se říká, že by mohly Lukašenkovi na pomoc přijet ruské vojenské jednotky, ale on by tím nic nezískal. Tato situace se vojensky vyřešit nedá, protože dělníky ve fabrikách vojáci z Ruska nenahradí.
 
-**Vrátil by ses do Běloruska?**
-
-Asi jo, pokud se situace v mojí zemi vrátí do nějakého demokratického stavu, tak bych se snažil zapojit a přinést své zkušenosti. Je jasné, že bych nemohl být politikem současně v ČR a Bělorusku, ale toto je zatím daleká budoucnost.
-
 {% asset 'articles/2020/andrej/2020.jpg' magick:resize='751x422^' 
 magick:gravity='north' alt='2020'%}
 
