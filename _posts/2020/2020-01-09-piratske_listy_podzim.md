@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: PIRÁTSKÉ LISTY - Budoucnost řešíme teď - vydání 2/2020
-date: 2020-05-17T07:00:00+01:00
+date: 2020-09-01T07:00:00+01:00
 tags: 
     - piratske-listy
     - Krajske-volby-2020
