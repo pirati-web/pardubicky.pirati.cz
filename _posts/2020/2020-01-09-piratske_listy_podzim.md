@@ -16,7 +16,7 @@ image: articles/2020/PL2.jpg
 **Jak číst Pirátské listy?**
 
 - v našich listech můžete listovat po zmáčknutí šipky **>**
-- Pirátské listy si můžete zvětšit v pravo dole kliknutím **[] fullscreen** a opět v nich listovat pomocí šipek na okrajích
+- Pirátské listy si můžete zvětšit v pravo dole kliknutím **[]** **fullscreen** a opět v nich listovat pomocí šipek na okrajích
 
 <iframe allowfullscreen allow="fullscreen" style="border:none;width:100%;height:1080px;" src="//e.issuu.com/embed.html?d=pl_podzim_2020_pardubicky_v4_jednostrany-1&hideIssuuLogo=true&pageLayout=singlePage&u=pirati-pardubicky-kraj"></iframe>
 
