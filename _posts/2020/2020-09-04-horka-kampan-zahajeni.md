@@ -7,7 +7,7 @@ tags:
     - tiskova-zprava
     - Krajske-volby-2020
 author: Piráti Pardubického kraje
-image: articles/2020/kampan20/zahajenikampan.jpg
+image: articles/2020/kampan20/kuvod.jpg
 important: true
 ---
 
