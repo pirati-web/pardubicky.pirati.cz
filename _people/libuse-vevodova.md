@@ -19,4 +19,4 @@ profiles:
   twitter:
   linkedin:
 ---
-Je dnes zastupitelkou ve Svitavách za sdružení Naše Svitavy. Nekandidovala za žádnou stranu, ve dvou volebních obdobích sbíralo sdružení Naše Svitavy podpisy spoluobčanů, aby mohla vůbec kandidovat. Ráda by prosazovala ve vyšší politice takové skromné zásady, jako je obyčejná slušnost, pokora a čistá hra. Pracuje několik desetiletí ve školství a zajímá ji také problematika seniorů.
+Dnes je zastupitelkou ve Svitavách jako členka Pirátské strany za Piráty a nezávislé. V minulých dvou volebních obdobích byla zastupitelkou za sdružení Naše Svitavy. Jejich kandidáti nebyli zastřešeni žádnou stranou, sbírali podpisy občanů pro možnost kandidatury. Naše Svitavy i dnešní Piráti a nezávislí byli a jsou opozičními zastupiteli. I ve vyšší politice by prosazovala, mimo jiné, slušnost, toleranci, pokoru a čistou hru. Pracuje několik desetiletí ve školství a zajímá ji také problematika seniorů.
