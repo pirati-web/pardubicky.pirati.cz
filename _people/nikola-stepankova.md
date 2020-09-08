@@ -5,7 +5,7 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - pak
 - mistni_predsedove
 img: people/nikola-stepankova.jpg           # 165 x 220
-description: pirátka a členka sociální komise # kratký popis, max 160 znaků
+description: Předsedkyně MS Chrudimsko, členka sociální komise # kratký popis, max 160 znaků
 #ordpak: 1
 mail:
 - nikola.stepankova@pirati.cz
