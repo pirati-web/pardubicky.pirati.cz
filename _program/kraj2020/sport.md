@@ -5,7 +5,7 @@ uid: sport
 order: 10 
 title: Sport
 garant: filip.mezera 
-#img: program2020/sport.jpg
+img: program2020/sport.jpg
 #perex: >
 #  [ text, který se zobrazí na přehledu programových bodů ]
 #intro: [ text, který se zobrazí jako úvodní odstavec na detailu programového bodu ]

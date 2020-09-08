@@ -5,7 +5,7 @@ uid: socialni-oblast
 order: 8
 title: Sociální oblast
 garant: jaroslav.lainz 
-#img: program2020/doprava.jpg
+img: program2020/doprava.jpg
 #perex: >
 #  [ text, který se zobrazí na přehledu programových bodů ]
 #intro: [ text, který se zobrazí jako úvodní odstavec na detailu programového bodu ]

@@ -5,7 +5,7 @@ uid: bezpecnost
 order: 11
 title: Bezpečnost
 garant: jiri.duchacek 
-#img: program2020/bezpecnost.jpg
+img: program2020/bezpecnost.jpg
 #perex: >
 #  [ text, který se zobrazí na přehledu programových bodů ]
 #intro: [ text, který se zobrazí jako úvodní odstavec na detailu programového bodu ]

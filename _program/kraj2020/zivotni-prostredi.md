@@ -5,7 +5,7 @@ uid: zivotni-prostredi
 order: 1
 title: Životní prostředí
 #garant: stanislav.klat 
-# img: program2020/zivotni-prostredi.jpg
+img: program2020/zivotni-prostredi.jpg
 #perex: >
 #  [ text, který se zobrazí na přehledu programových bodů ]
 #intro: [ text, který se zobrazí jako úvodní odstavec na detailu programového bodu ]

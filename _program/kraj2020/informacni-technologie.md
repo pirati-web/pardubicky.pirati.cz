@@ -5,7 +5,7 @@ uid: informacni-technologie
 order: 5
 title: Informační technologie
 garant: andrej.ramaseuski 
-#img: program2020/informacni-technologie.jpg
+img: program2020/informacni-technologie.jpg
 #perex: >
 #  [ text, který se zobrazí na přehledu programových bodů ]
 intro: Naše priority jsou kybernetická bezpečnost, otevřené technologie, přístupna data a podpora menšich obci.

@@ -5,7 +5,7 @@ uid: doprava
 order: 3
 title: Doprava
 garant: jiri.duchacek 
-#img: program2020/doprava.jpg
+img: program2020/doprava.jpg
 #perex: >
 #  [ text, který se zobrazí na přehledu programových bodů ]
 #intro: [ text, který se zobrazí jako úvodní odstavec na detailu programového bodu ]

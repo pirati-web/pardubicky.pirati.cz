@@ -5,7 +5,7 @@ uid: skolstvi
 order: 6
 title: Školství
 garant: libuse.vevodova 
-#img: program2020/skolstvi.jpg
+img: program2020/skolstvi.jpg
 #perex: >
 #  [ text, který se zobrazí na přehledu programových bodů ]
 #intro: [ text, který se zobrazí jako úvodní odstavec na detailu programového bodu ]

@@ -5,7 +5,7 @@ uid: zdravotnictvi
 order: 2
 title: Zdravotnictví
 garant: andrea.linhartova 
-#img: program2020/zdravotnictvi.jpg
+img: program2020/zdravotnictvi.jpg
 #perex: >
 #  [ text, který se zobrazí na přehledu programových bodů ]
 #intro: [ text, který se zobrazí jako úvodní odstavec na detailu programového bodu ]
