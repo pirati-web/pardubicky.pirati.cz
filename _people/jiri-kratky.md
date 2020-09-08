@@ -7,7 +7,7 @@ category:              	    # kategorie: rp, praha, vary, hradec, jmk, senat
 - mpsvitavsko
 - predsednictvo
 ord_predsednictvo: 2
-img: people/jiri-kratky.jpg           # 165 x 220
+img: people/jiri-kratky-2020.png           # 165 x 220
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: 1. místopředseda KS Pardubický kraj
 ordpak:
