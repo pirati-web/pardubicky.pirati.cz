@@ -5,17 +5,17 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - pak
 - rv
 img: people/andrej-ramaseuski-2020.jpg
-heroImg: articles/2020/kampan20/zahajenikampan1.jpg
+heroImg: people/andrej-ramaseuski-herobanner.jpg
 description: Člen Republikového výboru
 ordpak:
 mail:
 - andrej.ramaseuski@pirati.cz
 mob: 605234197
-#profiles:
+profiles:
 #  github:
-#  facebook: https://www.facebook.com/andrej.ramaszeuski
+  facebook: https://www.facebook.com/andrej.ramaszeuski
 #  twitter:
-#  linkedin: https://www.linkedin.com/in/ramaszeuski/
+  linkedin: https://www.linkedin.com/in/ramaszeuski/
 ---
 Pochází z Minsku (Bělorusko) a od roku 1997 žije v Česku. Ve XX.století byl členem stran Demokratický svaz (1989-1991) a Transnacionální radikální strana (1990-1994). V roce 1993 byl jedním se spoluzakladatelů běloruské Strany Přátel Piva, kterou vedl na prezidenských volbách 1994 a parlamentních volbách 1995. V roce 1996 následkem konfliktu s autoritativním režimem A.Lukašenka byl nucen opustit domov a v roce 1997 obdržel v Česku politický azyl. Od té doby na 20 let opustil politiku a věnoval se rodině a práci. Liberální až (někdy) libertariánské politické názory přesto nikdy nezměnil.
 

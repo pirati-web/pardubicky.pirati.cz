@@ -10,7 +10,7 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
  - kontaktni_osoba
 ord_predsednictvo: 1
 img: people/daniel-lebduska-2020.jpg
-heroImg: articles/2020/kampan20/zahajenikampan1.jpg
+heroImg: people/daniel-lebduska-herobanner.jpg
 description: předseda krajského sdružení Pardubického kraje
 ordpak:
 mail:
