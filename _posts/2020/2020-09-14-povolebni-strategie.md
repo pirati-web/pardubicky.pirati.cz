@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: Pirátská povolební strategie v Pardubickém kraji 
-date: 2020-09-9T07:00:00+01:00
+date: 2020-09-14T07:00:00+01:00
 tags:
     - Krajske-volby-2020
 author: Piráti Pardubického kraje
