@@ -1,11 +1,6 @@
 ---
 layout: page 
 title: Povolební strategie pro volby do zastupitelstva Pardubického kraje v roce 2020
-heroBgImg: articles/2020/kampan20/zahajenikampan.jpg
-campaignGroupUid: volby-2020
-campaignCategoryUid: kraj2020
-candidateListUid: kraj2020
-customizeHeader: true
 ---
 
 Česká Pirátská strana je liberální, demokratická, středová strana s důsledným
@@ -39,12 +34,14 @@ povolební spolupráce, vyjednané vyjednávacím týmem, která mění nebo dop
 program, podléhá souhlasu krajského sdružení Pirátů.
 
 ## Během voleb
+
 - Lídr krajské kandidátky může nezávazně komunikovat s ostatními stranami a komentovat
 náš postup pro média, a to v souladu s touto strategií.
 - V den uzavření volebních místností bude volební štáb sledovat průběžné volební výsledky
 a informovat kandidáty, u nichž bude vysoká pravděpodobnost zvolení.
 
 ## Hned po volbách
+
 - Jakmile budou výsledky známy s dostatečnou jistotou, bude ustanoven tříčlenný
 vyjednávací tým (+ dva náhradníci) takto: 
 Prvním členem a předsedou vyjednávacího týmu bude lídr krajské kandidátky, který
@@ -71,6 +68,7 @@ strany se zdrží vyjádření pro média ohledně činnosti vyjednávacího tý
 týmu se zástupci potenciálních koaličních partnerů.
 
 ## Účast v koalici
+
 - Pokud budeme mít na základě výsledků voleb odpovídající mandát, jsme připraveni jednat
 o účasti v Radě s cílem prosadit maximum bodů z našeho programu.
 - Odmítáme koalice s extremistickými stranami. Nevstoupíme do koalice se stranami či
@@ -117,6 +115,7 @@ v nichž se tyto dva liší. Koaliční program nesmí být v přímém rozporu 
 volebním programem.
 
 ## Programové priority pro účast v koalici:
+
 - Aktivní přístup k dostavbě D35 a jejím přivaděčům, aktivní komunikace s
 dotčenými obcemi.
 - Zrušení stavebních uzávěr pro vodní koridor Dunaj - Odra - Labe.
@@ -144,6 +143,7 @@ dotačních projektů.
 - Implementace nových přístupů podpory cestovního ruchu a regionálního rozvoje.
 
 ## Podmínky konstruktivní opoziční práce
+
 - Pokud nebudeme součástí koalice, chceme obsadit taková místa ve výborech, komisích a
 dozorčích radách organizací s účastí kraje, která nám umožní přístup k aktuálním
 informacím o fungování kraje tak, abychom mohli v co největší míře prosazovat náš
@@ -164,6 +164,7 @@ odbornou diskuzí k připravovaným záměrům. V žádném případě nebudeme 
 s účastí KSČM, SPD nebo Trikolórou.
 
 ## Pravidla zastupitelského klubu
+
 - Klub zastupitelů Pirátů tvoří všichni zvolení zastupitelé na kandidátce České Pirátské
 strany. Každý pirátský zastupitel se řídí Všeobecným kodexem veřejného zastupitele,
 touto strategií a případně koaliční smlouvou. Klub usiluje o maximální možnou míru
@@ -188,4 +189,3 @@ zásady lze uplatnit po většinovém hlasování v odůvodnitelných případec
 radního za Piráty o vysvětlení a v extrémním případě se mohou usnést na vyjádření
 nedůvěry. V takovém případě předseda klubu v souladu s koaliční smlouvou iniciuje výběr
 nového radního.
-
