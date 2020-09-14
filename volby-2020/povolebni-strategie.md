@@ -2,6 +2,7 @@
 layout: page 
 title: Povolební strategie pro volby do zastupitelstva Pardubického kraje v roce 2020
 ---
+<div class="content-block">
 
 Česká Pirátská strana je liberální, demokratická, středová strana s důsledným
 protikorupčním programem. Naším cílem je prosazovat náš program, ať už jsme v koalici nebo
@@ -189,3 +190,5 @@ zásady lze uplatnit po většinovém hlasování v odůvodnitelných případec
 radního za Piráty o vysvětlení a v extrémním případě se mohou usnést na vyjádření
 nedůvěry. V takovém případě předseda klubu v souladu s koaliční smlouvou iniciuje výběr
 nového radního.
+
+</div>
