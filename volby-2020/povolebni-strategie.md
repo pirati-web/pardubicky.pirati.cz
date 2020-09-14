@@ -1,8 +1,11 @@
 ---
-layout: page 
+layout: page
+contentClass: content-block
+rbar:
+  - program
+campaignGroupUid: volby-2020
 title: Povolební strategie pro volby do zastupitelstva Pardubického kraje v roce 2020
 ---
-<div class="content-block">
 
 Česká Pirátská strana je liberální, demokratická, středová strana s důsledným
 protikorupčním programem. Naším cílem je prosazovat náš program, ať už jsme v koalici nebo
@@ -44,7 +47,7 @@ a informovat kandidáty, u nichž bude vysoká pravděpodobnost zvolení.
 ## Hned po volbách
 
 - Jakmile budou výsledky známy s dostatečnou jistotou, bude ustanoven tříčlenný
-vyjednávací tým (+ dva náhradníci) takto: 
+vyjednávací tým (+ dva náhradníci) takto:
 Prvním členem a předsedou vyjednávacího týmu bude lídr krajské kandidátky, který
 zároveň povede vyjednávací tým. Druhým členem vyjednávacího týmu bude zvolený
 zastupitel, který ve volbách získal nejvyšší počet preferenčních hlasů. V případě, že
@@ -190,5 +193,3 @@ zásady lze uplatnit po většinovém hlasování v odůvodnitelných případec
 radního za Piráty o vysvětlení a v extrémním případě se mohou usnést na vyjádření
 nedůvěry. V takovém případě předseda klubu v souladu s koaliční smlouvou iniciuje výběr
 nového radního.
-
-</div>

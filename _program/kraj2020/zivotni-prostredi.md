@@ -1,10 +1,10 @@
 ---
 campaignCategoryUid: kraj2020
 campaignGroupUid: volby-2020
-uid: zivotni-prostredi 
+uid: zivotni-prostredi
 order: 1
 title: Životní prostředí
-#garant: stanislav.klat 
+garant: daniel.lebduska
 img: program2020/zivotni-prostredi.jpg
 #perex: >
 #  [ text, který se zobrazí na přehledu programových bodů ]
@@ -18,7 +18,7 @@ img: program2020/zivotni-prostredi.jpg
 ## Čistý, živý, obnovitelný kraj
 - Podporujeme projekty vedoucí k minimalizaci odpadů v našem kraji.
 - Podporujeme zpracovatele druhotných surovin.
-- Vyčistíme řeky, lesy, či příkopy od odpadu. 
+- Vyčistíme řeky, lesy, či příkopy od odpadu.
 - Podporujeme obce i občany při budování mezí a sázení stromořadí a vrátíme do krajiny ovocné stromy.
 - Podporujeme obnovu krajinné mozaiky a tím i návrat hmyzu a drobných obratlovců
 - Podpoříme obnovu brownfieldů a omezení výstavby „na zelené louce“.
@@ -30,7 +30,7 @@ img: program2020/zivotni-prostredi.jpg
 - Na základě zkušeností z modelu Zdoňov vytvoříme dostatek nových drobných vodních prvků, které nám do budoucna významně pomohou v boji se suchem 
 
 ## Spoluúčast a informovanost při řešení problémů životního prostředí
-- Vytvoříme platformu, díky které bude moci každý občan sdělit, co ho v oblasti životního prostředí trápí a budeme hledat řešení těchto problémů 
+- Vytvoříme platformu, díky které bude moci každý občan sdělit, co ho v oblasti životního prostředí trápí a budeme hledat řešení těchto problémů
 - Náš expertní tým bude pořádat diskuze s občany a sbírat jejich prostřednictvím nové podněty
 - Budeme iniciovat participační projekty, aby krajské zastupitelstvo táhlo s občany za jeden provaz a řešilo jejich nejpalčivější problémy
 - Budeme prosazovat vznik poradního orgánu složeného z odborníků, který pomůže hledat řešení problémů životního prostředí
