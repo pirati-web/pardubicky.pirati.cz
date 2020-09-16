@@ -10,20 +10,23 @@ image: articles/2020/kampan20/postra.png
 important: true
 ---
 
-**Česká  pirátská  strana  je  liberální,  demokratická,  středová  strana  s  důsledným protikorupčním programem. Naším cílem je prosazovat náš program, ať už jsme v koalici nebo v opozici.Tato strategie je veřejným závazkem kandidátů vůči členům a voličům. Chceme, aby občané, kteří se rozhodnou podpořit svým hlasem Piráty, jasně věděli, jak budeme po volbách postupovat a pracovat.**
+*Pardubice, 14. září 2020* - **Piráti v Pardubickém kraji schválili v srpnovém hlasování  krajského fóra povolební strategii, která stanovuje postup v rámci vyjednávání do nadcházejících krajských voleb. Tento dokument je pro Piráty zásadní a je veřejným závazkem kandidátů vůči členům a voličům. Strategie stanoví, že nominantem na hejtmana a lídrem ve vyjednávacím týmu je Daniel Lebduška. Piráti v Pardubickém kraji budou o koaliční spolupráci jednat nejdříve v neděli po ukončení voleb a vždy za účasti minimálně dvou členů vyjednávacího týmu.**
 
-Jakmile budou výsledky známy s dostatečnou jistotou, bude ustanoven tříčlenný vyjednávací tým. Prvním členem a předsedou vyjednávacího týmu bude lídr krajské kandidátky **Daniel Lebduška**, který zároveň povede vyjednávací tým. Druhým členem vyjednávacího týmu bude zvolený zastupitel, který ve volbách získal **nejvyšší počet preferenčních hlasů**. V případě, že to bude lídr, pak další zvolený zastupitel v pořadí podle získaných preferenčních hlasů. Třetího člena a dva náhradníky zvolí nově zvolení zastupitelé, přičemž není podmínkou, aby se vybíralo z právě zvolených zastupitelů.
 
-Naším **nominantem na hejtmana** bude lídr krajské kandidátky, kterým je **Daniel Lebduška**.
-Vyjednávací tým na základě výsledků voleb prodiskutuje strategii jednání. 
+Povolební strategie určuje složení vyjednávacího týmu. Jeho prvním členem a předsedou  bude lídr krajské kandidátky Daniel Lebduška. Druhým členem vyjednávacího týmu bude zvolený zastupitel, který ve volbách získal nejvyšší počet preferenčních hlasů. V případě, že to bude lídr, pak další zvolený zastupitel v pořadí podle získaných preferenčních hlasů. Třetího člena a dva náhradníky zvolí nově zvolení zastupitelé, přičemž není podmínkou, aby se vybíralo z právě zvolených zastupitelů.
+
+Nominantem na hejtmana je lídr krajské kandidátky, kterým je **Daniel Lebduška.**
+
 
 ### Koaliční vyjednávání 
-Vlastní jednání o koaliční spolupráci budou zahájena nejdříve den následující po druhém dni voleb a vždy za účasti minimálně dvou členů vyjednávacího týmu.
 
-Odmítáme koalice s **extremistickými stranami**. Nevstoupíme do koalice se stranami či hnutími, které svými projevy popírají nebo ohrožují **principy demokratického právního státu**, Listinu základních práv a svobod, nesou historické dědictví likvidace demokracie v této zemi, šíří nesnášenlivost, odpor či diskriminaci vůči skupinám lidí - tj. zejména s KSČM, SPD nebo Trikolórou.
+O možné koaliční spolupráci budeme jednat nejdříve v neděli po krajských volbách a to za účasti minimálně dvou členů vyjednávacího týmu.
 
-**Nedovolíme hromadění veřejných funkcí na plný úvazek**. V případě zvolení se zavazujeme vykonávat současně jen jednu uvolněnou volenou veřejnou funkci (poslanec, senátor, člen vlády, prezident, uvolněný zastupitel apod.) a vyhradit si potřebný čas na výkon dalších neuvolněných funkcí. Souběh funkce uvolněného zastupitele a členství v jedné dozorčí radě organizace s účastí kraje je přípustný za předpokladu, že nominace bude výsledkem otevřeného a transparentního výběrového řízení s důrazem na kvalifikaci uchazeče a jeho schopnost věnovat se důsledně oběma funkcím. Pokud dojde v některém z uvedených principů tohoto bodu k rozporu, je pirátský zastupitel povinen uspořádat své funkce do šesti měsíců tak, aby byly s tímto ustanovením v souladu. Stejný přístup budeme vyžadovat po koaličních partnerech a jeho dodržení je podmínkou účasti v koalici.
-Součástí povolební strategie jsou i naše priority, které budeme chtít realizovat a které by měly být součástí případné koaliční smlouvy. Jde o zcela zásadní body, které mají pomoci udržet náš kraj zdravý pro lidi i přírodu a zároveň moderní. Tyto priority jsou:
+Piráti odmítají koalice s extremistickými stranami. Nevstoupíme do koalice se stranami či hnutími, které svými projevy popírají nebo ohrožují principy demokratického právního státu, Listinu základních práv a svobod, nesou historické dědictví likvidace demokracie v této zemi, šíří nesnášenlivost, odpor či diskriminaci vůči skupinám lidí - tj. zejména s KSČM, SPD nebo Trikolórou.
+
+Jedním z podstatných a důležitých bodů je pro Piráty v Pardubickém kraji omezení hromadění veřejných funkcí na plný úvazek. Toto se týká jak Pirátů samotných, ale i potencionálních koaličních partnerů.
+
+Součástí povolební strategie jsou i naše priority, které budeme chtít realizovat a které by měly být součástí případné koaliční smlouvy. Jde o zcela zásadní body, které mají pomoci udržet náš kraj zdravý pro lidi i přírodu a zároveň moderní. Těmito prioritami jsou:
 
 - Aktivní přístup k dostavbě D35 a jejím přivaděčům, aktivní komunikace s dotčenými obcemi.
 - Zrušení stavebních uzávěr pro vodní koridor Dunaj - Odra - Labe.
@@ -45,14 +48,15 @@ Součástí povolební strategie jsou i naše priority, které budeme chtít rea
 - Implementace nových přístupů podpory cestovního ruchu a regionálního rozvoje.
 
 
-### Podmínky konstruktivní opoziční práce
+### Podmínky konstruktivní opoziční práce.
+
 Pokud nebudeme součástí koalice, chceme obsadit taková místa ve výborech, komisích a
 dozorčích radách organizací s účastí kraje, která nám umožní přístup k aktuálním
 informacím o fungování kraje tak, abychom mohli v co největší míře prosazovat náš
 program a měli možnost zasáhnout při podezření na pochybení nebo nekalosti při správě
 kraje.
 
-Naše opozice bude konstruktivní. Formou předkládání připomínek a návrhů, prací ve
+Naše opozice bude konstruktivní. Předkládáním připomínek a návrhů, prací ve
 výborech a komisích, zveřejňováním informací a aktivizací občanské veřejnosti budeme
 usilovat o prosazování našeho programu.
 
@@ -63,4 +67,6 @@ Pokud budeme jazýčkem na vahách, zvážíme toleranci menšinové Rady výmě
 zohlednění našich politických priorit v programu koalice. Tolerance je podmíněna plněním
 dohodnutých závazků, otevřeností při vládnutí a průběžnou politickou, veřejnou a
 odbornou diskuzí k připravovaným záměrům. V žádném případě nebudeme tolerovat Radu
-s účastí KSČM, SPD nebo Trikolórou.
+s účastí KSČM, SPD nebo Trikolory.
+
+[PLNÉ ZNĚNÍ POVOLEBNÍ STRATEGIE NALEZNETE ZDE](https://a.pirati.cz/pak/postra.pdf)
