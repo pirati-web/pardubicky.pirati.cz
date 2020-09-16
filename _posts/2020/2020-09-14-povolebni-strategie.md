@@ -69,4 +69,4 @@ dohodnutých závazků, otevřeností při vládnutí a průběžnou politickou,
 odbornou diskuzí k připravovaným záměrům. V žádném případě nebudeme tolerovat Radu
 s účastí KSČM, SPD nebo Trikolory.
 
-[PLNÉ ZNĚNÍ POVOLEBNÍ STRATEGIE NALEZNETE ZDE](https://a.pirati.cz/pak/postra.pdf)
+[PLNÉ ZNĚNÍ POVOLEBNÍ STRATEGIE NALEZNETE ZDE](https://pardubicky.pirati.cz/volby-2020/povolebni-strategie/)
