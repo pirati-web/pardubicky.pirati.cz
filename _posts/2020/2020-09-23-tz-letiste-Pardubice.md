@@ -38,4 +38,4 @@ Otázkou zůstává domluva spolupráce s pražským letištěm. **Pokud Piráti
 
 >“Všechna velká města mají letiště i mimo centrum, v cca hodinové dojezdové vzdálenosti. Luton k Londýnu, Fiumicino k Římu a mohl bych jmenovat dále. Spojení mezi pardubickým letištěm a vlakovým nádražím není problém. Spojení do centra Prahy odtud je pod hodinu. Pokud se podaří ustanovit mix z charterů, linkových letů a zvýšit počet cargo letů, tak poté nebude potřeba podíl kraje prodávat. Předpokladem ovšem je přehoupnutí hospodaření z červených do černých čísel bez nalévání peněz z krajského rozpočtu. Pokud se tak nestane, je třeba přistoupit k záměru o prodeji,” **uzavírá Lebduška**.
 
-{% asset 'articles/2020/kampan20/letistedan.jpg' magick:resize='751x422^' magick:gravity='north' alt='lebduska'%}
+{% asset 'articles/2020/kampan20/letistedan.png' magick:resize='751x422^' magick:gravity='north' alt='lebduska'%}
