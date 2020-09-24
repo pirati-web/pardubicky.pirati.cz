@@ -36,3 +36,6 @@ Spolu s pardubickými Piráty jsme přemýšleli, jak pomoci. Každý z nás ale
 **Tvou gescí je sport. Jaký je váš pohled na tuto problematiku?**
 
 Mým cílem není podpora vrcholového sportu, ale právě to, aby mohlo sportovat co nejvíce lidí – a hlavně dětí. Proto bychom chtěli prosazovat co největší dostupnost hřišť a sportovišť. Zároveň se snažíme přistupovat komplexně i k dalším projektům v rámci dopravy či diverzity krajiny, kde je možné připravit jako jednu část projektů i jejich sportovní využití. Chtěli bychom náš kraj představit jako místo pro trávení volného času, kde si přijdou na své jak příležitostní, tak každodenní sportovci.
+
+{% asset 'articles/2019/rozhovory/fmezera/fmezera3.jpg' magick:resize='751x422^' 
+magick:gravity='center' magick:crop='751x422+0+0' alt='Filip Mezera'%}
