@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title:Daniel Lebduška: Takhle to dál nejde! Ohledně Pardubického letiště je potřeba dát jasné řešení a termín, ne stále přešlapovat na místě
+title: Daniel Lebduška: Takhle to dál nejde! Ohledně Pardubického letiště je potřeba dát jasné řešení a termín, ne stále přešlapovat na místě
 date: 2020-09-23T07:00:00+01:00
 tags:
     - tiskova-zprava
