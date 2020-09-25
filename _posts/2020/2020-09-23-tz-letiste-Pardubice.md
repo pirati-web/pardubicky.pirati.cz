@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: Daniel Lebduška: Takhle to dál nejde! Ohledně Pardubického letiště je potřeba dát jasné řešení a termín, ne stále přešlapovat na místě
+title: Daniel Lebduška - Pro Pardubické letiště je potřeba dát jasné řešení a termín, ne stále přešlapovat na místě
 date: 2020-09-23T07:00:00+01:00
 tags:
     - tiskova-zprava
@@ -10,8 +10,6 @@ author: Piráti Pardubického kraje
 image: articles/2020/kampan20/letisteuvod.png
 important: true
 ---
-
-
 
 *Chrudim, 23. září 2020* - **Už několik let se řeší, co s pardubickým letištěm. Prodat, neprodat, dotovat, nedotovat? Nechme stranou to, jestli dnes (ve čtvrtek 24.9.2020) dojde k odvolání současné ředitelky EBA Hany Šmejkalové a poslední kapkou je její požadavek na vyplacení vysokých odměn. Pardubickému letišti chybí střednědobý cíl a především rozhodnutí politiků, zda letišti budou dalších deset let každoročně posílat finance města a kraje, či nikoliv.**
 
