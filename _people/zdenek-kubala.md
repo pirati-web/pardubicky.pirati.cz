@@ -2,20 +2,22 @@
 uid: zdenek.kubala
 name:     Zdeněk Kubala      		# běžně používáné jméno
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
-  - pak
+  - clenove
 #ord_mistni_predsedove: 3
 #ord_predsednictvo: 0
 img: people/zdenek-kubala.jpg           # 165 x 220
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: Zástupce vedoucího technického odboru	# kratký popis, max 160 znaků
+profession: softwarový inženýr, IT konzultant na volné noze
+partyUid: pirati
 mail:
 - zdenek.kubala@pirati.cz
 mob:
 profiles:
-  github:
-  facebook:
-  twitter:
-  linkedin:
+  github: https://github.com/djz88
+  facebook: https://www.facebook.com/zdenek.key.7
+  twitter: https://twitter.com/n1djz88
+  linkedin: https://www.linkedin.com/in/zdenek-kubala-74ab4b4b/
 ---
 * Člen [Resortního týmu Informatika](https://www.pirati.cz/pripoj-se/informatika/)
 * Předseda [komise pro digitalizaci rady města Chrudim](https://forum.pirati.cz/viewtopic.php?p=612343#p612343)
