@@ -332,8 +332,8 @@ tail:
       profession: knihkupkyně, programátorka
       city: Pardubice
       partyUid: pirati
-    -
-      uid: tomas.grosskopf
+
+    - uid: tomas.grosskopf
       position: 41
       name: Mgr. Tomáš Grosskopf
       age: 38
