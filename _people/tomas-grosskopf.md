@@ -7,7 +7,7 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clenove
 img: people/tomas-grosskopf-2020.jpg
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
-profession: učitel
+profession: učitel na ZŠ, moderátor v radiu
 mail:
 - tomas.grosskopf@pirati.cz
 mob:
