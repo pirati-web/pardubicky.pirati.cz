@@ -16,9 +16,7 @@ profiles:
   facebook: https://www.facebook.com/tomas.grosskopf
   twitter:
   linkedin:
---
-
-
+---
 **Tomáš Grosskopf (* 9. ledna 1982)**
 
 Po absolvování gymnázia jsem se rozhodl pro učitelské povolání. Vystudoval jsem tedy pedagogickou fakultu - učitelství pro 2. stupeň ZŠ (český jazyk a dějepis). A toto zaměstnání mě drží dodnes. V různých obdobích svého života jsem se věnoval i práci v jedné zednické firmě nebo ve finančnictví. Dlouhou dobu mě lákala žurnalistika, ale zatím nebyla příležitost k uskutečnění tohoto malého snu.
