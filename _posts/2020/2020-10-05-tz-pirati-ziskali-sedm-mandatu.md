@@ -29,3 +29,5 @@ Opoziční roli Pirátů potvrdil i další vývoj situace a podepsání dohody 
 
 Piráti v Pardubickém kraji nyní budou vyjednávat o takovém postavení v orgánech kraje, které by jim umožnilo konstruktivní opoziční práci a prosazování pirátského programu. Aktuálně Piráti připravují volbu předsedy krajského zastupitelského klubu a priority, které budou chtít z opozičních lavic na krajské úrovni prosadit.
 
+Do krajského zastupitelstva se za Piráty dostali: **Daniel Lebduška, Filip Mezera, Andrej Ramašeuski, Libuše Vévodová, Jiří Ducháček, Lenka Španihelová a Andrea Linhartová.**
+
