@@ -40,4 +40,4 @@ image: articles/2020/kampan20/vybory.png
 
   
 
-Zároveň Piráti otevřeli na fóru (https://forum.pirati.cz/viewtopic.php?f=414&t=54042) rozpravu o nominacích do dalších 8 výborů zastupitelstva tak, aby se mohli přihlásit nejen členové Pirátské strany, ale i příznivci či sympatizanti. Cílem je vybrat ty nejlepší zástupce do výborů, co se týče znalostí, zkušeností a možnosti se danému tématu do hloubky věnovat.
+Zároveň [Piráti otevřeli na fóru rozpravu o nominacích do dalších 8 výborů zastupitelstva](https://forum.pirati.cz/viewtopic.php?f=414&t=54042)  tak, aby se mohli přihlásit nejen členové Pirátské strany, ale i příznivci či sympatizanti. Cílem je vybrat ty nejlepší zástupce do výborů, co se týče znalostí, zkušeností a možnosti se danému tématu do hloubky věnovat.
