@@ -19,11 +19,11 @@ Nelze začít ničím jiným než zdravotnictvím. I před epidemií koronaviru 
 V současnosti je stávající personál přetížen. Není možné, aby pomocný zdravotní personál pracoval 36 hodin v kuse, pak měl 12 hodin volno - doslova jen na vypsání - a následně těmto lidem začala další 36 hodinová směna. Doufáme, že zabere výzva vůči dobrovolníkům (zde: https://www.nempk.cz/dobrovolnici), ale to je za nás počin, který nepřinese dlouhodobé řešení. Proto žádáme radní pro zdravotnictví, paní Matouškovou, o vyhodnocení situace a její řešení. A to jak v krátkodobém, tak v dlouhodobém horizontu. 
 
 
-### Distatnční výuka
+### Distanční vzdělávání
 
 Druhým kritickým bodem je situace ohledně distanční výuky v krajem zřizovaných školách. Zajímá nás, jakým způsobem krajský úřad sbírá a vyhodnocuje informace o distanční výuce, která je ze zákona povinná, a především jakou poskytl podporu ředitelům těchto škol. Mnoho dětí (především ze sociálně slabších rodin) nemá svůj vlastní počítač. Další nemají žádné, či jen nedostatečné připojení na internet. V tomto ohledu má zřizovatel možnost být výrazně nápomocen řešení. To může být dle jednotlivých lokalit různé, ale právě ona možnost toto řešit napříč regionem bez ohledu na konkrétní školu je důvodem, proč by se krajský úřad měl v tomto angažovat. Jinak nám hrozí další rozevírání nůžek mezi běžnou a sociálně slabší částí populace, což nakonec zaplatíme my všichni. Upozorňujeme pana radního Kozla, že není možné spoléhat na brzký návrat dětí do škol. Naopak, nabízíme možnost sdílet s ním naše recepty, které jsme použili v městech, kde jsme zastupitelé.
 
-### Povodně
+### Krajina a životní prostředí
 
 Třetím úkolem bude pomoci řešit obcím potíže s povodněmi. V letošním roce bylo zasaženo povodní více jak 90 obcí našeho kraje. Z toho některé, jako třeba Dolní Ředice, opakovaně. Je nutné tomu začít předcházet. Kraj by měl obcím nejen zpětně pomáhat řešit následky povodní, jako se to děje nyní prostřednictvím dotací, ale měl by se stát centrem řešení. Ta nemusí být apriori drahá, musí být však funkční, což zajistí pouze zapojení skutečných odborníků a zároveň koordinací všech zainteresovaných stran (obcí, vlastníků nemovitostí, zemědělců a vodohospodářů).
 Zároveň chceme, aby kraj vyhodnotil, jak se postaví k výjimce pro imisní limity elektrárny Opatovice. Kraj si nechal zpracovat dokument, který si vyžádáme, a snad v součinnosti s novým radním panem Krčilem zapracujeme takové stanovisko kraje, které bude hájit zájmy občanů. 
