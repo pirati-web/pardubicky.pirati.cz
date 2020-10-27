@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: Pirátské poznámky z krajského zastupitelstva
-date: 2020-10-27T07:00:00+01:00
+date: 2020-10-26T07:00:00+01:00
 tags:
     - Krajske-volby-2020
     - Krajske-zastupitelstvo
