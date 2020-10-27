@@ -16,7 +16,7 @@ image: articles/2020/KZ/poznamky.png
 ### 1
 # Poznámky z ustavujícího zasedání zastupitelstva Pardubického kraje ze dne 26. 10.
 
-{% asset 'articles/2020/KZ/kz1.jpg' magick:resize='751x422^' magick:gravity='north' alt='krajští zastupitelé'%}
+{% asset 'articles/2020/KZ/ks1.jpg' magick:resize='751x422^' magick:gravity='north' alt='krajští zastupitelé'%}
 
 **Ustavující zasedání se konalo na tradičním místě v zasedacím sále zastupitelstva, přesto netradičně, protože část zastupitelů seděla na balkónech kvůli rozestupům. Přítomno bylo všech 45 zastupitelů, což se doufám stane v tomto volebním období tradicí.**
 
