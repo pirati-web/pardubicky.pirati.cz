@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: Pirátské poznámky z krajského zastupitelstva
-date: 2020-10-26T07:00:00+01:00
+date: 2020-10-27T07:00:00+01:00
 tags:
     - Krajske-volby-2020
     - Krajske-zastupitelstvo
@@ -36,6 +36,6 @@ Z nejzajímavějších bodů za nás Piráty vybíráme:
 
 **7)** - Posledním bodem, kterým tyto poznámky ukončíme dvě skvělé zprávy. Kraj je účastníkem řízení ohledně výjimky pro imisní limity elektrárny Opatovice (jejíž vedení mimochodem slibovali, že o výjimku nezažádá). Budeme se určitě ptát po všech materiálech a budeme tento bod extrémně sledovat. Již na tomto zastupitelstvu odvedl ohledně dotazování odboru životního prostředí skvělou práci @Daniel Lebduška. Druhou skvělou zprávou je, že koncepce rozvoje Pardubického kraje pro roky 2021 - 2027 je stále živý dokument, který ještě bude schvalovat zastupitelstvo. Určitě přijdeme s návrhy na doplnění. Tady díky @Miroslav Seiner, že nás na tento dokument upozornil. Určitě uvítáme jakékoliv návrhy ze strany odborné veřejnosti. Dobrých nápadů není nikdy dost!
 
-A tímto děkujeme vám, čtenářům, že jste dočetli až sem. Pokud vás příspěvek zaujal, dále nás sledujte a uvítáme taktéž jakoukoliv zpětnou vazbu jak informacím v poznámkách, tak k jejich formátu, protože dnes je poprvé píšeme jako insideři. Mějte se fajn. :peace_sign:
+*A tímto děkujeme vám, čtenářům, že jste dočetli až sem. Pokud vás příspěvek zaujal, dále nás sledujte a uvítáme taktéž jakoukoliv zpětnou vazbu jak informacím v poznámkách, tak k jejich formátu, protože dnes je poprvé píšeme jako insideři. Mějte se fajn.* :peace_sign:
 
 
