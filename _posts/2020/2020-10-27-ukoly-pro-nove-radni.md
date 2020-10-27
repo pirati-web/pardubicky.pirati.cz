@@ -2,12 +2,12 @@
 layout: post
 category: CLANKY
 title: Aktuální úkoly pro nové radní v radě Pardubického kraje 
-date: 2020-10-13T07:00:00+01:00
+date: 2020-10-27T07:00:00+01:00
 tags:
     - Krajske-volby-2020
     - Krajske-zastupitelstvo
 author: Piráti Pardubického kraje
-image: articles/2020/kampan20/nativka.png
+image: articles/2020/kampan20/ukoly.png
 important: true
 ---
 
