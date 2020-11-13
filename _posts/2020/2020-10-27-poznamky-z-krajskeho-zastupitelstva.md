@@ -11,9 +11,6 @@ image: articles/2020/KZ/poznamky.png
 ---
 **Na této stránce naleznete poznámky našich krajských zastupitelů. Vždy po krajském zastupitelstvu budeme přidávat poznatky a informace našich zastupitelů, kteří vás budou informovat o nejdůležitějších bodech jednání v rámci krajského zastupitelstva. Pod tímto textem jsme vytvořili rozcestník, který vám v budoucnu umožní přepnout na jednotlivé jednání.**
 
-[Poznámky z ustavujícího zasedání zastupitelstva Pardubického kraje ze dne 26. 10.](###1)
-
-### 1
 # Poznámky z ustavujícího zasedání zastupitelstva Pardubického kraje ze dne 26. 10.
 
 {% asset 'articles/2020/KZ/ks1.jpg' magick:resize='751x422^' magick:gravity='north' alt='krajští zastupitelé'%}
