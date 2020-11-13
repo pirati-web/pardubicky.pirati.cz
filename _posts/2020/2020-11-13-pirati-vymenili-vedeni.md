@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: Piráti v Pardubickém kraji vyměnili vedení
-
+date: 2020-11-12T07:00:00+01:00
 tags: 
     - PKS
 author: Piráti Pardubického kraje
