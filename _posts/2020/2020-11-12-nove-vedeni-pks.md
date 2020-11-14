@@ -10,7 +10,7 @@ image: articles/2020/duchacekPKS.png
 important: true
 ---
 
-**Členská základna Pirátů Pardubického kraje si na začátku lisopadu zvolila nové předsednictvo tohoto sdružení. Předsedou se nově stal Jiří Ducháček z České Třebové. Místopředsedy potom byli zvoleni Andrea Linhartová z Chrasti, Vladek Vácha z Mistrovic, Daniel Lebduška z Chrudimi a Karsten Sachs z Moravské Třebové. Nové krajské předsednictvo se v nadcházejících dvou letech bude primárně věnovat parlamentním a komunálním volbám.**
+**Členská základna Pirátů Pardubického kraje si na začátku listopadu zvolila nové předsednictvo tohoto sdružení. Předsedou se nově stal Jiří Ducháček z České Třebové. Místopředsedy potom byli zvoleni Andrea Linhartová z Chrasti, Vladek Vácha z Mistrovic, Daniel Lebduška z Chrudimi a Karsten Sachs z Moravské Třebové. Nové krajské předsednictvo se v nadcházejících dvou letech bude primárně věnovat parlamentním a komunálním volbám.**
  
 Volby nového předsednictva proběhly elektronicky, hlasovala tak většina členů sdružení, které má napříč Pardubickým krajem 52 lidí.
  
