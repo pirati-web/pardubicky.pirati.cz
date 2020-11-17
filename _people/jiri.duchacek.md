@@ -3,12 +3,14 @@ uid: jiri.duchacek
 name: Jiří Ducháček
 fullname: Jiří Ducháček
 category:
-  - pak
-  - kandidat-ceskatrebova-2018
+- pak
+- kandidat-ceskatrebova-2018
+- predsednictvo
 img: people/jiri.duchacek-2020.jpg
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
-description: člen Pirátské strany
+description: předseda KS Pardubický kraj
 candidatedesc: IT manager
+ord_predsednictvo: 1
 ordpak: 1
 ordkomunal2018: 1
 mail:

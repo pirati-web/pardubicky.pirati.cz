@@ -1,19 +1,21 @@
 ---
 uid: vladek.vacha
-name:     Vladek Vácha		
+name:     Vladek Vácha
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - pak
+- predsednictvo
+ord_predsednictvo: 3
 img: people/vladek-vacha-2020.jpg
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
-description: člen Pirátské strany
+description: 2. místopředseda KS Pardubický kraj
 mail:
 - v.vacha@tiscali.cz
 mob: 724333769
 
 age: 39
 profiles:
-  github: 
-  facebook: 
+  github:
+  facebook:
   twitter:
   linkedin:
 ---

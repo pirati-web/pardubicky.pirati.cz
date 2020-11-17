@@ -6,7 +6,7 @@ keywords: kontakt, adresa, telefon, mail, facebook, kde najdu, kde jsou
 # noresidence: yes
 contentSize: even
 contactPersons:
-  - id: daniel.lebduska
+  - id: jiri.duchacek
     position: Předseda krajského sdružení
   - id: martin.saifrt
     position: Kontakt pro novináře

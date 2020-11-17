@@ -5,13 +5,11 @@ fullname: Martin Saifrt
 category:
   - pak
   - kandidat-ceskatrebova-2018
-  - predsednictvo
   - kontaktni_osoba
 img: people/martin.saifrt.jpg
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
-description: Vedoucí krajského mediálního odboru, 3. místopředseda KS Pardubický kraj
+description: Vedoucí krajského mediálního odboru
 candidatedesc: komunitní pracovník
-ord_predsednictvo: 4
 ordpak: 3
 ordkomunal2018: 3
 mail:
