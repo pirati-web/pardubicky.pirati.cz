@@ -1,16 +1,17 @@
 ---
-titles: 
+titles:
     before: Mgr.
 published: true
 categories:
 - pak
 - kandidat-ceskatrebova-2018
+- mistni_predsedove
 uid: jaroslav.lainz
 name: Jaroslav Lainz
 fullname: Mgr.Jaroslav Lainz
 img: people/jaroslav.lainz-2020.jpg
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
-description: Příznivec Pirátské strany
+description: Předseda MS Českotřebovsko
 candidatedesc: sociální pracovník
 ordpak: 4
 ordkomunal2018: 4

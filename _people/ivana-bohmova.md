@@ -7,8 +7,6 @@ titles:
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
   - clenove
   - radnice
-  - mistni_predsedove
-ord_mistni_predsedove: 1
 ordPce: 3
 img: people/ivana-bohmova.jpg           # 165 x 220
 description: Předsedkyně MS Pardubicko	# kratký popis, max 160 znaků
