@@ -7,7 +7,6 @@ tags:
     - Krajske-zastupitelstvo
 author: Piráti Pardubického kraje
 image: articles/2020/nominanti.png
-important: true
 ---
 
 **Piráti nominovali své členy a odborníky do výborů, které plní iniciativní a kontrolní činnost při fungování zastupitelstva kraje. Informační technologie jsou doménou Pirátů a proto chceme předsedat výboru pro informační technologie a eGovernement. Máme také pirátskou kandidátku na post předsedkyně výboru pro sociální věci a neziskový sektor.**
