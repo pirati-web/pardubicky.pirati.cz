@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: Piráti zveřejnili své nominanty do výborů krajského zastupitelstva
+title: Piráti zveřejnili své nominanty do dalších výborů krajského zastupitelstva
 date: 2020-11-24T07:00:00+01:00
 tags: 
     - Krajske-zastupitelstvo
