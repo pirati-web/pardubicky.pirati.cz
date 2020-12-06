@@ -1,6 +1,6 @@
 ---
 uid: ales.nunvar
-name:     Aleš Nunvář		# běžně používáné jméno
+name:    Ing. Aleš Nunvář		# běžně používáné jméno
 fullname: Ing. Aleš Nunvář	# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - pak
@@ -13,7 +13,7 @@ ordpak:
 ordkomunal2018: 3
 mail:
 - ales.nunvar@pirati.cz
-mob: 
+mob: 608 530 251
 age: 39
 profiles:
   github: 
