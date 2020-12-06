@@ -17,14 +17,18 @@ mob:
 age: 39
 profiles:
   github: 
-  facebook: 
+  facebook: https://www.facebook.com/PiratskyMistostarosta/
   twitter:
   linkedin:
 ---
 Aleš Nunvář se narodil 24. července 1979, pochází ze Slatiňan a od roku 2011 žije v Chrudimi.
 
-Vystudoval Fakultu strojního inženýrství na Vysokém učení technickém v Brně, obor Transportní a manipulační zařízení, kde získal titul Ing. V průběhu letních prázdnin pracoval ve Skandinávii a po dokončení studia pokračoval na Dánské Technické Univerzitě v Kodani. Při zaměstnání se dále vzdělával mimo jiné v projektovém managementu zakončeném mezinárodním certifikátem.
 
-Zhruba 7 let pracoval jako vývojový konstruktér / projektant ve strojírenství i stavebnictví a to jak v ČR, tak i v zahraničí, kde několik let trvale působil. Od roku 2011 se profesně věnuje praxi, školení a poradenství v projektovému managementu. V současnosti pracuje jako projektový manažer zahraničních dodávkových projektů v oblasti sledování a řízení leteckého provozu.
+Vystudoval Fakultu strojního inženýrství na Vysokém učení technickém v Brně, obor Transportní a manipulační zařízení, kde získal titul Ing. Během studia pracoval ve Skandinávii a po dokončení pokračoval na Dánské Technické Univerzitě v Kodani. Při zaměstnání se dále vzdělával mimo jiné v projektovém managementu zakončeném mezinárodním certifikátem.
 
-V Chrudimi vede neziskový spolek provozující centrum pohybových aktivit, kde působí i jako lektor jógy. Mezi jeho další zájmy patří kultura, sport, indické kari a studium psychoterapie. 
+
+Zhruba 7 let pracoval jako vývojový konstruktér / projektant ve strojírenství i stavebnictví a to jak v ČR, tak i v zahraničí, kde několik let trvale působil. Následujících 7 let se profesně věnoval praxi, školení a poradenství v projektovému managementu. Poslední pozice co zastával před aktivním vstupem do politiky byl projektový manažer zahraničních dodávkových projektů v oblasti sledování a řízení leteckého provozu. V roce 2018 byl zvolen do zastupitelstva města Chrudim, kde je aktuálně neuvolněným místostarostou. V gesci má odbory investic a životního prostředí, dále je určený zastupitel pro územní plán. V Pirátech zastává pozici místopředsedy MS Chrudimsko.
+
+
+V Chrudimi vede neziskový spolek provozující centrum pohybových aktivit, kde působí i jako lektor jógy. Mezi jeho další zájmy patří turistika, basketbal, indické kari a studium psychoterapie.
+
