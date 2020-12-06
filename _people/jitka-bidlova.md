@@ -6,6 +6,7 @@ categories:
 - kandidat-ceskatrebova-2018
 - mistni_predsedove
 img: people/jitka-bidlova.jpg
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 uid: jitka.bidlova
 name: Jitka Bidlová
 fullname: Jitka Bidlová
