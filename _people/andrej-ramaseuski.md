@@ -4,6 +4,7 @@ name:     Andrej Ramašeuski
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - pak
 - rv
+- krajsti_zastupitele
 img: people/andrej-ramaseuski-2020.jpg
 heroImg: people/andrej-ramaseuski-herobanner.jpg
 description: Člen Republikového výboru
@@ -12,7 +13,7 @@ mail:
 - andrej.ramaseuski@pirati.cz
 mob: 605234197
 profiles:
-#  github:
+  github: https://gitlab.pirati.cz/ramaseuski
   facebook: https://www.facebook.com/andrej.ramaszeuski
 #  twitter:
   linkedin: https://www.linkedin.com/in/ramaszeuski/

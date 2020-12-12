@@ -5,7 +5,8 @@ titles:
   before: Mgr.
   after:
 category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
-- clenove
+- clenove  
+- krajsti_zastupitele
 ordPce: 9
 img: people/lenka-spanihelova-2020.jpg           # 165 x 220
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg

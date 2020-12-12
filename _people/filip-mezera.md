@@ -5,7 +5,8 @@ titles:
   before: Ing.
   after: Ph.D.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
-- clenove
+  - clenove
+  - krajsti_zastupitele
 img: people/filip-mezera-2020.jpg
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: 4. místopředseda KS Pardubický kraj

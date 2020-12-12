@@ -4,6 +4,7 @@ name:     Libuše Vévodová      		# běžně používáné jméno
 fullname: Mgr. Libuše Vévodová		# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
   - clenove
+  - krajsti_zastupitele
 img: people/libuse-vevodova-2020.jpg
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: Předsedkyně MS Svitavsko a zastupitelka města Svitavy # kratký popis, max 160 znaků
