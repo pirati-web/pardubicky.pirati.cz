@@ -21,4 +21,6 @@ Pochází z Minsku (Bělorusko) a od roku 1997 žije v Česku. Ve XX.století by
 
 Posledních 20 let pracuje jako programátor v pardubické IT firmě. Zaměřuje se na svobodný software, webové aplikace a IoT. Dále pracuje jako vývojář systémů pro obecní rozhlasy, monitoring vodních toku a varovaní před povodněmi. Je správcem serverů, včetně těch pirátských. Chová malé přežvýkavce, velkou drůbež a černá prasátka. Aktivní myslivec. Otec čtyř děti. Nepraktikující a neortodoxní zen-buddhista.
 
-Od roku 2018 zastupitel obce Radhošť zvoleny za SNK Změna pro Radhošť.
+Od roku 2020 zastupitel Pardubického kraje.
+
+<iframe width="700" height="750" src="https://mrak.pirati.cz/apps/calendar/embed/ZAimXbmknYDoiWYW"></iframe>
