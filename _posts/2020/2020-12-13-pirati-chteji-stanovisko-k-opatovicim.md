@@ -6,7 +6,7 @@ date: 2020-12-13T07:00:00+01:00
 tags: 
     - Krajske-zastupitelstvo
 author: Piráti Pardubického kraje
-image: articles/2020/opatovice2.png #751x422
+image: articles/2020/opatovice2.png
 ---
 
 **Piráti na jednání zastupitelstva navrhnou přidat bod vyjadřující jasné stanovisko krajských zastupitelů ohledně výjimky pro elektrárnu Opatovice.**
