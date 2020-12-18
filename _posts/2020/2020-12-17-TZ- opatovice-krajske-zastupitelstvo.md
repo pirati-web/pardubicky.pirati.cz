@@ -17,6 +17,6 @@ V původním návrhu programu zasedání tento bod nenajdete - proto jsme oznám
 Jak se ukázalo, tak nakonec současná koalice připravila vlastní, mírnější, návrh usnesení, který nepodporuje udělení výjimek. Tento návrh nakonec zastupitelstvem prošel. Náš návrh podpořil pouze pirátský zastupitelský klub a jeden zástupce klubu ODS a TOP09.
 
 >“Těší nás, že jsme těmito kroky vybudili současné vedení kraje k činnosti při ochraně ovzduší pro občany Pardubického kraje, i když v měkčí variantě, než jsme sami navrhovali,” 
-**říká Daniel Lebduška.**
+**říká [Daniel Lebduška](https://pardubicky.pirati.cz/lide/daniel-lebduska/).**
 
 Náš kraj bude v řízení o udělení výjimek zastupovat vedoucí krajského odboru životního prostředí pan Vlasák. Další postup bude podobný jako v řízení o výjimky s elektrárnou Chvaletice. O dalších osudech tohoto jednání budeme informovat v dalších tiskových zprávách.
