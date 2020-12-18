@@ -9,7 +9,6 @@ tags:
 author: Piráti Pardubického kraje
 image: articles/2020/opatovice1.jpg
 ---
-##### Tisková zpráva
 
 *Pardubice, 16. prosince 2020* -  **Na prvním zastupitelstvu Pardubického kraje jsme v bodu Různé prostřednictvím našeho lídra Daniela Lebdušky vznesli dotaz ohledně probíhajícího řízení o výjimce z emisních limitů pro elektrárnu Opatovice. Od prvního zasedání uběhly téměř dva měsíce, které jsme využili i k tomu, abychom se řádně připravili na zasedání, kde se tyto výjimky budou řešit.**
 
