@@ -12,9 +12,7 @@ image: articles/2020/lenkaroz.png
 
 **Se stala předsedkyní krajského výboru pro sociální politiku a neziskový sektor. Tento výbor, jako většinu odvětví v  příštím roce, čekají složité a těžké časy. Kdo je Lenka Španihelová? Proč se nechala zvolit do funkce předsedkyně a co od ní můžeme očekávat? To vše se dozvíte v tomto rozhovoru.**
 
-### Kdo je v tuto chvíli Lenka Španihelová?
-
-Lenko, zkus se nám prosím představit,kdo jsi? 
+### Kdo je Lenka Španihelová?
 
 Pracuji jako sociální pracovnice v sociální firmě Výměník, kterou provozuje spolek Péče o duševní zdraví. Zaměstnáváme lidi se zdravotním znevýhodněním, především s duševním onemocněním. Kromě (své profese) pracovního vytížení jsem také matkou dvou malých dětí, snoubenkou mého nastávajícího muže, čerstvě i venkovanka a nadšená zahradnice. Jsem také krajskou zastupitelkou, členkou sociální komise města Pardubic a nově zvolenou předsedkyní krajského výboru pro sociální politiku a neziskový sektor.
 
