@@ -22,6 +22,8 @@ Pracuji jako sociální pracovnice v sociální firmě Výměník, kterou provoz
 
 Sociální výbor má právo předkládat zastupitelstvu svá stanoviska a návrhy. Zastupitelstvo však nemá povinnost se předloženými návrhy zabývat. Výbor může shromažďovat podklady a případně navrhnout řešení pro danou problematiku. Členové výboru jsou odborníky ve svém oboru, přicházejí většinou z praxe a znají práci v terénu. Očekávám, že budeme jakousi spojkou mezi sociálními službami a krajskými politiky.
 
+{% asset 'articles/2020/krzastup.jpg' magick:resize='751x422^' magick:gravity='north' alt='kolo'%}
+
 ### Jak se stane, že se člověk  nechá zvolit do takovéto role?
 
 Už moje první brigáda byla práce pečovatelky v Domově pro seniory, postupně jsem přešla na oddělení pro lidi s Alzheimerovou nemocí. Během studia sociální práce v Praze jsem  pracovala v České Alzheimerovské společnosti v  oblasti respitní péče - docházela jsem do rodiny, které jsem tak odlehčovala a pomáhala nabrat síly. Vidím velký význam v terénních a ambulantních sociálních službách.
@@ -37,7 +39,7 @@ Letos jsem kandidovala do krajského zastupitelstva ze šestého místa, byla js
 
 ### Přebíráš předsedání tohoto výboru. Jak osobně vnímáš v našem kraji práci svých předchůdců a krajského sociálního odboru, který již několik let vede pan Šotola?
 
-V našem kraji je v sociální politice spousta věcí, které jsou dobře nastavené a rozjeté. Je znát, že pan Šotola je člověkem na správném místě a tato gesce je roky dobře řízena. Dostávám zpětné vazby z různých služeb a neziskovek, že jsou s panem radním v kontaktu a komunikace je věcná a konstruktivní. 
+V našem kraji je v sociální politice spousta věcí, které jsou dobře nastavené a rozjeté. Dostávám zpětné vazby z různých služeb a neziskovek, že jsou s panem radním v kontaktu a komunikace je věcná a konstruktivní. 
 
 Na prosincovém zastupitelstvu jsme řešili problém, do kterého se sociální služby dostaly kvůli krajskému rozpočtovému provizoriu. 
 Pro sociální služby to bude znamenat, že peníze, které jim chodily na přelomu ledna a února, dostanou nejspíš se zpožděním. V ohrožení tak budou lednové mzdy a únorové budou posunuty. Je to paradox, protože se konečně v minulém roce podařilo domluvit tříleté financování služeb. Dříve se sociální služby financovaly po roce a nikdo nevěděl, jestli na tyto peníze dosáhnou.
@@ -53,7 +55,7 @@ Na druhou stranu vnímám, že v různých částech kraje jsou mnohdy velké ro
 
 ### Co od Tebe v roli předsedkyně můžeme očekávat a čemu se chceš primárně věnovat?
 
-Ráda bych propojovala náš výbor a potřeby služeb i neziskovek. Velký význam vidím v podpoře komunitní sociální práce - dát potřebným lidem vědět, jaké sociální služby existují v jejich okolí a jak je mohou využít. Výrazným  tématem je také snižování kapacit ústavní péče - mluvím o podpoře postupné transformace služeb. S péčí o děti souvisí dvě témata. Jsou to podpora pěstounství a podpora rodičů a dítěte během rozvodu. Velký balík, který jsem řešila v Pardubicích a vnímám ho jako zásadní, je podpora bydlení - je mi blízká myšlenka, že bydlení nemá být přidělováno zásluhově, ale jako start a podmínka plnohodnotného života. Bez zázemí v bydlení lze těžko chodit do práce, připravit se do školy, odpočinout si…
+Ráda bych propojovala náš výbor a potřeby služeb i neziskovek. Velký význam vidím v podpoře komunitní sociální práce - dát potřebným lidem vědět, jaké sociální služby existují v jejich okolí a jak je mohou využít. Výrazným  tématem je také snižování kapacit ústavní péče - mluvím o podpoře postupné transformace služeb. S péčí o děti souvisí dvě témata. Jsou to podpora pěstounství a podpora rodičů a dítěte během rozvodu. Velký balík, který jsem řešila v Pardubicích a vnímám ho jako zásadní, je podpora bydlení - je mi blízká myšlenka, že bydlení nemá být přidělováno zásluhově, ale jako start a podmínka plnohodnotného života. Bez zázemí v bydlení lze těžko chodit do práce, připravit se do školy, odpočinout si.
 
 ### Piráti do krajského zastupitelstva v Pardubickém kraji přivedli 3 ženy: Tebe, Libuši Vévodovou ze Svitav a Andreu Linhartovou z Chrasti. Přetrvává stále podle Tebe názor většinové společnosti, že ženy nedokáží skloubit mateřství, práci a politiku? Jak to vidíš Ty?
 
