@@ -46,7 +46,7 @@ Pro sociální služby to bude znamenat, že peníze, které jim chodily na pře
 
 Kvůli koronakrizi se situace opět vrací tam, kde byla před lety, a sociální služby si opět nejsou jisté svým financováním. Volala jsem si se službami napříč krajem a ředitelé mi sdělili, že jsou na to zvyklí a budou to řešit kontokorenty a různými půjčkami. Služby tak mají problém s platbou odvodů, za nedodržení termínů jsou následně sankcionovány.
 
-Tuto situaci jsem nastínila panu Štolovi a ten mi sdělil, že situaci řeší i s mým pirátským kolegou Filipem Mezerou. Povedlo se mu na radě sjednat, že hned po únorovém krajském zastupitelstvu, kdy pravděpodobně bude odhlasován nový rozpočet kraje, by finance měly být vyplaceny v nejbližším možném termínu. K posunutí platby tak dojde  o 2- 3 týdny, nikoliv o 7 -8 týdnů.. I to situaci pomůže - alespoň únorové mzdy, tak budou vyplaceny včas.
+Tuto situaci jsem nastínila panu Šotolovi a ten mi sdělil, že situaci řeší i s mým pirátským kolegou Filipem Mezerou. Povedlo se mu na radě sjednat, že hned po únorovém krajském zastupitelstvu, kdy pravděpodobně bude odhlasován nový rozpočet kraje, by finance měly být vyplaceny v nejbližším možném termínu. K posunutí platby tak dojde  o 2- 3 týdny, nikoliv o 7 -8 týdnů.. I to situaci pomůže - alespoň únorové mzdy, tak budou vyplaceny včas.
 
 Na druhou stranu vnímám, že v různých částech kraje jsou mnohdy velké rozdíly v sociálních službách. Vždy to stojí a padá na vůli úředníků a sociálních pracovníků v obcích a městech. Ráda bych zlepšila komunikaci s městy, službami a krajskými institucemi, která může někde kulhat a to se pak také odráží v kvalitě služeb i společnosti..
 
