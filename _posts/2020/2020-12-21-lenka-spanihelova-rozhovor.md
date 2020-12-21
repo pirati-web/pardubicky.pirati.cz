@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: Lenka Španihelová - chci být prostředníkem mezi sociálními službami a krajskými politiky
-date: 2020-21-17T07:00:00+01:00
+date: 2020-12-21T07:00:00+01:00
 tags:
     - rozhovory
     - Krajske-zastupitelstvo
