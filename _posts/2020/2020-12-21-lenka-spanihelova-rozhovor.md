@@ -14,7 +14,7 @@ image: articles/2020/lenkaroz.png
 
 ### Kdo je Lenka Španihelová?
 
-Pracuji jako sociální pracovnice v sociální firmě Výměník, kterou provozuje spolek Péče o duševní zdraví. Zaměstnáváme lidi se zdravotním znevýhodněním, především s duševním onemocněním. Kromě (své profese) pracovního vytížení jsem také matkou dvou malých dětí, snoubenkou mého nastávajícího muže, čerstvě i venkovanka a nadšená zahradnice. Jsem také krajskou zastupitelkou, členkou sociální komise města Pardubic a nově zvolenou předsedkyní krajského výboru pro sociální politiku a neziskový sektor.
+Pracuji jako sociální pracovnice v sociální firmě Výměník, kterou provozuje spolek Péče o duševní zdraví. Zaměstnáváme lidi se zdravotním znevýhodněním, především s duševním onemocněním. Kromě pracovního vytížení jsem také matkou dvou malých dětí, snoubenkou mého nastávajícího muže, čerstvě i venkovankou a nadšenou zahradnicí. Jsem také krajskou zastupitelkou, členkou sociální komise města Pardubic a nově zvolenou předsedkyní krajského výboru pro sociální politiku a neziskový sektor.
 
 ### Byla jsi zvolena do role předsedkyně výboru pro sociální politiku a neziskový sektor v Pardubickém kraji. K čemu tento výbor slouží? Jaké má kompetence?
 
