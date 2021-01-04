@@ -8,6 +8,7 @@ tags:
     - Krajske-zastupitelstvo
 author: Piráti Pardubického kraje
 image: articles/2020/lenkaroz.png
+important: true
 ---
 
 **Se stala předsedkyní krajského výboru pro sociální politiku a neziskový sektor. Tento výbor, jako většinu odvětví v  příštím roce, čekají složité a těžké časy. Kdo je Lenka Španihelová? Proč se nechala zvolit do funkce předsedkyně a co od ní můžeme očekávat? To vše se dozvíte v tomto rozhovoru.**
