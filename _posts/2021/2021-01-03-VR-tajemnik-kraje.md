@@ -7,7 +7,6 @@ tags:
     - vyberove-rizeni
 author: Piráti Pardubického kraje
 image: articles/2021/inzerat.jpg
-important: true
 ---
 
 **Hledáš velmi motivující práci, kde tvoje odměna bude záviset především na tvém výkonu? 
