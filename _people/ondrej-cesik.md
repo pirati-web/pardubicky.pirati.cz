@@ -5,6 +5,7 @@ titles:
   before: Bc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
   - pak
+  - clenove
 img: people/ondrej-cesik.jpg           # 165 x 220
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: pirát 
