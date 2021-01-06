@@ -9,7 +9,7 @@ category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
   - radnice
 ordPce: 3
 img: people/ivana-bohmova.jpg           # 165 x 220
-description: Předsedkyně MS Pardubicko	# kratký popis, max 160 znaků
+description: zastupitelka magistrátu města Pardubice	# kratký popis, max 160 znaků
 mail: ivana.bohmova@pirati.cz
 profiles:
   github:
