@@ -5,6 +5,7 @@ category:              	    # kategorie: rp, praha, vary, hradec, jmk, senat
 - pak
 - svitavsko
 - mpsvitavsko
+- clenove
 img: people/jiri-kratky-2020.png           # 165 x 220
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: člen KS Pardubický kraj
