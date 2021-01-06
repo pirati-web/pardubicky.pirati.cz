@@ -5,6 +5,7 @@ titles:
   before: Ing.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - pak
+- mistni_clenove
 img: people/ondrej-karas.jpg           # 165 x 220
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: řadový člen KS Pardubický kraj # kratký popis, max 160 znaků
