@@ -1,7 +1,8 @@
 ---
 uid: jenda.verner
 name: Jan Verner # běžně používáné jméno
-category: # kategorie: rp, praha, vary, hradec, jmk, senat
+category:
+- clenove # kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/jan-verner.jpg # 165 x 220
 description: technik, grafik, příznivec Pirátů # kratký popis, max 160 znaků
 mail:
