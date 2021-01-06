@@ -4,6 +4,7 @@ titles:
     before: Bc.
 name: David Marhold
 category:
+  - clenove
   - kontaktni_osoba
 img: people/david-marhold-2020.jpg
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
