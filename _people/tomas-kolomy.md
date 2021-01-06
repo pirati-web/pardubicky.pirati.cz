@@ -3,7 +3,8 @@ uid: tomas.kolomy
 name: Tomáš Kolomý # běžně používáné jméno
 titles:
   before: Mgr.
-category: # kategorie: rp, praha, vary, hradec, jmk, senat
+category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
+- clenove
 img: people/tomas-kolomy.jpg # 165 x 220
 description: právník, lídr kandidátky, člen Pirátské strany # kratký popis, max 160 znaků
 mail:
