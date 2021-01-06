@@ -1,9 +1,10 @@
 ---
 uid: pavel.stepanek
 name: Pavel Štěpánek  	# běžně používáné jméno
-category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
+category: 
+- clenove # kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/pavel-stepanek.jpg   # 165 x 220
-description: koordinátor krajského sdružení pro Pardubický kraj # kratký popis, max 160 znaků
+description: Místostarosta města Chrudim, Celostátní volební koordinátor  # kratký popis, max 160 znaků
 ordpak:
 mail:
 - pavel.stepanek@pirati.cz
