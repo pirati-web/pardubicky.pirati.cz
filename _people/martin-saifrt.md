@@ -6,6 +6,7 @@ category:
   - pak
   - kandidat-ceskatrebova-2018
   - kontaktni_osoba
+  - clenove
 img: people/martin.saifrt.jpg
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: Vedoucí krajského mediálního odboru
