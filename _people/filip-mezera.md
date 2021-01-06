@@ -9,7 +9,7 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
   - krajsti_zastupitele
 img: people/filip-mezera-2020.jpg
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
-description: 4. místopředseda KS Pardubický kraj
+description: krajský zastupitel, místopředseda MS Pardubicko
 profession: datový analytik
 mail:
 - filip.mezera@pirati.cz
