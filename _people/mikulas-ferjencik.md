@@ -6,7 +6,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - mo-contact
 - poslanec
 img: people/mikulas-ferjencik.jpg   # 165 x 220
-description: Zastupitel Pirátů v Zastupitelstvu hlavního města Prahy, vedoucí mediálního odboru Pirátů             	# kratký popis, max 160 znaků
+description: poslanec, vedoucí mediálního odboru Pirátů             	# kratký popis, max 160 znaků
 ordpak:
 mail:
 - mikulas.ferjencik@pirati.cz
