@@ -27,3 +27,5 @@ Vystudoval dva obory na Univerzitě Pardubice – Systémové inženýrství a i
 V rámci společenské odpovědnosti zaměstnavatele taktéž školí na základních i středních školách oblast finanční gramotnosti. Je aktivní v tělovýchovné jednotě, kde kromě práce člena výboru zároveň trénuje malé děti fotbal. Pravidelně daruje krev a je držitelem Jánského zlaté plakety. Mezi jeho koníčky patří historie, literatura, sport, cestování a počítačové hry.
 
 Politikou se zabývá od roku 2014, kdy poprvé kandidoval do zastupitelstva města Sezemic. Tehdy ještě nebyl zvolen. To se povedlo až ve volbách v roce 2018, kdy se stal nejen zastupitelem, ale i předsedou kontrolního výboru. Kromě této činnosti ještě vypomáhá úředníkům s IT zakázkami a věnuje se projektům v oblasti sportu a volnočasových aktivit. Hlavní okruhy jeho politického zájmu jsou finance, školství, sport a bezpečnost.
+
+<iframe width="700" height="750" src="https://mrak.pirati.cz/apps/calendar/embed/2GLpQzSobRgo4kop"></iframe>
