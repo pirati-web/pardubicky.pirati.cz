@@ -46,7 +46,7 @@ Pak je tato pozice pro tebe ideální - Tajemník/tajemnice kraje je člověk, k
 - seznámení se s moderními technologiemi používanými při fungování Pirátské strany.
 
 **Požadavky na zařazení do výběrového řízení:**
-- Uchazeč zašle potřebnou dokumentaci do 20.1.2020 na mail jana.kolarikova@pirati.cz, předmětem mailu bude **tajemník Pardubický kraj**.
+- Uchazeč zašle potřebnou dokumentaci do 27.1.2020 na mail jana.kolarikova@pirati.cz, předmětem mailu bude **tajemník Pardubický kraj**.
 
 - Podmínkou zařazení do výběrového řízení je zaslání strukturovaného životopisu a motivačního dopisu obsahujícího vizi působení na dané pozici. Životopis a motivační dopis vítěze výběrového řízení mohou být zveřejněny i bez předchozího souhlasu.
 
