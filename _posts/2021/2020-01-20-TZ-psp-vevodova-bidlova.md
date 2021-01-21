@@ -9,7 +9,7 @@ tags:
     - liba-vevodova
     - jitka-bidlova
 author: Piráti Pardubického kraje
-image: articles/2021/z20.png
+image: articles/2021/tzlj.png
 ---
 
 **Po zvolení lídra pirátské kandidátky v Pardubickém kraji do Poslanecké sněmovny [Mikuláše Ferjenčíka](https://pardubicky.pirati.cz/lide/mikulas-ferjencik/) zvolilo krajské fórum další dvě kandidátky.**
