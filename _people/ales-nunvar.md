@@ -22,7 +22,7 @@ profiles:
   twitter:
   linkedin:
 ---
-Aleš Nunvář se narodil 24. července 1979, pochází ze Slatiňan a od roku 2011 žije v Chrudimi.
+**Aleš Nunvář se narodil 24. července 1979, pochází ze Slatiňan a od roku 2011 žije v Chrudimi.**
 
 
 Vystudoval Fakultu strojního inženýrství na Vysokém učení technickém v Brně, obor Transportní a manipulační zařízení, kde získal titul Ing. Během studia pracoval ve Skandinávii a po dokončení pokračoval na Dánské Technické Univerzitě v Kodani. Při zaměstnání se dále vzdělával mimo jiné v projektovém managementu zakončeném mezinárodním certifikátem.
