@@ -8,7 +8,7 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - predsednictvo
 - pak
 ord_predsednictvo: 4
-ordPce: 4
+ordPce: 6
 img: people/jan-hrubes.jpg           # 165 x 220
 description: člen KS Pardubický kraj, zastupitel Pardubice # kratký popis, max 160 znaků
 profession: student FChT UPa
