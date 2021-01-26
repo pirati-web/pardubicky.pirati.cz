@@ -7,7 +7,7 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - predsednictvo
 img: people/karsten-sachs.jpg           # 165 x 220
 ord_predsednictvo: 5
-description: 4. místopředseda KS Pardubický kraj
+description: 3. místopředseda KS Pardubický kraj
 ordpak:
 mail:
 - karsten.sachs@pirati.cz
