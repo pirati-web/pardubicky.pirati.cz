@@ -6,7 +6,6 @@ titles:
   after:
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
  - pak
- - predsednictvo
  - kontaktni_osoba
  - krajsti_zastupitele
 ord_predsednictvo: 4
