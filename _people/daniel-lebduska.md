@@ -5,6 +5,7 @@ titles:
   before: Bc.
   after:
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
+ - clenove
  - pak
  - kontaktni_osoba
  - krajsti_zastupitele
