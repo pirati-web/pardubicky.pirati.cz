@@ -12,7 +12,7 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 ord_predsednictvo: 4
 img: people/daniel-lebduska-2020.jpg
 heroImg: people/daniel-lebduska-herobanner.jpg
-description: 3. místopředseda KS Pardubický kraj
+description: Chrudimský a krajský zastupitel
 ordpak:
 mail:
 - daniel.lebduska@pirati.cz
