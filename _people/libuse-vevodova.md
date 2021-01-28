@@ -7,7 +7,7 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
   - krajsti_zastupitele
 img: people/libuse-vevodova-2020.jpg
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
-description: Předsedkyně MS Svitavsko a zastupitelka města Svitavy # kratký popis, max 160 znaků
+description: Krajská a svitavská zastupitelka # kratký popis, max 160 znaků
 ordpak:
 mail:
 - libuse.vevodova@pirati.cz
