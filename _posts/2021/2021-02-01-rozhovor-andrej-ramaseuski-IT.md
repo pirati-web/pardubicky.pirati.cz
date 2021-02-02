@@ -13,6 +13,7 @@ image: articles/2021/andrejhlavni.jpg
 
 
 **Andrej Ramašeuski je odborníkem v informačních technologiích, a proto byl navržen a zvolen jako vedoucí krajského výboru pro informatiku, e-Goverment a digitalizaci v Pardubickém kraji. Andrej by v rámci výboru rád pomáhal malým obcím s digitalizací jejich agendy.**
+
 ### Co tě k tomuto vedlo?
 
 Když jsme chystali v roce 2020 pirátský program pro krajské volby, bylo jasné, že mou gescí bude IT. Po volbách se vládnoucí koalice rozhodla, že výbor pro IT vznikne. Vypadá to, jako by se současné vedení kraje inspirovalo Pirátským krajským programem, ve kterém máme zřízení tohoto výboru. Mám za to, že situace v IT a komunikacích na kraji se systémově neřešila. Máme tu sice oddělení IT, které je součástí kanceláře ředitele úřadu, ale to řeší spíš vnitřní záležitosti úřadu, jako je fungování jeho systémů, ale neposkytuje služby pro obce a veřejnost. To ani není v jeho kompetenci. Toto prázdné místo by měl právě zaujmout nově zřízený výbor. Proto jsem rád, že se nám podařilo jej ve spolupráci s krajským úřadem nastartovat.
@@ -23,7 +24,7 @@ Když jsme chystali v roce 2020 pirátský program pro krajské volby, bylo jasn
 S komunikačními a internetovými technologiemi mám dlouholeté zkušenosti. IT jsem studoval, byť díky životním peripetiím jsem vysokou školu nedokončil. Mám ale 20 let nepřetržité praxe v tomto rychle se rozvíjejícím oboru. Spravuji sítě, weby, programuji, atd. V IT se pohybuji opravdu dlouho a díky tomu věřím, že nejsem pouhým úředníkem nebo managerem, ale plnohodnotným odborníkem s širokými zkušenostmi.
 
  {% asset 'articles/2021/andrej1.jpg' magick:resize='751x422^' 
-magick:gravity='north' alt='ct zastupitelstvo'%}
+magick:gravity='north' alt='Andrej Ramašeuski'%}
 
 ### K čemu výbor IT a eGoverment slouží a co na krajské úrovni může změnit?
 
@@ -45,7 +46,7 @@ Co se týče samotného kraje, tak tady moc prostoru na změnu není, protože g
 Musíme si uvědomit, že v našem kraji existuje velký počet obcí, které nemají kvalitní web. Pokud tato nedokáže na své webové stránky vložit zápis ze schůze zastupitelstva, pozvánku nebo informaci o běžném dění, které v dnešní době občan právě touto cestou hledá, tak by měl kraj kraj nabídnout pomocnou ruku a funkční řešení. Toto je první věc, kterou bych rád prosadil - podpora malých obcí. Nerozumím, proč existuji dotační programy na budování infrastruktury cestovního ruchu nebo na stavbu dopravních hřišť, ale nedotuje se rozvoj informační infrastruktury obcí v kraji nebo na podporu informační gramotnosti.
 
  {% asset 'articles/2021/andrej2.jpg' magick:resize='751x422^' 
-magick:gravity='north' alt='ct zastupitelstvo'%}
+magick:gravity='north' alt='Andrej Ramašeuski'%}
 
 ### Co chceš v tomto roce prosadit, jaké máš plány?
 
@@ -73,4 +74,4 @@ Dále již máme připravený strategický plán pod názvem Jak digitalizovat n
 
 
  {% asset 'articles/2021/andrej3.jpg' magick:resize='751x422^' 
-magick:gravity='north' alt='ct zastupitelstvo'%}
+magick:gravity='north' alt='Andrej Ramašeuski'%}
