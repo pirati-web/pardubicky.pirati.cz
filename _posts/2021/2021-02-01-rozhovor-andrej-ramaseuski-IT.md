@@ -9,6 +9,7 @@ tags:
     - zastupitel
 author: Piráti Pardubického kraje
 image: articles/2021/andrejhlavni.jpg
+important: true
 ---
 
 **Andrej Ramašeuski je odborníkem v informačních technologiích, a proto byl navržen a zvolen jako vedoucí krajského výboru pro informatiku, e-Goverment a digitalizaci v Pardubickém kraji. Andrej by v rámci výboru rád pomáhal malým obcím s digitalizací jejich agendy.**
