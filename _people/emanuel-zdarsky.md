@@ -19,4 +19,4 @@ Politický postoj vychází ze zkušeností skoro deseti let strávených v zahr
 Za zmínku asi stojí, že v současné době pomáhám utestovat k smrti Covid19 (k 21.7. 6500 vyšetřených) a klíčovat rychle se formující korupci (předražené, proto ne všem a včas dostupné testování) kolem covidové pandemie.
 Pirátům přiznivcuje registrovaně i neregistrovaně od roku 2012.
 
-**Pan Žďarský za nás kandidoval v krajských volbách 2020, ale jeho aktivity v rámci jeho PCR metody na testování na Covid-19 nemají s naší stranou nic společného. Byla mu nabídnuta spolupráce s našimi experty, ale do této chvíle se nezapojil. Pokud chcete více informací, tak kontaktujte pana Ždarského osobně na tel. čísle, které můžete volně vyhledat na internetu.**
+**Pan Žďarský za nás kandidoval v krajských volbách 2020, ale jeho aktivity v rámci jeho PCR metody testování na Covid-19 nemají s naší stranou nic společného. Byla mu nabídnuta spolupráce s našimi experty, ale do této chvíle se nezapojil. Pokud chcete více informací, tak kontaktujte pana Ždarského osobně na tel. čísle, které můžete volně vyhledat na internetu.**
