@@ -8,7 +8,7 @@ tags:
     - zastupitel
 author: Piráti Pardubického kraje
 image: articles/2021/rozpocet21.png
-important: true
+
 ---
 
 **Pardubický kraj bude po téměř dvou měsících rozpočtového provizoria schvalovat letošní rozpočet. Na daních má získat 4 miliardy, téměř stejnou částku jako loni. Proti stavu před pandemií mu ale bude chybět bezmála 300 milionů korun. Kraj chce přesto výrazně přidat na investicích, počítá s vyšším zadlužením a financemi z EU v příštích letech. Na dotacích obcím a menším subjektům naopak mírně škrtá.**
