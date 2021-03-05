@@ -8,7 +8,7 @@ tags:
     - zastupitel
 author: Piráti Pardubického kraje
 image: articles/2021/chvavyj.jpg
-important: true
+
 ---
 
 **Rádi bychom se ještě vrátili k žádosti o výjimku z emisních limitů pro Elektrárnu Chvaletice. Náš návrh, aby se zastupitelstvo Pardubického kraje vyjádřilo stejně jako v případě žádosti o výjimku pro Elektrárnu Opatovice, nebyl přijat. Pro tento návrh hlasovali pouze pirátští zastupitelé a dále také zastupitelé Michal Sláma (TOP09) a František Pilný (ANO). Rádi bychom ještě jednou předložili čtenářům k posouzení argumenty, které v diskuzi zazněly.**
