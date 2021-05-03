@@ -2,13 +2,13 @@
 layout: post
 category: CLANKY
 title: Od stavebního zákona čekáme zejména digitalizaci úkonů 
-date: 2021-03-24T14:00:00+0200
+date: 2021-05-02T14:00:00+0200
 tags: 
     - Krajske-zastupitelstvo
     - jitka-bidlova
     - zastupitel
 author: Piráti Pardubického kraje
-image: articles/2021/uzemni.jpg
+image: articles/2021/uzemni.png
 ---
 **Stavební zákon je téma, které zajímá nejen odbornou, ale i laickou veřejnost. Řeší totiž ÚZEMNÍ PLÁNOVÁNÍ, ve kterém jde o utváření našich měst, jak budou vypadat, kde budou jaké funkce a jak na sebe budou navazovat. Dále zákon řeší POVOLOVÁNÍ. Jde o umísťování konkrétních staveb v konkrétní lokalitě.**
 
