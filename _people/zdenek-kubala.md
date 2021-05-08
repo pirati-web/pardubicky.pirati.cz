@@ -27,11 +27,11 @@ Vystudoval SOŠ v Hradci Králové, poté ukončil studium na Univerzitě Pardub
 
 Pracovní zkušenosti nabral v několika národních i nadnárodních společnostech a to zejména v oblastech správy sítí a operačních systému, podílel se na projektech týkající se informačních systémů, infrastruktury či služeb a v neposlední řadě návrhu IT řešení preferující LINUX a open source. Aktuálně je zaměstnán jako automatizační inženýr v oddělení výzkumu a vývoje opensourcové softwarové firmy, IT konzultant na volné noze a přednáší na Open Source konferencích.
 
-Zajímá se o nové technologie, které rád prozkoumává. Jeho vášní je operační systém LINUX a open source všeobecně. Mimojiné ho baví fotbal, hokej, paintball,rád relaxuje na kolečkových bruslích či při běhu a nebo při mixování elektronické hudby. Jeho práce je zároveň i jeho koníčkem.
+Zajímá se o nové technologie, které rád prozkoumává. Jeho vášní je operační systém LINUX a open source všeobecně. Mimojiné ho baví fotbal, hokej, paintball, rád relaxuje na kolečkových bruslích či při běhu a nebo při mixování elektronické hudby. Jeho práce je zároveň i jeho koníčkem.
 
 Je v rezortním týmu Informatika - pracovní skupina eGoverment a kyberbezpečnost s cílem systémové digitalizace veřejné (samo)správy, posílení kyberbezpečnosti ve veřejných institucích a zabránění neopodstatněnému plošnému šmírování občanů.
 
-Ukázal, že přímý přenos zastupitelstva v Chrudimi je možný, snaží se o otevění a ztransparentnění městkého úřadu a efektivní digitalizaci.
+Ukázal, že přímý přenos zastupitelstva v Chrudimi je možný, snaží se o otevření a ztransparentnění městského úřadu a efektivní digitalizaci.
 
 Od roku 2019 do roku 2020 byl předsedou komise pro digitalizaci rady města Chrudim, ve které podporoval zavádění otevřených technologií, jako např. Cityvizor či Nextcloud pro dokumenty. V roce 2019 byl zvolen členem kontrolního výboru města Chrudim a dosazen do dozorčí rady Sportovních areálů města Chrudim.
 

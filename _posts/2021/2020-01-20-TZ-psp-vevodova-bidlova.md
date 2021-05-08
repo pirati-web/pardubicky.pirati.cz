@@ -25,4 +25,4 @@ Ve volbě o třetí pozici  v primárních volbách Pirátů překvapivě vyhrá
 
 Do volebního klání o místa na listině kandidovali také **[Jaroslav Lainz](https://pardubicky.pirati.cz/lide/jaroslav-lainz/), [Vladek Vácha](https://pardubicky.pirati.cz/lide/vladek-vacha/) a [Jan Moravec](https://pardubicky.pirati.cz/lide/jan-moravec/)**. Ti budou usilovat o další místa na pirátské kandidátce. 
 
-Na společné kandidátce do parlamentních voleb v Pardubickém kraji mají **první** pozici Piráti, **druhou** Starostové a Nezávislí (STAN), **třetí a čtvrtou** Piráti, **pátou** STAN, a poté se až **do konc**e kandidátky **střídají** Piráti a STAN.
+Na společné kandidátce do parlamentních voleb v Pardubickém kraji mají **první** pozici Piráti, **druhou** Starostové a Nezávislí (STAN), **třetí a čtvrtou** Piráti, **pátou** STAN, a poté se až **do konce** kandidátky **střídají** Piráti a STAN.
