@@ -11,9 +11,9 @@ contactPersons:
   - id: martin.saifrt
     position: Kontakt pro novináře
   - id: david.marhold
-    position: Kontakt pro dobrovolníky
+    position: Tajemník krajského sdružení
   - id: ivana.mrkvickova
-    position: Kontakt pro krajské volby 2020
+    position: Koordinátorka Pardubického kraje
 ---
 
 <div class="o-section-header o-section-header--indented">
