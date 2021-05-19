@@ -19,13 +19,13 @@ main:
   - link: /pardubicke-piratske-centrum-pardupice/
     name: Pirátské centrum
     match: pardubicke-piratske-centrum-pardupice
-  - link: /cesta-k-parlamentu/
-    name: Cesta k Parlamentu
-    match: cesta-k-parlamentu
-  - link: "https://www.piratiastarostove.cz"
+    - link: "https://www.piratiastarostove.cz"
     url:  "https://www.piratiastarostove.cz"
     name: Volby 2021
     match: volby
+    - link: /cesta-k-parlamentu/
+    name: Cesta k Parlamentu
+    match: cesta-k-parlamentu
   # - link: /volby-2018/
   #   name: Volby 2018
   #   match: volby-2018
