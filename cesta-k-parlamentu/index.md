@@ -14,13 +14,12 @@ calendarPage: https://calendar.google.com/calendar/embed?src=6lgkm1v8gi9v0nhu2ld
 mapIframeLink: https://frame.mapy.cz/s/basopesoke
 ---
 
-## Cowork
+## Co je CESTA K PARLAMENTU?
 
-Pirátské centrum nabízí bezplatný prostor pro coworking, tedy sdílenou kancelář.
-K dispozici jsou 4 pracovní místa a sdílená konferenční místnost s projektorem.
-Samozřejmostí je připojení k internetu a možnost tisku. Není problém domluvit i
-dlouhodobé využívání sdílené kanceláře, v takovém případě velmi oceníme účelový
-dar na provoz centra.
+Zapojte se s Jitkou Bidlovou a našimi kandidáty k putovní akci CESTA DO PARLAMENTU! 
+Vyražte s námi pěšky krajinou našeho kraje od západu (nejnižší bod) u Labe jižním směrem přes Poličku až na úplný konec na nejvyšším Králickém Sněžníku.
+Pojďte s námi přes města, vesnice, lesy, pole, poznáte krajinu jak přírodě blízkou, tak bohužel i katastrofálně rozvrácenou v obřích lánech a suchých lesích. 
+
 
 <div>
 {% include buttons/icon.html href="https://mrak.pirati.cz/s/JDg5aNSGcWCXkc6" target="_blank" cta="Provozní řád" icon="ico--book" %}
