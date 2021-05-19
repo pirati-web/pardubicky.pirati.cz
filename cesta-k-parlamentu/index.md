@@ -8,9 +8,7 @@ openingHoursSEO: Mo-Fr 9:00-17:00
 heroHeadline: Cesta k Parlamentu
 heroDescription: Vyražte s námi pěšky krajinou našeho kraje od západu u Labe jižním směrem přes Poličku až na úplný konec na nejvyšším Králickém Sněžníku. 
 img: cesta/web.jpg
-calendarId: 6lgkm1v8gi9v0nhu2ldfmihmv8@group.calendar.google.com
 calendarTitle: Harmonogram cesty
-calendarPage: https://calendar.google.com/calendar/embed?src=6lgkm1v8gi9v0nhu2ldfmihmv8%40group.calendar.google.com&ctz=Europe%2FPrague
 mapIframeLink: https://frame.mapy.cz/s/basopesoke
 ---
 
@@ -37,9 +35,7 @@ Kandiduji s nosným tématem – Připravit území ČR na nastávající klimat
 {% asset 'cesta/jitkasedici.png' magick:resize='751x422^' magick:gravity='north' alt='trendy'%}
 
 
-## Předpokládaná trasa
-
-> Labe u Týnce nad Labem (nejzápadnější a nejnižší bod PK) – Přelouč – Lázně Bohdaneč – Pardubice – Chrudim – Slatiňany – Luže – Maštale – Polička – Bystré – Svojanov – nejjižnější bod PK – Březová – Svitavy – Moravská Třebová – Lanškroun – Králíky – nejvýchodnější bod – Králický Sněžník (nejsevernější a nejvyšší bod)
+## HARMONOGRAM TRASY
 
 | Den      | Trasa |
 | ----------- | ----------- | 
