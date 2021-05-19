@@ -22,7 +22,13 @@ Vyražte s námi **pěšky krajinou** našeho kraje od západu (nejnižší bod)
 
 Pojďte s námi přes města, vesnice, lesy, pole, poznáte krajinu jak přírodě blízkou, tak bohužel i katastrofálně rozvrácenou v obřích lánech a suchých lesích. 
 
-## Kdo je JITKA BIDLOVÁ
+## ZAČÁTEK CESTY
+Vyrážíme ve **čtvrtek 20. května v 11:00 z Přelouče**
+
+## JAK SE MŮŽETE ZAPOJIT?
+Jitka Bidlová nás všechny o své cestě bude informovat na krajském facebooku [PIRÁTI - PARDUBICKÝ KRAJ](https://www.facebook.com/pirati.pardubicko)
+
+## Kdo je [JITKA BIDLOVÁ](https://www.piratiastarostove.cz/kandidati/ing-arch-jitka-bidlova-phd/)
 kandiduji ze 4. místa do poslanecké sněmovny za Pardubický kraj. Nazvali mě „environmentální architektkou“, což je vcelku výstižné a docela se s výrazem ztotožňuji. 
 
 Kandiduji s nosným tématem – Připravit území ČR na nastávající klimatické změny, což je téma, ve kterém se potkávají všechny mé profesní i volnočasové zájmy. Jedná se o architekturu, životní prostředí, krajinu, území atd.
