@@ -11,7 +11,7 @@ img: cesta/cesta1.jpg
 calendarId: t60uj67580oudjh04tuh5icl8o@group.calendar.google.com
 calendarTitle: Kalendář akcí
 calendarPage: https://calendar.google.com/calendar/embed?src=t60uj67580oudjh04tuh5icl8o%40group.calendar.google.com&ctz=Europe%2FPrague
-mapIframeLink: https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10250.279531989467!2d15.770466!3d50.0381549!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd4d03352a17e038b!2zUGFyZHVQaUNlIOKAkyBQYXJkdWJpY2vDqSBQaXLDoXRza8OpIGNlbnRydW0!5e0!3m2!1scs!2scz!4v1568565921492!5m2!1scs!2scz
+mapIframeLink: https://frame.mapy.cz/s/basopesoke
 ---
 
 ## Cowork
