@@ -26,14 +26,6 @@ Vyrážíme ve **čtvrtek 20. května v 11:00 z Přelouče**
 ## JAK SE MŮŽETE ZAPOJIT?
 Jitka Bidlová nás o své cestě bude informovat na krajském facebooku **[PIRÁTI - PARDUBICKÝ KRAJ](https://www.facebook.com/pirati.pardubicko)**
 
-## Kdo je [JITKA BIDLOVÁ](https://www.piratiastarostove.cz/kandidati/ing-arch-jitka-bidlova-phd/)
-kandiduji ze 4. místa do poslanecké sněmovny za Pardubický kraj. Nazvali mě „environmentální architektkou“, což je vcelku výstižné a docela se s výrazem ztotožňuji. 
-
-Kandiduji s nosným tématem – Připravit území ČR na nastávající klimatické změny, což je téma, ve kterém se potkávají všechny mé profesní i volnočasové zájmy. Jedná se o architekturu, životní prostředí, krajinu, území atd.
-
-
-{% asset 'cesta/jitkasedici.png' magick:resize='751x422^' magick:gravity='north' alt='trendy'%}
-
 
 ## HARMONOGRAM TRASY
 
@@ -53,6 +45,15 @@ Kandiduji s nosným tématem – Připravit území ČR na nastávající klimat
 | pondělí 31.5. | Lanškroun - Výprachtice - Buková Hora	Lanškroun - Výprachtice - Buková Hora |
 | úterý 1.6. | Suchý Vrch - Králíky |
 |středa 2.6. | Dolní Morava - Králický Sněžník |
+
+
+## Kdo je [JITKA BIDLOVÁ](https://www.piratiastarostove.cz/kandidati/ing-arch-jitka-bidlova-phd/)
+kandiduji ze 4. místa do poslanecké sněmovny za Pardubický kraj. Nazvali mě „environmentální architektkou“, což je vcelku výstižné a docela se s výrazem ztotožňuji. 
+
+Kandiduji s nosným tématem – Připravit území ČR na nastávající klimatické změny, což je téma, ve kterém se potkávají všechny mé profesní i volnočasové zájmy. Jedná se o architekturu, životní prostředí, krajinu, území atd.
+
+
+{% asset 'cesta/jitkasedici.png' magick:resize='751x422^' magick:gravity='north' alt='trendy'%}
 
 <div>
 {% include buttons/icon.html href="https://mrak.pirati.cz/s/JDg5aNSGcWCXkc6" target="_blank" cta="FB UDÁLOST. " icon="ico--book" %}
