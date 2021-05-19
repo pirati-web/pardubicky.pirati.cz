@@ -31,20 +31,20 @@ Jitka Bidlová nás o své cestě bude informovat na krajském facebooku **[PIR�
 
 | Den      | Trasa |
 | ----------- | ----------- | 
-| čtvrtek 20.5 | Labe	Týnec - Přelouč       |
-| pátek 21.5.   | Rybníky Labe	Lázně Bohdaneč - Pardubice        |
-| sobota 22. 5.  | Chrudim - Slatiňany - Svídnice |
-| neděle 23.5.  | Chrast |
-| pondělí 24.5.  | Luže - Nové Hrady - Maštale |
-| úterý 25. 5.  | Borová - Telecí - Polička  |
-| středa 26.5.  | Balda - Bystré - Hamry |
-| čtvrtek 27.5. | Hartmanice - Trpín - Svojanov	Hartmanice - Trpín - Svojanov |
-| pátek 28. 5. | Svitavy |
-| sobota 29.5. | Hřebeč - Mor. Třebová |
-| neděle 30.5. | Staré Město - Krasíkov |
-| pondělí 31.5. | Lanškroun - Výprachtice - Buková Hora	Lanškroun - Výprachtice - Buková Hora |
-| úterý 1.6. | Suchý Vrch - Králíky |
-|středa 2.6. | Dolní Morava - Králický Sněžník |
+| 20. 5 | Labe	Týnec - Přelouč       |
+| 21. 5.   | Rybníky Labe	Lázně Bohdaneč - Pardubice        |
+| 22. 5.  | Chrudim - Slatiňany - Svídnice |
+| 23. 5.  | Chrast |
+| 24. 5.  | Luže - Nové Hrady - Maštale |
+| 25. 5.  | Borová - Telecí - Polička  |
+| 26. 5.  | Balda - Bystré - Hamry |
+| 27. 5. | Hartmanice - Trpín - Svojanov	Hartmanice - Trpín - Svojanov |
+| 28. 5. | Svitavy |
+| 29. 5. | Hřebeč - Mor. Třebová |
+| 30. 5. | Staré Město - Krasíkov |
+| 31. 5. | Lanškroun - Výprachtice - Buková Hora	Lanškroun - Výprachtice - Buková Hora |
+| 1. 6. | Suchý Vrch - Králíky |
+| 2. 6. | Dolní Morava - Králický Sněžník |
 
 
 ## Kdo je [JITKA BIDLOVÁ](https://www.piratiastarostove.cz/kandidati/ing-arch-jitka-bidlova-phd/)
