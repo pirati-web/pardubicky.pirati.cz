@@ -1,6 +1,6 @@
 ---
 layout: pirate-center
-description: Vyražte s námi pěšky krajinou našeho kraje od západu u Labe jižním směrem přes Poličku až na úplný konec na nejvyšším Králickém Sněžníku. 
+description: Vyražte s námi pěšky krajinou našeho kraje od západu od Labe jižním směrem přes Poličku až na úplný konec na nejvyšším Králickém Sněžníku. 
 keywords: pardubice, pirátské-centrum, pardupice, centrum
 title: ParduPiCe - Pardubické pirátské centrum
 shorthand: ParduPiCe
@@ -16,8 +16,10 @@ mapIframeLink: https://frame.mapy.cz/s/basopesoke
 
 ## Co je CESTA K PARLAMENTU?
 
-Zapojte se s Jitkou Bidlovou a našimi kandidáty k putovní akci CESTA DO PARLAMENTU! 
-Vyražte s námi pěšky krajinou našeho kraje od západu (nejnižší bod) u Labe jižním směrem přes Poličku až na úplný konec na nejvyšším Králickém Sněžníku.
+Zapojte se s [Jitkou Bidlovou](https://www.piratiastarostove.cz/kandidati/ing-arch-jitka-bidlova-phd/) a našimi kandidáty k putovní akci **CESTA DO PARLAMENTU**! 
+
+Vyražte s námi **pěšky krajinou** našeho kraje od západu (nejnižší bod) u Labe jižním směrem přes Poličku až na úplný **konec na nejvyšším Králickém Sněžníku**.
+
 Pojďte s námi přes města, vesnice, lesy, pole, poznáte krajinu jak přírodě blízkou, tak bohužel i katastrofálně rozvrácenou v obřích lánech a suchých lesích. 
 
 
