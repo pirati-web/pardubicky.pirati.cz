@@ -29,6 +29,8 @@ Kandiduji s nosným tématem – Připravit území ČR na nastávající klimat
 
 Ráda bych celou oblast kvalitního životního prostředí za Piráty propagovala, něco o tom už holt v mých letech vím ;). Drtivou většinu toho samozřejmě nevím, a tak je důležité se s prostředím Pardubického kraje blíže seznámit. Když něco dělám, musím se v tom cítit jistá. Chci se v daném směru ujistit, možná to bude i působit opravdověji.
 
+{% asset 'cesta/jitkasedici.png' magick:resize='751x422^' magick:gravity='north' alt='trendy'%}
+
 
 ## Předpokládaná trasa
 
