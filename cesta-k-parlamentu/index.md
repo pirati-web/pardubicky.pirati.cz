@@ -2,7 +2,7 @@
 layout: pirate-center
 description: Vyražte s námi pěšky krajinou našeho kraje od západu od Labe jižním směrem přes Poličku až na úplný konec na nejvyšším Králickém Sněžníku. 
 keywords: pardubice, pirátské-centrum, pardupice, centrum
-title: ParduPiCe - Pardubické pirátské centrum
+title: CESTA K PARLAMENTU
 shorthand: ParduPiCe
 openingHoursSEO: Mo-Fr 9:00-17:00
 heroHeadline: Cesta k Parlamentu
