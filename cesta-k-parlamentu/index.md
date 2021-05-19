@@ -22,7 +22,7 @@ Zapojte se s [Jitkou Bidlovou](https://www.piratiastarostove.cz/kandidati/ing-ar
 
 
 ## ZAČÁTEK CESTY
-Vyrážíme ve **čtvrtek 20. května v 11:00 z Přelouče**
+Vyrážíme ve **čtvrtek 20. května v 11:00 v Týnci nad Labem**
 
 ## JAK SE MŮŽETE ZAPOJIT?
 Jitka Bidlová nás o své cestě bude informovat na krajském facebooku **[PIRÁTI - PARDUBICKÝ KRAJ](https://www.facebook.com/pirati.pardubicko)**
