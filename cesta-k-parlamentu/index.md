@@ -1,7 +1,6 @@
 ---
 layout: pirate-center
 description: Vyražte s námi pěšky krajinou našeho kraje od západu u Labe jižním směrem přes Poličku až na úplný konec na nejvyšším Králickém Sněžníku. 
-Pojďte s námi přes města, vesnice, lesy, pole, poznáte krajinu jak přírodě blízkou, tak bohužel i katastrofálně rozvrácenou v obřích lánech a suchých lesích. 
 keywords: pardubice, pirátské-centrum, pardupice, centrum
 title: ParduPiCe - Pardubické pirátské centrum
 shorthand: ParduPiCe
