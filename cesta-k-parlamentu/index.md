@@ -28,30 +28,4 @@ Pojďte s námi přes města, vesnice, lesy, pole, poznáte krajinu jak přírod
 </div>
 
 
-## Dětský koutek
 
-Pro rodiče nabízíme vybavený dětský koutek s pracovním místem. Dětský koutek je
-vybaven hračkami pro děti všech věkových kategorií.
-
-## Pořádání akcí
-
-V rámci pirátského centra probíhají akce všeho druhu:
-
-- přednášky
-- vzdělávací akce
-- workshopy
-- kulturní akce
-- večery deskových her
-
-Máte námět na vlastní akci? <a href="#">Dejte nám vědět</a>. ParduPiCe je zdarma
-k dispozici pro akce nekomerční povahy.
-
-
-## Chci podpořit provoz
-
-Pokud chcete ParduPiCe podpořit, můžete nám poslat účelový dar na jeho provoz
-převodem na účet. Pro platbu použijte následující údaje:
-
-| Číslo transparentního účtu | Specifický symbol |
-|----------------------------|-------------------|
-| 2100048174/2010            | 400802            |
