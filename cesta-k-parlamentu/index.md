@@ -54,7 +54,7 @@ Kandiduji s nosným tématem – Připravit území ČR na nastávající klimat
 | pátek 28. 5. | Svitavy |
 | sobota 29.5. | Hřebeč - Mor. Třebová |
 | neděle 30.5. | Staré Město - Krasíkov |
-| pondělí 31. 5. | Lanškroun - Výprachtice - Buková Hora	Lanškroun - Výprachtice - Buková Hora |
+| pondělí 31.5. | Lanškroun - Výprachtice - Buková Hora	Lanškroun - Výprachtice - Buková Hora |
 | úterý 1.6. | Suchý Vrch - Králíky |
 |středa 2.6. | Dolní Morava - Králický Sněžník |
 
