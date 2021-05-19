@@ -23,18 +23,17 @@ Vyražte s námi **pěšky krajinou** našeho kraje od západu (nejnižší bod)
 Pojďte s námi přes města, vesnice, lesy, pole, poznáte krajinu jak přírodě blízkou, tak bohužel i katastrofálně rozvrácenou v obřích lánech a suchých lesích. 
 
 ## Kdo je JITKA BIDLOVÁ
-kandiduji na 4. místě do poslanecké sněmovny za Pardubicko. Nazvali jste mě „environmentální architektkou“, což je vcelku výstižné a docela se s výrazem ztotožňuji. 
+kandiduji ze 4. místa do poslanecké sněmovny za Pardubický kraj. Nazvali mě „environmentální architektkou“, což je vcelku výstižné a docela se s výrazem ztotožňuji. 
 
-Kandiduji s nosným tématem – Připravit území ČR na nastávající klimatické změny, což je téma, ve kterém se potkávají všechny mé profesní i volnočasové zájmy. Jedná se o architekturu, životní prostředí, krajinu, území…
+Kandiduji s nosným tématem – Připravit území ČR na nastávající klimatické změny, což je téma, ve kterém se potkávají všechny mé profesní i volnočasové zájmy. Jedná se o architekturu, životní prostředí, krajinu, území atd.
 
-Ráda bych celou oblast kvalitního životního prostředí za Piráty propagovala, něco o tom už holt v mých letech vím ;). Drtivou většinu toho samozřejmě nevím, a tak je důležité se s prostředím Pardubického kraje blíže seznámit. Když něco dělám, musím se v tom cítit jistá. Chci se v daném směru ujistit, možná to bude i působit opravdověji.
 
 {% asset 'cesta/jitkasedici.png' magick:resize='751x422^' magick:gravity='north' alt='trendy'%}
 
 
 ## Předpokládaná trasa
 
-Labe u Týnce nad Labem (nejzápadnější a nejnižší bod PK) – Přelouč – Lázně Bohdaneč – Pardubice – Chrudim – Slatiňany – Luže – Maštale – Polička – Bystré – Svojanov – nejjižnější bod PK – Březová – Svitavy – Moravská Třebová – Lanškroun – Králíky – nejvýchodnější bod – Králický Sněžník (nejsevernější a nejvyšší bod)
+> Labe u Týnce nad Labem (nejzápadnější a nejnižší bod PK) – Přelouč – Lázně Bohdaneč – Pardubice – Chrudim – Slatiňany – Luže – Maštale – Polička – Bystré – Svojanov – nejjižnější bod PK – Březová – Svitavy – Moravská Třebová – Lanškroun – Králíky – nejvýchodnější bod – Králický Sněžník (nejsevernější a nejvyšší bod)
 
 
 <div>
