@@ -34,23 +34,23 @@ Celou cestu můžete sledovat na [FB události](https://www.facebook.com/events/
 | Den      | Trasa |
 | ----------- | ----------- | 
 | 20. 5 | Labe	Týnec - Přelouč       |
-| 21. 5.   | Rybníky Labe	Lázně Bohdaneč - Pardubice        |
+| 21. 5.   | Lázně Bohdaneč - Pardubice        |
 | 22. 5.  | Chrudim - Slatiňany - Svídnice |
 | 23. 5.  | Chrast |
 | 24. 5.  | Luže - Nové Hrady - Maštale |
 | 25. 5.  | Borová - Telecí - Polička  |
 | 26. 5.  | Balda - Bystré - Hamry |
-| 27. 5. | Hartmanice - Trpín - Svojanov	Hartmanice - Trpín - Svojanov |
+| 27. 5. | Hartmanice - Trpín - Svojanov|
 | 28. 5. | Svitavy |
 | 29. 5. | Hřebeč - Mor. Třebová |
 | 30. 5. | Staré Město - Krasíkov |
-| 31. 5. | Lanškroun - Výprachtice - Buková Hora	Lanškroun - Výprachtice - Buková Hora |
+| 31. 5. | Lanškroun - Výprachtice - Buková Hora |
 | 1. 6. | Suchý Vrch - Králíky |
 | 2. 6. | Dolní Morava - Králický Sněžník |
 
 
 ## Kdo je [JITKA BIDLOVÁ](https://www.piratiastarostove.cz/kandidati/ing-arch-jitka-bidlova-phd/)
-kandiduji ze 4. místa do poslanecké sněmovny za Pardubický kraj. Nazvali mě „environmentální architektkou“, což je vcelku výstižné a docela se s výrazem ztotožňuji. 
+Kandiduji ze 4. místa do poslanecké sněmovny za Pardubický kraj. Nazvali mě „environmentální architektkou“, což je vcelku výstižné a docela se s výrazem ztotožňuji. 
 
 Kandiduji s nosným tématem – Připravit území ČR na nastávající klimatické změny, což je téma, ve kterém se potkávají všechny mé profesní i volnočasové zájmy. Jedná se o architekturu, životní prostředí, krajinu, území atd.
 
