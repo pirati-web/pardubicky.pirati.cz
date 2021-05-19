@@ -26,6 +26,7 @@ Vyrážíme ve **čtvrtek 20. května v 11:00 v Týnci nad Labem**
 
 ## JAK SE MŮŽETE ZAPOJIT?
 Jitka Bidlová nás o své cestě bude informovat na krajském facebooku **[PIRÁTI - PARDUBICKÝ KRAJ](https://www.facebook.com/pirati.pardubicko)**
+Celou cestu můžete sledovat na [FB události](https://www.facebook.com/events/221093509493293)
 
 
 ## HARMONOGRAM TRASY
@@ -57,7 +58,7 @@ Kandiduji s nosným tématem – Připravit území ČR na nastávající klimat
 {% asset 'cesta/jitkasedici.png' magick:resize='751x422^' magick:gravity='north' alt='trendy'%}
 
 <div>
-{% include buttons/icon.html href="https://mrak.pirati.cz/s/JDg5aNSGcWCXkc6" target="_blank" cta="FB UDÁLOST. " icon="ico--book" %}
+{% include buttons/icon.html href="https://www.facebook.com/events/221093509493293" target="_blank" cta="FB UDÁLOST. " icon="ico--book" %}
 </div>
 
 
