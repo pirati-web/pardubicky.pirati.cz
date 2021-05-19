@@ -27,7 +27,7 @@ kandiduji na 4. místě do poslanecké sněmovny za Pardubicko. Nazvali jste mě
 
 Kandiduji s nosným tématem – Připravit území ČR na nastávající klimatické změny, což je téma, ve kterém se potkávají všechny mé profesní i volnočasové zájmy. Jedná se o architekturu, životní prostředí, krajinu, území…
 
-	Ráda bych celou oblast kvalitního životního prostředí za Piráty propagovala, něco o tom už holt v mých letech vím ;). Drtivou většinu toho samozřejmě nevím, a tak je důležité se s prostředím Pardubického kraje blíže seznámit. Když něco dělám, musím se v tom cítit jistá. Chci se v daném směru ujistit, možná to bude i působit opravdověji.
+Ráda bych celou oblast kvalitního životního prostředí za Piráty propagovala, něco o tom už holt v mých letech vím ;). Drtivou většinu toho samozřejmě nevím, a tak je důležité se s prostředím Pardubického kraje blíže seznámit. Když něco dělám, musím se v tom cítit jistá. Chci se v daném směru ujistit, možná to bude i působit opravdověji.
 
 
 ## Předpokládaná trasa
