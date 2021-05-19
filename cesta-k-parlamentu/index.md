@@ -7,7 +7,7 @@ shorthand: ParduPiCe
 openingHoursSEO: Mo-Fr 9:00-17:00
 heroHeadline: Cesta k Parlamentu
 heroDescription: Vyražte s námi pěšky krajinou našeho kraje od západu u Labe jižním směrem přes Poličku až na úplný konec na nejvyšším Králickém Sněžníku. 
-img: cesta/cesta2.png
+img: cesta/web.jpg
 calendarId: 6lgkm1v8gi9v0nhu2ldfmihmv8@group.calendar.google.com
 calendarTitle: Harmonogram cesty
 calendarPage: https://calendar.google.com/calendar/embed?src=6lgkm1v8gi9v0nhu2ldfmihmv8%40group.calendar.google.com&ctz=Europe%2FPrague
