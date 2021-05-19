@@ -8,17 +8,6 @@ openingHoursSEO: Mo-Fr 9:00-17:00
 heroHeadline: Cesta k Parlamentu
 heroDescription: Vyražte s námi pěšky krajinou našeho kraje od západu u Labe jižním směrem přes Poličku až na úplný konec na nejvyšším Králickém Sněžníku. 
 img: pardupice/1.jpg
-address: |
-  Pardubické pirátské centrum
-  Budova T-STRING
-  Masarykovo náměstí 1484
-  530 02 Pardubice I
-addressNote: Vstup do pirátského centra naleznete z boku budovy T-STRING naproti „AFI paláci“, vedle kadeřnictví. Vchod je v prostoru vjezdu na parkoviště ve vnitrobloku.
-contactPersons:
-  - id: filip.varecha
-    description: Správce coworku
-  - id: jan.bednar
-    description: Produkce
 calendarId: t60uj67580oudjh04tuh5icl8o@group.calendar.google.com
 calendarTitle: Kalendář akcí
 calendarPage: https://calendar.google.com/calendar/embed?src=t60uj67580oudjh04tuh5icl8o%40group.calendar.google.com&ctz=Europe%2FPrague
