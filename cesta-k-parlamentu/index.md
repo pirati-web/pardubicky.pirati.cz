@@ -18,7 +18,7 @@ Vyražte s námi **pěšky krajinou** našeho kraje od západu (nejnižší bod)
 
 Pojďte s námi přes města, vesnice, lesy, pole, **poznáte krajinu jak přírodě blízkou, tak bohužel i katastrofálně rozvrácenou v obřích lánech a suchých lesích.** 
 
-Zapojte se s [Jitkou Bidlovou](https://www.piratiastarostove.cz/kandidati/ing-arch-jitka-bidlova-phd/) a našimi kandidáty k putovní akci **CESTA DO PARLAMENTU**! 
+Zapojte se s [Jitkou Bidlovou](https://www.piratiastarostove.cz/kandidati/ing-arch-jitka-bidlova-phd/) a našimi kandidáty k putovní akci **CESTA K PARLAMENTU**! 
 
 
 ## ZAČÁTEK CESTY
