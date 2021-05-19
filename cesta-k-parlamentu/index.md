@@ -1,11 +1,12 @@
 ---
 layout: pirate-center
-description: V Pardubicích jsme otevřeli nové pirátské centrum pod zkratkou ParduPiCe. Centrum nabídne akce všeho druhu, cowork a dětský koutek.
+description: Vyražte s námi pěšky krajinou našeho kraje od západu u Labe jižním směrem přes Poličku až na úplný konec na nejvyšším Králickém Sněžníku. 
+Pojďte s námi přes města, vesnice, lesy, pole, poznáte krajinu jak přírodě blízkou, tak bohužel i katastrofálně rozvrácenou v obřích lánech a suchých lesích. 
 keywords: pardubice, pirátské-centrum, pardupice, centrum
 title: ParduPiCe - Pardubické pirátské centrum
 shorthand: ParduPiCe
 openingHoursSEO: Mo-Fr 9:00-17:00
-heroHeadline: Zbrusu nové krajské pirátské centrum!
+heroHeadline: Cesta k Parlamentu
 heroDescription: V Pardubicích jsme otevřeli nové pirátské centrum pod zkratkou ParduPiCe.
 img: pardupice/1.jpg
 address: |
