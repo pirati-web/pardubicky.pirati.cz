@@ -40,9 +40,11 @@ Labe u Týnce nad Labem (nejzápadnější a nejnižší bod PK) – Přelouč �
 <div>
 {% include buttons/icon.html href="https://mrak.pirati.cz/s/JDg5aNSGcWCXkc6" target="_blank" cta="ETAPA I. " icon="ico--book" %}
 </div>
+
 <div>
 {% include buttons/icon.html href="https://mrak.pirati.cz/s/JDg5aNSGcWCXkc6" target="_blank" cta="ETAPA II. " icon="ico--book" %}
 </div>
+
 <div>
 {% include buttons/icon.html href="https://mrak.pirati.cz/s/JDg5aNSGcWCXkc6" target="_blank" cta="ETAPA III." icon="ico--book" %}
 </div>
