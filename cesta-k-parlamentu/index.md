@@ -41,11 +41,11 @@ Kandiduji s nosným tématem – Připravit území ČR na nastávající klimat
 | ----------- | ----------- | 
 | čtvrtek 20.5 | Labe	Týnec - Přelouč       |
 | pátek 21.5.   | Rybníky Labe	Lázně Bohdaneč - Pardubice        |
-| sobota 22. 5. | Chrudim - Slatiňany - Svídnice |
-| neděle 23.5. | Chrast |
-| pondělí 24.5. | Luže - Nové Hrady - Maštale |
-| úterý 25. 5. | Borová - Telecí - Polička  |
-| středa 26.5. | Balda - Bystré - Hamry |
+| sobota 22. 5.  | Chrudim - Slatiňany - Svídnice |
+| neděle 23.5.  | Chrast |
+| pondělí 24.5.  | Luže - Nové Hrady - Maštale |
+| úterý 25. 5.  | Borová - Telecí - Polička  |
+| středa 26.5.  | Balda - Bystré - Hamry |
 | čtvrtek 27.5. | Hartmanice - Trpín - Svojanov	Hartmanice - Trpín - Svojanov |
 | pátek 28. 5. | Svitavy |
 | sobota 29.5. | Hřebeč - Mor. Třebová |
