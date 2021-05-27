@@ -22,7 +22,7 @@ main:
   - link: /volby-2020/
     name: Krajské volby 2020
     match: volby-2020
-  - link: "https://www.piratiastarostove.cz/kandidati/kraj/pardubicky/"
+  - link: "piratiastarostove.cz/kandidati/kraj/pardubicky/"
     url:  "https://www.piratiastarostove.cz/kandidati/kraj/pardubicky/"
     name: Volby 2021
     match: volby
