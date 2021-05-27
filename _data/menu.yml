@@ -19,8 +19,11 @@ main:
   - link: /pardubicke-piratske-centrum-pardupice/
     name: Pirátské centrum
     match: pardubicke-piratske-centrum-pardupice
-    - link: "https://www.piratiastarostove.cz"
-    url:  "https://www.piratiastarostove.cz"
+  - link: /volby-2020/
+    name: Krajské volby 2020
+    match: volby-2020
+  - link: "https://www.piratiastarostove.cz/kandidati/kraj/pardubicky/"
+    url:  "https://www.piratiastarostove.cz/kandidati/kraj/pardubicky/"
     name: Volby 2021
     match: volby
     - link: /cesta-k-parlamentu/
