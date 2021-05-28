@@ -8,7 +8,7 @@ before_install:
 script:
   - rm -rf _site
   - JEKYLL_ENV=production bundle exec jekyll build --drafts --future
-  - bundle exec htmlproofer --assume-extension --disable-external --url-ignore "#,#fn:1" --alt-ignore '/.*/' ./_site
+  # - bundle exec htmlproofer --assume-extension --disable-external --url-ignore "#,#fn:1" --alt-ignore '/.*/' ./_site
 
 
 branches:
