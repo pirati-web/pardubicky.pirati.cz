@@ -19,16 +19,25 @@ main:
   - link: /pardubicke-piratske-centrum-pardupice/
     name: Pirátské centrum
     match: pardubicke-piratske-centrum-pardupice
-  - link: /volby-2020/
-    name: Krajské volby 2020
-    match: volby-2020
-  - link: "piratiastarostove.cz/kandidati/kraj/pardubicky/"
-    url:  "https://www.piratiastarostove.cz/kandidati/kraj/pardubicky/"
-    name: Volby 2021
-    match: volby
-    - link: /cesta-k-parlamentu/
-    name: Cesta k Parlamentu
-    match: cesta-k-parlamentu
+  - name: Kraj
+    submenu:
+      - link: /lide/
+        name: Lidé
+        match: lide
+      - link: /volby-2020/
+        name: Krajské volby 2020
+        match: volby-2020
+  - name: Volby 2021
+    submenu:
+      - link: "https://www.piratiastarostove.cz"
+        name: Piráti a Starostové
+        match: kandidatka
+      - link: "https://www.piratiastarostove.cz/kandidati/kraj/pardubicky/"
+        name: Krajská kandidátní listina
+        match: kandidatka
+      - link: /cesta-k-parlamentu/
+        name: Cesta k Parlamentu
+        match: cesta-k-parlamentu
   # - link: /volby-2018/
   #   name: Volby 2018
   #   match: volby-2018
