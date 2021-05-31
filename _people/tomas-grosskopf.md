@@ -8,6 +8,7 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/tomas-grosskopf-2020.jpg
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 profession: učitel na ZŠ, moderátor v radiu
+description: ČLEN KS PARDUBICKÝ KRAJ
 mail:
 - tomas.grosskopf@pirati.cz
 mob:
