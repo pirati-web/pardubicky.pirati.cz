@@ -8,7 +8,7 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
     - clenove
 img: people/jiri-jansa.jpg           # 165 x 220
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
-description: pirát
+description: ČLEN KS PARDUBICKÝ KRAJ
 mail:
 - jiri.jansa@pirati.cz
 mob:
