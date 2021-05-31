@@ -7,7 +7,7 @@ category:
   - kandidat-ceskatrebova-2018
   - clenove
 img: people/zbynek.ruda.jpg
-description: příznivec Pirátské strany
+description: ČLEN KS PARDUBICKÝ KRAJ
 candidatedesc: Marketingový manažer
 ordpak: 2
 ordkomunal2018: 2
