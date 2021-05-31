@@ -8,6 +8,7 @@ img: people/zdenek-brejsa.jpg           # 165 x 220
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: pirát a soudce z lidu	# kratký popis, max 160 znaků
 ordpak:
+description: ČLEN KS PARDUBICKÝ KRAJ
 mail:
 - zdenek.brejsa@pirati.cz
 mob:
