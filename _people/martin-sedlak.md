@@ -6,6 +6,7 @@ category:
 - clenove
 img: people/martin-sedlak-2018.jpg
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
+description: ČLEN KS PARDUBICKÝ KRAJ
 mail:
   - martin.sedlak@pirati.cz
 profiles:
