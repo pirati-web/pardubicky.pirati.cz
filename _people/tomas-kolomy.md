@@ -6,7 +6,7 @@ titles:
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clenove
 img: people/tomas-kolomy.jpg # 165 x 220
-description: právník, lídr kandidátky, člen Pirátské strany # kratký popis, max 160 znaků
+description: ČLEN KS PARDUBICKÝ KRAJ
 mail:
 - tomas.kolomy@pirati.cz
 mob: 778264386
