@@ -8,7 +8,7 @@ category:
   - clenove
 img: people/martin-herman.jpg
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
-description: Předseda MS Českotřebovsko
+description: ČLEN KS PARDUBICKÝ KRAJ
 candidatedesc: seřizovač lisu
 ordpak: 7
 ordkomunal2018: 7
