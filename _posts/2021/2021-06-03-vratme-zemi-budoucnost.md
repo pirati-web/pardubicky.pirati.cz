@@ -7,7 +7,7 @@ tags:
     - piratske-listy
     - kampan-volby-2021
 author: Piráti Pardubického kraje
-image: articles/2021/listy21J.jpg
+image: articles/2021/listy21J.png
 ---
 
 **Připravili jsme pro Vás společné listy Pirátů a Starostů, které Vás seznámí s aktivitami našich kandidátek a kandidátů, v rámci koalice PIRÁTŮ A STAROSTŮ.**
