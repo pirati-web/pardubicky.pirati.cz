@@ -14,4 +14,4 @@ image: articles/2021/listy21J.png
 
 Piráti a Starostové 18. května ve 12:00 u Rudolfina na Alšově nábřeží v Praze zahájili kampaň do Poslanecké sněmovny. V rámci zahájení kampaně, jsme po krajích v celé republice rozdali tisíce listů. Listy v tištěné podobě můžete získat v rámci kontaktní kampaně a také ve svých schránkách, které roznáší naši dobrovolníci a členové v Pardubickém kraji.
 
-## [Listy si můžete prohlédnout v povedeném prohližeči na tomto ODKAZU](https://pardubicky.pirati.cz/piratske-listy/2021-pas-jaro/index.html#plisty/page1)
+## [Listy si můžete prohlédnout v povedeném prohližeči v tomto ODKAZU](https://pardubicky.pirati.cz/piratske-listy/2021-pas-jaro/index.html#plisty/page1)
