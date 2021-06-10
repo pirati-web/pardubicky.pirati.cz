@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: Krajští Piráti řešili na zdravotním výboru dopady coronaviru na nemocnice
-date: 2021-05-18T14:00:00+0200
+date: 2021-06-09T14:00:00+0200
 tags: 
     - Krajske-zastupitelstvo
     - zastupitel
