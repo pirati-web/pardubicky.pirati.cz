@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: Tisková konference Pirátů a Starostů v Pardubickém kraji
-date: 2021-06-1éT14:00:00+0200
+date: 2021-06-10T14:00:00+0200
 tags: 
     - Krajske-zastupitelstvo
     - zastupitel
