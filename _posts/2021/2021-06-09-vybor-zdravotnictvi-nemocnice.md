@@ -11,7 +11,7 @@ image: articles/2021/2021_06_zdrav.jpg
 ---
 
 
-Zasedání, které se uskutečnilo dne 7.6.2021, vyvolali opoziční zastupitelé a účastnili se jej zástupci vedení NPK a.s. Důvodem byla personální a finanční situace kolem akciové společnosti. Za Piráty se účastnili zastupitelky [Andrea Linhartová](https://pardubicky.pirati.cz/lide/andrea-linhartova/), [Lenka Španihelová](https://pardubicky.pirati.cz/lide/lenka-spanihelova/) a člen zdravotního výboru [Karsten Sachs.](https://pardubicky.pirati.cz/lide/karsten-sachs/) 
+**Zasedání, které se uskutečnilo dne 7.6.2021, vyvolali opoziční zastupitelé a účastnili se jej zástupci vedení NPK a.s. Důvodem byla personální a finanční situace kolem akciové společnosti. Za Piráty se účastnili zastupitelky [Andrea Linhartová](https://pardubicky.pirati.cz/lide/andrea-linhartova/), [Lenka Španihelová](https://pardubicky.pirati.cz/lide/lenka-spanihelova/) a člen zdravotního výboru [Karsten Sachs.](https://pardubicky.pirati.cz/lide/karsten-sachs/)** 
 
   
 
