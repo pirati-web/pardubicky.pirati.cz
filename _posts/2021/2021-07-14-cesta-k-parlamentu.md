@@ -34,6 +34,10 @@ Mě nicméně přišla až vzrušující představa dálkové trasy napříč Pa
 
 Děkuji všem, co se přidali, aby mě podpořili a nebylo mi smutno a pokud máte rádi chůzi, rozhodně se inspirujte. Stojí to za to. Já sama jsem Codex Gigas nebo granáty u Koburku dosud neznala. Berte mou cestu jako tip na léto. Příště ještě přidám pár slov o zajímavých a nepříliš známých místech našeho kraje.
 
+### Více informací o Cestě k Parlamentu se dozvíte zde na [našem webu](https://pardubicky.pirati.cz/cesta-k-parlamentu/)
+
+*Na začátku října se Jitka opět chystá vyjít. O cestě budeme informovat!*
+
 {% asset 'articles/2021/5jb.jpg' magick:resize='751x422^' magick:gravity='north' alt='trendy'%}
 
 {% asset 'articles/2021/6jb.jpg' magick:resize='751x422^' magick:gravity='north' alt='trendy'%}
