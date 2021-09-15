@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: Efektivní třídění odpadu, sběrné dvory a kompostárny pohledem našich kandidátů 
-date: 2021-09-014T14:00:00+0200
+date: 2021-09-14T14:00:00+0200
 tags: 
     - ales-nunvar
     - volby-psp-21
