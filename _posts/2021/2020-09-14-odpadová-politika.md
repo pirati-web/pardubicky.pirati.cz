@@ -20,21 +20,25 @@ image: articles/2021/odpadyPSP.jpg
 *David*: Příluka má necelých 200 obyvatel a kolem 16 domů a chalup využívaných převážně k rekreaci. Loni tedy bylo z naší obce odvezeno 35,36 tun směsného odpadu. 
 
 
-{% asset 'articles/2021/ales1.jpg' magick:resize='751x422^' magick:gravity='north' alt='trendy'%}
-
-
-
 **2. Co považujete za největší problém Vaší obce?**
 
 *Aleš*: Právě to vysoké množství SKO. Nová odpadová legislativa nás nutí naučit občany více třídit a tím zmenšit objem SKO. Chrudim má jeden vlastní sběrný dvůr, to však nestačí. Celkově se v oblasti odpadů v minulých deseti letech u nás dost zaspalo, takže máme co dohánět.
 
 *David*: V Příluce se lidé poměrně dobře naučili třídit. Určitá potíž je s ukládáním a svozem nebezpečného a velkoobjemového odpadu, konkrétně s ojetými pneumatikami. Ty nám občané dávají ke svozům, přestože je informujeme o možnosti jejich odevzdání prodejci při nákupu nových. Obec tak vynakládá nemalé finance na jejich likvidaci.
 
+
+{% asset 'articles/2021/ales1.jpg' magick:resize='751x422^' magick:gravity='north' alt='trendy'%}
+
+
 **3. Jak plánujete vyřešit nastávající konec skládkování?**
 
 *Aleš*: Projektujeme velký sběrný dvůr, který bychom chtěli během 5 let vybudovat. Cílem je zlepšit třídění, zmenšit zbytkový odpad a snížit náklady na dopravu do spalovny. Součástí bude třídící linka na plasty a papír, překládací stanice na SKO, kompostárna, velké Re-Use centrum (malé již máme) a další sběrný dvůr.
 
 *David*: Konec skládkování se samozřejmě dotkne i naší obce, zejména v ceně za ukládání odpadu. Musíme se proto všichni naučit ještě lépe třídit odpad nebo nakupovat zboží s co nejmenší odpadovou stopou. Vše se sice třídit nedá, ale téma “spalovna” je na delší povídání. 
+
+
+{% asset 'articles/2021/david1.jpg' magick:resize='751x422^' magick:gravity='north' alt='trendy'%}
+
 
 **4. Co byste označili jako svůj největší úspěch v oblasti odpadové politiky?**
 
@@ -48,6 +52,4 @@ image: articles/2021/odpadyPSP.jpg
 
 *David*: Obávám, co si o nás pomyslí příští generace. Pokud něco chceme zlepšit, musíme jít sami příkladem. A konkrétní řešení? Třeba více podpory vratných obalů. Líbí se mi například Chorvatsko a jeho zpětný sběr plechovek a PET lahví. Občas se jen stačí podívat kolem sebe a nevymýšlet něco, co jinde už funguje.
 
-
-{% asset 'articles/2021/david1.jpg' magick:resize='751x422^' magick:gravity='north' alt='trendy'%}
 
