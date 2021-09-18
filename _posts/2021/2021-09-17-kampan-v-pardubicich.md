@@ -10,7 +10,7 @@ tags:
 author: Piráti Pardubického kraje
 image: articles/2021/pcekk.png
 ---
-**V Pardubicích, 17. září 2021 – Pardubická třída Míru ve čtvrtek odpoledne patřila Pirátům a Starostům. Pod dohledem bronzového aviatika Jana Kašpara se konalo veselí s koncerty, divadelní fraškou, skákacím hradem nebo virtuální realitou. A především lidé po celé odpoledne debatovali s celostátními lídry koalice Pirátů a Starostů Ivanem Bartošem a Vítem Rakušanem i krajskými kandidáty.**
+**Pardubická třída Míru ve čtvrtek 16. září odpoledne patřila Pirátům a Starostům. Pod dohledem bronzového aviatika Jana Kašpara se konalo veselí s koncerty, divadelní fraškou, skákacím hradem nebo virtuální realitou. A především lidé po celé odpoledne debatovali s celostátními lídry koalice Pirátů a Starostů Ivanem Bartošem a Vítem Rakušanem i krajskými kandidáty.**
 
 Pestrý program si užili jak malí, tak velcí. Děti si mohly zařádit s 3D brýlemi či ve skákacím hradu nebo se nechat dočasně potetovat. Pro ty starší tu byla především možnost si v neformální atmosféře o čemkoliv pohovořit s představiteli koalice. Kromě už zmíněných předsedů obou stran nechyběli krajští kandidáti v čele s Mikulášem Ferjenčíkem a Jiřím Hájkem.
 
