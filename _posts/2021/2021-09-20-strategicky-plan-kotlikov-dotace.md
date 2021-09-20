@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: PStrategický plán a kotlíkové dotace
+title: Strategický plán a kotlíkové dotace
 date: 2021-09-20T14:00:00+0200
 tags: 
     - Krajske-zastupitelstvo
