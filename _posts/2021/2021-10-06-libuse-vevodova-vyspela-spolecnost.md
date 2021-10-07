@@ -33,7 +33,7 @@ Je to tak. Nejen v poslední době jsem se  zamýšlela  (a  zároveň  dostáva
 
 Je to běh na dlouhou trať. Musím přiznat, že oproti minulýmrokům se situace ve prospěch občanů se sníženou pohyblivostí (na dobu určitou i pro občany vezoucí kočárek s dítěte) zlepšila. Zvlášť ve velkých městech a v obcích s “osvíceným zastupitelstvem” je to znát. Stavební zákon v oblasti bezbariérovosti je poměrně přísný, ale připouští výjimky. O povolení či zamítnutí výjimky rozhoduje příslušný stavební úřad. Můj návrh?  Aby  se , alespoň pro začátek, podařilo zřídit v každé obci komisi, která by se spolupodílela na posuzování nových objektů v rámci bezbariérovosti a zároveň by její podněty vedoucí  ke zlepšení situace byly akceptovány,    
 
-**Jsi trojkou na pirátské kandidátce. Co Tě vede k tomu jít do nejvyšších pater politiky?**
+**Jsi trojkou na společné kandidátce. Co Tě vede k tomu jít do nejvyšších pater politiky?**
 
 Jsem přesvědčená, že svým racionálním pohledem a zkušenostmi, nejen ze společensko-politického života, mohu vnést praktičnost do teorie. Jsem zvyklá přijímat pozitiva i negativa, která život přináší. Dovedu vždy “zvednout hlavu” a jít dál. Jsem přesvědčena, že mi zbývá i dost sil pomáhat těm, kteří pomoc potřebují.
 
