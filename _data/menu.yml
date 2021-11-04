@@ -27,17 +27,6 @@ main:
       - link: /volby-2020/
         name: Krajské volby 2020
         match: volby-2020
-  - name: Volby 2021
-    submenu:
-      - link: "https://www.piratiastarostove.cz"
-        name: Piráti a Starostové
-        match: kandidatka
-      - link: "https://www.piratiastarostove.cz/kandidati/kraj/pardubicky/"
-        name: Krajská kandidátní listina
-        match: kandidatka
-      - link: /cesta-k-parlamentu/
-        name: Cesta k Parlamentu
-        match: cesta-k-parlamentu
   # - link: /volby-2018/
   #   name: Volby 2018
   #   match: volby-2018
