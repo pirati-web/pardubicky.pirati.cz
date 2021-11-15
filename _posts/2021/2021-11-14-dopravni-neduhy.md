@@ -8,7 +8,7 @@ tags:
     - výbory
     - zdravotnictvi
 author: Piráti Pardubického kraje
-image: articles/2021/duchy_cov4.png
+image: articles/2021/duchy_cov5.png
 ---
 
 **Málokteré téma rezonuje mezi lidmi tak často, jako dopravní situace. O té diskutují nejen sami cestující, kteří se přepravují do škol nebo do zaměstnání, ale také řidiči osobních i nákladních automobilů. Existují však řešení, které by mohli současnou situaci zlepšit nebo alespoň následky negativních dopadů zmírnit?**
