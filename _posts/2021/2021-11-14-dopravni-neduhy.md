@@ -36,5 +36,3 @@ V návaznosti na rekonstrukci drážního koridoru je provozována náhradní au
 Pirátská strana mimo jiné klade v oblasti dopravy důraz na přeshraniční spolupráci, kde je v zájmu regionu využít možnosti, které nádražní doprava přináší. 
 >„Ve výsledku tu máme přeshraniční trať se slušným potenciálem. Přinejmenším z hlediska udržitelné turistiky. Provozujeme čtyři páry vlaků v podstatě z povinnosti, i když s trochou snahy by mohly mít mnohem větší přínos. Také tu máme elektrizovanou trať, kde nejezdí ani jeden elektrický osobní vlak, přestože sousedi s Polska nám do Lichkova jezdí s moderními elektrickými jednotkami. I to je problém, kterému se chceme v krajském zastupitelstvu věnovat,“ **dodává Jiří Ducháček.** 
 
-{% asset 'articles/2021/dop3.png' magick:resize='751x422^' magick:gravity='north' alt='trendy'%}
-
