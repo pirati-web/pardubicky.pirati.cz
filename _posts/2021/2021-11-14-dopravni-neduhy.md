@@ -12,7 +12,7 @@ author: Piráti Pardubického kraje
 image: articles/2021/duchy_cov5.png
 ---
 
-**Málokteré téma rezonuje mezi lidmi tak často, jako dopravní situace. O té diskutují nejen sami cestující, kteří se přepravují do škol nebo do zaměstnání, ale také řidiči osobních i nákladních automobilů. Existují však řešení, které by mohli současnou situaci zlepšit nebo alespoň následky negativních dopadů zmírnit?**
+**Málokteré téma rezonuje mezi lidmi tak často, jako dopravní situace. O té diskutují nejen sami cestující, kteří se přepravují do škol nebo do zaměstnání, ale také řidiči osobních i nákladních automobilů. Existují však řešení, která by mohla současnou situaci zlepšit nebo alespoň následky negativních dopadů zmírnit?**
 
 Bezesporu největší problémy jsou v Pardubickém kraji na silnicích. Absence nedostavěné dálnice D35 je znát každý den a lze tak tuto komunikaci postavit na první místo pomyslného žebříčku problémů. 
 >„Všichni víme, že cesta Litomyšlí nebo Vysokým Mýtem v době dopravní špičky je jízdou v jedné velké koloně, a to ještě nesmí dojít v tomto úseku k nehodě. Výstavbou dálnice by se tento problém měl vyřešit, ale objeví se další a na ty je potřeba se připravit. Například v Litomyšli se jedná o využití dvou pruhů stávající silnice I/35 na parkovací plochy. Ještě dříve je potřeba řešit odlehčení dopravy v obcích, které zasáhne zprovoznění prvního úseku D35. Ať už je to zmíněná Litomyšl nebo třeba Vysoké Mýto,“ 
@@ -30,7 +30,7 @@ Navazující úsek bohužel bude zprovozněn později, a to kvůli potížím se
 {% asset 'articles/2021/dop2.png' magick:resize='751x422^' magick:gravity='north' alt='trendy'%}
 
 
-V návaznosti na rekonstrukci drážního koridoru je provozována náhradní autobusová doprava. Některé spoje v kraji nemají takovou návaznost jako jsou občané zvyklý.  
+V návaznosti na rekonstrukci drážního koridoru je provozována náhradní autobusová doprava. Některé spoje v kraji nemají takovou návaznost jako jsou občané zvyklí.  
 >„Je třeba opravdu koordinovat jednotlivé dopravce a věnovat pozornost námitkám od občanů tak, aby neklesal počet lidí cestujících vlakem a byl zachován komfort cestování. S udržením počtu lidí cestujících vlakem souvisí i naše podpora systému jednotného národního tarifu. Ten je součástí naší snahy digitalizovat a využívat moderní technologie. Lidé nemají řešit jakou jízdenku koupí a kdo komu co přeúčtuje. Navíc cestující uspoří čas a zjednoduší se obsluha celého systému,“ **popisuje možná vylepšení na dráze Jiří Ducháček.** 
 
 Pirátská strana mimo jiné klade v oblasti dopravy důraz na přeshraniční spolupráci, kde je v zájmu regionu využít možnosti, které nádražní doprava přináší. 
