@@ -6,7 +6,8 @@ date: 2021-11-14T14:00:00+0200
 tags: 
     - Krajske-zastupitelstvo
     - výbory
-    - zdravotnictvi
+    - doprava
+    - jiri-duchacek
 author: Piráti Pardubického kraje
 image: articles/2021/duchy_cov5.png
 ---
