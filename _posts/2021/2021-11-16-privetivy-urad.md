@@ -15,7 +15,7 @@ image: articles/2021/pavel_ales.png
 
 **Přívětivý úřad by si přál snad každý z nás, ale co definuje městské a obecní úřady, aby byly přátelské a otevřené pro své občany a chápaly jejich potřeby? Je to komplexní přístup úřadů v oblasti kvality při poskytování služeb klientům a díky soutěži Přívětivý úřad, kterou již po šesté organizovalo Ministerstvo vnitra, můžeme obce v jednotlivých krajích porovnat. V letošním ročníku soutěže v Pardubickém kraji vyhrálo město Chrudim a my vám přinášíme rozhovor s našimi místostarosty  [Pavlem Štěpánkem](https://pardubicky.pirati.cz/lide/pavel-stepanek/) a [Alešem Nunvářem](https://pardubicky.pirati.cz/lide/ales-nunvar/), kteří se na této výhře ze svých pozic podíleli.**
 
-*Více informací k soutěži Přívětivý úřad naleznete zde: https://www.mvcr.cz/clanek/privetivy-urad-obci-iii-typu-2021.aspx*
+*Více informací k soutěži Přívětivý úřad naleznete zde: https://www.mvcr.cz/clanek/privetivy-urad-obci-iii-typu-2021.aspx 
 
 
 ---
