@@ -28,7 +28,7 @@ V kapitole Doprava se po martyriu s výběrovým řízením na nového dopravce 
 
 V rámci kapitoly Rozvoj jsou hlavními projekty rekonstrukce silnic v rámci Integrovaného regionálního operačního programu (IROP) a zahájení/dostavby centrálních příjmů v krajských nemocnicích. Zároveň je důležité upozornit, že právě na tyto stavby jde většina půjčených peněz na rok 2022.
 
-{% asset 'articles/2021/beztransferu.PNG' magick:resize='751x422^' magick:gravity='north' alt='trendy'%}
+{% asset 'articles/2021/beztransferu.png' magick:resize='751x422^' magick:gravity='north' alt='trendy'%}
 
 
 ### Může kraj fungovat stále na dluh?
