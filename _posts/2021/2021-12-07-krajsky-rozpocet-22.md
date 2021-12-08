@@ -1,3 +1,16 @@
+---
+layout: post
+category: CLANKY
+title: Za co Pardubický kraj vydává peníze a může dlouhodobě fungovat na dluh?
+date: 2021-12-07T14:00:00+0200
+tags: 
+    - zastupitel
+    - Krajske-zastupitelstvo
+    - liba-vevodova
+author: Piráti Pardubického kraje
+image: articles/2021/danrozpocet.png
+---
+
 **Zajímá vás, kolik peněz má kraj ročně k dispozici a jak s nimi hospodaří? Že je to těžko přístupné a složité se v tom vyznat? V příštím týdnu budeme v zastupitelstvu schvalovat rozpočet kraje na další rok, a proto je na místě přiblížit jednotlivé položky rozpočtu srozumitelnou formou a také je okomentovat.**
 
 Příjmy rozpočtu Pardubického kraje na rok 2022 jsou plánovány ve výši **14 210 175 040Kč – 14,2 miliardy korun.** Je to téměř o miliardu více než v roce 2021. 
