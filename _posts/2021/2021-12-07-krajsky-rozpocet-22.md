@@ -18,10 +18,6 @@ Příjmy rozpočtu Pardubického kraje na rok 2022 jsou plánovány ve výši **
 Velká část příjmů jsou ovšem tzv. transfery – **kraj pouze peníze „ohřeje na svém účtu“ a posílá dál.** V návrhu rozpočtu na rok 2022 činí tyto transfery **9,046 miliard**. Z celkového rozpočtu tak zbývá na chod úřadu, investice, dotace, příspěvky, záštity a další provozní výdaje cca **5,164 miliard** Kč. Zbytek potřebných peněz na financování projektů bude řešen čerpáním úvěru v celkové výši 538 milionů Kč. Celkem tedy 5,701 miliard Kč.
 
 Pojďme se podívat na plánované výdaje a jejich skladbu. Včetně transferů tvoří dominantní část rozpočtu výdaje na školství.
-
-{% asset 'articles/2021/transfery.png' magick:resize='751x422^' magick:gravity='north' alt='trendy'%}
-
-
 Víme ale, že transfery kraj pouze posílá dál, a tak je zajímavější pohled na výdaje od nich očištěné. Zde se ukazuje, že dominují kapitoly Doprava a Rozvoj. Pojďme se proto podívat, co do těchto kapitol spadá, a na finančně nejnáročnější projekty příštího roku.
 
 V kapitole Doprava se po martyriu s výběrovým řízením na nového dopravce podařilo ušetřit určitou částku, bohužel ale na druhé straně narostly náklady na drážní obslužnost a celková výše výdajů tak zůstává prakticky stejná. **Celkem stojí veřejná doprava 945 milionů Kč ročně** a zbytek kapitoly jde na provoz a investiční akce Správy a údržby silnic Pardubického kraje.
