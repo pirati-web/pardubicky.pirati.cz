@@ -4,10 +4,8 @@ name:     Karsten Sachs      		# běžně používáné jméno
 fullname: Karsten Sachs		# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clenove
-- predsednictvo
 img: people/karsten-sachs.jpg           # 165 x 220
-ord_predsednictvo: 4
-description: 3. místopředseda KS Pardubický kraj
+description: ein echter Pirat 
 ordpak:
 mail:
 - karsten.sachs@pirati.cz

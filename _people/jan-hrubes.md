@@ -5,12 +5,10 @@ titles:
   before: Ing.
   after: DiS
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
-- predsednictvo
 - pak
-ord_predsednictvo: 5
 ordPce: 5
 img: people/jan-hrubes.jpg           # 165 x 220
-description: 4. místopředseda KS Pardubický kraj, člen KS Pardubický kraj, zastupitel Pardubice # kratký popis, max 160 znaků
+description: člen KS Pardubický kraj # kratký popis, max 160 znaků
 profession: student FChT UPa
 mail:
 - jan.hrubes@pirati.cz

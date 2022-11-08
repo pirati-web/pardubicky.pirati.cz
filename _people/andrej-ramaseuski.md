@@ -4,8 +4,10 @@ name: Andrej Ramašeuski
 category:
 - pak
 - rv
+- predsednictvo
 - krajsti_zastupitele
 - clenove
+ord_predsednictvo: 2
 img: people/andrej-ramaseuski-2020.jpg
 heroImg: people/andrej-ramaseuski-herobanner.jpg
 description: Člen Republikového výboru
