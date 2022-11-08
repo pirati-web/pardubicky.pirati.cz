@@ -12,8 +12,8 @@ ordPce: 9
 ord_predsednictvo: 3
 img: people/lenka-spanihelova-2020.jpg           # 165 x 220
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
-description: členka KS Pardubický kraj # kratký popis, max 160 znaků
-profession: sociální pedagožka
+description: 2. místopředsedkyně KS Pardubický kraj, krajská zastupitelka
+professio: sociální pedagožka
 mail: lenka.spanihelova@pirati.cz
 profiles:
   github:

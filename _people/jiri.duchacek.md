@@ -9,7 +9,7 @@ category:
 - krajsti_zastupitele
 img: people/jiri.duchacek-2020.jpg
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
-description: předseda KS Pardubický kraj
+description: předseda KS Pardubický kraj, krajský zastupitel
 candidatedesc: IT manager
 ord_predsednictvo: 1
 ordpak: 1

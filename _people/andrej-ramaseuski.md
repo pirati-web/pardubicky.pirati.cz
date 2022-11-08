@@ -10,8 +10,8 @@ category:
 ord_predsednictvo: 2
 img: people/andrej-ramaseuski-2020.jpg
 heroImg: people/andrej-ramaseuski-herobanner.jpg
-description: Člen Republikového výboru
-ordpak:
+description: 1. místopředseda KS Pardubický kraj, Člen Republikového výboru, krajský zastupitel
+ordpa:
 mail:
 - andrej.ramaseuski@pirati.cz
 mob: 605234197
