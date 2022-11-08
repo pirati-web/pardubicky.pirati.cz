@@ -6,9 +6,10 @@ category:
   - pak
   - kandidat-ceskatrebova-2018
   - clenove
+  - mistni_predsedove
 img: people/martin-herman.jpg
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
-description: ČLEN KS PARDUBICKÝ KRAJ
+description: Předseda MS Českotřebovsko
 candidatedesc: seřizovač lisu
 ordpak: 7
 ordkomunal2018: 7

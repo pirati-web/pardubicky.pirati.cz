@@ -3,8 +3,9 @@ uid: stanislav.klat
 name: Stanislav Klát
 fullname:  Stanislav Klát
 category:
-  - pak
-  - predsednictvo
+- pak
+- predsednictvo
+- clenove
 img: people/stanislav-klat.jpg
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: 4. místopředseda KS Pardubický kraj

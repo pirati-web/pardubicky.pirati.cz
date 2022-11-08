@@ -4,6 +4,7 @@ name: Andrea Linhartová
 fullname:  Andrea Linhartová
 category:
   - pak
+  - clenove
   - predsednictvo
   - krajsti_zastupitele
 img: people/andrea-linhartova-2020.jpg

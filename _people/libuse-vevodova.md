@@ -7,7 +7,7 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
   - krajsti_zastupitele
 img: people/libuse-vevodova-2020.jpg
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
-description: Krajská a svitavská zastupitelka # kratký popis, max 160 znaků
+description: Krajská zastupitelka # kratký popis, max 160 znaků
 ordpak:
 mail:
 - libuse.vevodova@pirati.cz

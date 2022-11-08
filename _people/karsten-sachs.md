@@ -4,8 +4,9 @@ name:     Karsten Sachs      		# běžně používáné jméno
 fullname: Karsten Sachs		# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clenove
+- mistni_predsedove
 img: people/karsten-sachs.jpg           # 165 x 220
-description: ein echter Pirat 
+description: Předseda MS Svitavsko 
 ordpak:
 mail:
 - karsten.sachs@pirati.cz
