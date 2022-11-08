@@ -6,6 +6,7 @@ titles:
   after: DiS
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - pak
+- clenove
 ordPce: 5
 img: people/jan-hrubes.jpg           # 165 x 220
 description: člen KS Pardubický kraj # kratký popis, max 160 znaků
