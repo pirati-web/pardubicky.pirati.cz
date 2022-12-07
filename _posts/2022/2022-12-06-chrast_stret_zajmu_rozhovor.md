@@ -45,6 +45,7 @@ V prvé řadě každý zastupitel musí svůj střet zájmů předem všem ozná
 **Poté co jste poukázali na netypický prodej pozemků a jasný střet zájmu, vedení města pokračuje s tímto projektem i nadále. Má cenu tuto výstavbu zastavit a pokud ano, tak jakým způsobem?**
     
 Teoreticky by prodej nemovitosti mohl být soudem uznán za neplatný, pokud by nebylo možné vysvětlit výraznou odchylku prodejní ceny od ceny obvyklé. Je vhodné, aby samospráva měla pod kontrolou určité množství bytového fondu a naopak víme, k čemu v minulosti vedla slepá privatizace nemovitosti. Pokud se změní složení zastupitelstva, tak by mohlo s novým majitelem nemovitosti začít jednat, nicméně dle mého názoru by tento pochybný prodej měli nejdříve posoudit kriminalisté.
+ <hr /> 
 
 ## Andrea Linhartová
 
