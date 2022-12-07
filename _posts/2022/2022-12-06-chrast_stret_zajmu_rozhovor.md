@@ -11,9 +11,9 @@ image: articles/2022/chrastAJ.png
 important: true
 ---
 
-**Ve městě nedaleko Chrudimi se místní zastupitelstvo vrátilo k praktikám jak z devadesátých let. Zastupitelstvo Chrasti v listopadu odsouhlasilo prodej pozemků za 300,- Kč za metr čtvereční radnímu, který tyto pozemky má vložit do bytového fondu a do šesti let postavit 48 nových bytů. Zásadním problémem je, že v této chvíli nelze na těchto pozemcích stavět, a aby se tak stalo, musí zastupitelé Chrasti změnit územní plán. Vše bude tedy stát a padat na vůli radního Vlastimila Ročně, který si se starostou Vojtěchem Krňanským podáním ruky slíbili, že město bude moci řízení družstva ovlivňovat. No, ale co když se za 4 roky zásadně změní složení vedení města a pan radní slib z různých důvodů nedodrží? Jsou zastupitelé města naivní, nebo jen loajální a zvedají ruce tak, jak jim jejich lídři doporučí? Otazníků je mnoho, ale jedno je jisté - toto je příkladný střet zájmu mezi radním a městem samotným. Jak pohlíží na tuto problematiku krajská zastupitelka a obyvatelka Chrasti Andrea Linhartová? Co považuje za protiprávní chování pirátský analytik a ekonom Janusz Konieczny? Více se dočtete v rozhovoru.**
+**Ve městě nedaleko Chrudimi se místní zastupitelstvo vrátilo k praktikám jak z devadesátých let. Zastupitelstvo Chrasti v listopadu odsouhlasilo prodej pozemků za 300,- Kč za metr čtvereční radnímu, který tyto pozemky má vložit do bytového fondu a do šesti let postavit 48 nových bytů. Zásadním problémem je, že v této chvíli nelze na těchto pozemcích stavět, a aby se tak stalo, musí zastupitelé Chrasti změnit územní plán. Vše bude tedy stát a padat na vůli radního Vlastimila Ročně, který si se starostou Vojtěchem Krňanským podáním ruky slíbili, že město bude moci řízení družstva ovlivňovat. No, ale co když se za 4 roky zásadně změní složení vedení města a pan radní slib z různých důvodů nedodrží? Jsou zastupitelé města naivní, nebo jen loajální a zvedají ruce tak, jak jim jejich lídři doporučí? Otazníků je mnoho, ale jedno je jisté - toto je příkladný střet zájmu mezi radním a městem samotným. Jak pohlíží na tuto problematiku krajská zastupitelka a obyvatelka Chrasti [Andrea Linhartová](https://lide.pirati.cz/profil/2424/)? Co považuje za protiprávní chování pirátský analytik a ekonom [Janusz Konieczny](https://www.idnes.cz/wiki/ekonomika/janusz-konieczny.K468922)? Více se dočtete v rozhovoru.**
 
-## Andrea Linhartová
+## [Andrea Linhartová](https://lide.pirati.cz/profil/2424/)
  **Chrast je malé město a jen tak nikomu nic, co se na radnici děje, neujde. Na tuto problematiku zvláštního prodeje pozemků jsi poukázala ty? Co tomu všemu předcházelo?**
   
 Nejsem si jistá, jak moc je dění na radnici v Chrasti občany sledováno. Transparentnost je sice u nás poměrně hodně skloňované slovo, ale asi jej vedení města vnímá jinak než já.
@@ -27,7 +27,7 @@ V říjnu na byl záměr prodeje projednáván nově zvoleným zastupitelstvem, 
 Bytová politika města na mě působí trochu schizofrenně. Nejdřív se rozprodávají byty z majetku města, které byly revitalizované dva až tři roky před uvedením do prodeje. Předkupní právo mají současní nájemníci či jejich příbuzní a jsou jim nabídnuty za cca 50% tržní hodnoty. Když pominu to, že majetek města je privatizován a je zvýhodněna jedna skupina obyvatel, tak tu stále zůstane viset ta cena. No a prodej zmíněného pozemku k tomu přidává další souvislosti. Dostupné bydlení je problém v nejednom městě, ale v Chrasti to řešení působí trochu ve stylu “ Já na bráchu, brácha na mě.” Dodnes nevíme, který zastupitel města má být třetím zakládajícím členem družstva spolu s radním Ročněm a bankou. A neví to ani jiný člen rady města.
  <hr /> 
 
-## Janusz Konieczny
+## [Janusz Konieczny](https://www.idnes.cz/wiki/ekonomika/janusz-konieczny.K468922)
   
 {% asset 'articles/2022/janusz1.jpg' magick:resize='751x422^' 
 magick:gravity='north' alt='zastupitelé'%}  
@@ -47,7 +47,7 @@ V prvé řadě každý zastupitel musí svůj střet zájmů předem všem ozná
 Teoreticky by prodej nemovitosti mohl být soudem uznán za neplatný, pokud by nebylo možné vysvětlit výraznou odchylku prodejní ceny od ceny obvyklé. Je vhodné, aby samospráva měla pod kontrolou určité množství bytového fondu a naopak víme, k čemu v minulosti vedla slepá privatizace nemovitosti. Pokud se změní složení zastupitelstva, tak by mohlo s novým majitelem nemovitosti začít jednat, nicméně dle mého názoru by tento pochybný prodej měli nejdříve posoudit kriminalisté.
  <hr /> 
 
-## Andrea Linhartová
+## [Andrea Linhartová](https://lide.pirati.cz/profil/2424/)
 
 {% asset 'articles/2022/andreaAJ.jpg' magick:resize='751x422^' 
 magick:gravity='north' alt='zastupitelé'%}  
