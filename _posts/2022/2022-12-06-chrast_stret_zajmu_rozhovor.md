@@ -26,7 +26,7 @@ V říjnu na byl záměr prodeje projednáván nově zvoleným zastupitelstvem, 
 
 Bytová politika města na mě působí trochu schizofrenně. Nejdřív se rozprodávají byty z majetku města, které byly revitalizované dva až tři roky před uvedením do prodeje. Předkupní právo mají současní nájemníci či jejich příbuzní a jsou jim nabídnuty za cca 50% tržní hodnoty. Když pominu to, že majetek města je privatizován a je zvýhodněna jedna skupina obyvatel, tak tu stále zůstane viset ta cena. No a prodej zmíněného pozemku k tomu přidává další souvislosti. Dostupné bydlení je problém v nejednom městě, ale v Chrasti to řešení působí trochu ve stylu “ Já na bráchu, brácha na mě.” Dodnes nevíme, který zastupitel města má být třetím zakládajícím členem družstva spolu s radním Ročněm a bankou. A neví to ani jiný člen rady města.
 
- ## Janusz Konieczny
+Janusz Konieczny
   
 {% asset 'articles/2022/janusz1.jpg' magick:resize='751x422^' 
 magick:gravity='north' alt='zastupitelé'%}  
