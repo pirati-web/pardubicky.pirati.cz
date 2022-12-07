@@ -74,6 +74,3 @@ Jaký je starosta? Získal 40%, v očích občanů tedy dobrý. Buduje chodníky
 Nesnažím se pouze koukat na to, co se prezentuje na FB či Chrasteckých ohlasech, snažím se vnímat koncept a ten mi chybí. Tak např. máme nedostatek míst ve školce, nejsme jediní, tento problém řeší nejedna obec v republice a i MMR se snaží svými programy obcím pomáhat. U nás se přišlo s řešením, rozšíříme školku. Je to logická cesta. Otázku, kam bude nová třída umístěna, vyřešilo vedení města tím, že vypovědělo z nájmu PČR, která sídlila v jednom objektu města, jenž využívá i naše školka. PČR objekt vyklidila koncem roku 2021, od té doby zeje prázdnotou a město jej nyní nabízí k pronájmu. Kdy k plánovanému rozšíření dojde? Nevím jistě. Je to pravděpodobně opět otázkou rozpočtu města či případně nějakých dotací. A Chrast si na dotace z MMR dle slov našeho starosty nesáhne.
 
 Takže suma sumárum Chrast přišla o obvodní oddělení PČR, školka zatím nikde a objekt, kde PČR byla, je prázdný a v nabídce k pronájmu.
-
-{% asset 'articles/2022/andreaAJ.jpg' magick:resize='751x422^' 
-magick:gravity='north' alt='zastupitelé'%}
