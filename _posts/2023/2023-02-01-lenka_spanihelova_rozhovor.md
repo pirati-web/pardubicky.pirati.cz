@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: Lenka Martínková Španihelová: Výplaty v sociálních nesmí být ohrožené
+title: Lenka Martínková Španihelová - Výplaty v sociálních nesmí být ohrožené
 date: 2023-02-01T07:00:00+01:00
 tags: 
     - Krajske-zastupitelstvo
