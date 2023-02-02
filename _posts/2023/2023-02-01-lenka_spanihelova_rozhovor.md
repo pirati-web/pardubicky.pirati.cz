@@ -6,7 +6,7 @@ date: 2023-02-01T07:00:00+01:00
 tags: 
     - Krajske-zastupitelstvo
 author: Piráti Pardubického kraje
-image: articles/2023/lenka_cover.png
+image: articles/2023/lenka_cover1.png
 important: true
 ---
 
