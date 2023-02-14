@@ -6,8 +6,7 @@ date: 2023-02-13T07:00:00+01:00
 tags: 
     - koordinator-kraje
 author: Piráti Pardubického kraje
-image: articles/2023/lod.png
-important: true
+image: articles/2023/hledame.png
 ---
 
 **Souzníš s pirátskou politikou a baví tě práce s lidmi? Pak hledáme právě tebe. Piráti v Pardubickém kraji totiž potřebují nového krajského koordinátora.
