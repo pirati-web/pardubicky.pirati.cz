@@ -10,7 +10,9 @@ image: articles/2023/lod.png
 important: true
 ---
 
-**Hledáš velmi motivující práci, kde tvoje odměna bude záviset především na tvém výkonu? Pak je tato pozice pro tebe ideální - kombinuje pozici koordinátora dobrovolníků v Pardubickém kraji a ve volbách buď manažerem, který pomůže nejlepší straně v České republice.**
+**Souzníš s pirátskou politikou a baví tě práce s lidmi? Pak hledáme právě tebe. Piráti v Pardubickém kraji totiž potřebují nového krajského koordinátora.
+Koordinátor je hlavně manažer. Ne ten nudný manažer z korporátu, ale člověk plný kreativity a nápadů, jehož role je klíčová pro další růst Pirátů v Pardubickém kraji. Budeš pracovat s dobrovolníky, organizovat akce po celém kraji, pomáhat s volební kampaní a vytipovávat další příležitosti jak Piráty posunout vpřed.
+Hledáme organizačně schopného člověka, který fandí pirátské politice. Odměnou ti bude super tým plný lidí, kterým nejde o vlastní prospěch a upřímně se snaží tuhle republiku udělat lepším místem pro život.**
 
 **Náplň práce:**  
 • práce s dobrovolníky a pořádání akcí,
