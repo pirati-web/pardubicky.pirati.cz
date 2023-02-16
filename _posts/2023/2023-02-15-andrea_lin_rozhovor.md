@@ -5,7 +5,7 @@ title: Andrea Linhartová - Oceňují krajské nemocnice dostatečně své zamě
 date: 2023-02-15T07:00:00+01:00
 tags: 
     - Krajske-zastupitelstvo
-    
+    - Andrea-Linhartova 
 author: Piráti Pardubického kraje
 image: articles/2023/andrea_cover.png
 important: true
@@ -47,6 +47,9 @@ Zdravotnictví. Z hlediska své práce vnímám spíše zajištění péče z po
 Mrzí mě, když se zdráháme využít legislativu, o kterou se může kraj opřít. Přitom by to mohlo alespoň pomoci otevřít diskusi. Mám nyní na mysli složitou situaci v LSPP (Lékařská služba první pomoci) v Pardubicích.
 
 
+  {% asset 'articles/2023/andrea_1.jpeg' magick:resize='751x422^' magick:gravity='north' alt='Andrea Linhartova'%}
+
+
 **Které oblasti se Pardubický kraj věnuje podle vás málo?**
 
 Netroufnu si říci, zda se dané problematice kraj věnuje málo, ale určitě by se mohl více zaměřit na opravu silnic. V kraji jsou vozovky, které byly během pár let několikrát opravovány, a buď se něco podcenilo nebo neodvedlo správně. Oproti tomu jsou silnice, které slouží při těchto opravách jako objízdná trasa, protože nejsou uzpůsobené na takovou zátěž a tím trpí. Tyto komunikace se následně opraví “záplatou”, když jsou pak znovu více zatíženy a opět využity pro objízdnou trasou, tak se úplně rozpadají.
@@ -72,3 +75,5 @@ Některá témata, která se otevřela vnímám trochu tabuizované. Myslím, ž
 
 Krajská samospráva je mnohdy pro lidi neuchopitelná. Je to možná i proto, že lidem není jasné kam a jak zasahuje, co všechno ovlivňuje. Například kraj podporuje různé příspěvkové organizace. Jako krajská zastupitelka často řeším problém, o kterém se dozvím mnohdy od kolegů a to třeba i z jiných krajů.
 
+
+  {% asset 'articles/2023/andrea_2.jpeg' magick:resize='751x422^' magick:gravity='north' alt='Andrea Linhartova'%}
