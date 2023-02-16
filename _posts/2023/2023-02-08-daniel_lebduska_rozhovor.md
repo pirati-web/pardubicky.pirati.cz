@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: Daniel Lebduška - Víte za co utrácí Pardubický kraj vaše peníze?
+title: Daniel Lebduška - Víte za co utrácí Pardubický kraj vaše peníze
 date: 2023-02-01T07:00:00+01:00
 tags: 
     - Krajske-zastupitelstvo
