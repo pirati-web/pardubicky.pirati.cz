@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: Andrea Linhartová - Oceňují krajské nemocnice dostatečně své zaměstnance?
+title: Andrea Linhartová - Oceňují krajské nemocnice dostatečně své zaměstnance
 date: 2023-02-15T07:00:00+01:00
 tags: 
     - Krajske-zastupitelstvo
