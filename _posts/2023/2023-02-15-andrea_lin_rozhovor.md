@@ -5,14 +5,14 @@ title: Andrea Linhartová - Oceňují krajské nemocnice dostatečně své zamě
 date: 2023-02-15T07:00:00+01:00
 tags: 
     - Krajske-zastupitelstvo
-    - andrea-linhartova
+    
 author: Piráti Pardubického kraje
 image: articles/2023/andrea_cover.png
 important: true
 ---
 
 
-**“Určitě bych ocenila větší podporu personální politiky ve zdravotnictví. Líbila by se mi i lepší nabídka zaměstnaneckých benefitů. Kraj by mohl ve spolupráci s městy podpořit vznik dětských skupin, které by byly přímo určeny pro děti zaměstnanců nemocnic NPK,” říká Andrea Linhartová, členka výboru pro zdravotnictví krajského zastupitelstva.**
+**Určitě bych ocenila větší podporu personální politiky ve zdravotnictví. Líbila by se mi i lepší nabídka zaměstnaneckých benefitů. Kraj by mohl ve spolupráci s městy podpořit vznik dětských skupin, které by byly přímo určeny pro děti zaměstnanců nemocnic NPK,” říká Andrea Linhartová, členka výboru pro zdravotnictví krajského zastupitelstva.**
 
   
 
