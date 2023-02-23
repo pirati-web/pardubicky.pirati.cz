@@ -47,7 +47,7 @@ Zdravotnictví. Z hlediska své práce vnímám spíše zajištění péče z po
 Mrzí mě, když se zdráháme využít legislativu, o kterou se může kraj opřít. Přitom by to mohlo alespoň pomoci otevřít diskusi. Mám nyní na mysli složitou situaci v LSPP (Lékařská služba první pomoci) v Pardubicích.
 
 
-  {% asset 'articles/2023/andrea_1.jpeg' magick:resize='751x422^' magick:gravity='north' alt='Andrea Linhartova'%}
+  {% asset 'articles/2023/andrea1.jpeg' magick:resize='751x422^' magick:gravity='north' alt='Andrea Linhartova'%}
 
 
 **Které oblasti se Pardubický kraj věnuje podle vás málo?**
@@ -76,4 +76,4 @@ Některá témata, která se otevřela vnímám trochu tabuizované. Myslím, ž
 Krajská samospráva je mnohdy pro lidi neuchopitelná. Je to možná i proto, že lidem není jasné kam a jak zasahuje, co všechno ovlivňuje. Například kraj podporuje různé příspěvkové organizace. Jako krajská zastupitelka často řeším problém, o kterém se dozvím mnohdy od kolegů a to třeba i z jiných krajů.
 
 
-  {% asset 'articles/2023/andrea_2.jpeg' magick:resize='751x422^' magick:gravity='north' alt='Andrea Linhartova'%}
+  {% asset 'articles/2023/andrea2.jpeg' magick:resize='751x422^' magick:gravity='north' alt='Andrea Linhartova'%}
