@@ -2,10 +2,10 @@
 layout: post
 category: CLANKY
 title: Jiří Ducháček - Doprava v pardubickém kraji musí být srozumitelná!
-date: 2023-02-15T07:00:00+01:00
+date: 2023-02-22T07:00:00+01:00
 tags: 
     - Krajske-zastupitelstvo
-    - Jiri_Duchacek 
+    - Jiri-Duchacek 
 author: Piráti Pardubického kraje
 image: articles/2023/duchy_cover.png
 important: true
