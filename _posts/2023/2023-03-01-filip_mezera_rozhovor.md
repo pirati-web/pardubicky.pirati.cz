@@ -40,4 +40,4 @@ Uvedu na konkrétním případě. Mohu jednoduše informovat místní samospráv
 
 Příliš ne. Já jsem dlouhodobě před zvolením zastupitelem chodil na jednání zastupitelstva. Přehled o tom, jak kraj funguje, jsem měl dobrý. Největší nedostatky dle mého přetrvávají u výborů, které často fungují “automaticky”. Tedy jejich vlastní přidaná hodnota je velmi nízká. Přitom to je právě to místo, kde by úředníci měli dostávat zpětnou vazbu od odborné veřejnosti. Bohužel pro některé kolegy je výbor pouze dalším řádkem v dlouhém seznamu různých funkcí. Tomu pak na výboru odpovídá jejich aktivita. V horším případě i docházka.
 
-  {% asset 'articles/2023/filip_1.jpeg' magick:resize='751x422^' magick:gravity='north' alt='Filip Mezera%}
+  {% asset 'articles/2023/filip_1.jpeg' magick:resize='751x422^' magick:gravity='north' alt='Filip Mezera'%}
