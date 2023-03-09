@@ -29,6 +29,7 @@ Mou gescí a hlavním tématem je digitalizace. Bohužel, na jednání zastupite
 
 Kraj by se měl více angažovat v administrativní a technické podpoře zastupitelstev malých obcí. Je bohužel úplně běžným jevem, když jsou zvolené zastupitelstvo a starosta v oblasti řízení samosprávy naprosto nekompetentní. Nemají prostředky na zaplacení tajemníka úřadu, nezvládají administrativu, nejsou mnohdy schopni zajistit provoz kvalitních webových stránek v souladu s legislativou a jsou odkázáni na externí účetní. Mohou samozřejmě dostat metodickou podporu od Ministerstva vnitra, ale to je málo. Navíc, kraj je blíž a lépe ví o problémech obcí na jeho území.
 
+{% asset 'articles/2023/andrej_1.jpeg' magick:resize='751x500^' magick:gravity='north' alt='Andrej Ramašeuski'%}
 
 **Jste v polovině výkonu svého mandátu. (práce) Co chcete ještě stihnout?**
 
